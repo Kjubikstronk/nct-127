@@ -1,8 +1,8 @@
 {
   "_comment": "Hand-kept content. Everything else on the site is fetched by build.js from six keyless sources and written to data/site.json. Facts here were verified 2026-08-08 against Wikipedia, Billboard, Korea Herald and Korea Times. This is a live subject — re-check before trusting anything dated.",
 
-  "_siteUrlNote": "Set once the site has an address. Until then the sitemap, canonical tag and og:url are skipped rather than pointing somewhere wrong.",
-  "siteUrl": "",
+  "_siteUrlNote": "Drives the sitemap, canonical tag and og:url. Lowercased on purpose — Pages serves from a lowercased host regardless of how the username is cased, so a capitalised value here would point at a subtly different address than the real one. Change this if a custom domain is ever added, then rebuild.",
+  "siteUrl": "https://kjubikstronk.github.io/nct-127",
 
   "_membersNote": "The roster is curated on purpose. build.js parses the Wikipedia infobox every run and reports any divergence in the build log and in site.json's lineupDrift, but it never rewrites this list — an infobox edit, vandalism or a parse regression would otherwise silently rewrite the page. Everything a card shows (Korean name, position, birthplace, status) is curated because none of it is reliably machine-readable. Status is Active or Service; military service is not machine-readable at all.",
   "members": [
