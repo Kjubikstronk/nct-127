@@ -1,0 +1,1350 @@
+{
+  "generated": "2026-08-08T14:03:20.769Z",
+  "artist": {
+    "name": "NCT 127",
+    "hangul": "엔시티 127",
+    "full": "NCT 127",
+    "bio": "NCT 127 is the first fixed and second overall sub-unit of the South Korean boy band NCT, formed and managed by SM Entertainment. They originally debuted on July 7, 2016, with their debut extended play NCT#127, with an original lineup of seven members: Taeil, Taeyong, Yuta, Jaehyun, Winwin, Mark, and Haechan. Doyoung and Johnny joined the unit in December 2016, ahead of their second EP Limitless, while Jungwoo, the final member, was introduced in September 2018 ahead of their first studio album Regular-Irregular. They are known for their experimental hip hop-based music, which they refer to as \"neo music\", as well as their vocal and rap abilities, choreographies, and performances.",
+    "bioUrl": "https://en.wikipedia.org/wiki/NCT_127"
+  },
+  "stats": {
+    "yearsSinceDebut": 10,
+    "memberCount": 7,
+    "releaseCount": 37,
+    "albumCount": 10
+  },
+  "latest": {
+    "id": "itunes-1766628771",
+    "title": "WALK - The 6th Album",
+    "date": "2024-07-15",
+    "trackCount": 12,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a2/dd/e2a2dd12-a6c8-75d2-f505-2ebaaa98a242/00888735948176_Cover.jpg/1400x1400bb.jpg",
+    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a2/dd/e2a2dd12-a6c8-75d2-f505-2ebaaa98a242/00888735948176_Cover.jpg/600x600bb.jpg",
+    "url": "https://music.apple.com/us/album/walk-the-6th-album/1766628771?uo=4",
+    "copyright": "℗ 2024 SM Entertainment",
+    "genre": "K-Pop",
+    "via": "apple",
+    "recordType": "album",
+    "deezerUrl": "https://www.deezer.com/album/639207261",
+    "kind": "Album",
+    "year": "2024"
+  },
+  "releases": [
+    {
+      "id": "itunes-1806522682",
+      "title": "K-POP ScreaM 2",
+      "date": "2025-04-11",
+      "trackCount": 9,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/e6/ba/66e6baba-4a70-2044-88e7-e7dcc573e9a9/888735951749_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/e6/ba/66e6baba-4a70-2044-88e7-e7dcc573e9a9/888735951749_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/k-pop-scream-2/1806522682?uo=4",
+      "copyright": "℗ 2025 SM Entertainment, ScreaM Records",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "Remix",
+      "year": "2025"
+    },
+    {
+      "id": "itunes-1783820873",
+      "title": "K-POP ScreaM 1 - Single",
+      "date": "2024-12-11",
+      "trackCount": 3,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/a2/eb/8ba2eb32-fe74-9482-e036-6d9bef2ffc81/888735950490_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/a2/eb/8ba2eb32-fe74-9482-e036-6d9bef2ffc81/888735950490_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/k-pop-scream-1-single/1783820873?uo=4",
+      "copyright": "℗ 2024 SM Entertainment, ScreaM Records",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "Remix",
+      "year": "2024"
+    },
+    {
+      "id": "itunes-1766628771",
+      "title": "WALK - The 6th Album",
+      "date": "2024-07-15",
+      "trackCount": 12,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a2/dd/e2a2dd12-a6c8-75d2-f505-2ebaaa98a242/00888735948176_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a2/dd/e2a2dd12-a6c8-75d2-f505-2ebaaa98a242/00888735948176_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/walk-the-6th-album/1766628771?uo=4",
+      "copyright": "℗ 2024 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/639207261",
+      "kind": "Album",
+      "year": "2024"
+    },
+    {
+      "id": "itunes-1745305451",
+      "title": "Colors - Single",
+      "date": "2024-05-23",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/3c/e6/3d3ce672-b5b4-7626-a880-c597f1b15372/ANTCD-A0000013533.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/3c/e6/3d3ce672-b5b4-7626-a880-c597f1b15372/ANTCD-A0000013533.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/colors-single/1745305451?uo=4",
+      "copyright": "℗ 2024 AVEX MUSIC CREATIVE INC.",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/584050492",
+      "kind": "Single",
+      "year": "2024"
+    },
+    {
+      "id": "itunes-1767026023",
+      "title": "iScreaM, Vol. 29 : Fact Check Remixes - Single",
+      "date": "2024-01-25",
+      "trackCount": 3,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/04/44/c2044489-be8a-ed0d-50db-04827e0efc3d/00888735946844_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/04/44/c2044489-be8a-ed0d-50db-04827e0efc3d/00888735946844_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/iscream-vol-29-fact-check-remixes-single/1767026023?uo=4",
+      "copyright": "℗ 2024 SM Entertainment, ScreaM Records",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/639471151",
+      "kind": "Remix",
+      "year": "2024"
+    },
+    {
+      "id": "itunes-1781140439",
+      "title": "Be There For Me - Winter Special Single - Single",
+      "date": "2023-12-22",
+      "trackCount": 3,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/3e/0d/423e0d37-dabc-f769-af58-5dfb4f4427bc/00888735946264_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/3e/0d/423e0d37-dabc-f769-af58-5dfb4f4427bc/00888735946264_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/be-there-for-me-winter-special-single-single/1781140439?uo=4",
+      "copyright": "℗ 2023 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/639269681",
+      "kind": "Single",
+      "year": "2023"
+    },
+    {
+      "id": "itunes-1766621809",
+      "title": "Fact Check - The 5th Album",
+      "date": "2023-10-06",
+      "trackCount": 10,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/96/2a/f1962a29-9325-450d-f11a-49014622dcdf/00888735945144_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/96/2a/f1962a29-9325-450d-f11a-49014622dcdf/00888735945144_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/fact-check-the-5th-album/1766621809?uo=4",
+      "copyright": "℗ 2023 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/639716581",
+      "kind": "Album",
+      "year": "2023"
+    },
+    {
+      "id": "itunes-1680448319",
+      "title": "Sunny Road - Single",
+      "date": "2023-04-24",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/d1/2c/a0d12c44-a7f2-cb80-dc14-a1a45af30999/ANTCD-A0000009917.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/d1/2c/a0d12c44-a7f2-cb80-dc14-a1a45af30999/ANTCD-A0000009917.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/sunny-road-single/1680448319?uo=4",
+      "copyright": "℗ 2023 AVEX ENTERTAINMENT INC.",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "Single",
+      "year": "2023"
+    },
+    {
+      "id": "itunes-1771055244",
+      "title": "iScreaM, Vol.21 : 2 Baddies Remixes - Single",
+      "date": "2023-02-16",
+      "trackCount": 3,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/a2/56/5da2561e-687f-c82c-bdec-1f19e6a8a26f/00888735949708_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/a2/56/5da2561e-687f-c82c-bdec-1f19e6a8a26f/00888735949708_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/iscream-vol-21-2-baddies-remixes-single/1771055244?uo=4",
+      "copyright": "℗ 2023 SM Entertainment, Scream Records",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/640746591",
+      "kind": "Remix",
+      "year": "2023"
+    },
+    {
+      "id": "itunes-1767026373",
+      "title": "Ay-Yo - The 4th Album Repackage",
+      "date": "2023-01-30",
+      "trackCount": 16,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/bc/8b/72bc8bab-ce39-6d7c-8c4e-c23d08841b5e/00888735942822_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/bc/8b/72bc8bab-ce39-6d7c-8c4e-c23d08841b5e/00888735942822_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/ay-yo-the-4th-album-repackage/1767026373?uo=4",
+      "copyright": "℗ 2023 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/639716571",
+      "kind": "Repackage",
+      "year": "2023"
+    },
+    {
+      "id": "itunes-1766845416",
+      "title": "2 Baddies - The 4th Album",
+      "date": "2022-09-16",
+      "trackCount": 13,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/57/11/1b5711f2-6fef-ac61-062e-3c72133548ac/00888735941931_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/57/11/1b5711f2-6fef-ac61-062e-3c72133548ac/00888735941931_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/2-baddies-the-4th-album/1766845416?uo=4",
+      "copyright": "℗ 2022 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/638938921",
+      "kind": "Album",
+      "year": "2022"
+    },
+    {
+      "id": "itunes-1767042531",
+      "title": "iScreaM Vol.13 : Sticker Remixes - Single",
+      "date": "2021-12-29",
+      "trackCount": 2,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/f1/6f/1ff16ffa-1eae-37bb-463e-26c3ed308316/00888735939921_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/f1/6f/1ff16ffa-1eae-37bb-463e-26c3ed308316/00888735939921_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/iscream-vol-13-sticker-remixes-single/1767042531?uo=4",
+      "copyright": "℗ 2021 SM Entertainment, Scream Records",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/640645191",
+      "kind": "Remix",
+      "year": "2021"
+    },
+    {
+      "id": "deezer-279911182",
+      "title": "아날로그 트립 Analog Trip NCT 127 OST",
+      "date": "2021-12-17",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/2169c852bc5f4f11ae60db2d7729ce1b/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/2169c852bc5f4f11ae60db2d7729ce1b/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/279911182",
+      "recordType": "single",
+      "via": "deezer",
+      "kind": "OST",
+      "year": "2021"
+    },
+    {
+      "id": "itunes-1599998113",
+      "title": "Amino Acid (Analog Trip NCT 127 Original Soundtrack) - Single",
+      "date": "2021-12-17",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/8d/04/3b8d0418-5f57-0f2f-67b7-622469adeb47/AT2_Album_art_4000_4000_fin..jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/8d/04/3b8d0418-5f57-0f2f-67b7-622469adeb47/AT2_Album_art_4000_4000_fin..jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/amino-acid-analog-trip-nct-127-original-soundtrack-single/1599998113?uo=4",
+      "copyright": "℗ 2021 SM Entertainment",
+      "genre": "Soundtrack",
+      "via": "apple",
+      "kind": "OST",
+      "year": "2021"
+    },
+    {
+      "id": "itunes-1766659290",
+      "title": "Favorite - The 3rd Album Repackage",
+      "date": "2021-10-25",
+      "trackCount": 15,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/51/5e/17515e94-f42e-46de-b5de-e1f85b881dee/00888735939358_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/51/5e/17515e94-f42e-46de-b5de-e1f85b881dee/00888735939358_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/favorite-the-3rd-album-repackage/1766659290?uo=4",
+      "copyright": "℗ 2021 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/639778721",
+      "kind": "Repackage",
+      "year": "2021"
+    },
+    {
+      "id": "itunes-1766560175",
+      "title": "Sticker - The 3rd Album",
+      "date": "2021-09-17",
+      "trackCount": 12,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/6f/19/8b6f19c6-9796-5757-f0e5-8152e8b34dfb/00888735938986_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/6f/19/8b6f19c6-9796-5757-f0e5-8152e8b34dfb/00888735938986_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/sticker-the-3rd-album/1766560175?uo=4",
+      "copyright": "℗ 2021 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/639207251",
+      "kind": "Album",
+      "year": "2021"
+    },
+    {
+      "id": "itunes-1570559559",
+      "title": "Save - Single",
+      "date": "2021-06-04",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/17/9f/fb179fd6-5ba0-45a4-87c4-7c312c314880/888272081398_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/17/9f/fb179fd6-5ba0-45a4-87c4-7c312c314880/888272081398_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/save-single/1570559559?uo=4",
+      "copyright": "℗ 2021 Amoeba Culture",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/316907967",
+      "kind": "Single",
+      "year": "2021"
+    },
+    {
+      "id": "itunes-1549630791",
+      "title": "LOVEHOLIC - EP",
+      "date": "2021-02-17",
+      "trackCount": 5,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/07/a8/eb07a861-55d0-d179-f07b-b9721e291a97/ANTCD-A0000003559.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/07/a8/eb07a861-55d0-d179-f07b-b9721e291a97/ANTCD-A0000003559.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/loveholic-ep/1549630791?uo=4",
+      "copyright": "℗ 2021 AVEX ENTERTAINMENT INC.",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "ep",
+      "deezerUrl": "https://www.deezer.com/album/464399325",
+      "kind": "EP",
+      "year": "2021"
+    },
+    {
+      "id": "itunes-1766840562",
+      "title": "NCT #127 Neo Zone: The Final Round - The 2nd Album Repackage",
+      "date": "2020-05-19",
+      "trackCount": 17,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/4f/89/244f89d6-5150-7f4d-597d-7e5b6cee7a0d/00888735934308_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/4f/89/244f89d6-5150-7f4d-597d-7e5b6cee7a0d/00888735934308_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/nct-127-neo-zone-the-final-round-the-2nd-album-repackage/1766840562?uo=4",
+      "copyright": "℗ 2020 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/639269641",
+      "kind": "Repackage",
+      "year": "2020"
+    },
+    {
+      "id": "itunes-1771055445",
+      "title": "iScreaM, Vol.1 : Kick It (Remixes) - Single",
+      "date": "2020-05-08",
+      "trackCount": 3,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/a3/5b/65a35b42-2ab1-2e47-3374-506d16d0a829/00888735949685_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/a3/5b/65a35b42-2ab1-2e47-3374-506d16d0a829/00888735949685_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/iscream-vol-1-kick-it-remixes-single/1771055445?uo=4",
+      "copyright": "℗ 2020 SM Entertainment, Scream Records",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/640645161",
+      "kind": "Remix",
+      "year": "2020"
+    },
+    {
+      "id": "itunes-1767044390",
+      "title": "NCT #127 Neo Zone - The 2nd Album",
+      "date": "2020-03-05",
+      "trackCount": 14,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/0c/b3/cc0cb3a0-e661-7e4d-50e3-60975cc7b3f7/00888735933363_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/0c/b3/cc0cb3a0-e661-7e4d-50e3-60975cc7b3f7/00888735933363_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/nct-127-neo-zone-the-2nd-album/1767044390?uo=4",
+      "copyright": "℗ 2020 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/639778711",
+      "kind": "Album",
+      "year": "2020"
+    },
+    {
+      "id": "itunes-1484452385",
+      "title": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "date": "2019-10-24",
+      "trackCount": 25,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/40/b4/a5/40b4a506-e3e2-9ce8-1c30-2ec94b0ea73e/NCT_127_Digital_Cover_4000x4000.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/40/b4/a5/40b4a506-e3e2-9ce8-1c30-2ec94b0ea73e/NCT_127_Digital_Cover_4000x4000.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/neo-city-seoul-the-origin-the-1st-live-album/1484452385?uo=4",
+      "copyright": "℗ 2019 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/114802122",
+      "kind": "Album",
+      "year": "2019"
+    },
+    {
+      "id": "itunes-1766944241",
+      "title": "Highway to Heaven (English Version) - Single",
+      "date": "2019-07-17",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/a0/b9/8da0b99f-e367-df8b-673b-4e11cf69d133/00888735931390_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/a0/b9/8da0b99f-e367-df8b-673b-4e11cf69d133/00888735931390_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/highway-to-heaven-english-version-single/1766944241?uo=4",
+      "copyright": "℗ 2019 SM Entertainment",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/639529091",
+      "kind": "Single",
+      "year": "2019"
+    },
+    {
+      "id": "itunes-1470500934",
+      "title": "So Am I (feat. NCT 127) - Single",
+      "date": "2019-07-03",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/08/29/00/08290076-a166-8cea-7152-9d37addade5c/075679842824.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/08/29/00/08290076-a166-8cea-7152-9d37addade5c/075679842824.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/so-am-i-feat-nct-127-single/1470500934?uo=4",
+      "copyright": "℗ 2019",
+      "genre": "Pop",
+      "via": "apple",
+      "kind": "Single",
+      "year": "2019"
+    },
+    {
+      "id": "itunes-1767964918",
+      "title": "NCT #127 WE ARE SUPERHUMAN - The 4th Mini Album - EP",
+      "date": "2019-05-23",
+      "trackCount": 7,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/af/75/e5af7528-1b74-2a6d-e831-bce3e79b308f/00888735930041_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/af/75/e5af7528-1b74-2a6d-e831-bce3e79b308f/00888735930041_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/nct-127-we-are-superhuman-the-4th-mini-album-ep/1767964918?uo=4",
+      "copyright": "℗ 2019 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "ep",
+      "deezerUrl": "https://www.deezer.com/album/640828421",
+      "kind": "EP",
+      "year": "2019"
+    },
+    {
+      "id": "itunes-1456606274",
+      "title": "Awaken",
+      "date": "2019-04-17",
+      "trackCount": 12,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fd/fc/25/fdfc2528-5daf-09a3-8a51-bbe20c46cfd9/AVCK-79578.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fd/fc/25/fdfc2528-5daf-09a3-8a51-bbe20c46cfd9/AVCK-79578.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/awaken/1456606274?uo=4",
+      "copyright": "℗ 2019 AVEX ENTERTAINMENT INC.",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/461401615",
+      "kind": "Album",
+      "year": "2019"
+    },
+    {
+      "id": "itunes-1453837953",
+      "title": "Let's Shut Up and Dance - Single",
+      "date": "2019-02-22",
+      "trackCount": 2,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/49/d4/8b/49d48b69-ff6c-ed86-92f0-15bb9747d837/cover-_LAY_NCT_127_Jason_Derulo_DS.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/49/d4/8b/49d48b69-ff6c-ed86-92f0-15bb9747d837/cover-_LAY_NCT_127_Jason_Derulo_DS.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/lets-shut-up-and-dance-single/1453837953?uo=4",
+      "copyright": "℗ 2019 769 Entertainment,under license to Kakao M Corp.",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "Single",
+      "year": "2019"
+    },
+    {
+      "id": "itunes-1451737750",
+      "title": "Let's Shut Up & Dance - Single",
+      "date": "2019-02-22",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/bb/31/06bb31cf-289e-6938-f116-a4b6e58c4461/190296908903.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/bb/31/06bb31cf-289e-6938-f116-a4b6e58c4461/190296908903.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/lets-shut-up-dance-single/1451737750?uo=4",
+      "copyright": "℗ 2019 7SIX9 Entertainment",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/87869302",
+      "kind": "Single",
+      "year": "2019"
+    },
+    {
+      "id": "itunes-1443571952",
+      "title": "NCT #127 Regulate - The 1st Album Repackage",
+      "date": "2018-11-23",
+      "trackCount": 14,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/df/c8/fddfc8b2-01ce-a3f6-3f00-bbc17037309d/NCT_127_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/df/c8/fddfc8b2-01ce-a3f6-3f00-bbc17037309d/NCT_127_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/nct-127-regulate-the-1st-album-repackage/1443571952?uo=4",
+      "copyright": "℗ 2018 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/106677892",
+      "kind": "Repackage",
+      "year": "2018"
+    },
+    {
+      "id": "itunes-1439398831",
+      "title": "Up Next Session: NCT 127",
+      "date": "2018-10-22",
+      "trackCount": 4,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/bd/19/d1bd196d-82bc-1ddf-17ca-31fb4f2b7278/NCT_127_Cover_Art.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/bd/19/d1bd196d-82bc-1ddf-17ca-31fb4f2b7278/NCT_127_Cover_Art.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/up-next-session-nct-127/1439398831?uo=4",
+      "copyright": "℗ 2018 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "Album",
+      "year": "2018"
+    },
+    {
+      "id": "itunes-1438380104",
+      "title": "NCT #127 Regular-Irregular - The 1st Album",
+      "date": "2018-10-12",
+      "trackCount": 12,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/33/10/f033106d-6453-96d9-6984-8e3a6dc6c9be/NCT_127_coverart.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/33/10/f033106d-6453-96d9-6984-8e3a6dc6c9be/NCT_127_coverart.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/nct-127-regular-irregular-the-1st-album/1438380104?uo=4",
+      "copyright": "℗ 2018 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/106740532",
+      "kind": "Album",
+      "year": "2018"
+    },
+    {
+      "id": "itunes-1435026864",
+      "title": "Touch -JP Ver.- - Single",
+      "date": "2018-09-16",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7c/6a/5f/7c6a5f53-b122-3cda-5c3b-54220ebb76c5/ANTCD-29073.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7c/6a/5f/7c6a5f53-b122-3cda-5c3b-54220ebb76c5/ANTCD-29073.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/touch-jp-ver-single/1435026864?uo=4",
+      "copyright": "℗ 2018 AVEX ENTERTAINMENT INC.",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "Single",
+      "year": "2018"
+    },
+    {
+      "id": "itunes-1381846444",
+      "title": "Chain - EP",
+      "date": "2018-05-23",
+      "trackCount": 5,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/3d/bd/df3dbdeb-d69b-04be-7d2d-c059f8b53c5a/AVCK-79465.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/3d/bd/df3dbdeb-d69b-04be-7d2d-c059f8b53c5a/AVCK-79465.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/chain-ep/1381846444?uo=4",
+      "copyright": "℗ 2018 AVEX ENTERTAINMENT INC.",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "EP",
+      "year": "2018"
+    },
+    {
+      "id": "itunes-1358690306",
+      "title": "NCT 2018 EMPATHY",
+      "date": "2018-03-14",
+      "trackCount": 15,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/3c/67/4b3c67ba-2721-19ce-424d-6742f420e800/NCT2018_EMPATHY_COVER_4000x4000px_1.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/3c/67/4b3c67ba-2721-19ce-424d-6742f420e800/NCT2018_EMPATHY_COVER_4000x4000px_1.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/nct-2018-empathy/1358690306?uo=4",
+      "copyright": "℗ 2018 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "Album",
+      "year": "2018"
+    },
+    {
+      "id": "itunes-1247335504",
+      "title": "NCT #127 CHERRY BOMB – The 3rd Mini Album",
+      "date": "2017-06-14",
+      "trackCount": 8,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/1c/89/951c8962-2d96-d06a-c39d-63a593613c8a/NCT-DIGITAL_COVER.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/1c/89/951c8962-2d96-d06a-c39d-63a593613c8a/NCT-DIGITAL_COVER.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/nct-127-cherry-bomb-the-3rd-mini-album/1247335504?uo=4",
+      "copyright": "℗ 2017 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/106728282",
+      "kind": "EP",
+      "year": "2017"
+    },
+    {
+      "id": "itunes-1191383378",
+      "title": "NCT#127 LIMITLESS - The 2nd Mini Album - EP",
+      "date": "2017-01-06",
+      "trackCount": 7,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/d6/a0/72d6a047-96f9-ab91-1fa9-f288b6261278/NCT_127_Limitless_Digital_Cover_Global.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/d6/a0/72d6a047-96f9-ab91-1fa9-f288b6261278/NCT_127_Limitless_Digital_Cover_Global.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/nct-127-limitless-the-2nd-mini-album-ep/1191383378?uo=4",
+      "copyright": "℗ 2017 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "ep",
+      "deezerUrl": "https://www.deezer.com/album/106710782",
+      "kind": "EP",
+      "year": "2017"
+    },
+    {
+      "id": "itunes-1132508841",
+      "title": "NCT #127 – The 1st Mini Album",
+      "date": "2016-07-10",
+      "trackCount": 8,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/2b/f7/b0/2bf7b080-2731-5e19-8437-4c4ede4f6442/NCT127_4000x4000.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/2b/f7/b0/2bf7b080-2731-5e19-8437-4c4ede4f6442/NCT127_4000x4000.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/nct-127-the-1st-mini-album/1132508841?uo=4",
+      "copyright": "℗ 2016 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "ep",
+      "deezerUrl": "https://www.deezer.com/album/106875912",
+      "kind": "EP",
+      "year": "2016"
+    }
+  ],
+  "songs": [
+    {
+      "title": "Cherry Bomb",
+      "album": "NCT #127 CHERRY BOMB – The 3rd Mini Album",
+      "date": "2017-06-14",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/1c/89/951c8962-2d96-d06a-c39d-63a593613c8a/NCT-DIGITAL_COVER.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/88/61/1c/88611cc6-7951-4ea6-31bb-2ffc3ec2f035/mzaf_4558035291849461290.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/cherry-bomb/1247335504?i=1247335800&uo=4",
+      "ms": 236667
+    },
+    {
+      "title": "Fire Truck",
+      "album": "NCT #127 – The 1st Mini Album",
+      "date": "2016-07-10",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/2b/f7/b0/2bf7b080-2731-5e19-8437-4c4ede4f6442/NCT127_4000x4000.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/40/2c/93402cf6-3f0e-30e8-628f-888876c54594/mzaf_15415703267427613770.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/fire-truck/1132508841?i=1132509047&uo=4",
+      "ms": 178565
+    },
+    {
+      "title": "Limitless",
+      "album": "NCT#127 LIMITLESS - The 2nd Mini Album - EP",
+      "date": "2017-01-06",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/d6/a0/72d6a047-96f9-ab91-1fa9-f288b6261278/NCT_127_Limitless_Digital_Cover_Global.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/78/b6/3a/78b63a37-bdd3-20b8-f511-cc378338e69a/mzaf_11978362891407361606.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/limitless/1191383378?i=1191383494&uo=4",
+      "ms": 247467
+    },
+    {
+      "title": "Regular (English Version)",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "date": "2018-10-09",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/33/10/f033106d-6453-96d9-6984-8e3a6dc6c9be/NCT_127_coverart.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ed/f4/7c/edf47c3b-9291-a811-8963-5de3279348e4/mzaf_4054613479570204316.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/regular-english-version/1438380104?i=1438380125&uo=4",
+      "ms": 219107
+    },
+    {
+      "title": "Let's Shut Up & Dance",
+      "album": "Let's Shut Up & Dance - Single",
+      "date": "2019-02-22",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/bb/31/06bb31cf-289e-6938-f116-a4b6e58c4461/190296908903.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fb/75/e3/fb75e3c0-fd9f-31dc-24e3-a67e614c1ea1/mzaf_14992532953090345355.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/lets-shut-up-dance/1451737750?i=1451737864&uo=4",
+      "ms": 208261
+    },
+    {
+      "title": "Simon Says",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "date": "2018-11-23",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/df/c8/fddfc8b2-01ce-a3f6-3f00-bbc17037309d/NCT_127_Cover.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bf/80/3d/bf803d00-b8a5-7c6f-7ad2-8dd01073af9e/mzaf_11160100660203186153.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/simon-says/1443571952?i=1443572113&uo=4",
+      "ms": 199773
+    },
+    {
+      "title": "So Am I (feat. NCT 127)",
+      "album": "So Am I (feat. NCT 127) - Single",
+      "date": "2019-07-03",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/08/29/00/08290076-a166-8cea-7152-9d37addade5c/075679842824.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/2f/e3/bf2fe3aa-7983-1a20-4ca3-0e84cde6d75b/mzaf_9398060732439806771.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/so-am-i-feat-nct-127/1470500934?i=1470501093&uo=4",
+      "ms": 185034
+    },
+    {
+      "title": "TOUCH",
+      "album": "NCT 2018 EMPATHY",
+      "date": "2018-03-14",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/3c/67/4b3c67ba-2721-19ce-424d-6742f420e800/NCT2018_EMPATHY_COVER_4000x4000px_1.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/29/ec/d9/29ecd98a-1a61-9791-1aa9-b81130bc0466/mzaf_16269755285604284216.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/touch/1358690306?i=1358690830&uo=4",
+      "ms": 189078
+    },
+    {
+      "title": "Baby Don’t Like It",
+      "album": "NCT#127 LIMITLESS - The 2nd Mini Album - EP",
+      "date": "2017-01-06",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/d6/a0/72d6a047-96f9-ab91-1fa9-f288b6261278/NCT_127_Limitless_Digital_Cover_Global.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/39/01/3c/39013c89-2830-09c8-fd9b-0dada2cb176c/mzaf_14673587227627971545.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/baby-dont-like-it/1191383378?i=1191383498&uo=4",
+      "ms": 158920
+    },
+    {
+      "title": "Whiplash",
+      "album": "NCT #127 CHERRY BOMB – The 3rd Mini Album",
+      "date": "2017-06-14",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/1c/89/951c8962-2d96-d06a-c39d-63a593613c8a/NCT-DIGITAL_COVER.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8f/90/31/8f903103-aaf7-b27e-d5fe-bb10deb945d6/mzaf_16339316089475544995.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/whiplash/1247335504?i=1247335804&uo=4",
+      "ms": 201659
+    },
+    {
+      "title": "Chain",
+      "album": "Chain - EP",
+      "date": "2018-05-16",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/3d/bd/df3dbdeb-d69b-04be-7d2d-c059f8b53c5a/AVCK-79465.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/e9/c1/7fe9c1fd-6b1f-f866-2443-74dee17e407d/mzaf_3213411032496677270.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/chain/1381846444?i=1381847454&uo=4",
+      "ms": 222147
+    },
+    {
+      "title": "Regular (Korean Version)",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "date": "2018-10-12",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/33/10/f033106d-6453-96d9-6984-8e3a6dc6c9be/NCT_127_coverart.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/eb/37/f9eb3726-fcbe-48f0-c6df-c96f4b268bff/mzaf_242439466030514445.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/regular-korean-version/1438380104?i=1438380117&uo=4",
+      "ms": 217707
+    }
+  ],
+  "videos": [
+    {
+      "id": "GnXnZqkYJIs",
+      "title": "NCT 127 엔시티 127 'BLINGY' : BLINGY JETS",
+      "date": "2026-08-05",
+      "url": "https://www.youtube.com/watch?v=GnXnZqkYJIs",
+      "thumb": "https://i4.ytimg.com/vi/GnXnZqkYJIs/hqdefault.jpg"
+    },
+    {
+      "id": "dV8uBEzL7lk",
+      "title": "Hello? #NCT127 #BLINGY #NCT127_BLINGY",
+      "date": "2026-08-05",
+      "url": "https://www.youtube.com/watch?v=dV8uBEzL7lk",
+      "thumb": "https://i1.ytimg.com/vi/dV8uBEzL7lk/hqdefault.jpg"
+    },
+    {
+      "id": "-qfc381zfGo",
+      "title": "We'll be there #NCT127 #BLINGY #NCT127_BLINGY",
+      "date": "2026-08-05",
+      "url": "https://www.youtube.com/watch?v=-qfc381zfGo",
+      "thumb": "https://i2.ytimg.com/vi/-qfc381zfGo/hqdefault.jpg"
+    },
+    {
+      "id": "7BbUXba58ow",
+      "title": "❮Call 127❯ Episode. 6 - Call 127",
+      "date": "2026-08-03",
+      "url": "https://www.youtube.com/watch?v=7BbUXba58ow",
+      "thumb": "https://i4.ytimg.com/vi/7BbUXba58ow/hqdefault.jpg"
+    },
+    {
+      "id": "NgMRFP0Gs6w",
+      "title": "❮Call 127❯ Episode. 5 - #TAEYONG",
+      "date": "2026-08-03",
+      "url": "https://www.youtube.com/watch?v=NgMRFP0Gs6w",
+      "thumb": "https://i3.ytimg.com/vi/NgMRFP0Gs6w/hqdefault.jpg"
+    },
+    {
+      "id": "7atog837iCE",
+      "title": "❮Call 127❯ Episode. 4 - #JOHNNY",
+      "date": "2026-08-03",
+      "url": "https://www.youtube.com/watch?v=7atog837iCE",
+      "thumb": "https://i4.ytimg.com/vi/7atog837iCE/hqdefault.jpg"
+    },
+    {
+      "id": "imEvHC3LI7Q",
+      "title": "❮Call 127❯ Episode. 3 - #YUTA",
+      "date": "2026-08-02",
+      "url": "https://www.youtube.com/watch?v=imEvHC3LI7Q",
+      "thumb": "https://i2.ytimg.com/vi/imEvHC3LI7Q/hqdefault.jpg"
+    },
+    {
+      "id": "6OnOm10AZMA",
+      "title": "❮Call 127❯ Episode. 2 - #JAEHYUN",
+      "date": "2026-08-02",
+      "url": "https://www.youtube.com/watch?v=6OnOm10AZMA",
+      "thumb": "https://i3.ytimg.com/vi/6OnOm10AZMA/hqdefault.jpg"
+    },
+    {
+      "id": "dUd3pUS45yk",
+      "title": "❮Call 127❯ Episode. 1 - #HAECHAN",
+      "date": "2026-08-02",
+      "url": "https://www.youtube.com/watch?v=dUd3pUS45yk",
+      "thumb": "https://i1.ytimg.com/vi/dUd3pUS45yk/hqdefault.jpg"
+    },
+    {
+      "id": "930GgC7OFbs",
+      "title": "If you CALL 127, we'll be there",
+      "date": "2026-08-02",
+      "url": "https://www.youtube.com/watch?v=930GgC7OFbs",
+      "thumb": "https://i2.ytimg.com/vi/930GgC7OFbs/hqdefault.jpg"
+    },
+    {
+      "id": "GO8T4P5oShU",
+      "title": "On the way to REDLINE #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-01",
+      "url": "https://www.youtube.com/watch?v=GO8T4P5oShU",
+      "thumb": "https://i4.ytimg.com/vi/GO8T4P5oShU/hqdefault.jpg"
+    },
+    {
+      "id": "szmX6hPIIfc",
+      "title": "Walkin' #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-01",
+      "url": "https://www.youtube.com/watch?v=szmX6hPIIfc",
+      "thumb": "https://i4.ytimg.com/vi/szmX6hPIIfc/hqdefault.jpg"
+    },
+    {
+      "id": "mFR_BUJAydE",
+      "title": "📻 REDLINE OPERATION RADIO 𝑺𝒊𝒈𝒏𝒂𝒍 𝑫𝒆𝒕𝒆𝒄𝒕𝒆𝒅...⚡",
+      "date": "2026-07-31",
+      "url": "https://www.youtube.com/watch?v=mFR_BUJAydE",
+      "thumb": "https://i2.ytimg.com/vi/mFR_BUJAydE/hqdefault.jpg"
+    },
+    {
+      "id": "1AI-7u98ndE",
+      "title": "Just tryna be myself #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-07-31",
+      "url": "https://www.youtube.com/watch?v=1AI-7u98ndE",
+      "thumb": "https://i2.ytimg.com/vi/1AI-7u98ndE/hqdefault.jpg"
+    },
+    {
+      "id": "azKOJIeDkuw",
+      "title": "fit checkkk #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-07-31",
+      "url": "https://www.youtube.com/watch?v=azKOJIeDkuw",
+      "thumb": "https://i2.ytimg.com/vi/azKOJIeDkuw/hqdefault.jpg"
+    }
+  ],
+  "news": [
+    {
+      "title": "The Odyssey Interview Relay Features Nolan, Yoo Jae-seok, NCT127",
+      "outlet": "조선일보",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanh3MVRCOFZZeE9weEhSb1NGbmRPZGFBZGNUSXotZHVzRndmal9WaVZ4cjU3T0FqWGpEZFpjbHQ2LWNJM05GZUI2UktLTjljRGdGckRKcXFCa1JISGJqeG5VcWRCM2plaXJzWUtHTHU4YlEycFBLdEhLX1EzZ1B2b1BEeDRWeVV0QVlDRGNR?oc=5"
+    },
+    {
+      "title": "\"From Yoo Jae-suk to NCT 127\"...Christopher Nolan's 'Odyssey' Teases a Relay of Interviews",
+      "outlet": "스포츠조선",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pYjhXWko1NG92SmtsclE3WjlIWU83THMyS1BDQk1OTWoyNWlLTk43NngwSFB4dmxmS29JcF80SGQ3UVVaczZuQVVnemxMNmtOUWZnTTBFbUJPYWJ1ZzlHWG5NbG1mMXFsQzJqQnl5WEM1YTJBNHYxV21MZnh2Zw?oc=5"
+    },
+    {
+      "title": "'Odyssey' stars Damon and Theron meet NCT 127 during Korea interview tour - CHOSUNBIZ",
+      "outlet": "Chosunbiz",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVRlc2FJTWNhcm8xaDJhdTlGTDE0d3pQaXRyTFRBOWZ3blcwRGdXcV9vWXhhb0JzYV9xOUxLS1pFTWhsdTRucXRWdGdNX1ZQSmF6UXBKbDN6d2JxUzVjbnhlUUVSQXVGTUFEQXZ6Y2RGQkVjWXlxT3pMRkNzaW5xd2hvT0IwRm9UN3hXRU9McmQzaGl0ZWxzR19lOGTSAZwBQVVfeXFMTVVUZXNhSU1jYXJvMWgyYXU5RkwxNHd6UGl0ckxUQTlmd25XMERnV3Ffb1l4YW9Cc2FfcTlMS0taRU1obHU0bnF0VnRnTV9WUEphelFwSmwzendicVM1Y254ZVFFUkF1Rk1BREF2emNkRkJFY1l5cU96TEZDc2lucXdob09CMEZvVDd4V0VPTHJkM2hpdGVsc0dfZThk?oc=5"
+    },
+    {
+      "title": "The Odyssey Stars Meet NCT 127 in Special Korean Interviews",
+      "outlet": "조선일보",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmhQOWdUeWJQSUlpY0FrdFFxakRpZDMtM25DcWlHNFBMRFpHR18tSUwwdTF2RllJNnBDakRSY2E0MHV3ZWJaX1VhWmVyX2NLUTN5eHZEUUp2MC1Md1o2VFAzalBnemZUT08xZC1samlLMDkzR3dnQVRnNENRVUhJWTZ4VjdydmhZU2ZVa2RR?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 画像 - BLINGY JETS #HAECHA",
+      "outlet": "Weverse",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTFpibGdNRElGamttVTY4TXhZMEtvcEdTOEFIZkRzaUNiMEZpdVpzX2syNnhiclZ6UGN2VTZqU3RBUzNwZTd6QlltdXFpbjlsUWFHNkdJdVpJbjJwMFE?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 画像 - BLINGY JETS #TAEYON",
+      "outlet": "Weverse",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FRndCV2lTUU5rQ3E3cUlnaGtnV2loTlNENEp5aDQ5QkFwc0dfeHRoLUpKSmJWaXIzX2xJZVowRnVzYkVSdHhfMGIzODJoMU9fRE5LMW9DTmswWGJnVVE?oc=5"
+    },
+    {
+      "title": "SM Ent. Revenue Climbs 15% as aespa, NCT Gear Up for Tours | Outlook Respawn",
+      "outlet": "Outlook Respawn",
+      "date": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzc4dVNHVHpKeTVNNVFFSWQ1TFI1NUpnR3NUc05KaHQ1Zzk1TnUzZlpyQ1pUODh6b203dDlpZjlPT0VfMmFjUko3WEdSWm91QnM3YkItNGxVZmlTVWl5U244SUE1dllNaFNDLVJnd3QtdndMZ3lYaEpBNHhwRlNzZEVBbEhMZWZjcktobXN1TS0yV24wQVlLZld2MXhkemRoWmpsSV80NElLRG05ZW9sZmRRY0LSAcIBQVVfeXFMTnRhalloRjRGd1BKT0R5anFSdUhHZTA5TjlaVlhCMkpwbEZQR2lrZDNPQ2pFX25qU1VPaTkyUWVwNWRfR0NCUkVxd3hnS29rZTJoSXA0NmN2OC0wVzF5WGhudS1VR2ZCcXFMSEdmTmhZci1Hc0QwZV9adHF6bzQ5TlVPVzEzWmtFN0xBYUJYNE5ydldmYlE4dTNfNlB0Ym8yRzhIOGhkNU1HMkppVnZoT25qdnNtT1QzZUtNR2Z2dDZWTVE?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 画像 - BLINGY JETS",
+      "outlet": "Weverse",
+      "date": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94RUVlZHhuaWhVUkQ3a1ZDTV95UEpGSUNfOUxkOVJNLVphOUg1X0UycWhYS1A3S0pJY2RCdEZWR3I4akVYalgwQk83NFhRZHNpelpYVUxlVTNQMy1taXc?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 画像 - BLINGY JETS #JAEHYU",
+      "outlet": "Weverse",
+      "date": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11WHVBQ05qNEw2eURPXzJUWUVkS2N5V1ZOSDhpS2NxVHk3emxhdjFYR3MtdVpuRTdaNi1ySUNSYnRibXFCZ0ozUEFxSG5CUDU4dWw2dVBKQXhZekw1R1E?oc=5"
+    },
+    {
+      "title": "위버스 NCT 127 Media - BLINGY JETS",
+      "outlet": "Weverse",
+      "date": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDWkQ4Vkl2VTN5WlExZ29Qd2ZJWE1XZnNnODZmSF93RVNTb3NkdndZSkswelRQeEJTU1RZWlhZbmg4OEtIdlFkZmFPYlNHUHEyMjVLSXBnTk9XMUhSSlE?oc=5"
+    },
+    {
+      "title": "Multimedia de NCT 127 de Weverse - BLING",
+      "outlet": "Weverse",
+      "date": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEQjBNSlVEeGMwb2k4cjN3Z0l3ZFVaMk1aR19XV3owblM0VURod2xtaXAwNUVlcVE4VWZjMVAwRVpKc1Bhc3V6RU1waS1XajVvVllJWlRtQmttdXo1SWc?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Media - BLINGY JETS",
+      "outlet": "Weverse",
+      "date": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WUUdYMS1tWTVoVWpqUWFHZWllbTZWQzhDZkxfNXRkb1BDSjZONXdyY2ltUDBCR2NtM2dUOWVHRWo3LUdBS2VQZEd6ZUlYYUVfNE9YeF9n?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - BLINGY JETS",
+      "outlet": "Weverse",
+      "date": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Sd0g3SjBIbzVoa1lXd1laQ0V5TE81ZmlKb2Z5OEZQY0ZnM1FhNkt3emRnTjhyeEdkVkFwcDNkNUFrUFY2WklXSlZBYnlobnJhM3FIUE9R?oc=5"
+    },
+    {
+      "title": "SM \"Hyo-ri-soo, Taeyeon, NCT to return in second half..Active activities anticipated\" [Star Issue]",
+      "outlet": "starnewskorea.com",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBROG1fd2o3V2JPSjlObnNmN3RVMVFIdGswYnRhT3B4Yk1sblhoTEpBSHhCNE5FLWtZZ1ROaWc4QjBpZWVUZ01UYXZ0RXdiUm9LQkVQQXo1cEp1T0NadFlQUU91XzkzRTF5YmRJZWJvRUthbW1SX0ZUTQ?oc=5"
+    },
+    {
+      "title": "Reshuffled lineups, solo returns, wave of debuts define August's K-pop releases",
+      "outlet": "The Korea Times",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXRtYy05TXFTQmZpWm44MUNoVmZpQlpLN0xCLURGWXM1WFZHMGZ1MlZyQTRtSjVLaWVQLV9CWDZCX2FnTXpNVTFwS2NBa1lpRW5reTdMd1hfdEhEZzBOYW5sSW1xb3J1WDFmeUhKbU1obF9Nanl1ZndFN0dWQkNDTUw1Qk90cDhmMnI2cnVHN0x3ZTV1b1VOWnE5RGE3Mkl1UjZrekY0ZjBfaWNNZ1U1bkc1aDB2LXBwTnpkY0RsYzk0MUU4NktOcjFvdHBQdGvSAdQBQVVfeXFMUEpBcTJObThGVy1ya2JaQm91amJONENlMXpla183eWY1LTN3NzVQZ3JEUFhrdDE1VmxzQlVTQWpSWEhVSE54SmpFR2lza0lmcUtHLUVSdDc1cEhoY1FMMERrRVhPRW9DUHpBSDZLUFU0ODV6V0c1Q1VoZ3h6NU1Wb0NMWHlVdm13cXFfWXJIN2YwMURDME0zNlJPcWgzRGlYRnhPNnZSb2oxZHdFY3FBU2dtRkVpMXhQd2h6NXBHRFZ0TG5UVHladlRnR2Y1RG12WXlxY2o?oc=5"
+    },
+    {
+      "title": "SM Entertainment unveils second-half lineup",
+      "outlet": "The Korea Herald",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqQnNLN2IzaHk4Z2JIRDI0TEYwM2JTWjBHdXh2MFJ2bW9ROFpqSm5OVDVULUlDRDN3cUo3dXF5Ujhwckx0ZHJadFVQQ2xZMHhrTkVjZENROA?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 画像 - BLINGY JETS #YUTA",
+      "outlet": "Weverse",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQzk4aTBjbTVHVjlxbVpMOU1Ja3VJQ1V2ejZVRjZqY2xGbkJiYW5ldjVnNjFpb0hzd1FpamhsOWd2bVg5T2UwZHhzN0xSbkJ0S2dPSlpOaGdFRFlFZGc?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - BLINGY JETS #YUT",
+      "outlet": "Weverse",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQjFKc1NjYmNvdktGQzY2bEZXblA2bU9INkx4bFJuRVI0aGJrZTFuOGZBWWp3bXZsUVNNVHVCSzZkSTJfem9aNm1SLUdpUG1fYTVlNUtB?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - BLINGY JETS #JAE",
+      "outlet": "Weverse",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83clJwWFlHWDg1V3pyaUJmbENHUGhtdlFCV3JMRE51aUoxNXZVLWJUbG5kb0VKdEdPU0toRk5PWG1nYUtIcUwtTTh0N0xRUG45d1Y3aFpR?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - BLINGY JETS #JOH",
+      "outlet": "Weverse",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcmcxNTFfeER0Ymo2MXZLbWswZVZkUWFSMzBiM1lFUkw3LVVhcW54QkNyZzNZMEhid2huR0FIUktrYVBkOFZrcXU0aS1qTWRtUUx3MHNB?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - BLINGY JETS #TAE",
+      "outlet": "Weverse",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zNDV2SlNQTXlKTXo0STFUc0MwNHRGWXREcENRYUxQRnhkdjdHZ3lpQnp6cmlXaEFFdnp3ODZueG5VeS0zSXVKRUljdjRwdUkxTndRakVn?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - BLINGY JETS #HAE",
+      "outlet": "Weverse",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUZjh1WmlHMmM5NExqYk1hRjJsSVI3QS1YcmNoSEx6Qk9uUFFRNklJWW9xUGNrU0FPVHNLT0ZJeFBEU0ZIUVRqeURUVjhqQ2VuV01WTXB3?oc=5"
+    },
+    {
+      "title": "NCT 127 reunites for comeback with BLINGY trailer - CHOSUNBIZ",
+      "outlet": "Chosunbiz",
+      "date": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmpmSHdkNUgzX1pFZk9Tendnem0yTjVNc25lY3FkMkxBYTdCeHlRS08tYjc3ZFZ0dHc3SWFyeEczZFdzZDI1c3VkUWIwQ0ppT0pIOFFiVWplVEhHNmRtVHRQQ00ybm9VbzRVck9BT0lHNXNPSzVpbGVDd0E2MTBmQTFYOGFnaXVq0gGcAUFVX3lxTE1BUkQ4N3poMXpwYmR1YS11S0pVbEZHRHpmemtDc05Bd25PT1BVNEFGYW1EUnlmNzdVWE9PUUE1aHpCRVJ3SElzNFl0SlNaZWdUS1lUN0wzeENaM1JnRXRIMHIydWR3OXgtRTZXMDEwd2hHcHp2a041cmpXenlReDFQalBhalNyT0RsMzlveTYwWGN0a1k0MnZqUXAwTg?oc=5"
+    },
+    {
+      "title": "'10th Anniversary' NCT 127, Called Back to One Place Again..'BLINGY' Trailer Opens",
+      "outlet": "starnewskorea.com",
+      "date": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QMUZtbnBnNTB1THFSdE14S3BGMVlhN2J2NGx5bUJNeC1SOVBHdXhybE5BWlpReTJ1WmxoQ1Y2YkZOQWtZeDNvQVFWVnZqSnJDdzc2NHBkWHFPRHI4UDQ5MlRKSVZCMFBXeVE2OGRqYUs4eFJJNExVMg?oc=5"
+    }
+  ],
+  "bio": {
+    "extract": "NCT 127 is the first fixed and second overall sub-unit of the South Korean boy band NCT, formed and managed by SM Entertainment. They originally debuted on July 7, 2016, with their debut extended play NCT#127, with an original lineup of seven members: Taeil, Taeyong, Yuta, Jaehyun, Winwin, Mark, and Haechan. Doyoung and Johnny joined the unit in December 2016, ahead of their second EP Limitless, while Jungwoo, the final member, was introduced in September 2018 ahead of their first studio album Regular-Irregular. They are known for their experimental hip hop-based music, which they refer to as \"neo music\", as well as their vocal and rap abilities, choreographies, and performances.",
+    "url": "https://en.wikipedia.org/wiki/NCT_127"
+  },
+  "tour": {
+    "name": "NEO CITY — THE REDLINE",
+    "subtitle": "5th tour",
+    "_example": {
+      "date": "2026-09-18",
+      "city": "Seoul",
+      "country": "South Korea",
+      "venue": "KSPO Dome",
+      "note": "Night 1 of 3",
+      "url": "https://link-to-tickets",
+      "status": "On sale"
+    },
+    "alerts": [
+      {
+        "label": "Ticketmaster",
+        "url": "https://www.ticketmaster.com/nct-127-tickets/artist/2647302"
+      },
+      {
+        "label": "Songkick",
+        "url": "https://www.songkick.com/artists/9412129-nct-127"
+      },
+      {
+        "label": "Bandsintown",
+        "url": "https://www.bandsintown.com/a/14606060-nct-127"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-09-18",
+        "city": "Seoul",
+        "country": "South Korea",
+        "venue": "KSPO Dome",
+        "note": "Night 1 of 3 — tour opener",
+        "url": "https://www.smtown.com/artists/10033",
+        "status": "Announced"
+      },
+      {
+        "date": "2026-09-19",
+        "city": "Seoul",
+        "country": "South Korea",
+        "venue": "KSPO Dome",
+        "note": "Night 2 of 3",
+        "url": "https://www.smtown.com/artists/10033",
+        "status": "Announced"
+      },
+      {
+        "date": "2026-09-20",
+        "city": "Seoul",
+        "country": "South Korea",
+        "venue": "KSPO Dome",
+        "note": "Night 3 of 3",
+        "url": "https://www.smtown.com/artists/10033",
+        "status": "Announced"
+      }
+    ],
+    "_citiesNote": "Beyond Seoul the tour has been announced by city only — Jakarta, Hong Kong, Singapore, Bangkok and Taipei — with no venues or dates confirmed as of 2026-08-08. They are listed here as pending rather than invented into the dates array above, which requires a real date and would otherwise be fiction.",
+    "pending": [
+      {
+        "city": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "city": "Hong Kong",
+        "country": "Hong Kong"
+      },
+      {
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      {
+        "city": "Bangkok",
+        "country": "Thailand"
+      },
+      {
+        "city": "Taipei",
+        "country": "Taiwan"
+      }
+    ]
+  },
+  "tourNews": [
+    {
+      "title": "'Odyssey' stars Damon and Theron meet NCT 127 during Korea interview tour - CHOSUNBIZ",
+      "outlet": "Chosunbiz",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVRlc2FJTWNhcm8xaDJhdTlGTDE0d3pQaXRyTFRBOWZ3blcwRGdXcV9vWXhhb0JzYV9xOUxLS1pFTWhsdTRucXRWdGdNX1ZQSmF6UXBKbDN6d2JxUzVjbnhlUUVSQXVGTUFEQXZ6Y2RGQkVjWXlxT3pMRkNzaW5xd2hvT0IwRm9UN3hXRU9McmQzaGl0ZWxzR19lOGTSAZwBQVVfeXFMTVVUZXNhSU1jYXJvMWgyYXU5RkwxNHd6UGl0ckxUQTlmd25XMERnV3Ffb1l4YW9Cc2FfcTlMS0taRU1obHU0bnF0VnRnTV9WUEphelFwSmwzendicVM1Y254ZVFFUkF1Rk1BREF2emNkRkJFY1l5cU96TEZDc2lucXdob09CMEZvVDd4V0VPTHJkM2hpdGVsc0dfZThk?oc=5"
+    },
+    {
+      "title": "NCT 127 Is Coming To Kuala Lumpur For “NEO CITY – THE RED LINE” Tour In January 2027",
+      "outlet": "MYC! Malaysian Youth Community",
+      "date": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWJHWm15aHZaemY2cVhPY3BDbV9HbkRtTU9JbjdkcXozeTZRcjhGdzZJTzJTMXltbUptY0xKUnFROUxtVmpCeXR5NE91NjlES0ZpZE5jVzFoU21RdFQ5VWtvSkNyNDRxd1lWajBzc3RIZWZ2ck5VMzBkVjl4MUVNNzJlYk5ubTlvRmZoWHJpaDVILXlISXhkeHpzUWthMk5pY3MyMkI0MzVQd1N5UXYzNW1fQQ?oc=5"
+    },
+    {
+      "title": "NCT 127 adds Manila stop to ‘Neo City – The Redline’ tour",
+      "outlet": "DZRH",
+      "date": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQkNiR2pkNW5DcGtqOC13cWwzbWw4UkswZV8xZTBSWDJmQm1WYjVnTEp3NkduRXF6cHVQbEVJeHRabDR0d2RjdVZ3U1JXVjE3Y3htQVlteXpEZTZlVUhpVkRfeXBXdEdISVJ1bDZETGVnaFlJNzd6cHQxVTcxVGFGeUc5VWpuMl9jRGc?oc=5"
+    },
+    {
+      "title": "NCT 127 announces Manila stop for ‘The Redline’ concert tour",
+      "outlet": "The Manila Times",
+      "date": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS05fejFNbG85SEt4VFBvMFFWVjVwTm5FSU5GNEZwckFDeHNuOGRKbTNwcXVvamZJQndLUlYzX19oN1pSMFMtOFZiMWl3RkxqZVUwRTVTX0RaOTd3NzB2VXFHZ3hWR1BTLWxLMXlWSnJPYzVFalRKWGZ2akhfeDlBay1rM012UE8wcDUzd1R3amNRMkVYX3VoWklPMzUyWk5laGgwLTFTM0pnU3hBazhXaUNoSHRkNVJQZzJJ0gHAAUFVX3lxTE1ZTzBoaTAyOURKZzNsTFM5Rkt6Ym5UTmhIMVhpd1VOY0Z6V2p3UlVMT0RlTHp3N2dLM1dHMFRLOF85NGVWNUF0aUY0X3p2LXhZanpFZkJmeVFMS3J4YVMzcVR2Zng1MWs0SjI1aElneE5wRkxud1Fya19nblkwWWgxZGhNTEFBQjhac0d0NXk5dzctMVlVNFVmVGdiQlZzRGNHNlN6UFZqenV5ZjdmbVFNMFdzMTJXWFJyRW51MmZJUA?oc=5"
+    },
+    {
+      "title": "NCT 127 adds Manila stop to ‘Neo City: The Redline’ world tour",
+      "outlet": "Manila Bulletin",
+      "date": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZks1d09CRkhOcWQxemJRcmhnc24yQ1Bqb1VwUEVnRThtYVhvSzRZTkZqbno0cXhhdi0xREdmTXk0T0t4bE90Y0F3UEwwalBna1NTRE5qU2ZQWHRlTHVZYkx5UEdRZ1h6RGltVzZUdHpMQ0xLLWVVZ0ltbUZ4eVVCSWFMNVZsV1F2a0dUZkhBY1NWZw?oc=5"
+    },
+    {
+      "title": "NCT 127 Adds Kuala Lumpur To Their World Tour In January 2027",
+      "outlet": "says.com",
+      "date": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTE45cVBURGs1LWwwVGJ0MEhkUUVyX1IzaFd5Nmx1SEVNRjhUbnRxRmNPTGgyblgxTnFWMlptOGIybzJtSDVzNkc5emhxNFYyMXMxN2RYSkoweDFVS0xHZ2s0NU9HMklmdldXZ3lGT05McWFhUlUxNWVJcXNoZExvVnliOGxOcDFpWjBRSkVsbEZZNU42NmhjcDRESQ?oc=5"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2016-07-07",
+      "year": "2016",
+      "title": "Debut",
+      "body": "Introduced as NCT's first fixed sub-unit, named for the longitude of Seoul. The debut EP NCT #127 arrived the same week.",
+      "tag": "Debut"
+    },
+    {
+      "date": "2016-12-27",
+      "year": "2016",
+      "title": "Limitless",
+      "body": "Johnny and Doyoung joined for the second EP, taking the lineup to nine.",
+      "tag": "Release"
+    },
+    {
+      "date": "2017-06-14",
+      "year": "2017",
+      "title": "Cherry Bomb",
+      "body": "The EP that fixed the group's sound in most people's heads, and still the one fans point newcomers to first.",
+      "tag": "Release"
+    },
+    {
+      "date": "2018-10-12",
+      "year": "2018",
+      "title": "Regular-Irregular",
+      "body": "The first full-length album. Jungwoo joined for it, and Regular charted the group on the Billboard 200 for the first time.",
+      "tag": "Album"
+    },
+    {
+      "date": "2019-05-24",
+      "year": "2019",
+      "title": "Superhuman",
+      "body": "The repackage of NCT #127 We Are Superhuman, and the group's first number-one on a Billboard album chart.",
+      "tag": "Release"
+    },
+    {
+      "date": "2020-03-06",
+      "year": "2020",
+      "title": "Neo Zone",
+      "body": "Second album, and the record that made the neon-green Neo Zone palette the group's visual signature.",
+      "tag": "Album"
+    },
+    {
+      "date": "2021-09-17",
+      "year": "2021",
+      "title": "Sticker",
+      "body": "Third album. Over two million copies sold, and the first NCT 127 record to pass that mark.",
+      "tag": "Album"
+    },
+    {
+      "date": "2022-10-07",
+      "year": "2022",
+      "title": "2 Baddies",
+      "body": "Fourth album, and a top-three debut on the Billboard 200.",
+      "tag": "Album"
+    },
+    {
+      "date": "2023-09-01",
+      "year": "2023",
+      "title": "Fact Check",
+      "body": "Fifth album, released alongside the group's largest tour to date.",
+      "tag": "Album"
+    },
+    {
+      "date": "2024-07-15",
+      "year": "2024",
+      "title": "WALK",
+      "body": "Sixth album, and the last full-length before a two-year gap.",
+      "tag": "Album"
+    },
+    {
+      "date": "2026-08-24",
+      "year": "2026",
+      "title": "BLINGY",
+      "body": "Seventh album, nine tracks, released for the tenth anniversary as a seven-member group.",
+      "tag": "Album"
+    },
+    {
+      "date": "2026-09-18",
+      "year": "2026",
+      "title": "NEO CITY — THE REDLINE",
+      "body": "Fifth tour opens with three nights at KSPO Dome in Seoul before heading across Asia.",
+      "tag": "Tour"
+    }
+  ],
+  "facts": [
+    "The 127 is the longitude of Seoul. Every NCT sub-unit is named for a city, and 127 is the one that stayed.",
+    "NCT was designed with no fixed member limit and no fixed lineup — 127 was the first unit given a permanent roster.",
+    "Cherry Bomb is the song most fans name when asked where to start, and it was never even a title track on a full album.",
+    "Regular was released in Korean, English and Spanish versions, which is how the group first charted in the United States.",
+    "Neo Zone's green is close enough to a signature that fans identify the era from a single frame of colour.",
+    "Johnny grew up in Chicago and trained for nine years before debuting — one of the longest trainee periods in the company.",
+    "Yuta is from Osaka and joined SM after being scouted at a casting audition in Japan.",
+    "The group's fandom name, NCTzen, is a pun on citizen, which fits a group named after map coordinates.",
+    "Sticker sold over two million copies, making it the first NCT 127 album to do so.",
+    "BLINGY is the group's first full album in two years and lands almost exactly ten years after the debut EP."
+  ],
+  "members": [
+    {
+      "name": "Taeyong",
+      "hangul": "태용",
+      "full": "Lee Tae-yong",
+      "position": "Leader",
+      "born": "1995-07-01",
+      "from": "Seoul, South Korea",
+      "status": "Active",
+      "joined": "2016-07-07"
+    },
+    {
+      "name": "Johnny",
+      "hangul": "쟈니",
+      "full": "Seo Young-ho",
+      "position": "Vocal",
+      "born": "1995-02-09",
+      "from": "Chicago, U.S.",
+      "status": "Active",
+      "joined": "2016-12-27"
+    },
+    {
+      "name": "Yuta",
+      "hangul": "유타",
+      "full": "Nakamoto Yuta",
+      "position": "Vocal",
+      "born": "1995-10-26",
+      "from": "Osaka, Japan",
+      "status": "Active",
+      "joined": "2016-07-07"
+    },
+    {
+      "name": "Doyoung",
+      "hangul": "도영",
+      "full": "Kim Dong-young",
+      "position": "Vocal",
+      "born": "1996-02-01",
+      "from": "Guri, South Korea",
+      "status": "Service",
+      "joined": "2016-12-27"
+    },
+    {
+      "name": "Jaehyun",
+      "hangul": "재현",
+      "full": "Jung Jae-hyun",
+      "position": "Vocal",
+      "born": "1997-02-14",
+      "from": "Seoul, South Korea",
+      "status": "Active",
+      "joined": "2016-07-07"
+    },
+    {
+      "name": "Jungwoo",
+      "hangul": "정우",
+      "full": "Kim Jung-woo",
+      "position": "Vocal",
+      "born": "1998-02-19",
+      "from": "Seoul, South Korea",
+      "status": "Service",
+      "joined": "2018-09-12"
+    },
+    {
+      "name": "Haechan",
+      "hangul": "해찬",
+      "full": "Lee Dong-hyuck",
+      "position": "Vocal",
+      "born": "2000-06-06",
+      "from": "Seoul, South Korea",
+      "status": "Active",
+      "joined": "2016-07-07"
+    }
+  ],
+  "lineupLog": [
+    {
+      "date": "2025-12-08",
+      "name": "Doyoung · Jungwoo",
+      "note": "Enlisted for mandatory military service. Expected back June 2027.",
+      "tag": "Service"
+    },
+    {
+      "date": "2026-07-09",
+      "name": "Winwin",
+      "note": "Concluded activities with NCT and its sub-units after his contract was not renewed.",
+      "tag": "Left"
+    },
+    {
+      "date": "2026-04-08",
+      "name": "Mark",
+      "note": "Left the group and SM Entertainment.",
+      "tag": "Left"
+    },
+    {
+      "date": "2024-08-28",
+      "name": "Taeil",
+      "note": "Left the group.",
+      "tag": "Left"
+    },
+    {
+      "date": "2018-09-12",
+      "name": "Jungwoo",
+      "note": "Added to the lineup for Regular-Irregular.",
+      "tag": "Joined"
+    },
+    {
+      "date": "2016-12-27",
+      "name": "Johnny · Doyoung",
+      "note": "Added to the lineup for Limitless.",
+      "tag": "Joined"
+    },
+    {
+      "date": "2016-07-07",
+      "name": "NCT 127",
+      "note": "Debuted with the extended play NCT #127.",
+      "tag": "Debut"
+    }
+  ],
+  "lineupCheck": {
+    "current": [
+      "Johnny",
+      "Taeyong",
+      "Yuta",
+      "Doyoung",
+      "Jaehyun",
+      "Jungwoo",
+      "Haechan"
+    ],
+    "past": [
+      "Taeil",
+      "Winwin",
+      "Mark"
+    ]
+  },
+  "lineupDrift": null,
+  "drop": {
+    "title": "BLINGY",
+    "fingerprint": "blingy",
+    "kind": "7th Album",
+    "date": "2026-08-24T18:00:00+09:00",
+    "trackCount": 9,
+    "label": "SM Entertainment / Virgin Music Group",
+    "note": "First full album since WALK in July 2024, released for the group's 10th anniversary.",
+    "release": null
+  },
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@NCT127"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/nct127/"
+    },
+    {
+      "label": "X",
+      "url": "https://x.com/NCTsmtown_127"
+    },
+    {
+      "label": "Apple Music",
+      "url": "https://music.apple.com/us/artist/nct-127/1235849306"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+    }
+  ]
+}

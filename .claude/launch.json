@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "nct-127",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["serve.js", "4176"],
+      "port": 4176
+    }
+  ]
+}

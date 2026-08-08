@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#050607"/>
+  <!-- 127 is the longitude of Seoul; the mark is a meridian crossing a grid. -->
+  <g stroke="#B8FF29" stroke-width="2" fill="none" opacity="0.35">
+    <path d="M0 22h64M0 42h64"/>
+  </g>
+  <path d="M32 4v56" stroke="#B8FF29" stroke-width="2" opacity="0.7"/>
+  <text x="32" y="40" font-family="Arial Narrow, Arial, sans-serif" font-size="26"
+        font-weight="700" fill="#B8FF29" text-anchor="middle" letter-spacing="-1">127</text>
+</svg>

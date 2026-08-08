@@ -1,0 +1,11 @@
+# The updater runs on Ubuntu and commits back to this repo. Without a fixed
+# line ending, its LF writes would show as whole-file diffs against a Windows
+# CRLF checkout every single run.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.avif binary
+*.ico binary

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Rewritten by build.js once content/curated.json has a siteUrl. Until then
+# this is intentionally sitemap-less rather than pointing somewhere wrong.

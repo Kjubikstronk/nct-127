@@ -1,0 +1,25 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.vscode/
+.idea/
+
+# Local agent/editor prefs — the launch config is worth keeping, this isn't.
+.claude/settings.local.json
+
+# Design reference bundle. Prototypes in a component runtime that this repo
+# doesn't use, plus a copy of site.json. Everything in it has been built into
+# the real files; committing it would publish ~200kB of dead prototype to the
+# live site. Delete the folder once you're done comparing against it.
+design_handoff_press_it_redesign/
+
+# NCT 127 design bundle — belongs to the sibling nct-127 project, not this one.
+# Left here it would be committed and published to taemin.online.
+design_handoff_nct127/
+
+# Design reference bundle. A prototype in a component runtime this repo does
+# not use. Everything in it is built into the real files; committing it would
+# publish dead prototype code to the live site.
+design_handoff_nct127/

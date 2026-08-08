@@ -1,0 +1,59 @@
+name: Update site data
+
+# Every 6 hours. Korean releases usually land around 09:00 UTC (6pm KST), so a
+# fresh drop shows up within a few hours without hammering the sources.
+#
+# Deliberately at :17 rather than :00. GitHub's scheduler is best-effort and
+# queues hardest on the hour, where everyone piles up — the first runs on the
+# hour drifted by 45 minutes to nearly 3 hours. An odd minute gets picked up
+# closer to on time.
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:        # lets you trigger it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - 'build.js'
+      - 'content/curated.json'
+
+# Needed so the workflow can push the refreshed data back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-site
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # No dependencies to install — build.js is plain Node with native fetch.
+      - name: Fetch latest data
+        run: node build.js
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "press-it-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # build.js leaves the files untouched when nothing substantive moved,
+          # so an empty diff genuinely means "no news today".
+          if git diff --quiet -- data/site.json index.html; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git add data/site.json index.html
+          git commit -m "data: refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

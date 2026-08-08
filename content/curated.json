@@ -1,0 +1,302 @@
+{
+  "_comment": "Hand-kept content. Everything else on the site is fetched by build.js from six keyless sources and written to data/site.json. Facts here were verified 2026-08-08 against Wikipedia, Billboard, Korea Herald and Korea Times. This is a live subject — re-check before trusting anything dated.",
+
+  "_siteUrlNote": "Set once the site has an address. Until then the sitemap, canonical tag and og:url are skipped rather than pointing somewhere wrong.",
+  "siteUrl": "",
+
+  "_membersNote": "The roster is curated on purpose. build.js parses the Wikipedia infobox every run and reports any divergence in the build log and in site.json's lineupDrift, but it never rewrites this list — an infobox edit, vandalism or a parse regression would otherwise silently rewrite the page. Everything a card shows (Korean name, position, birthplace, status) is curated because none of it is reliably machine-readable. Status is Active or Service; military service is not machine-readable at all.",
+  "members": [
+    {
+      "name": "Taeyong",
+      "hangul": "태용",
+      "full": "Lee Tae-yong",
+      "position": "Leader",
+      "born": "1995-07-01",
+      "from": "Seoul, South Korea",
+      "status": "Active",
+      "joined": "2016-07-07"
+    },
+    {
+      "name": "Johnny",
+      "hangul": "쟈니",
+      "full": "Seo Young-ho",
+      "position": "Vocal",
+      "born": "1995-02-09",
+      "from": "Chicago, U.S.",
+      "status": "Active",
+      "joined": "2016-12-27"
+    },
+    {
+      "name": "Yuta",
+      "hangul": "유타",
+      "full": "Nakamoto Yuta",
+      "position": "Vocal",
+      "born": "1995-10-26",
+      "from": "Osaka, Japan",
+      "status": "Active",
+      "joined": "2016-07-07"
+    },
+    {
+      "name": "Doyoung",
+      "hangul": "도영",
+      "full": "Kim Dong-young",
+      "position": "Vocal",
+      "born": "1996-02-01",
+      "from": "Guri, South Korea",
+      "status": "Service",
+      "joined": "2016-12-27"
+    },
+    {
+      "name": "Jaehyun",
+      "hangul": "재현",
+      "full": "Jung Jae-hyun",
+      "position": "Vocal",
+      "born": "1997-02-14",
+      "from": "Seoul, South Korea",
+      "status": "Active",
+      "joined": "2016-07-07"
+    },
+    {
+      "name": "Jungwoo",
+      "hangul": "정우",
+      "full": "Kim Jung-woo",
+      "position": "Vocal",
+      "born": "1998-02-19",
+      "from": "Seoul, South Korea",
+      "status": "Service",
+      "joined": "2018-09-12"
+    },
+    {
+      "name": "Haechan",
+      "hangul": "해찬",
+      "full": "Lee Dong-hyuck",
+      "position": "Vocal",
+      "born": "2000-06-06",
+      "from": "Seoul, South Korea",
+      "status": "Active",
+      "joined": "2016-07-07"
+    }
+  ],
+
+  "_lineupLogNote": "Membership changes, newest first. Kept factual and dated — the log states that a departure happened and when, and does not characterise the circumstances. Tags: Debut, Joined, Left, Service.",
+  "lineupLog": [
+    {
+      "date": "2025-12-08",
+      "name": "Doyoung · Jungwoo",
+      "note": "Enlisted for mandatory military service. Expected back June 2027.",
+      "tag": "Service"
+    },
+    {
+      "date": "2026-07-09",
+      "name": "Winwin",
+      "note": "Concluded activities with NCT and its sub-units after his contract was not renewed.",
+      "tag": "Left"
+    },
+    {
+      "date": "2026-04-08",
+      "name": "Mark",
+      "note": "Left the group and SM Entertainment.",
+      "tag": "Left"
+    },
+    {
+      "date": "2024-08-28",
+      "name": "Taeil",
+      "note": "Left the group.",
+      "tag": "Left"
+    },
+    {
+      "date": "2018-09-12",
+      "name": "Jungwoo",
+      "note": "Added to the lineup for Regular-Irregular.",
+      "tag": "Joined"
+    },
+    {
+      "date": "2016-12-27",
+      "name": "Johnny · Doyoung",
+      "note": "Added to the lineup for Limitless.",
+      "tag": "Joined"
+    },
+    {
+      "date": "2016-07-07",
+      "name": "NCT 127",
+      "note": "Debuted with the extended play NCT #127.",
+      "tag": "Debut"
+    }
+  ],
+
+  "_dropNote": "The album the countdown counts toward. `fingerprint` is matched against the live catalogue by build.js, so the moment the release appears in Apple Music or Deezer its real cover art and metadata replace whatever is here. Set `date` in ISO 8601 with the offset — KST is +09:00. Remove this whole key once the countdown is no longer wanted.",
+  "drop": {
+    "title": "BLINGY",
+    "fingerprint": "blingy",
+    "kind": "7th Album",
+    "date": "2026-08-24T18:00:00+09:00",
+    "trackCount": 9,
+    "label": "SM Entertainment / Virgin Music Group",
+    "note": "First full album since WALK in July 2024, released for the group's 10th anniversary."
+  },
+
+  "_tourNote": "Hand-kept. There is no tour-dates API that works without a key — Bandsintown returns 403 without a registered app_id, and Songkick and Ticketmaster both require one. The alert links below are the honest answer when nothing is scheduled. Anything with a past date hides itself, so old entries are safe to leave.",
+  "tour": {
+    "name": "NEO CITY — THE REDLINE",
+    "subtitle": "5th tour",
+    "_example": {
+      "date": "2026-09-18",
+      "city": "Seoul",
+      "country": "South Korea",
+      "venue": "KSPO Dome",
+      "note": "Night 1 of 3",
+      "url": "https://link-to-tickets",
+      "status": "On sale"
+    },
+    "alerts": [
+      { "label": "Ticketmaster", "url": "https://www.ticketmaster.com/nct-127-tickets/artist/2647302" },
+      { "label": "Songkick", "url": "https://www.songkick.com/artists/9412129-nct-127" },
+      { "label": "Bandsintown", "url": "https://www.bandsintown.com/a/14606060-nct-127" }
+    ],
+    "dates": [
+      {
+        "date": "2026-09-18",
+        "city": "Seoul",
+        "country": "South Korea",
+        "venue": "KSPO Dome",
+        "note": "Night 1 of 3 — tour opener",
+        "url": "https://www.smtown.com/artists/10033",
+        "status": "Announced"
+      },
+      {
+        "date": "2026-09-19",
+        "city": "Seoul",
+        "country": "South Korea",
+        "venue": "KSPO Dome",
+        "note": "Night 2 of 3",
+        "url": "https://www.smtown.com/artists/10033",
+        "status": "Announced"
+      },
+      {
+        "date": "2026-09-20",
+        "city": "Seoul",
+        "country": "South Korea",
+        "venue": "KSPO Dome",
+        "note": "Night 3 of 3",
+        "url": "https://www.smtown.com/artists/10033",
+        "status": "Announced"
+      }
+    ],
+    "_citiesNote": "Beyond Seoul the tour has been announced by city only — Jakarta, Hong Kong, Singapore, Bangkok and Taipei — with no venues or dates confirmed as of 2026-08-08. They are listed here as pending rather than invented into the dates array above, which requires a real date and would otherwise be fiction.",
+    "pending": [
+      { "city": "Jakarta", "country": "Indonesia" },
+      { "city": "Hong Kong", "country": "Hong Kong" },
+      { "city": "Singapore", "country": "Singapore" },
+      { "city": "Bangkok", "country": "Thailand" },
+      { "city": "Taipei", "country": "Taiwan" }
+    ]
+  },
+
+  "timeline": [
+    {
+      "date": "2016-07-07",
+      "year": "2016",
+      "title": "Debut",
+      "body": "Introduced as NCT's first fixed sub-unit, named for the longitude of Seoul. The debut EP NCT #127 arrived the same week.",
+      "tag": "Debut"
+    },
+    {
+      "date": "2016-12-27",
+      "year": "2016",
+      "title": "Limitless",
+      "body": "Johnny and Doyoung joined for the second EP, taking the lineup to nine.",
+      "tag": "Release"
+    },
+    {
+      "date": "2017-06-14",
+      "year": "2017",
+      "title": "Cherry Bomb",
+      "body": "The EP that fixed the group's sound in most people's heads, and still the one fans point newcomers to first.",
+      "tag": "Release"
+    },
+    {
+      "date": "2018-10-12",
+      "year": "2018",
+      "title": "Regular-Irregular",
+      "body": "The first full-length album. Jungwoo joined for it, and Regular charted the group on the Billboard 200 for the first time.",
+      "tag": "Album"
+    },
+    {
+      "date": "2019-05-24",
+      "year": "2019",
+      "title": "Superhuman",
+      "body": "The repackage of NCT #127 We Are Superhuman, and the group's first number-one on a Billboard album chart.",
+      "tag": "Release"
+    },
+    {
+      "date": "2020-03-06",
+      "year": "2020",
+      "title": "Neo Zone",
+      "body": "Second album, and the record that made the neon-green Neo Zone palette the group's visual signature.",
+      "tag": "Album"
+    },
+    {
+      "date": "2021-09-17",
+      "year": "2021",
+      "title": "Sticker",
+      "body": "Third album. Over two million copies sold, and the first NCT 127 record to pass that mark.",
+      "tag": "Album"
+    },
+    {
+      "date": "2022-10-07",
+      "year": "2022",
+      "title": "2 Baddies",
+      "body": "Fourth album, and a top-three debut on the Billboard 200.",
+      "tag": "Album"
+    },
+    {
+      "date": "2023-09-01",
+      "year": "2023",
+      "title": "Fact Check",
+      "body": "Fifth album, released alongside the group's largest tour to date.",
+      "tag": "Album"
+    },
+    {
+      "date": "2024-07-15",
+      "year": "2024",
+      "title": "WALK",
+      "body": "Sixth album, and the last full-length before a two-year gap.",
+      "tag": "Album"
+    },
+    {
+      "date": "2026-08-24",
+      "year": "2026",
+      "title": "BLINGY",
+      "body": "Seventh album, nine tracks, released for the tenth anniversary as a seven-member group.",
+      "tag": "Album"
+    },
+    {
+      "date": "2026-09-18",
+      "year": "2026",
+      "title": "NEO CITY — THE REDLINE",
+      "body": "Fifth tour opens with three nights at KSPO Dome in Seoul before heading across Asia.",
+      "tag": "Tour"
+    }
+  ],
+
+  "facts": [
+    "The 127 is the longitude of Seoul. Every NCT sub-unit is named for a city, and 127 is the one that stayed.",
+    "NCT was designed with no fixed member limit and no fixed lineup — 127 was the first unit given a permanent roster.",
+    "Cherry Bomb is the song most fans name when asked where to start, and it was never even a title track on a full album.",
+    "Regular was released in Korean, English and Spanish versions, which is how the group first charted in the United States.",
+    "Neo Zone's green is close enough to a signature that fans identify the era from a single frame of colour.",
+    "Johnny grew up in Chicago and trained for nine years before debuting — one of the longest trainee periods in the company.",
+    "Yuta is from Osaka and joined SM after being scouted at a casting audition in Japan.",
+    "The group's fandom name, NCTzen, is a pun on citizen, which fits a group named after map coordinates.",
+    "Sticker sold over two million copies, making it the first NCT 127 album to do so.",
+    "BLINGY is the group's first full album in two years and lands almost exactly ten years after the debut EP."
+  ],
+
+  "links": [
+    { "label": "YouTube", "url": "https://www.youtube.com/@NCT127" },
+    { "label": "Instagram", "url": "https://www.instagram.com/nct127/" },
+    { "label": "X", "url": "https://x.com/NCTsmtown_127" },
+    { "label": "Apple Music", "url": "https://music.apple.com/us/artist/nct-127/1235849306" },
+    { "label": "Spotify", "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH" }
+  ]
+}
