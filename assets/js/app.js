@@ -150,12 +150,23 @@ function renderHero() {
   const note = $('[data-drop-note]');
   if (note) note.textContent = drop.note || '';
 
-  // Cover: the real artwork the moment the release lands, a stripe until then.
+  /* Cover, in order of preference: the real artwork once the release exists,
+     otherwise the promo still build.js picked from the video feed, otherwise
+     a stripe. The stand-in is labelled so it never passes as the sleeve. */
   const slot = $('.cover__slot');
-  const art = rel?.art || rel?.artSmall;
+  const art = rel?.art || rel?.artSmall || drop.standIn?.thumb || null;
   if (slot) {
-    if (art) setImg($('[data-drop-art]', slot), art);
-    else slot.innerHTML = placeholder(`${drop.title || 'Album'} cover`);
+    if (art) {
+      setImg($('[data-drop-art]', slot), art);
+      if (!rel && drop.standIn) {
+        slot.insertAdjacentHTML(
+          'beforeend',
+          `<span class="cover__note">Promo still · cover not out yet</span>`
+        );
+      }
+    } else {
+      slot.innerHTML = placeholder(`${drop.title || 'Album'} cover`);
+    }
   }
   const cap = $('[data-drop-cap]');
   if (cap && drop.kind) {
@@ -163,11 +174,25 @@ function renderHero() {
       `<span>${esc(drop.kind)}</span><span>${esc(dotted((drop.date || '').slice(0, 10)))}</span>`;
   }
 
+  /* The primary button's label follows where it actually goes.
+     It used to say "Pre-order" and fall back to DATA.latest.url whenever the
+     drop wasn't in the catalogue yet — so before release it promised a
+     pre-order and delivered the previous album's page. Order of preference:
+       1. a curated pre-order URL, once SM publishes one
+       2. the real release, once it exists — then it's "Listen"
+       3. the newest promo clip, labelled as a teaser
+       4. nothing, rather than a button that lies about its destination */
   const cta = $('[data-hero-cta]');
   if (cta) {
-    const listen = rel?.url || DATA.latest?.url;
+    let primary = null;
+    if (drop.url) primary = { href: drop.url, label: 'Pre-order ↗' };
+    else if (rel?.url) primary = { href: rel.url, label: 'Listen ↗' };
+    else if (drop.standIn?.from) primary = { href: drop.standIn.from, label: 'Watch the teaser ↗' };
+
     cta.innerHTML = [
-      listen ? `<a class="btn btn--fill" href="${esc(listen)}" target="_blank" rel="noopener">Pre-order ↗</a>` : '',
+      primary
+        ? `<a class="btn btn--fill" href="${esc(primary.href)}" target="_blank" rel="noopener">${esc(primary.label)}</a>`
+        : '',
       `<a class="btn btn--ghost" href="#redline">The Redline tour</a>`,
     ].join('');
   }

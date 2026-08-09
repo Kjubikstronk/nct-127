@@ -426,13 +426,13 @@ function mergeReleases(apple, deezer, known = []) {
  * should be dropping a file in a folder, not editing JSON and getting the
  * path right. Returns members untouched when the folder does not exist.
  */
-async function attachMemberPhotos(members) {
+async function attachMemberPhotos(members, videos = []) {
   const dir = path.join(ROOT, 'assets', 'members');
   let files = [];
   try {
     files = await fs.readdir(dir);
   } catch {
-    return members; // no folder yet — every card falls back to a placeholder
+    files = [];
   }
 
   const exts = ['.jpg', '.jpeg', '.png', '.webp', '.avif'];
@@ -443,17 +443,40 @@ async function attachMemberPhotos(members) {
     byStem.set(path.basename(f, path.extname(f)).toLowerCase(), f);
   }
 
-  let found = 0;
+  /* Newest first, so a member's most recent appearance wins. The official
+     channel tags solo clips with the member's name — "Episode. 5 - #TAEYONG"
+     — which makes the feed a self-refreshing source of current-era imagery
+     for whoever is currently promoting. Members on military service simply
+     won't appear, and that absence is accurate rather than a hole. */
+  const byRecency = [...videos].sort((a, b) => String(b.date).localeCompare(String(a.date)));
+
+  let dropped = 0;
+  let fromFeed = 0;
+
   const out = members.map((m) => {
-    if (m.photo) return m; // curated override wins
-    const hit = byStem.get(String(m.name).toLowerCase());
-    if (!hit) return m;
-    found += 1;
-    return { ...m, photo: `assets/members/${hit}` };
+    if (m.photo) return m; // curated override wins over everything
+
+    const stem = byStem.get(String(m.name).toLowerCase());
+    if (stem) {
+      dropped += 1;
+      return { ...m, photo: `assets/members/${stem}`, photoFrom: 'drop-in' };
+    }
+
+    // Word-boundary match so "Mark" can't match "Markers" and #TAEYONG hits.
+    const re = new RegExp(`(^|[^a-z])${m.name}([^a-z]|$)`, 'i');
+    const vid = byRecency.find((v) => v.thumb && re.test(v.title || ''));
+    if (vid) {
+      fromFeed += 1;
+      return { ...m, photo: vid.thumb, photoFrom: 'video', photoDate: vid.date, photoUrl: vid.url };
+    }
+    return m;
   });
 
-  if (found) log.ok(`member photos — ${found}/${members.length} found in assets/members/`);
-  else log.warn(`assets/members/ has no matching files — cards fall back to placeholders`);
+  const none = members.length - dropped - fromFeed;
+  log.ok(
+    `member photos — ${dropped} drop-in, ${fromFeed} from the video feed` +
+      (none ? `, ${none} still placeholder` : '')
+  );
   return out;
 }
 
@@ -738,6 +761,24 @@ async function main() {
     ? releases.find((r) => fingerprint(r.title) === dropId) ?? null
     : null;
 
+  /* Stand-in artwork for an unreleased album.
+     Until BLINGY ships there is no cover in any music catalogue, so the hero
+     showed a stripe. The official channel is already posting promo for it,
+     so the newest clip whose title names the album stands in. It is replaced
+     automatically the moment the real release appears — dropRelease wins
+     wherever it exists, so nothing has to be undone here later. */
+  const dropArt = dropRelease
+    ? null
+    : (() => {
+        const title = curated.drop?.title;
+        if (!title || !vids?.length) return null;
+        const re = new RegExp(`(^|[^a-z])${title}([^a-z]|$)`, 'i');
+        const hit = [...vids]
+          .sort((a, b) => String(b.date).localeCompare(String(a.date)))
+          .find((v) => v.thumb && re.test(v.title || ''));
+        return hit ? { thumb: hit.thumb, from: hit.url, date: hit.date } : null;
+      })();
+
   // Debut confirmed against the Wikipedia summary, which opens with it.
   const debut = new Date('2016-07-07');
   const now = new Date();
@@ -752,7 +793,7 @@ async function main() {
      name, so `haechan.jpg` and `Haechan.JPG` both work. A curated `photo`
      field, if present, wins — that lets one member point somewhere else
      without moving the rest. */
-  const members = await attachMemberPhotos(curated.members ?? []);
+  const members = await attachMemberPhotos(curated.members ?? [], vids);
 
   const site = {
     generated: new Date().toISOString(),
@@ -785,7 +826,7 @@ async function main() {
     lineupLog: curated.lineupLog ?? [],
     lineupCheck: lineup ?? prev.lineupCheck ?? null,
     lineupDrift,
-    drop: { ...(curated.drop ?? {}), release: dropRelease },
+    drop: { ...(curated.drop ?? {}), release: dropRelease, standIn: dropArt },
     links: curated.links,
   };
 
