@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T10:58:48.637Z",
+  "generated": "2026-08-09T11:05:58.156Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -1055,7 +1055,7 @@
     },
     {
       "title": "NCT 127 Is Coming To Kuala Lumpur For “NEO CITY – THE RED LINE” Tour In January 2027",
-      "outlet": "myc.my",
+      "outlet": "MYC! Malaysian Youth Community",
       "date": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWJHWm15aHZaemY2cVhPY3BDbV9HbkRtTU9JbjdkcXozeTZRcjhGdzZJTzJTMXltbUptY0xKUnFROUxtVmpCeXR5NE91NjlES0ZpZE5jVzFoU21RdFQ5VWtvSkNyNDRxd1lWajBzc3RIZWZ2ck5VMzBkVjl4MUVNNzJlYk5ubTlvRmZoWHJpaDVILXlISXhkeHpzUWthMk5pY3MyMkI0MzVQd1N5UXYzNW1fQQ?oc=5"
     },
@@ -1191,7 +1191,11 @@
       "born": "1995-07-01",
       "from": "Seoul, South Korea",
       "status": "Active",
-      "joined": "2016-07-07"
+      "joined": "2016-07-07",
+      "photo": "https://i3.ytimg.com/vi/NgMRFP0Gs6w/hqdefault.jpg",
+      "photoFrom": "video",
+      "photoDate": "2026-08-03",
+      "photoUrl": "https://www.youtube.com/watch?v=NgMRFP0Gs6w"
     },
     {
       "name": "Johnny",
@@ -1201,7 +1205,11 @@
       "born": "1995-02-09",
       "from": "Chicago, U.S.",
       "status": "Active",
-      "joined": "2016-12-27"
+      "joined": "2016-12-27",
+      "photo": "https://i4.ytimg.com/vi/7atog837iCE/hqdefault.jpg",
+      "photoFrom": "video",
+      "photoDate": "2026-08-03",
+      "photoUrl": "https://www.youtube.com/watch?v=7atog837iCE"
     },
     {
       "name": "Yuta",
@@ -1211,7 +1219,11 @@
       "born": "1995-10-26",
       "from": "Osaka, Japan",
       "status": "Active",
-      "joined": "2016-07-07"
+      "joined": "2016-07-07",
+      "photo": "https://i2.ytimg.com/vi/imEvHC3LI7Q/hqdefault.jpg",
+      "photoFrom": "video",
+      "photoDate": "2026-08-02",
+      "photoUrl": "https://www.youtube.com/watch?v=imEvHC3LI7Q"
     },
     {
       "name": "Doyoung",
@@ -1231,7 +1243,11 @@
       "born": "1997-02-14",
       "from": "Seoul, South Korea",
       "status": "Active",
-      "joined": "2016-07-07"
+      "joined": "2016-07-07",
+      "photo": "https://i3.ytimg.com/vi/6OnOm10AZMA/hqdefault.jpg",
+      "photoFrom": "video",
+      "photoDate": "2026-08-02",
+      "photoUrl": "https://www.youtube.com/watch?v=6OnOm10AZMA"
     },
     {
       "name": "Jungwoo",
@@ -1251,7 +1267,11 @@
       "born": "2000-06-06",
       "from": "Seoul, South Korea",
       "status": "Active",
-      "joined": "2016-07-07"
+      "joined": "2016-07-07",
+      "photo": "https://i1.ytimg.com/vi/dUd3pUS45yk/hqdefault.jpg",
+      "photoFrom": "video",
+      "photoDate": "2026-08-02",
+      "photoUrl": "https://www.youtube.com/watch?v=dUd3pUS45yk"
     }
   ],
   "lineupLog": [
@@ -1321,9 +1341,16 @@
     "kind": "7th Album",
     "date": "2026-08-24T18:00:00+09:00",
     "trackCount": 9,
+    "_urlNote": "A real pre-order link, once one exists. Checked 2026-08-09: neither Apple Music nor Deezer has a BLINGY entry yet, so there is nothing to point at. Leave it empty and the hero button falls back to the newest teaser clip and says so; fill it in and the button becomes a genuine Pre-order. Once the album actually releases, the live catalogue entry wins over both.",
+    "url": "",
     "label": "SM Entertainment / Virgin Music Group",
     "note": "First full album since WALK in July 2024, released for the group's 10th anniversary.",
-    "release": null
+    "release": null,
+    "standIn": {
+      "thumb": "https://i4.ytimg.com/vi/GnXnZqkYJIs/hqdefault.jpg",
+      "from": "https://www.youtube.com/watch?v=GnXnZqkYJIs",
+      "date": "2026-08-05"
+    }
   },
   "links": [
     {
