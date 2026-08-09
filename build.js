@@ -528,10 +528,23 @@ async function stampHtml(site) {
      .trim() || t;
 
   const title = clean(r.title);
+
+  /* Lead with whatever the page itself leads with. While a drop is pending
+     that is the countdown, so a description opening "Their latest is WALK,
+     out 2024-07-15" described the wrong thing — search results and link
+     previews advertised a two-year-old album over the story on screen.
+     Falls back to the latest release the moment the drop lands or is
+     cleared, so it needs no attention either way. */
+  const drop = site.drop;
+  const pending = drop?.title && drop?.date && new Date(drop.date) > new Date();
+  const lede = pending
+    ? `${drop.title} — ${drop.kind || 'new release'} — arrives ${String(drop.date).slice(0, 10)}, ` +
+      `counting down live. Their latest out now is ${title}.`
+    : `Their latest is ${title}, out ${r.date}.`;
   const desc =
-    `Their latest is ${title}, out ${r.date}. An NCT 127 fan site that keeps ` +
-    `its own discography (${site.stats.releaseCount} releases), lineup, videos ` +
-    `and news up to date on its own.`;
+    `${lede} An NCT 127 fan site that keeps its own discography ` +
+    `(${site.stats.releaseCount} releases), lineup, videos and news up to ` +
+    `date on its own.`;
 
   const swap = (html, attr, key, value) =>
     html.replace(
@@ -543,14 +556,17 @@ async function stampHtml(site) {
     let html = await fs.readFile(file, 'utf8');
     const before = html;
 
-    html = swap(html, 'property', 'og:image', r.art);
+    /* og:image and twitter:image are deliberately NOT stamped. They point at
+       assets/og/share.jpg, this site's own evergreen card. They used to be
+       overwritten every run with r.art — the latest sleeve, hotlinked from
+       Apple's CDN — which put a third party in charge of every share preview
+       and let a 2024 cover represent a page leading with a 2026 countdown. */
     html = swap(html, 'property', 'og:description', desc);
     html = swap(html, 'name', 'description', desc);
-    html = swap(html, 'name', 'twitter:image', r.art);
 
     if (html !== before) {
       await fs.writeFile(file, html, 'utf8');
-      log.ok('index.html — social tags stamped with latest release');
+      log.ok('index.html — social description stamped');
     }
   } catch (err) {
     log.warn(`could not stamp index.html (${err.message})`);

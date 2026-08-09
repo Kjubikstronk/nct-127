@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<title>Share card generator — NCT 127</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@300;400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; padding: 2rem; background: #050607; color: #A8A49B;
+         font: 400 14px 'Space Mono', monospace; }
+  canvas { width: 100%; max-width: 1200px; height: auto; border: 1px solid rgba(184,255,41,.3); display: block; }
+  p { max-width: 78ch; line-height: 1.6; }
+  a { color: #B8FF29; }
+  b { color: #F4F1EA; }
+</style>
+</head>
+<body>
+
+<p><b>share.jpg generator.</b> Open this page, wait for the render, then use the
+link below and save the file over <code>assets/og/share.jpg</code>.</p>
+
+<p>This exists as a page rather than a script because the card is drawn in the
+site's real typefaces — Anton and Space Mono — and the only reliable way to get
+those onto a canvas is to let a browser load them first. Nothing here is
+fetched by the site itself; it is a tool, marked <code>noindex</code>, and it is
+not linked from anywhere.</p>
+
+<p><b>Keep the card evergreen.</b> Nothing dated belongs on it. A card naming
+the current album previews correctly for a few weeks and then misrepresents the
+page for years, which is exactly the failure it replaced.</p>
+
+<p id="out">rendering…</p>
+<canvas id="c" width="1200" height="630"></canvas>
+
+<script>
+(async () => {
+  await document.fonts.ready;
+  await Promise.all([
+    document.fonts.load('400 148px Anton'),
+    document.fonts.load('400 400px Anton'),
+    document.fonts.load('700 20px "Space Mono"'),
+    document.fonts.load('400 27px Inter'),
+  ]);
+
+  const W = 1200, H = 630;
+  const x = document.getElementById('c').getContext('2d');
+
+  x.fillStyle = '#050607';
+  x.fillRect(0, 0, W, H);
+
+  /* Hairline grid, the same motif the page uses behind the hero. */
+  x.strokeStyle = 'rgba(184,255,41,.055)';
+  x.lineWidth = 1;
+  for (let i = 45; i < W; i += 45) { x.beginPath(); x.moveTo(i + .5, 0); x.lineTo(i + .5, H); x.stroke(); }
+  for (let i = 45; i < H; i += 45) { x.beginPath(); x.moveTo(0, i + .5); x.lineTo(W, i + .5); x.stroke(); }
+
+  /* Two glows: magenta rising from the lower right, neon from the top left. */
+  let g = x.createRadialGradient(W * .78, H * 1.05, 0, W * .78, H * 1.05, 620);
+  g.addColorStop(0, 'rgba(255,47,185,.30)'); g.addColorStop(1, 'rgba(255,47,185,0)');
+  x.fillStyle = g; x.fillRect(0, 0, W, H);
+  g = x.createRadialGradient(W * .12, -60, 0, W * .12, -60, 560);
+  g.addColorStop(0, 'rgba(184,255,41,.22)'); g.addColorStop(1, 'rgba(184,255,41,0)');
+  x.fillStyle = g; x.fillRect(0, 0, W, H);
+
+  /* Outlined 127, oversized and bled off the right edge. */
+  x.save();
+  x.font = '400 400px Anton';
+  x.textAlign = 'right'; x.textBaseline = 'middle';
+  x.lineWidth = 2; x.strokeStyle = 'rgba(184,255,41,.16)';
+  x.strokeText('127', W - 56, H * .52);
+  x.restore();
+
+  /* HUD brackets, as on the cover frame. */
+  const B = 46, I = 38;
+  x.strokeStyle = '#B8FF29'; x.lineWidth = 3;
+  const br = (cx, cy, dx, dy) => {
+    x.beginPath(); x.moveTo(cx + dx * B, cy); x.lineTo(cx, cy); x.lineTo(cx, cy + dy * B); x.stroke();
+  };
+  br(I, I, 1, 1); br(W - I, I, -1, 1); br(I, H - I, 1, -1); br(W - I, H - I, -1, -1);
+
+  x.textAlign = 'left'; x.textBaseline = 'alphabetic';
+
+  x.font = '700 19px "Space Mono"'; x.letterSpacing = '6px'; x.fillStyle = '#B8FF29';
+  x.fillText('UNOFFICIAL FAN ARCHIVE', 92, 158);
+
+  x.letterSpacing = '2px'; x.font = '400 148px Anton';
+  x.shadowColor = 'rgba(184,255,41,.45)'; x.shadowBlur = 44;
+  x.fillStyle = '#F4F1EA'; x.fillText('NCT 127', 88, 300);
+  x.shadowBlur = 0;
+
+  x.fillStyle = '#B8FF29'; x.fillRect(92, 340, 300, 3);
+  x.fillStyle = 'rgba(184,255,41,.25)'; x.fillRect(392, 341, 560, 1);
+
+  x.letterSpacing = '1px'; x.font = '400 27px Inter, sans-serif'; x.fillStyle = '#A8A49B';
+  x.fillText('Discography · Lineup · Tour dates · Videos · News', 92, 404);
+
+  x.letterSpacing = '4px'; x.font = '700 20px "Space Mono"'; x.fillStyle = '#DDFF7A';
+  x.fillText('UPDATES ITSELF EVERY 6 HOURS', 92, 462);
+
+  x.letterSpacing = '3px'; x.font = '400 18px "Space Mono"'; x.fillStyle = '#7c8a6a';
+  x.fillText('KJUBIKSTRONK.GITHUB.IO/NCT-127', 92, 556);
+
+  /* JPEG, not WebP: WebP is a third smaller here but Facebook, LinkedIn and
+     X do not reliably accept it for og:image, and a share card that some
+     scrapers drop is worse than a larger one they all read. */
+  const url = document.getElementById('c').toDataURL('image/jpeg', 0.86);
+  const kb = Math.round(url.split(',')[1].length * 0.75 / 1024);
+  document.getElementById('out').innerHTML =
+    `<a href="${url}" download="share.jpg"><b>Download share.jpg</b></a> — 1200×630, ${kb} kB`;
+})();
+</script>
+
+</body>
+</html>
