@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T11:06:08.010Z",
+  "generated": "2026-08-09T11:29:40.891Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -820,13 +820,13 @@
   "news": [
     {
       "title": "The Odyssey Interview Relay Features Nolan, Yoo Jae-seok, NCT127",
-      "outlet": "chosun.com",
+      "outlet": "조선일보",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanh3MVRCOFZZeE9weEhSb1NGbmRPZGFBZGNUSXotZHVzRndmal9WaVZ4cjU3T0FqWGpEZFpjbHQ2LWNJM05GZUI2UktLTjljRGdGckRKcXFCa1JISGJqeG5VcWRCM2plaXJzWUtHTHU4YlEycFBLdEhLX1EzZ1B2b1BEeDRWeVV0QVlDRGNR?oc=5"
     },
     {
       "title": "\"From Yoo Jae-suk to NCT 127\"...Christopher Nolan's 'Odyssey' Teases a Relay of Interviews",
-      "outlet": "스포츠조선",
+      "outlet": "sportschosun.com",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pYjhXWko1NG92SmtsclE3WjlIWU83THMyS1BDQk1OTWoyNWlLTk43NngwSFB4dmxmS29JcF80SGQ3UVVaczZuQVVnemxMNmtOUWZnTTBFbUJPYWJ1ZzlHWG5NbG1mMXFsQzJqQnl5WEM1YTJBNHYxV21MZnh2Zw?oc=5"
     },
@@ -838,7 +838,7 @@
     },
     {
       "title": "The Odyssey Stars Meet NCT 127 in Special Korean Interviews",
-      "outlet": "chosun.com",
+      "outlet": "조선일보",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmhQOWdUeWJQSUlpY0FrdFFxakRpZDMtM25DcWlHNFBMRFpHR18tSUwwdTF2RllJNnBDakRSY2E0MHV3ZWJaX1VhWmVyX2NLUTN5eHZEUUp2MC1Md1o2VFAzalBnemZUT08xZC1samlLMDkzR3dnQVRnNENRVUhJWTZ4VjdydmhZU2ZVa2RR?oc=5"
     },
@@ -946,7 +946,7 @@
     },
     {
       "title": "NCT 127 Reunites for 'BLINGY' Comeback",
-      "outlet": "chosun.com",
+      "outlet": "조선일보",
       "date": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWi1zXzhtVEhtb1h1MEZlTVRsTEktQmh3NW9ROFE0d3BCV05USUlNYjF2cy00WkpaYUNHSHlXSUUxamhEX0Y2SlBpbGJISzRncFZlNUV2QzV3VWQxRE5LSmpicDNONTdwY1lsQ3pRNmZUc1Vsa1dabVotbHBZaUZhNzZLWURKU09TZHRsUlJB?oc=5"
     },
@@ -1192,10 +1192,8 @@
       "from": "Seoul, South Korea",
       "status": "Active",
       "joined": "2016-07-07",
-      "photo": "https://i3.ytimg.com/vi/NgMRFP0Gs6w/hqdefault.jpg",
-      "photoFrom": "video",
-      "photoDate": "2026-08-03",
-      "photoUrl": "https://www.youtube.com/watch?v=NgMRFP0Gs6w"
+      "photo": "assets/members/Taeyong.jpg",
+      "photoFrom": "drop-in"
     },
     {
       "name": "Johnny",
@@ -1206,10 +1204,8 @@
       "from": "Chicago, U.S.",
       "status": "Active",
       "joined": "2016-12-27",
-      "photo": "https://i4.ytimg.com/vi/7atog837iCE/hqdefault.jpg",
-      "photoFrom": "video",
-      "photoDate": "2026-08-03",
-      "photoUrl": "https://www.youtube.com/watch?v=7atog837iCE"
+      "photo": "assets/members/Johnny.webp",
+      "photoFrom": "drop-in"
     },
     {
       "name": "Yuta",
@@ -1220,10 +1216,8 @@
       "from": "Osaka, Japan",
       "status": "Active",
       "joined": "2016-07-07",
-      "photo": "https://i2.ytimg.com/vi/imEvHC3LI7Q/hqdefault.jpg",
-      "photoFrom": "video",
-      "photoDate": "2026-08-02",
-      "photoUrl": "https://www.youtube.com/watch?v=imEvHC3LI7Q"
+      "photo": "assets/members/Yuta.jpg",
+      "photoFrom": "drop-in"
     },
     {
       "name": "Doyoung",
@@ -1233,7 +1227,9 @@
       "born": "1996-02-01",
       "from": "Guri, South Korea",
       "status": "Service",
-      "joined": "2016-12-27"
+      "joined": "2016-12-27",
+      "photo": "assets/members/Doyoung.jpg",
+      "photoFrom": "drop-in"
     },
     {
       "name": "Jaehyun",
@@ -1244,10 +1240,8 @@
       "from": "Seoul, South Korea",
       "status": "Active",
       "joined": "2016-07-07",
-      "photo": "https://i3.ytimg.com/vi/6OnOm10AZMA/hqdefault.jpg",
-      "photoFrom": "video",
-      "photoDate": "2026-08-02",
-      "photoUrl": "https://www.youtube.com/watch?v=6OnOm10AZMA"
+      "photo": "assets/members/Jaehyun.jpg",
+      "photoFrom": "drop-in"
     },
     {
       "name": "Jungwoo",
@@ -1257,7 +1251,9 @@
       "born": "1998-02-19",
       "from": "Seoul, South Korea",
       "status": "Service",
-      "joined": "2018-09-12"
+      "joined": "2018-09-12",
+      "photo": "assets/members/Jungwoo.webp",
+      "photoFrom": "drop-in"
     },
     {
       "name": "Haechan",
@@ -1268,10 +1264,8 @@
       "from": "Seoul, South Korea",
       "status": "Active",
       "joined": "2016-07-07",
-      "photo": "https://i1.ytimg.com/vi/dUd3pUS45yk/hqdefault.jpg",
-      "photoFrom": "video",
-      "photoDate": "2026-08-02",
-      "photoUrl": "https://www.youtube.com/watch?v=dUd3pUS45yk"
+      "photo": "assets/members/Haechan.webp",
+      "photoFrom": "drop-in"
     }
   ],
   "lineupLog": [
