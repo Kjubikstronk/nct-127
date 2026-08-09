@@ -337,7 +337,10 @@ function renderLineup() {
         <i class="mem__b mem__b--br" aria-hidden="true"></i>
         <div class="mem__ph">
           <span class="mem__pos">${esc(m.position || '')}</span>
-          ${placeholder(`${m.name} photo`)}
+          ${m.photo
+            ? `<img src="${esc(m.photo)}" alt="${esc(m.name)}" loading="lazy" decoding="async"
+                    onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'ph',textContent:'${esc(m.name)} photo'}))">`
+            : placeholder(`${m.name} photo`)}
           <span class="mem__no">NO.${pad2(i + 1)}</span>
         </div>
         <div class="mem__body">

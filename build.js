@@ -419,6 +419,44 @@ function mergeReleases(apple, deezer, known = []) {
     }));
 }
 
+/**
+ * Look for a drop-in photo per member.
+ *
+ * Deliberately filesystem-driven rather than curated-by-hand: adding a photo
+ * should be dropping a file in a folder, not editing JSON and getting the
+ * path right. Returns members untouched when the folder does not exist.
+ */
+async function attachMemberPhotos(members) {
+  const dir = path.join(ROOT, 'assets', 'members');
+  let files = [];
+  try {
+    files = await fs.readdir(dir);
+  } catch {
+    return members; // no folder yet — every card falls back to a placeholder
+  }
+
+  const exts = ['.jpg', '.jpeg', '.png', '.webp', '.avif'];
+  const byStem = new Map();
+  for (const f of files) {
+    const ext = path.extname(f).toLowerCase();
+    if (!exts.includes(ext)) continue;
+    byStem.set(path.basename(f, path.extname(f)).toLowerCase(), f);
+  }
+
+  let found = 0;
+  const out = members.map((m) => {
+    if (m.photo) return m; // curated override wins
+    const hit = byStem.get(String(m.name).toLowerCase());
+    if (!hit) return m;
+    found += 1;
+    return { ...m, photo: `assets/members/${hit}` };
+  });
+
+  if (found) log.ok(`member photos — ${found}/${members.length} found in assets/members/`);
+  else log.warn(`assets/members/ has no matching files — cards fall back to placeholders`);
+  return out;
+}
+
 function classify(r) {
   const t = r.title.toLowerCase();
   if (/soundtrack|ost\b/.test(t)) return 'OST';
@@ -706,7 +744,15 @@ async function main() {
   const years = (from) =>
     Math.floor((now - from) / (365.25 * 24 * 3600 * 1000));
 
-  const members = curated.members ?? [];
+  /* Member photos are the one image class with no keyless source — unlike
+     album art and video thumbnails, no URL arrives with an API response, and
+     the freely-licensed images that do exist are years out of date.
+     So they are drop-in: put a file at assets/members/<name>.<ext> and it is
+     picked up on the next build. Matching is case-insensitive on the member's
+     name, so `haechan.jpg` and `Haechan.JPG` both work. A curated `photo`
+     field, if present, wins — that lets one member point somewhere else
+     without moving the rest. */
+  const members = await attachMemberPhotos(curated.members ?? []);
 
   const site = {
     generated: new Date().toISOString(),
