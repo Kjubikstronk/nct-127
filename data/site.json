@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T11:29:40.891Z",
+  "generated": "2026-08-09T15:50:18.834Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -712,6 +712,13 @@
   ],
   "videos": [
     {
+      "id": "54vn_7Pm-1A",
+      "title": "NCT 127 엔시티 127 'Piñata' Track Video Teaser",
+      "date": "2026-08-09",
+      "url": "https://www.youtube.com/watch?v=54vn_7Pm-1A",
+      "thumb": "https://i2.ytimg.com/vi/54vn_7Pm-1A/hqdefault.jpg"
+    },
+    {
       "id": "GnXnZqkYJIs",
       "title": "NCT 127 엔시티 127 'BLINGY' : BLINGY JETS",
       "date": "2026-08-05",
@@ -808,13 +815,6 @@
       "date": "2026-07-31",
       "url": "https://www.youtube.com/watch?v=1AI-7u98ndE",
       "thumb": "https://i2.ytimg.com/vi/1AI-7u98ndE/hqdefault.jpg"
-    },
-    {
-      "id": "azKOJIeDkuw",
-      "title": "fit checkkk #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
-      "date": "2026-07-31",
-      "url": "https://www.youtube.com/watch?v=azKOJIeDkuw",
-      "thumb": "https://i2.ytimg.com/vi/azKOJIeDkuw/hqdefault.jpg"
     }
   ],
   "news": [
@@ -939,16 +939,16 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QMUZtbnBnNTB1THFSdE14S3BGMVlhN2J2NGx5bUJNeC1SOVBHdXhybE5BWlpReTJ1WmxoQ1Y2YkZOQWtZeDNvQVFWVnZqSnJDdzc2NHBkWHFPRHI4UDQ5MlRKSVZCMFBXeVE2OGRqYUs4eFJJNExVMg?oc=5"
     },
     {
-      "title": "NCT 127 reunites for comeback with BLINGY trailer - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
-      "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmpmSHdkNUgzX1pFZk9Tendnem0yTjVNc25lY3FkMkxBYTdCeHlRS08tYjc3ZFZ0dHc3SWFyeEczZFdzZDI1c3VkUWIwQ0ppT0pIOFFiVWplVEhHNmRtVHRQQ00ybm9VbzRVck9BT0lHNXNPSzVpbGVDd0E2MTBmQTFYOGFnaXVq0gGcAUFVX3lxTE1BUkQ4N3poMXpwYmR1YS11S0pVbEZHRHpmemtDc05Bd25PT1BVNEFGYW1EUnlmNzdVWE9PUUE1aHpCRVJ3SElzNFl0SlNaZWdUS1lUN0wzeENaM1JnRXRIMHIydWR3OXgtRTZXMDEwd2hHcHp2a041cmpXenlReDFQalBhalNyT0RsMzlveTYwWGN0a1k0MnZqUXAwTg?oc=5"
-    },
-    {
       "title": "NCT 127 Reunites for 'BLINGY' Comeback",
       "outlet": "조선일보",
       "date": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWi1zXzhtVEhtb1h1MEZlTVRsTEktQmh3NW9ROFE0d3BCV05USUlNYjF2cy00WkpaYUNHSHlXSUUxamhEX0Y2SlBpbGJISzRncFZlNUV2QzV3VWQxRE5LSmpicDNONTdwY1lsQ3pRNmZUc1Vsa1dabVotbHBZaUZhNzZLWURKU09TZHRsUlJB?oc=5"
+    },
+    {
+      "title": "NCT 127 reunites for comeback with BLINGY trailer - CHOSUNBIZ",
+      "outlet": "Chosunbiz",
+      "date": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmpmSHdkNUgzX1pFZk9Tendnem0yTjVNc25lY3FkMkxBYTdCeHlRS08tYjc3ZFZ0dHc3SWFyeEczZFdzZDI1c3VkUWIwQ0ppT0pIOFFiVWplVEhHNmRtVHRQQ00ybm9VbzRVck9BT0lHNXNPSzVpbGVDd0E2MTBmQTFYOGFnaXVq0gGcAUFVX3lxTE1BUkQ4N3poMXpwYmR1YS11S0pVbEZHRHpmemtDc05Bd25PT1BVNEFGYW1EUnlmNzdVWE9PUUE1aHpCRVJ3SElzNFl0SlNaZWdUS1lUN0wzeENaM1JnRXRIMHIydWR3OXgtRTZXMDEwd2hHcHp2a041cmpXenlReDFQalBhalNyT0RsMzlveTYwWGN0a1k0MnZqUXAwTg?oc=5"
     },
     {
       "title": "[NOTICE] ‘NEO CITY : BANGKOK - THE REDLINE’ “NCTzen 127” Membership (GL) Pre-Sale Information",
@@ -1187,19 +1187,20 @@
       "name": "Taeyong",
       "hangul": "태용",
       "full": "Lee Tae-yong",
-      "position": "Leader · Rapper",
+      "position": "Main Rapper",
+      "leader": true,
       "born": "1995-07-01",
       "from": "Seoul, South Korea",
       "status": "Active",
       "joined": "2016-07-07",
-      "photo": "assets/members/Taeyong.jpg",
+      "photo": "assets/members/Taeyong.webp",
       "photoFrom": "drop-in"
     },
     {
       "name": "Johnny",
       "hangul": "쟈니",
       "full": "Seo Young-ho",
-      "position": "Rapper",
+      "position": "Lead Rapper",
       "born": "1995-02-09",
       "from": "Chicago, U.S.",
       "status": "Active",
@@ -1211,12 +1212,12 @@
       "name": "Yuta",
       "hangul": "유타",
       "full": "Nakamoto Yuta",
-      "position": "Dancer",
+      "position": "Lead Dancer",
       "born": "1995-10-26",
       "from": "Osaka, Japan",
       "status": "Active",
       "joined": "2016-07-07",
-      "photo": "assets/members/Yuta.jpg",
+      "photo": "assets/members/Yuta.webp",
       "photoFrom": "drop-in"
     },
     {
@@ -1228,19 +1229,19 @@
       "from": "Guri, South Korea",
       "status": "Service",
       "joined": "2016-12-27",
-      "photo": "assets/members/Doyoung.jpg",
+      "photo": "assets/members/Doyoung.webp",
       "photoFrom": "drop-in"
     },
     {
       "name": "Jaehyun",
       "hangul": "재현",
       "full": "Jung Jae-hyun",
-      "position": "Main Vocal",
+      "position": "Lead Vocal",
       "born": "1997-02-14",
       "from": "Seoul, South Korea",
       "status": "Active",
       "joined": "2016-07-07",
-      "photo": "assets/members/Jaehyun.jpg",
+      "photo": "assets/members/Jaehyun.webp",
       "photoFrom": "drop-in"
     },
     {

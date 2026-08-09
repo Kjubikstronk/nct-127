@@ -150,22 +150,36 @@ function renderHero() {
   const note = $('[data-drop-note]');
   if (note) note.textContent = drop.note || '';
 
-  /* Cover, in order of preference: the real artwork once the release exists,
-     otherwise the promo still build.js picked from the video feed, otherwise
-     a stripe. The stand-in is labelled so it never passes as the sleeve. */
+  /* Cover. Two states, and the second is the one on screen until release day.
+
+     With real artwork it is just the sleeve. Without it, a designed
+     "coming soon" plate rather than a bare stripe: the teaser still sits
+     behind it desaturated and dimmed so the frame holds an image without
+     the still passing as the cover, and the title reads as a promise
+     instead of a missing asset. The still is credited in the corner.
+
+     One moving part only — the scan sweep — because the hero already
+     carries a radar, a grain layer and its own scan line. */
   const slot = $('.cover__slot');
-  const art = rel?.art || rel?.artSmall || drop.standIn?.thumb || null;
+  const art = rel?.art || rel?.artSmall || null;
   if (slot) {
     if (art) {
       setImg($('[data-drop-art]', slot), art);
-      if (!rel && drop.standIn) {
-        slot.insertAdjacentHTML(
-          'beforeend',
-          `<span class="cover__note">Promo still · cover not out yet</span>`
-        );
-      }
     } else {
-      slot.innerHTML = placeholder(`${drop.title || 'Album'} cover`);
+      const still = drop.standIn?.thumb;
+      slot.innerHTML =
+        `<div class="soon">` +
+          (still
+            ? `<img class="soon__bg" src="${esc(still)}" alt="" aria-hidden="true" decoding="async">` +
+              `<span class="soon__tint" aria-hidden="true"></span>`
+            : '') +
+          `<span class="soon__scan" aria-hidden="true"></span>` +
+          `<span class="soon__txt">` +
+            `<b>${esc(drop.title || 'Album')}</b>` +
+            `<i>Cover coming soon</i>` +
+          `</span>` +
+          (still ? `<span class="soon__src">Teaser still</span>` : '') +
+        `</div>`;
     }
   }
   const cap = $('[data-drop-cap]');
@@ -362,6 +376,7 @@ function renderLineup() {
         <i class="mem__b mem__b--br" aria-hidden="true"></i>
         <div class="mem__ph">
           <span class="mem__pos">${esc(m.position || '')}</span>
+          ${m.leader ? `<span class="mem__lead">Leader</span>` : ''}
           ${m.photo
             ? `<img src="${esc(m.photo)}" alt="${esc(m.name)}" loading="lazy" decoding="async"
                     onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'ph',textContent:'${esc(m.name)} photo'}))">`

@@ -19,6 +19,24 @@ partial set is fine.
 Square-ish crops look best; the frame is 3:4 and crops to fill.
 
 
+SIZE THEM BEFORE YOU COMMIT
+---------------------------
+
+The card is about 300px wide, so 640px on the long edge is already twice
+what any screen needs. Straight-from-the-source promo shots are 2000-4096px
+and 1-2 MB each; seven of those made an 8.5 MB lineup section, which is most
+of a mobile data allowance spent on detail nobody can see at card size.
+
+There is no resizer in build.js on purpose — every image encoder is a
+dependency, and this repo has none. One line of the ffmpeg already on this
+machine does it:
+
+    ffmpeg -i Taeyong.jpg -vf scale=640:-2 -c:v libwebp -quality 82 Taeyong.webp
+
+That lands each portrait at 25-90 kB with no visible loss at card size.
+Delete the oversized original afterwards, or both files sit in the repo.
+
+
 WHY THIS IS A FOLDER AND NOT AUTOMATIC
 --------------------------------------
 
