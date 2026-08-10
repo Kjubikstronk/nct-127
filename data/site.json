@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T08:08:48.233Z",
+  "generated": "2026-08-10T13:49:11.528Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -10,26 +10,38 @@
   "stats": {
     "yearsSinceDebut": 10,
     "memberCount": 7,
-    "releaseCount": 37,
-    "albumCount": 10
+    "releaseCount": 38,
+    "albumCount": 11
   },
   "latest": {
-    "id": "itunes-1766628771",
-    "title": "WALK - The 6th Album",
-    "date": "2024-07-15",
-    "trackCount": 12,
-    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a2/dd/e2a2dd12-a6c8-75d2-f505-2ebaaa98a242/00888735948176_Cover.jpg/1400x1400bb.jpg",
-    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/a2/dd/e2a2dd12-a6c8-75d2-f505-2ebaaa98a242/00888735948176_Cover.jpg/600x600bb.jpg",
-    "url": "https://music.apple.com/us/album/walk-the-6th-album/1766628771?uo=4",
-    "copyright": "℗ 2024 SM Entertainment",
+    "id": "itunes-6798956146",
+    "title": "BLINGY - The 7th Album",
+    "date": "2026-08-24",
+    "trackCount": 10,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/c2/8f/33c28f18-5ecc-8a39-cf52-9756fa1b6efb/888735956515_Cover.jpg/1400x1400bb.jpg",
+    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/c2/8f/33c28f18-5ecc-8a39-cf52-9756fa1b6efb/888735956515_Cover.jpg/600x600bb.jpg",
+    "url": "https://music.apple.com/us/album/blingy-the-7th-album/6798956146?uo=4",
+    "copyright": "℗ 2026 SM Entertainment",
     "genre": "K-Pop",
     "via": "apple",
-    "recordType": "album",
-    "deezerUrl": "https://www.deezer.com/album/639207261",
     "kind": "Album",
-    "year": "2024"
+    "year": "2026"
   },
   "releases": [
+    {
+      "id": "itunes-6798956146",
+      "title": "BLINGY - The 7th Album",
+      "date": "2026-08-24",
+      "trackCount": 10,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/c2/8f/33c28f18-5ecc-8a39-cf52-9756fa1b6efb/888735956515_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/c2/8f/33c28f18-5ecc-8a39-cf52-9756fa1b6efb/888735956515_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/blingy-the-7th-album/6798956146?uo=4",
+      "copyright": "℗ 2026 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "Album",
+      "year": "2026"
+    },
     {
       "id": "itunes-1806522682",
       "title": "K-POP ScreaM 2",
@@ -712,6 +724,13 @@
   ],
   "videos": [
     {
+      "id": "jlyzWQ7USMQ",
+      "title": "【속보】 해결사 크루 일이칠, ❇️서울에서 집결❇️ | 127 버스터즈 上",
+      "date": "2026-08-10",
+      "url": "https://www.youtube.com/watch?v=jlyzWQ7USMQ",
+      "thumb": "https://i3.ytimg.com/vi/jlyzWQ7USMQ/hqdefault.jpg"
+    },
+    {
       "id": "54vn_7Pm-1A",
       "title": "NCT 127 엔시티 127 'Piñata' Track Video Teaser",
       "date": "2026-08-09",
@@ -808,43 +827,54 @@
       "date": "2026-07-31",
       "url": "https://www.youtube.com/watch?v=mFR_BUJAydE",
       "thumb": "https://i2.ytimg.com/vi/mFR_BUJAydE/hqdefault.jpg"
-    },
-    {
-      "id": "1AI-7u98ndE",
-      "title": "Just tryna be myself #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
-      "date": "2026-07-31",
-      "url": "https://www.youtube.com/watch?v=1AI-7u98ndE",
-      "thumb": "https://i2.ytimg.com/vi/1AI-7u98ndE/hqdefault.jpg"
     }
   ],
   "news": [
     {
+      "title": "K-Pop Drop Zone: All the Upcoming Album and EP Releases",
+      "outlet": "inmusicblog.com",
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3OUoxTkZGVER1VGo4eXpQbU5LWDNSQ2YxMl9xeGVqcU1CR3E1TklhX2V3WDFkS0NOUl9oRUpmdU1ZdkJzV0ZkZmJVdHNldVQ2VE9RWUpISW1KQkZ1a0t5RUh4a2dFcVdkTUF6Z1RfUkxPQQ?oc=5"
+    },
+    {
+      "title": "[NOTICE] ‘NEO CITY : JAKARTA - THE REDLINE’ “NCTzen 127” Membership (GL) Pre-Sale Information",
+      "outlet": "weverse.io",
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZmpwMXgxakxIODg3QWFZVzR3bVFGekZmOTVkRmttRWpBY21vZl8wNlpyN2J0Wng0LUpFTVNfbWlKSGFJQXY0U3FxSTJhWnM?oc=5"
+    },
+    {
       "title": "[NOTICE] ‘NEO CITY : HONG KONG - THE REDLINE’ “NCTzen 127” Membership (GL) Pre-Sale Information",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Ni10TmxOS2V1T09yYnQ3YnJkYjBad3ZRM0pCXzRZcUxtaFdtS1huWGcwX0VNZ3Vib1hOUFRIV0JUQkJLaFhhaWJVa21lUms?oc=5"
     },
     {
+      "title": "[Notice] NCT 127 THE 7TH ALBUM [BLINGY] COMEBACK LIVE PARTY Event Announcement",
+      "outlet": "weverse.io",
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OV2FlZ29iVGR1YnF2cWo0OWgyWHhfd09lWFZPWlpVcVptQzFYYlhOOGh3Smg0c0NqWTBYb1Z2VWRXYkNTajN3cG5IQWNLMXM?oc=5"
+    },
+    {
       "title": "WeverseNCT 127 Media - NCT 127 엔시티 127 'Piñata' Track Video Teaser",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03aEVycHRfOXB1S1N0TWdjdlhEUlU4ajJaRlFDekljVnZiV21sRWdOYXROWlg4anZsYkwtZ1RvcEtuM0l5UlVsTnYxQzBoWV9KczNSSHM2ZGd1N2VsbnRLQ0tB?oc=5"
     },
     {
       "title": "Multimedia de NCT 127 de Weverse - NCT 1",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MSEdUSFZDanVhbzA5QkppM09QVFpSWU5RQnlLQnp2cjR1dVE5cHJFVGRhVWVmdjdDRm1FR2NWWDRUblBOeDEzS3hZaVVadkZRY0lNX3ExdFRmZ0hmYkE?oc=5"
     },
     {
       "title": "Weverse NCT 127 Media - NCT 127 엔시티 127 'Piñata' Track Video Teaser",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HM0tJdzRKVWE0SWFucTRvMGlzZ0lpSF9HQ3NRTzlIRHVQZmVacEhuSHhFTXpvSUZ1ZDlwRXJyaXlHZG5sckl4WUhwQThiakg4TzM2RkFn?oc=5"
     },
     {
       "title": "\"From Yoo Jae-suk to NCT 127\"...Christopher Nolan's 'Odyssey' Teases a Relay of Interviews",
-      "outlet": "sportschosun.com",
+      "outlet": "스포츠조선",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pYjhXWko1NG92SmtsclE3WjlIWU83THMyS1BDQk1OTWoyNWlLTk43NngwSFB4dmxmS29JcF80SGQ3UVVaczZuQVVnemxMNmtOUWZnTTBFbUJPYWJ1ZzlHWG5NbG1mMXFsQzJqQnl5WEM1YTJBNHYxV21MZnh2Zw?oc=5"
     },
@@ -862,105 +892,87 @@
     },
     {
       "title": "Weverse NCT 127 画像 - BLINGY JETS #HAECHA",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTFpibGdNRElGamttVTY4TXhZMEtvcEdTOEFIZkRzaUNiMEZpdVpzX2syNnhiclZ6UGN2VTZqU3RBUzNwZTd6QlltdXFpbjlsUWFHNkdJdVpJbjJwMFE?oc=5"
     },
     {
       "title": "Weverse NCT 127 画像 - BLINGY JETS #TAEYON",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FRndCV2lTUU5rQ3E3cUlnaGtnV2loTlNENEp5aDQ5QkFwc0dfeHRoLUpKSmJWaXIzX2xJZVowRnVzYkVSdHhfMGIzODJoMU9fRE5LMW9DTmswWGJnVVE?oc=5"
     },
     {
       "title": "Weverse NCT 127 画像 - BLINGY JETS",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94RUVlZHhuaWhVUkQ3a1ZDTV95UEpGSUNfOUxkOVJNLVphOUg1X0UycWhYS1A3S0pJY2RCdEZWR3I4akVYalgwQk83NFhRZHNpelpYVUxlVTNQMy1taXc?oc=5"
     },
     {
       "title": "Weverse NCT 127 画像 - BLINGY JETS #JAEHYU",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11WHVBQ05qNEw2eURPXzJUWUVkS2N5V1ZOSDhpS2NxVHk3emxhdjFYR3MtdVpuRTdaNi1ySUNSYnRibXFCZ0ozUEFxSG5CUDU4dWw2dVBKQXhZekw1R1E?oc=5"
     },
     {
       "title": "위버스 NCT 127 Media - BLINGY JETS",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDWkQ4Vkl2VTN5WlExZ29Qd2ZJWE1XZnNnODZmSF93RVNTb3NkdndZSkswelRQeEJTU1RZWlhZbmg4OEtIdlFkZmFPYlNHUHEyMjVLSXBnTk9XMUhSSlE?oc=5"
     },
     {
       "title": "Multimedia de NCT 127 de Weverse - BLING",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEQjBNSlVEeGMwb2k4cjN3Z0l3ZFVaMk1aR19XV3owblM0VURod2xtaXAwNUVlcVE4VWZjMVAwRVpKc1Bhc3V6RU1waS1XajVvVllJWlRtQmttdXo1SWc?oc=5"
     },
     {
       "title": "Weverse NCT 127 Image - BLINGY JETS",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Sd0g3SjBIbzVoa1lXd1laQ0V5TE81ZmlKb2Z5OEZQY0ZnM1FhNkt3emRnTjhyeEdkVkFwcDNkNUFrUFY2WklXSlZBYnlobnJhM3FIUE9R?oc=5"
     },
     {
       "title": "Weverse NCT 127 Media - BLINGY JETS",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WUUdYMS1tWTVoVWpqUWFHZWllbTZWQzhDZkxfNXRkb1BDSjZONXdyY2ltUDBCR2NtM2dUOWVHRWo3LUdBS2VQZEd6ZUlYYUVfNE9YeF9n?oc=5"
     },
     {
       "title": "Reshuffled lineups, solo returns, wave of debuts define August's K-pop releases",
-      "outlet": "The Korea Times",
+      "outlet": "koreatimes.co.kr",
       "date": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXRtYy05TXFTQmZpWm44MUNoVmZpQlpLN0xCLURGWXM1WFZHMGZ1MlZyQTRtSjVLaWVQLV9CWDZCX2FnTXpNVTFwS2NBa1lpRW5reTdMd1hfdEhEZzBOYW5sSW1xb3J1WDFmeUhKbU1obF9Nanl1ZndFN0dWQkNDTUw1Qk90cDhmMnI2cnVHN0x3ZTV1b1VOWnE5RGE3Mkl1UjZrekY0ZjBfaWNNZ1U1bkc1aDB2LXBwTnpkY0RsYzk0MUU4NktOcjFvdHBQdGvSAdQBQVVfeXFMUEpBcTJObThGVy1ya2JaQm91amJONENlMXpla183eWY1LTN3NzVQZ3JEUFhrdDE1VmxzQlVTQWpSWEhVSE54SmpFR2lza0lmcUtHLUVSdDc1cEhoY1FMMERrRVhPRW9DUHpBSDZLUFU0ODV6V0c1Q1VoZ3h6NU1Wb0NMWHlVdm13cXFfWXJIN2YwMURDME0zNlJPcWgzRGlYRnhPNnZSb2oxZHdFY3FBU2dtRkVpMXhQd2h6NXBHRFZ0TG5UVHladlRnR2Y1RG12WXlxY2o?oc=5"
     },
     {
       "title": "Weverse NCT 127 画像 - BLINGY JETS #YUTA",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQzk4aTBjbTVHVjlxbVpMOU1Ja3VJQ1V2ejZVRjZqY2xGbkJiYW5ldjVnNjFpb0hzd1FpamhsOWd2bVg5T2UwZHhzN0xSbkJ0S2dPSlpOaGdFRFlFZGc?oc=5"
     },
     {
       "title": "Weverse NCT 127 Image - BLINGY JETS #YUT",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQjFKc1NjYmNvdktGQzY2bEZXblA2bU9INkx4bFJuRVI0aGJrZTFuOGZBWWp3bXZsUVNNVHVCSzZkSTJfem9aNm1SLUdpUG1fYTVlNUtB?oc=5"
     },
     {
       "title": "Weverse NCT 127 Image - BLINGY JETS #JAE",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83clJwWFlHWDg1V3pyaUJmbENHUGhtdlFCV3JMRE51aUoxNXZVLWJUbG5kb0VKdEdPU0toRk5PWG1nYUtIcUwtTTh0N0xRUG45d1Y3aFpR?oc=5"
     },
     {
       "title": "Weverse NCT 127 Image - BLINGY JETS #JOH",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcmcxNTFfeER0Ymo2MXZLbWswZVZkUWFSMzBiM1lFUkw3LVVhcW54QkNyZzNZMEhid2huR0FIUktrYVBkOFZrcXU0aS1qTWRtUUx3MHNB?oc=5"
     },
     {
       "title": "Weverse NCT 127 Image - BLINGY JETS #TAE",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zNDV2SlNQTXlKTXo0STFUc0MwNHRGWXREcENRYUxQRnhkdjdHZ3lpQnp6cmlXaEFFdnp3ODZueG5VeS0zSXVKRUljdjRwdUkxTndRakVn?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 Image - BLINGY JETS #HAE",
-      "outlet": "Weverse",
-      "date": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUZjh1WmlHMmM5NExqYk1hRjJsSVI3QS1YcmNoSEx6Qk9uUFFRNklJWW9xUGNrU0FPVHNLT0ZJeFBEU0ZIUVRqeURUVjhqQ2VuV01WTXB3?oc=5"
-    },
-    {
-      "title": "'10th Anniversary' NCT 127, Called Back to One Place Again..'BLINGY' Trailer Opens",
-      "outlet": "starnewskorea.com",
-      "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QMUZtbnBnNTB1THFSdE14S3BGMVlhN2J2NGx5bUJNeC1SOVBHdXhybE5BWlpReTJ1WmxoQ1Y2YkZOQWtZeDNvQVFWVnZqSnJDdzc2NHBkWHFPRHI4UDQ5MlRKSVZCMFBXeVE2OGRqYUs4eFJJNExVMg?oc=5"
-    },
-    {
-      "title": "NCT 127 Reunites for 'BLINGY' Comeback",
-      "outlet": "조선일보",
-      "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWi1zXzhtVEhtb1h1MEZlTVRsTEktQmh3NW9ROFE0d3BCV05USUlNYjF2cy00WkpaYUNHSHlXSUUxamhEX0Y2SlBpbGJISzRncFZlNUV2QzV3VWQxRE5LSmpicDNONTdwY1lsQ3pRNmZUc1Vsa1dabVotbHBZaUZhNzZLWURKU09TZHRsUlJB?oc=5"
     }
   ],
   "bio": {
@@ -1048,6 +1060,12 @@
   },
   "tourNews": [
     {
+      "title": "[Notice] NCT 127 THE 7TH ALBUM [BLINGY] COMEBACK LIVE PARTY Event Announcement",
+      "outlet": "weverse.io",
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OV2FlZ29iVGR1YnF2cWo0OWgyWHhfd09lWFZPWlpVcVptQzFYYlhOOGh3Smg0c0NqWTBYb1Z2VWRXYkNTajN3cG5IQWNLMXM?oc=5"
+    },
+    {
       "title": "'Odyssey' stars Damon and Theron meet NCT 127 during Korea interview tour - CHOSUNBIZ",
       "outlet": "Chosunbiz",
       "date": "2026-08-07",
@@ -1076,12 +1094,6 @@
       "outlet": "Manila Bulletin",
       "date": "2026-07-31",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZks1d09CRkhOcWQxemJRcmhnc24yQ1Bqb1VwUEVnRThtYVhvSzRZTkZqbno0cXhhdi0xREdmTXk0T0t4bE90Y0F3UEwwalBna1NTRE5qU2ZQWHRlTHVZYkx5UEdRZ1h6RGltVzZUdHpMQ0xLLWVVZ0ltbUZ4eVVCSWFMNVZsV1F2a0dUZkhBY1NWZw?oc=5"
-    },
-    {
-      "title": "NCT 127 Adds Kuala Lumpur To Their World Tour In January 2027",
-      "outlet": "says.com",
-      "date": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTE45cVBURGs1LWwwVGJ0MEhkUUVyX1IzaFd5Nmx1SEVNRjhUbnRxRmNPTGgyblgxTnFWMlptOGIybzJtSDVzNkc5emhxNFYyMXMxN2RYSkoweDFVS0xHZ2s0NU9HMklmdldXZ3lGT05McWFhUlUxNWVJcXNoZExvVnliOGxOcDFpWjBRSkVsbEZZNU42NmhjcDRESQ?oc=5"
     }
   ],
   "timeline": [
@@ -1340,12 +1352,21 @@
     "url": "",
     "label": "SM Entertainment / Virgin Music Group",
     "note": "First full album since WALK in July 2024, released for the group's 10th anniversary.",
-    "release": null,
-    "standIn": {
-      "thumb": "https://i4.ytimg.com/vi/GnXnZqkYJIs/hqdefault.jpg",
-      "from": "https://www.youtube.com/watch?v=GnXnZqkYJIs",
-      "date": "2026-08-05"
-    }
+    "release": {
+      "id": "itunes-6798956146",
+      "title": "BLINGY - The 7th Album",
+      "date": "2026-08-24",
+      "trackCount": 10,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/c2/8f/33c28f18-5ecc-8a39-cf52-9756fa1b6efb/888735956515_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/c2/8f/33c28f18-5ecc-8a39-cf52-9756fa1b6efb/888735956515_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/blingy-the-7th-album/6798956146?uo=4",
+      "copyright": "℗ 2026 SM Entertainment",
+      "genre": "K-Pop",
+      "via": "apple",
+      "kind": "Album",
+      "year": "2026"
+    },
+    "standIn": null
   },
   "links": [
     {
