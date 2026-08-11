@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T13:47:29.687Z",
+  "generated": "2026-08-11T19:28:58.200Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -724,6 +724,13 @@
   ],
   "videos": [
     {
+      "id": "_Fb356vpe60",
+      "title": "NCT 127 엔시티 127 'BLINGY' : ASSEMBLE!",
+      "date": "2026-08-11",
+      "url": "https://www.youtube.com/watch?v=_Fb356vpe60",
+      "thumb": "https://i4.ytimg.com/vi/_Fb356vpe60/hqdefault.jpg"
+    },
+    {
       "id": "gBQVLg8nh7I",
       "title": "𝗟𝗶𝗸𝗲 𝗣𝗶ñ𝗮𝘁𝗮 #NCT127 #Piñata #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
       "date": "2026-08-11",
@@ -820,13 +827,6 @@
       "date": "2026-08-02",
       "url": "https://www.youtube.com/watch?v=6OnOm10AZMA",
       "thumb": "https://i3.ytimg.com/vi/6OnOm10AZMA/hqdefault.jpg"
-    },
-    {
-      "id": "dUd3pUS45yk",
-      "title": "❮Call 127❯ Episode. 1 - #HAECHAN",
-      "date": "2026-08-02",
-      "url": "https://www.youtube.com/watch?v=dUd3pUS45yk",
-      "thumb": "https://i1.ytimg.com/vi/dUd3pUS45yk/hqdefault.jpg"
     }
   ],
   "news": [
@@ -835,12 +835,6 @@
       "outlet": "아이즈(ize)",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OU2daVjRONkYtczBVdkJmYXN6a0ZFcFFSX3YyeEFJdDBxS2lLTUlXS3MtaXpRWWxqWE1FY1lJX1lEcUZSTDhjZTFneXVoMXNxWXROcnJodlFOWEstOXhzRXMwSkV3RFV5N2fSAWpBVV95cUxPTlNnWlY0TjZGLXMwVXZCZmFzemtGRXBRUl92MnhBSXQwcUtpS01JV0tzLWl6UVlsalhNRWNZSV9ZRHFGUkw4Y2UxZ3l1aDFzcVl0TnJyaHZRTlhLLTl4c0VzMEpFd0RVeTdn?oc=5"
-    },
-    {
-      "title": "NCT 127 energizes comeback with 'Piñata' track video and live party plans - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnR0MmQwN0tNS1ZLWXRJV3pqbjJvNzhqa0RDdmRPTDg2LVZDdmYtRXNNWVFoMG5CODlqTVBNRlRYSExITElPbzNvZTR6Y2oyYy1NSnVWVnoyWmYwOG1MUVlNUDg4U1lpcDV6VFdGczlxVUtXRGM2Nm05OGV5ZmlzSkVtODE5Z2lC0gGcAUFVX3lxTE9GS2s2WF9ySGFHbDNFLUp4dmQ4alpmb0pZZEdVUEJod1QwQm9zSXdHQlZpdUJYaEVxWE1meVEzc1J4eE1GbzBNZjI0Y215YmFoVDBITmZ3S3hXZC1BZDJZT3pEaVV0aTZ2RmdZcHpvUGpwUmQzUHBTWjBYSldPdWp6WGdHV25tT3dJamFWbHh0U0VjeHpIdVpIbHBNbQ?oc=5"
     },
     {
       "title": "A thrilling catharsis that shakes the stage.. NCT 127 opens track video for 'Piñata'",
@@ -855,10 +849,28 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SWk1UTWJnZ0IxVmVNYmNFaEpEQlUwaWRlQVY4LS1Ld0ZxYU1kRmFFRzdhOGNJNUdGTHJmcTYzbF9RUm9YT1hsc1lwTUZvSkFW?oc=5"
     },
     {
-      "title": "NCT 127 Releases Energetic 'Piñata' Track Video Today",
-      "outlet": "조선일보",
+      "title": "NCT 127 energizes comeback with 'Piñata' track video and live party plans - CHOSUNBIZ",
+      "outlet": "Chosunbiz",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXRaRFN4TzNHR0hQbjNxY0dKMjR3VExwOE5nSHJ3Y0dPU3E0MnpWaGZEUEdCbjFwZmdQaWZRZm01U09oejlmc3hZNVBpSno1MWprRFpNbVVDRGhlZmtVR3lBN3ZEQ0pUbzl0a29RcnJOMHNOTmRER1V6azhjM015cEpsb2xsYXF6R1FyRDVB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnR0MmQwN0tNS1ZLWXRJV3pqbjJvNzhqa0RDdmRPTDg2LVZDdmYtRXNNWVFoMG5CODlqTVBNRlRYSExITElPbzNvZTR6Y2oyYy1NSnVWVnoyWmYwOG1MUVlNUDg4U1lpcDV6VFdGczlxVUtXRGM2Nm05OGV5ZmlzSkVtODE5Z2lC0gGcAUFVX3lxTE9GS2s2WF9ySGFHbDNFLUp4dmQ4alpmb0pZZEdVUEJod1QwQm9zSXdHQlZpdUJYaEVxWE1meVEzc1J4eE1GbzBNZjI0Y215YmFoVDBITmZ3S3hXZC1BZDJZT3pEaVV0aTZ2RmdZcHpvUGpwUmQzUHBTWjBYSldPdWp6WGdHV25tT3dJamFWbHh0U0VjeHpIdVpIbHBNbQ?oc=5"
+    },
+    {
+      "title": "NCT 127 Releases ‘Piñata’ Track Video Ahead of New Album ‘BLINGY’: Watch",
+      "outlet": "inmusicblog.com",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jQjZudlJCUzFqT2xDV1JVTEZqbHpGLWlUQjM4UUIzYzdIVDZTNE9lSGtFVVNUWkF5VDJ1Z0RDbEhrSnB3N3ZuTmFXY2dMcllYcS16ZGtlQ1dod1Rtd1RZNlhaVW0yb1ZSVUQ2T0hGelVFQUR0cGRlTl9R?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 画像 - ASSEMBLE! #JOHNNY",
+      "outlet": "Weverse",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xM05zdFhST1lKaUdtYXoteUdWalprTzA0RDRoTjlJR3VRLUM5T19iV1FmWGh0ajA2NGVMM2Jqd0wwOWhRQ01fVE5PZlV3U3NONkdVZV9Pa1BzVG5Zd3c?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 画像 - ASSEMBLE! #HAECHAN",
+      "outlet": "Weverse",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MU1hoVnE5QlB5cXFDVVVGZndsbDN1cVZGd01UX0ZsemdMOTl5UDRNOGRSR29tYnpRamNCMWtmQTlqYUZZY1JTeERWTjJnQ2lOclFSeGdNY2lMZmVKUWc?oc=5"
     },
     {
       "title": "Weverse NCT 127 Media - NCT 127 엔시티 127 'Piñata' Track Video",
@@ -867,16 +879,64 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QV0VpMVRtY1VITHdQRlRicGEyU0tpck15cWF3YlltOGVWWmN3X3FkTUxya1J3d0dHWjhwaHRyOEhKMWphUUlvUXNUMHByTExDN1piMGpn?oc=5"
     },
     {
+      "title": "Weverse NCT 127 Image - ASSEMBLE! #TAEYO",
+      "outlet": "Weverse",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LcTU4TnBwNm9HTVNabGtZRkx2N0pnRl9NT29MSlBGRlIxOFh2ZHZyRHNZTy1nU3RuQzI4a0xxcjVDcWhxeGJXdTlycUhfRG56RUt1Y0pR?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - ASSEMBLE! #HAECH",
+      "outlet": "Weverse",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RRHg4M2FLeW4zYVFQYkEtT21GNmtqcHhwOEFpNzBZZTRtT0R0LWViblY1RlR1NXQ2dUJRVzR0OEVOZTlpYURVT2s1elpuMlpIZkJERF9B?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - ASSEMBLE! #JAEHY",
+      "outlet": "Weverse",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UT0xGYV9qTnpPdW42al9QallXaEJLSVVrU1Zwa1VNY3hUR25kSlM0cFZEX0s3Vk8tSXlCWEdLQ3FVVmdUQ2V5azNZUnQtSUxETzZIaEZn?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - ASSEMBLE! #JOHNN",
+      "outlet": "Weverse",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pb3lreVZnQkRJXzdFZGNCc2x3V2pKWC1uSGk5R1hQbGt2ZmlnNDFWVnBMeTlKNTlfbkpuYnRMUzZCclV5UFdyWWRIeGhkeHZud1Nla3NR?oc=5"
+    },
+    {
+      "title": "WeverseNCT 127 Media - NCT 127 엔시티 127 'BLINGY' : ASSEMBLE!",
+      "outlet": "Weverse",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fVEpPdDJVYjI1bFBSdW5MdThZemtsMW9hVFVlSUQwbFF1XzlteU92T1FrSzFZZURvQXhMSmVWQWpHVF80TWVOd3E0T1lPVHg1R0xRMDBQSHE1Z0ZXZ2RNbVJB?oc=5"
+    },
+    {
+      "title": "NCT 127 Releases Energetic 'Piñata' Track Video Today",
+      "outlet": "조선일보",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXRaRFN4TzNHR0hQbjNxY0dKMjR3VExwOE5nSHJ3Y0dPU3E0MnpWaGZEUEdCbjFwZmdQaWZRZm01U09oejlmc3hZNVBpSno1MWprRFpNbVVDRGhlZmtVR3lBN3ZEQ0pUbzl0a29RcnJOMHNOTmRER1V6azhjM015cEpsb2xsYXF6R1FyRDVB?oc=5"
+    },
+    {
+      "title": "Multimedia de NCT 127 de Weverse - NCT 1",
+      "outlet": "Weverse",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqUFg4ckdpOXNYVnF6VkxSQmVLSUhKOExPZ2JFZi1oQWtzdEJBdUhUZWNRT1VESWNOR2FWV1FNV3hxU0J4bzV6MGI5NmdMbEpHcGYwTmRtVnpvZC1jY2c?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Media - NCT 127 엔시티 127 'BLINGY' : ASSEMBLE!",
+      "outlet": "Weverse",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMlZIVTdFT1dDcW10U1ZYTmxtOWFKQ2lrTlJmOEdsSXVXNlFHS21LcXBDaWxnZ1ZXdWx6bFAzRXhpOHF5OHB1RTItM3lodUhjN1dMS1Vn?oc=5"
+    },
+    {
+      "title": "Song Review: NCT 127 – Piñata",
+      "outlet": "thebiaslist.com",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wUktSTjhiR0NhX2RLWnNYMElFTm1KaHZ1djIzM3dlQ1EtaWxkTjYwdkdJaFlvVTBCTG5EZ0RkdmFkamt2X1FYbnJ3NjZyUVVvdkp4eWpyYjFYQWt2VktaWDNVNFdHeTRYODBXeEVkVQ?oc=5"
+    },
+    {
       "title": "[Notice] NCT 127 THE 7TH ALBUM [BLINGY] COMEBACK LIVE PARTY Event Announcement",
       "outlet": "Weverse",
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OV2FlZ29iVGR1YnF2cWo0OWgyWHhfd09lWFZPWlpVcVptQzFYYlhOOGh3Smg0c0NqWTBYb1Z2VWRXYkNTajN3cG5IQWNLMXM?oc=5"
-    },
-    {
-      "title": "[NOTICE] ‘NEO CITY : HONG KONG - THE REDLINE’ “NCTzen 127” Membership (GL) Pre-Sale Information",
-      "outlet": "Weverse",
-      "date": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Ni10TmxOS2V1T09yYnQ3YnJkYjBad3ZRM0pCXzRZcUxtaFdtS1huWGcwX0VNZ3Vib1hOUFRIV0JUQkJLaFhhaWJVa21lUms?oc=5"
     },
     {
       "title": "[NOTICE] ‘NEO CITY : JAKARTA - THE REDLINE’ “NCTzen 127” Membership (GL) Pre-Sale Information",
@@ -885,16 +945,16 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZmpwMXgxakxIODg3QWFZVzR3bVFGekZmOTVkRmttRWpBY21vZl8wNlpyN2J0Wng0LUpFTVNfbWlKSGFJQXY0U3FxSTJhWnM?oc=5"
     },
     {
+      "title": "[NOTICE] ‘NEO CITY : HONG KONG - THE REDLINE’ “NCTzen 127” Membership (GL) Pre-Sale Information",
+      "outlet": "Weverse",
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Ni10TmxOS2V1T09yYnQ3YnJkYjBad3ZRM0pCXzRZcUxtaFdtS1huWGcwX0VNZ3Vib1hOUFRIV0JUQkJLaFhhaWJVa21lUms?oc=5"
+    },
+    {
       "title": "WeverseNCT 127 Media - NCT 127 엔시티 127 'Piñata' Track Video Teaser",
       "outlet": "Weverse",
       "date": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03aEVycHRfOXB1S1N0TWdjdlhEUlU4ajJaRlFDekljVnZiV21sRWdOYXROWlg4anZsYkwtZ1RvcEtuM0l5UlVsTnYxQzBoWV9KczNSSHM2ZGd1N2VsbnRLQ0tB?oc=5"
-    },
-    {
-      "title": "Multimedia de NCT 127 de Weverse - NCT 1",
-      "outlet": "Weverse",
-      "date": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MSEdUSFZDanVhbzA5QkppM09QVFpSWU5RQnlLQnp2cjR1dVE5cHJFVGRhVWVmdjdDRm1FR2NWWDRUblBOeDEzS3hZaVVadkZRY0lNX3ExdFRmZ0hmYkE?oc=5"
     },
     {
       "title": "Weverse NCT 127 Media - NCT 127 엔시티 127 'Piñata' Track Video Teaser",
@@ -913,66 +973,6 @@
       "outlet": "Chosunbiz",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazNHM3BMUHZSTURKbVkwSlBUc3FCS0t1ZHNaZGlGbXZYUDlXdC1UQlR5VzlCTVhORGJMUk9yd2wzVUwxRS1uQS03c1ctYV9mWjNUSWhmVndwdWFRWEdRaGNuMkNCZ3hCU0JtRzNzNHk3Q1VWbldmcFFhcVVjQkFubFU4eGVCRHhL0gGcAUFVX3lxTE1VVGVzYUlNY2FybzFoMmF1OUZMMTR3elBpdHJMVEE5ZnduVzBEZ1dxX29ZeGFvQnNhX3E5TEtLWkVNaGx1NG5xdFZ0Z01fVlBKYXpRcEpsM3p3YnFTNWNueGVRRVJBdUZNQURBdnpjZEZCRWNZeXFPekxGQ3NpbnF3aG9PQjBGb1Q3eFdFT0xyZDNoaXRlbHNHX2U4ZA?oc=5"
-    },
-    {
-      "title": "The Odyssey Stars Meet NCT 127 in Special Korean Interviews",
-      "outlet": "조선일보",
-      "date": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmhQOWdUeWJQSUlpY0FrdFFxakRpZDMtM25DcWlHNFBMRFpHR18tSUwwdTF2RllJNnBDakRSY2E0MHV3ZWJaX1VhWmVyX2NLUTN5eHZEUUp2MC1Md1o2VFAzalBnemZUT08xZC1samlLMDkzR3dnQVRnNENRVUhJWTZ4VjdydmhZU2ZVa2RR?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 画像 - BLINGY JETS #HAECHA",
-      "outlet": "Weverse",
-      "date": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTFpibGdNRElGamttVTY4TXhZMEtvcEdTOEFIZkRzaUNiMEZpdVpzX2syNnhiclZ6UGN2VTZqU3RBUzNwZTd6QlltdXFpbjlsUWFHNkdJdVpJbjJwMFE?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 画像 - BLINGY JETS #TAEYON",
-      "outlet": "Weverse",
-      "date": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FRndCV2lTUU5rQ3E3cUlnaGtnV2loTlNENEp5aDQ5QkFwc0dfeHRoLUpKSmJWaXIzX2xJZVowRnVzYkVSdHhfMGIzODJoMU9fRE5LMW9DTmswWGJnVVE?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 画像 - BLINGY JETS",
-      "outlet": "Weverse",
-      "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94RUVlZHhuaWhVUkQ3a1ZDTV95UEpGSUNfOUxkOVJNLVphOUg1X0UycWhYS1A3S0pJY2RCdEZWR3I4akVYalgwQk83NFhRZHNpelpYVUxlVTNQMy1taXc?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 画像 - BLINGY JETS #JAEHYU",
-      "outlet": "Weverse",
-      "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11WHVBQ05qNEw2eURPXzJUWUVkS2N5V1ZOSDhpS2NxVHk3emxhdjFYR3MtdVpuRTdaNi1ySUNSYnRibXFCZ0ozUEFxSG5CUDU4dWw2dVBKQXhZekw1R1E?oc=5"
-    },
-    {
-      "title": "위버스 NCT 127 Media - BLINGY JETS",
-      "outlet": "Weverse",
-      "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDWkQ4Vkl2VTN5WlExZ29Qd2ZJWE1XZnNnODZmSF93RVNTb3NkdndZSkswelRQeEJTU1RZWlhZbmg4OEtIdlFkZmFPYlNHUHEyMjVLSXBnTk9XMUhSSlE?oc=5"
-    },
-    {
-      "title": "Multimedia de NCT 127 de Weverse - BLING",
-      "outlet": "Weverse",
-      "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEQjBNSlVEeGMwb2k4cjN3Z0l3ZFVaMk1aR19XV3owblM0VURod2xtaXAwNUVlcVE4VWZjMVAwRVpKc1Bhc3V6RU1waS1XajVvVllJWlRtQmttdXo1SWc?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 Image - BLINGY JETS",
-      "outlet": "Weverse",
-      "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Sd0g3SjBIbzVoa1lXd1laQ0V5TE81ZmlKb2Z5OEZQY0ZnM1FhNkt3emRnTjhyeEdkVkFwcDNkNUFrUFY2WklXSlZBYnlobnJhM3FIUE9R?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 Media - BLINGY JETS",
-      "outlet": "Weverse",
-      "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WUUdYMS1tWTVoVWpqUWFHZWllbTZWQzhDZkxfNXRkb1BDSjZONXdyY2ltUDBCR2NtM2dUOWVHRWo3LUdBS2VQZEd6ZUlYYUVfNE9YeF9n?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 画像 - BLINGY JETS #YUTA",
-      "outlet": "Weverse",
-      "date": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQzk4aTBjbTVHVjlxbVpMOU1Ja3VJQ1V2ejZVRjZqY2xGbkJiYW5ldjVnNjFpb0hzd1FpamhsOWd2bVg5T2UwZHhzN0xSbkJ0S2dPSlpOaGdFRFlFZGc?oc=5"
     }
   ],
   "bio": {
@@ -1079,15 +1079,15 @@
     },
     {
       "title": "NCT 127 adds Manila stop to ‘Neo City – The Redline’ tour",
-      "outlet": "dzrh.com.ph",
+      "outlet": "DZRH",
       "date": "2026-08-01",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQkNiR2pkNW5DcGtqOC13cWwzbWw4UkswZV8xZTBSWDJmQm1WYjVnTEp3NkduRXF6cHVQbEVJeHRabDR0d2RjdVZ3U1JXVjE3Y3htQVlteXpEZTZlVUhpVkRfeXBXdEdISVJ1bDZETGVnaFlJNzd6cHQxVTcxVGFGeUc5VWpuMl9jRGc?oc=5"
     },
     {
-      "title": "NCT 127 announces Manila stop for ‘The Redline’ concert tour",
+      "title": "NCT 127 announces Manila stop for ‘Neo City: The Redline’ World Tour",
       "outlet": "The Manila Times",
       "date": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS05fejFNbG85SEt4VFBvMFFWVjVwTm5FSU5GNEZwckFDeHNuOGRKbTNwcXVvamZJQndLUlYzX19oN1pSMFMtOFZiMWl3RkxqZVUwRTVTX0RaOTd3NzB2VXFHZ3hWR1BTLWxLMXlWSnJPYzVFalRKWGZ2akhfeDlBay1rM012UE8wcDUzd1R3amNRMkVYX3VoWklPMzUyWk5laGgwLTFTM0pnU3hBazhXaUNoSHRkNVJQZzJJ0gHAAUFVX3lxTE1ZTzBoaTAyOURKZzNsTFM5Rkt6Ym5UTmhIMVhpd1VOY0Z6V2p3UlVMT0RlTHp3N2dLM1dHMFRLOF85NGVWNUF0aUY0X3p2LXhZanpFZkJmeVFMS3J4YVMzcVR2Zng1MWs0SjI1aElneE5wRkxud1Fya19nblkwWWgxZGhNTEFBQjhac0d0NXk5dzctMVlVNFVmVGdiQlZzRGNHNlN6UFZqenV5ZjdmbVFNMFdzMTJXWFJyRW51MmZJUA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX1A3OFFQbVdrYkFOM09JVjN0WDZ4LXlwYkZsRzhYa184Nkp4bjJOcloyeDE1RVNIeDNaZS1nUFN2dTE3RXRGbE9oX25mTFNkR28tZE55V1JxRUhMakE4VkJJWGdEWE9jaV9Ma195Y2ZyX3QxZjRQM3FWQ3NqQUNLZF9peGk3LWZnQ21lVzctY3pZaHBHb3JJS1ZYTVlkUWltamIzRjgxMWFOZ2c1cTdmbTVvUG1fbVRXbUtwdnRWNFdOWjNmc1Jyb0wtWXg3ckh2VlHSAdcBQVVfeXFMUDRoZS1FdVdoY2FhMWZDQmpnZVVCUzQybnVBMFd0b0xHSjhrdTFBalhxMlkxNmNUR3cwMTlzemprUTVpVGR4aE9OdHBmb0d6ZDM3Tktpakl0RFoweDlfTnNWNy13czBzd1lrNUIwWHZXLW1PT2sySGRQNzlmNEN0X0Rva1U1M05lYzlpd0Y5c3ZhQ0VEcGZLelc2LWxKc0NUVGU3cXJkeVMxLUIyM3pDNEtvTGFkYzJZVVFvWDhGOG8yTTFoVmpEUHh6X2J5UXdibU1kOXFzaEU?oc=5"
     },
     {
       "title": "NCT 127 adds Manila stop to ‘Neo City: The Redline’ world tour",
