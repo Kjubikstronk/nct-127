@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T02:48:47.922Z",
+  "generated": "2026-08-12T07:56:12.241Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -724,6 +724,13 @@
   ],
   "videos": [
     {
+      "id": "owT42dkVtVA",
+      "title": "NCT 127 엔시티 127 'Piñata' Cheering Guide | 시즈니 소리 질러 Right now 💚",
+      "date": "2026-08-12",
+      "url": "https://www.youtube.com/watch?v=owT42dkVtVA",
+      "thumb": "https://i4.ytimg.com/vi/owT42dkVtVA/hqdefault.jpg"
+    },
+    {
       "id": "_Fb356vpe60",
       "title": "NCT 127 엔시티 127 'BLINGY' : ASSEMBLE!",
       "date": "2026-08-11",
@@ -820,16 +827,21 @@
       "date": "2026-08-02",
       "url": "https://www.youtube.com/watch?v=imEvHC3LI7Q",
       "thumb": "https://i2.ytimg.com/vi/imEvHC3LI7Q/hqdefault.jpg"
-    },
-    {
-      "id": "6OnOm10AZMA",
-      "title": "❮Call 127❯ Episode. 2 - #JAEHYUN",
-      "date": "2026-08-02",
-      "url": "https://www.youtube.com/watch?v=6OnOm10AZMA",
-      "thumb": "https://i3.ytimg.com/vi/6OnOm10AZMA/hqdefault.jpg"
     }
   ],
   "news": [
+    {
+      "title": "BIGBANG to &TEAM, What the Comeback Rush of Boy Groups From the Big Four Agencies Shows [HT Focus]",
+      "outlet": "Hanteo News",
+      "date": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LRWd2aWQxYjVHamJOVnpsUXdvZEEwam4tVkhMLUt2U3NsY21UbjZnZW1IZl9MSDFKTV9LZW1QeGFmWEJlTUxjN210UWZDVms1azd5UC13?oc=5"
+    },
+    {
+      "title": "NCT 127 unleash high-energy 'Piñata' video ahead of 7th album 'BLINGY' — watch",
+      "outlet": "bandwagon.asia",
+      "date": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGt4RzFBSGMzY3dUa3dyMk1tR1hKM3BwZk5LdHhoOHJDMGl2eXRNM2phWlJQZmV3eXlfNWN6OTI2ZmpuUHE5Mk5UM3lEdnlremZMb3FEOGZERVRmV1l1T2FoVnk2aWlsTWY4ZlpXSzRXV284TURDNGtCdng4RF9hMWNwM0NWQVp5aktiWWpCRFRzNlhEcHpqenlQdm8tX3FETWlBM2p1eUJpU3IxaTdkaHp5ZnY?oc=5"
+    },
     {
       "title": "NCT 127 Release ‘Piñata’ Video Ahead of 5-Piece ‘BLINGY’ Album Release",
       "outlet": "Billboard",
@@ -843,12 +855,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OU2daVjRONkYtczBVdkJmYXN6a0ZFcFFSX3YyeEFJdDBxS2lLTUlXS3MtaXpRWWxqWE1FY1lJX1lEcUZSTDhjZTFneXVoMXNxWXROcnJodlFOWEstOXhzRXMwSkV3RFV5N2fSAWpBVV95cUxPTlNnWlY0TjZGLXMwVXZCZmFzemtGRXBRUl92MnhBSXQwcUtpS01JV0tzLWl6UVlsalhNRWNZSV9ZRHFGUkw4Y2UxZ3l1aDFzcVl0TnJyaHZRTlhLLTl4c0VzMEpFd0RVeTdn?oc=5"
     },
     {
-      "title": "Catharsis is coming... NCT 127 to release track video for new song blending rock and hip-hop today",
-      "outlet": "매일경제",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SWk1UTWJnZ0IxVmVNYmNFaEpEQlUwaWRlQVY4LS1Ld0ZxYU1kRmFFRzdhOGNJNUdGTHJmcTYzbF9RUm9YT1hsc1lwTUZvSkFW?oc=5"
-    },
-    {
       "title": "A thrilling catharsis that shakes the stage.. NCT 127 opens track video for 'Piñata'",
       "outlet": "starnewskorea.com",
       "date": "2026-08-11",
@@ -856,9 +862,15 @@
     },
     {
       "title": "NCT 127 energizes comeback with 'Piñata' track video and live party plans - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
+      "outlet": "biz.chosun.com",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnR0MmQwN0tNS1ZLWXRJV3pqbjJvNzhqa0RDdmRPTDg2LVZDdmYtRXNNWVFoMG5CODlqTVBNRlRYSExITElPbzNvZTR6Y2oyYy1NSnVWVnoyWmYwOG1MUVlNUDg4U1lpcDV6VFdGczlxVUtXRGM2Nm05OGV5ZmlzSkVtODE5Z2lC0gGcAUFVX3lxTE9GS2s2WF9ySGFHbDNFLUp4dmQ4alpmb0pZZEdVUEJod1QwQm9zSXdHQlZpdUJYaEVxWE1meVEzc1J4eE1GbzBNZjI0Y215YmFoVDBITmZ3S3hXZC1BZDJZT3pEaVV0aTZ2RmdZcHpvUGpwUmQzUHBTWjBYSldPdWp6WGdHV25tT3dJamFWbHh0U0VjeHpIdVpIbHBNbQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRktrNlhfckhhR2wzRS1KeHZkOGpaZm9KWWRHVVBCaHdUMEJvc0l3R0JWaXVCWGhFcVhNZnlRM3NSeHhNRm8wTWYyNGNteWJhaFQwSE5md0t4V2QtQWQyWU96RGlVdGk2dkZnWXB6b1BqcFJkM1BwU1owWEpXT3VqelhnR1dubU93SWphVmx4dFNFY3h6SHVaSGxwTW3SAZwBQVVfeXFMT0ZLazZYX3JIYUdsM0UtSnh2ZDhqWmZvSllkR1VQQmh3VDBCb3NJd0dCVml1QlhoRXFYTWZ5UTNzUnh4TUZvME1mMjRjbXliYWhUMEhOZndLeFdkLUFkMllPekRpVXRpNnZGZ1lwem9QanBSZDNQcFNaMFhKV091anpYZ0dXbm1Pd0lqYVZseHRTRWN4ekh1WkhscE1t?oc=5"
+    },
+    {
+      "title": "Catharsis is coming... NCT 127 to release track video for new song blending rock and hip-hop today",
+      "outlet": "매일경제",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SWk1UTWJnZ0IxVmVNYmNFaEpEQlUwaWRlQVY4LS1Ld0ZxYU1kRmFFRzdhOGNJNUdGTHJmcTYzbF9RUm9YT1hsc1lwTUZvSkFW?oc=5"
     },
     {
       "title": "NCT 127 Releases ‘Piñata’ Track Video Ahead of New Album ‘BLINGY’: Watch",
@@ -961,18 +973,6 @@
       "outlet": "thebiaslist.com",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wUktSTjhiR0NhX2RLWnNYMElFTm1KaHZ1djIzM3dlQ1EtaWxkTjYwdkdJaFlvVTBCTG5EZ0RkdmFkamt2X1FYbnJ3NjZyUVVvdkp4eWpyYjFYQWt2VktaWDNVNFdHeTRYODBXeEVkVQ?oc=5"
-    },
-    {
-      "title": "[Notice] NCT 127 THE 7TH ALBUM [BLINGY] COMEBACK LIVE PARTY Event Announcement",
-      "outlet": "Weverse",
-      "date": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OV2FlZ29iVGR1YnF2cWo0OWgyWHhfd09lWFZPWlpVcVptQzFYYlhOOGh3Smg0c0NqWTBYb1Z2VWRXYkNTajN3cG5IQWNLMXM?oc=5"
-    },
-    {
-      "title": "[NOTICE] ‘NEO CITY : JAKARTA - THE REDLINE’ “NCTzen 127” Membership (GL) Pre-Sale Information",
-      "outlet": "Weverse",
-      "date": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZmpwMXgxakxIODg3QWFZVzR3bVFGekZmOTVkRmttRWpBY21vZl8wNlpyN2J0Wng0LUpFTVNfbWlKSGFJQXY0U3FxSTJhWnM?oc=5"
     }
   ],
   "bio": {
@@ -1073,7 +1073,7 @@
     },
     {
       "title": "NCT 127 Is Coming To Kuala Lumpur For “NEO CITY – THE RED LINE” Tour In January 2027",
-      "outlet": "MYC! Malaysian Youth Community",
+      "outlet": "myc.my",
       "date": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWJHWm15aHZaemY2cVhPY3BDbV9HbkRtTU9JbjdkcXozeTZRcjhGdzZJTzJTMXltbUptY0xKUnFROUxtVmpCeXR5NE91NjlES0ZpZE5jVzFoU21RdFQ5VWtvSkNyNDRxd1lWajBzc3RIZWZ2ck5VMzBkVjl4MUVNNzJlYk5ubTlvRmZoWHJpaDVILXlISXhkeHpzUWthMk5pY3MyMkI0MzVQd1N5UXYzNW1fQQ?oc=5"
     },
@@ -1085,7 +1085,7 @@
     },
     {
       "title": "NCT 127 announces Manila stop for ‘Neo City: The Redline’ World Tour",
-      "outlet": "manilatimes.net",
+      "outlet": "The Manila Times",
       "date": "2026-08-01",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX1A3OFFQbVdrYkFOM09JVjN0WDZ4LXlwYkZsRzhYa184Nkp4bjJOcloyeDE1RVNIeDNaZS1nUFN2dTE3RXRGbE9oX25mTFNkR28tZE55V1JxRUhMakE4VkJJWGdEWE9jaV9Ma195Y2ZyX3QxZjRQM3FWQ3NqQUNLZF9peGk3LWZnQ21lVzctY3pZaHBHb3JJS1ZYTVlkUWltamIzRjgxMWFOZ2c1cTdmbTVvUG1fbVRXbUtwdnRWNFdOWjNmc1Jyb0wtWXg3ckh2VlHSAdcBQVVfeXFMUDRoZS1FdVdoY2FhMWZDQmpnZVVCUzQybnVBMFd0b0xHSjhrdTFBalhxMlkxNmNUR3cwMTlzemprUTVpVGR4aE9OdHBmb0d6ZDM3Tktpakl0RFoweDlfTnNWNy13czBzd1lrNUIwWHZXLW1PT2sySGRQNzlmNEN0X0Rva1U1M05lYzlpd0Y5c3ZhQ0VEcGZLelc2LWxKc0NUVGU3cXJkeVMxLUIyM3pDNEtvTGFkYzJZVVFvWDhGOG8yTTFoVmpEUHh6X2J5UXdibU1kOXFzaEU?oc=5"
     },
