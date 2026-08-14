@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T03:02:12.147Z",
+  "generated": "2026-08-14T07:54:23.378Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -724,6 +724,13 @@
   ],
   "videos": [
     {
+      "id": "dk9VMLLYt-w",
+      "title": "Absolutely #NCT127",
+      "date": "2026-08-14",
+      "url": "https://www.youtube.com/watch?v=dk9VMLLYt-w",
+      "thumb": "https://i1.ytimg.com/vi/dk9VMLLYt-w/hqdefault.jpg"
+    },
+    {
       "id": "gu8-_TLKuNE",
       "title": "reacting to Piñata #NCT127 #Piñata #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
       "date": "2026-08-12",
@@ -820,49 +827,48 @@
       "date": "2026-08-03",
       "url": "https://www.youtube.com/watch?v=NgMRFP0Gs6w",
       "thumb": "https://i3.ytimg.com/vi/NgMRFP0Gs6w/hqdefault.jpg"
-    },
-    {
-      "id": "7atog837iCE",
-      "title": "❮Call 127❯ Episode. 4 - #JOHNNY",
-      "date": "2026-08-03",
-      "url": "https://www.youtube.com/watch?v=7atog837iCE",
-      "thumb": "https://i4.ytimg.com/vi/7atog837iCE/hqdefault.jpg"
     }
   ],
   "news": [
     {
-      "title": "[Photo] NCT 127 Hae-chan projects charisma - CHOSUNBIZ",
-      "outlet": "biz.chosun.com",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdlJSblFNVHNWc1BDNHFvbE1JWmFiSy1hdjJoRkNtS3ZUQ2U1a1VoOEpjMWxZUDdzWm1CM2hUZnZMbjlNb2ZLbHJNQWpQNWgtRXJnbjdSNW5RZzZyaC1WbTBQMTFxNWpxenVTQjFtNktRWTAtR2VXc0ZteWRiZ1d1S2FUeWw1Y3NmS0dXeTMxNEhwWDJTR2FB0gGXAUFVX3lxTE12UlJuUU1Uc1ZzUEM0cW9sTUlaYWJLLWF2MmhGQ21LdlRDZTVrVWg4SmMxbFlQN3NabUIzaFRmdkxuOU1vZktsck1BalA1aC1FcmduN1I1blFnNnJoLVZtMFAxMXE1anF6dVNCMW02S1FZMC1HZVdzRm15ZGJnV3VLYVR5bDVjc2ZLR1d5MzE0SHBYMlNHYUE?oc=5"
+      "title": "A Prince Is Here... NCT's Jaehyun Graces the Cover of a Fashion Magazine [Photo]",
+      "outlet": "매일경제",
+      "date": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaRWM0R3diSW5sLU5TZXdrdmJ1TVItUGlUUl94UnJjdlZNVjJNc3lhbm5SSENIN1g5UnRncnAtZVBHNVgxY0VBM09EOWU1VExp?oc=5"
+    },
+    {
+      "title": "NCT 127 to Tomorrow X Together Set to Perform... 'KCON LA 2026' Opens in One Day",
+      "outlet": "매일경제",
+      "date": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pa254NGhQYWRFUzAtcHlidEQ3dzRZLUs4VjNUUjNmRUdSU251bm1JdExORlFEWHVFVHNweWNUS3N4bGpSb2NLTG5COVp5QTJq?oc=5"
     },
     {
       "title": "[Photo] NCT 127 Johnny radiates charisma - CHOSUNBIZ",
-      "outlet": "biz.chosun.com",
+      "outlet": "Chosunbiz",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVp3UjNtUXBuWkI1RU05blRSaW9HYV80Y2Ytc2NqWUtSZkVpQjhIdEpVRFFxS1VKaXpNRzA1anl0NW53RUhTc0FlNEhFU3ZnM0I3NjktbEM5Zm0wVGhEckVlaFlQRlJuNnFuYkM2QnM4RzVVMG5lbzlLYXR2QnlUUnlzZVhJZkRfZEg2MllkTHZlSkx5U1Zj0gGXAUFVX3lxTE01WndSM21RcG5aQjVFTTluVFJpb0dhXzRjZi1zY2pZS1JmRWlCOEh0SlVEUXFLVUppek1HMDVqeXQ1bndFSFNzQWU0SEVTdmczQjc2OS1sQzlmbTBUaERyRWVoWVBGUm42cW5iQzZCczhHNVUwbmVvOUthdHZCeVRSeXNlWElmRF9kSDYyWWRMdmVKTHlTVmM?oc=5"
     },
     {
       "title": "[Photo] NCT 127 Yuta boards flight in photoshoot-like airport look - CHOSUNBIZ",
-      "outlet": "biz.chosun.com",
+      "outlet": "Chosunbiz",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWVoa0ZJY09CS2NwaTRCYTB6cEw4bkNkTm9zMGFSWGZ1Q2F3LVVlWXp0cXJ4VTNnVU9CUVZ3aFpWZ1dYY3hUNHp1SG55cWU1Y0tNQ3Vabkc2UW1CWnc0WlktQ1A2eEVBZk14a3NxNU1JS3l0MlRiQkI2WGU1S19wWk9vTE5Ub3p6MXpJMjZBUFh0WDg4dnBz0gGXAUFVX3lxTE45ZWhrRkljT0JLY3BpNEJhMHpwTDhuQ2ROb3MwYVJYZnVDYXctVWVZenRxcnhVM2dVT0JRVndoWlZnV1hjeFQ0enVIbnlxZTVjS01DdVpuRzZRbUJadzRaWS1DUDZ4RUFmTXhrc3E1TUlLeXQyVGJCQjZYZTVLX3BaT29MTlRvenoxekkyNkFQWHRYODh2cHM?oc=5"
     },
     {
       "title": "[Photo] NCT 127 Hae-chan chats happily with Johnny on departure - CHOSUNBIZ",
-      "outlet": "biz.chosun.com",
+      "outlet": "Chosunbiz",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2QtMVBFRzYzODhkSjhSbm5EVkVfeEdQTTBobENLNDRpTU5WRXYwdUNhczJ2QWZPZkE1ZTkxUXJRR3R6cjZXQlNIeExoSEhHTUstWkw0eWhUMHk4Sng4d0g5R3o3SWRpakZmSGJsSjVDb2gwS3ZrenlDN1dQS29UbmZGN20ySEdpaTByYk1WeWhlcDdvUDk00gGXAUFVX3lxTE5PZC0xUEVHNjM4OGRKOFJubkRWRV94R1BNMGhsQ0s0NGlNTlZFdjB1Q2FzMnZBZk9mQTVlOTFRclFHdHpyNldCU0h4TGhISEdNSy1aTDR5aFQweThKeDh3SDlHejdJZGlqRmZIYmxKNUNvaDBLdmt6eUM3V1BLb1RuZkY3bTJIR2lpMHJiTVZ5aGVwN29QOTQ?oc=5"
     },
     {
       "title": "[Photo] NCT 127 Taeyong shows off bold airport fashion - CHOSUNBIZ",
-      "outlet": "biz.chosun.com",
+      "outlet": "Chosunbiz",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX083bjdtYTJCU1hFZHNqQ2NEWFdRSEozd0ttaVFTLWc3eWdOdG4zaE0yRy1GWDNFZkRGSS1FR084dHVSVDFrcFcxVUU2VzloV1Rna183TGw4WmxzeHRjdnlybUZKalRVNHN6bzRjX1Jwb2ZQQi1PdG5id3J2aUZRQ0VXZFVaUEhqdG1rVG5TeUdJdTB0Tmdv0gGXAUFVX3lxTE1fTzduN21hMkJTWEVkc2pDY0RYV1FISjN3S21pUVMtZzd5Z050bjNoTTJHLUZYM0VmREZJLUVHTzh0dVJUMWtwVzFVRTZXOWhXVGdrXzdMbDhabHN4dGN2eXJtRkpqVFU0c3pvNGNfUnBvZlBCLU90bmJ3cnZpRlFDRVdkVVpQSGp0bWtUblN5R0l1MHROZ28?oc=5"
     },
     {
       "title": "[Photo] NCT 127 Hae-chan, locks gaze with captivating eyes - CHOSUNBIZ",
-      "outlet": "biz.chosun.com",
+      "outlet": "Chosunbiz",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWkxBMGRISTBnSGktVGN2WkFUNWNyLW5qUE9GUldMQnpvVERTTTYtMWM5c2ZmS0x2SGFXZWlkQy1LWUlYYi1lOUU5c04xcGt6UndMS0dfZ3oySGFhOF9ENWZmOU9peGhrZGpvWXYwdnBCZkNUOFNtU05jTnk5djc4TW5lY9IBlwFBVV95cUxPblc2OFBlaktHc3Z6N1p6RDNSZjFvNkV1ZHZtUjRHOThtaFlpQzhhTXo1Wmo1TUk5OXplOVJvelMwcmQyM3gzQ0hFVjNSVWZITFdTcmdDZ3lZY3RkSGRRTmpxNTZ6SU91R1F2b2Y3OWJsVE1MNkhUVXg2MWZhNDBXR2lYOVBsa0JOSk1hamhwcVNpM2F3c2ww?oc=5"
     },
@@ -874,39 +880,21 @@
     },
     {
       "title": "NCT 127 to perform live on America’s Got Talent in US - CHOSUNBIZ",
-      "outlet": "biz.chosun.com",
+      "outlet": "Chosunbiz",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0RfY0ZJWjBmeU5CX0h5TWlCWURGQ1V3elNiOERSY0dCWFgweUk0TlZTZEVoYXVVbXBhZDl0WTlEUDJJZHpTU1FHODEzVDloejV5ejFHdlhxMHNGNzJmREZET2lwdWx0TWYtb2NXZFlXVV8zTzhzV1NDZzNxaXNCWUoxcTcxcld10gGcAUFVX3lxTE1wcm9SM0pwT0xfbzFLaHU5X0hsT2NPcjhxX294UXF5Wm9TdXd0OTUzZldvc1BUc1V5WndKeFRFaEtsejBudDNsczB4TEduRUN6WWkzLXNsSXlWbnVKREhiVGJTN2x4dF9udEtnQXY0ZXk4ZmlTQnVmUEZmMWpFLUV0TFFfVnZ6UzVZcFQ3WTlYQWJhZjRoXzdIcHl3VQ?oc=5"
     },
     {
       "title": "NCT 127 Dazzles America's Got Talent Stage",
-      "outlet": "조선일보",
+      "outlet": "chosun.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0lpM3h1TW93akoxcEh4QkJQNGcyVWszUkItd2ZnbzA2YjlPekhMUmo5cHdWbkdsWE9xbWhIVThGZmV6MlM1NThXSkYwejFyWlJqRjFJWXVuRUduVXdYMm44LXVfdHlnNnNVdjFHbEpjbER5eFVxVEl1aEhVaFY3LWU2dWU0WW1peVdtU1V3?oc=5"
     },
     {
       "title": "NCT to collaborate with Seoul Fashion Week for 10th anniversary project",
-      "outlet": "The Korea Herald",
+      "outlet": "koreaherald.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93a1pSNDJpQm12bW5Tazc1NnBzYV9vZTlIVFNYbUtxRUI3QjJQT2JiSXVpbVAyLUppNS1sOS1hZFJxS0EwLVUtTV9OZlJFeUhzR3BTLUxCRQ?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 画像 - ASSEMBLE!",
-      "outlet": "Weverse",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBndTlLb2xFV1JxSUtvNmVyYWs3RDlibm5yU0ExSHRsYlZhUGtTNGxCbzdqaFpSRE9PWTAzV1FyTUVnbjh1SWU0YnEwQXNaTWZPdHFBSDVmQi1EU0tOWUE?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 Image - ASSEMBLE!",
-      "outlet": "Weverse",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eFBoeFZkZnFURkpiXzRxRDRNelItNTBwT1lGbzh3Y1lrZWpaZ0lpamZ0bEdpS0w3SEw1T0tKT3JJTU8yU0g0cW92MFExRDdNMjY1NXdR?oc=5"
-    },
-    {
-      "title": "NCT 127 to appear on Americas Got Talent",
-      "outlet": "Aju Press",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aUE00RHJmaU5LcVoxekNsZmItdGcyNVpFSlNVQ19wVHBEYXJKdFhydWtIU19aUGY2aWlFeWN2Z3lLazFYOURsbjV3dnF4bEdYMXhDeU1TNENXMHfSAVdBVV95cUxQWlJnZXl0U25MU1BYbl93VjgtcS1kbGdDbzNvWlpwcVh4dm9fMVMwclo2ZHdzRWEybnJwWGZiWGFaQUU0bzR3TzJUZFdKVEhIcl9nSnlUNTg?oc=5"
     },
     {
       "title": "NCT 127 to perform on America's Got Talent ahead of 'Blingy' album release",
@@ -915,16 +903,34 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXRRcHc1ODZUUlhVbEVJQ1ktSWpFMlhqQm5uSXgya2k3UFY4Tk9acG5IR3l1R1ltM1FuOTFleWJZaGNNc3B0OTFVNFNNS09Odi10eXVOMXliWlU1eHd6djEySUE5Y0pjak05S1o3dGFzWGtCR1lGcFFjQWFtYzMyTW50Qlp5ZTVWZXB3b09rU0R6Qnlpellvemw2UEhiQ0Rs?oc=5"
     },
     {
-      "title": "NCT 127 Drops Piñata Video Ahead of Seventh Album BLINGY",
-      "outlet": "Decatur Radio",
+      "title": "Weverse NCT 127 画像 - ASSEMBLE!",
+      "outlet": "Weverse",
       "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWi1rSXB0V1FFbW51MndHUXA0OUhwY3Y0S2ZWcFFCX2hLckJaTXZBUjM4X2xCalBSR0ZabjctS25QSjVBSV8yREQ1R0RVNDdQeDZqTV9VVGc4bXFKdXRHRFFmRXNvdjZuS0ViaHN0STQxdWw3cDh1VVJsMXlZVUY3SC1ibXkyYl94Rnh4dkJNa2p5cERPcXZQYXRxX2g2dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBndTlLb2xFV1JxSUtvNmVyYWs3RDlibm5yU0ExSHRsYlZhUGtTNGxCbzdqaFpSRE9PWTAzV1FyTUVnbjh1SWU0YnEwQXNaTWZPdHFBSDVmQi1EU0tOWUE?oc=5"
+    },
+    {
+      "title": "NCT 127 to appear on Americas Got Talent",
+      "outlet": "Aju Press",
+      "date": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aUE00RHJmaU5LcVoxekNsZmItdGcyNVpFSlNVQ19wVHBEYXJKdFhydWtIU19aUGY2aWlFeWN2Z3lLazFYOURsbjV3dnF4bEdYMXhDeU1TNENXMHfSAVdBVV95cUxQWlJnZXl0U25MU1BYbl93VjgtcS1kbGdDbzNvWlpwcVh4dm9fMVMwclo2ZHdzRWEybnJwWGZiWGFaQUU0bzR3TzJUZFdKVEhIcl9nSnlUNTg?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - ASSEMBLE!",
+      "outlet": "Weverse",
+      "date": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eFBoeFZkZnFURkpiXzRxRDRNelItNTBwT1lGbzh3Y1lrZWpaZ0lpamZ0bEdpS0w3SEw1T0tKT3JJTU8yU0g0cW92MFExRDdNMjY1NXdR?oc=5"
     },
     {
       "title": "NCT 127 announced for America's Got Talent",
       "outlet": "Contactmusic.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZzlpdWJXU1RQX1BrN3h5QmI4c2x6ai1qMkJsRlNiaFJqV0FiTF90RGpmMVlaUE5mdFNsQWk5b3gzMDg0TXhTTXpJcG9TWWd2VC1zamdmYTF4N091RTRLWmdidHFBbVdRSzIwdTVsNmpOSzA2dGkzYmo0aGU2LXo0ejFhZk1IRXFxOUg3TmFfMF9xdVk?oc=5"
+    },
+    {
+      "title": "NCT 127 Drops Piñata Video Ahead of Seventh Album BLINGY",
+      "outlet": "Indiana 105",
+      "date": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHVVbVZGZEZJWXpuUjEwOVduSGZDWFhUMmlzRTh1R2FMOXBwb0xQZ3p6aFh6ZUV6eGh1TUI5XzdBQnF3aWpldE9lT1JrVVFzSmEyckoyOUJnQThoZUItaDFIY1o2QWdpZENNbnFHXzUwUGNTZjhXLXA0emJUOUV3N3JPc0U4NlA4S05Ya1hUQmZiSlJUcE9XUWZqTQ?oc=5"
     },
     {
       "title": "The Playlist: NCT’s Taeyong on Musical Inspirations, Songs That Defined His Youth and His Love for NCT",
@@ -967,12 +973,6 @@
       "outlet": "inmusicblog.com",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jQjZudlJCUzFqT2xDV1JVTEZqbHpGLWlUQjM4UUIzYzdIVDZTNE9lSGtFVVNUWkF5VDJ1Z0RDbEhrSnB3N3ZuTmFXY2dMcllYcS16ZGtlQ1dod1Rtd1RZNlhaVW0yb1ZSVUQ2T0hGelVFQUR0cGRlTl9R?oc=5"
-    },
-    {
-      "title": "A thrilling catharsis that shakes the stage.. NCT 127 opens track video for 'Piñata'",
-      "outlet": "starnewskorea.com",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpb2FZYXdOcVk3bTBfYW9ZVE1aNDhPN3pyWWxsSWtFRkdZRjJJTk5VbWY4ZDVVOENQdVh2NktxekhjODVhdjZ1MlJrNjJWMXJqUkxUdjh2aHlBQ3ZvRDNnQ1VSWUFLSzdkbTduZHFUUGRVMUI0Uk1rdA?oc=5"
     }
   ],
   "bio": {
@@ -1091,7 +1091,7 @@
     },
     {
       "title": "'Odyssey' stars Damon and Theron meet NCT 127 during Korea interview tour - CHOSUNBIZ",
-      "outlet": "biz.chosun.com",
+      "outlet": "Chosunbiz",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazNHM3BMUHZSTURKbVkwSlBUc3FCS0t1ZHNaZGlGbXZYUDlXdC1UQlR5VzlCTVhORGJMUk9yd2wzVUwxRS1uQS03c1ctYV9mWjNUSWhmVndwdWFRWEdRaGNuMkNCZ3hCU0JtRzNzNHk3Q1VWbldmcFFhcVVjQkFubFU4eGVCRHhL0gGcAUFVX3lxTE1VVGVzYUlNY2FybzFoMmF1OUZMMTR3elBpdHJMVEE5ZnduVzBEZ1dxX29ZeGFvQnNhX3E5TEtLWkVNaGx1NG5xdFZ0Z01fVlBKYXpRcEpsM3p3YnFTNWNueGVRRVJBdUZNQURBdnpjZEZCRWNZeXFPekxGQ3NpbnF3aG9PQjBGb1Q3eFdFT0xyZDNoaXRlbHNHX2U4ZA?oc=5"
     }
