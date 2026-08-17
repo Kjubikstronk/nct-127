@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T01:57:51.058Z",
+  "generated": "2026-08-17T07:26:04.852Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -724,8 +724,15 @@
   ],
   "videos": [
     {
+      "id": "B0_Wo3cLx1c",
+      "title": "without ever letting you know #TAEYONG #NCT127",
+      "date": "2026-08-17",
+      "url": "https://www.youtube.com/watch?v=B0_Wo3cLx1c",
+      "thumb": "https://i3.ytimg.com/vi/B0_Wo3cLx1c/hqdefault.jpg"
+    },
+    {
       "id": "VXLmJ_Lutmw",
-      "title": "2026년 8월 16일",
+      "title": "in cali #JOHNNY #YUTA #HAECHAN #NCT127",
       "date": "2026-08-17",
       "url": "https://www.youtube.com/watch?v=VXLmJ_Lutmw",
       "thumb": "https://i3.ytimg.com/vi/VXLmJ_Lutmw/hqdefault.jpg"
@@ -820,37 +827,30 @@
       "date": "2026-08-09",
       "url": "https://www.youtube.com/watch?v=54vn_7Pm-1A",
       "thumb": "https://i2.ytimg.com/vi/54vn_7Pm-1A/hqdefault.jpg"
-    },
-    {
-      "id": "GnXnZqkYJIs",
-      "title": "NCT 127 엔시티 127 'BLINGY' : BLINGY JETS",
-      "date": "2026-08-05",
-      "url": "https://www.youtube.com/watch?v=GnXnZqkYJIs",
-      "thumb": "https://i4.ytimg.com/vi/GnXnZqkYJIs/hqdefault.jpg"
     }
   ],
   "news": [
     {
       "title": "NCT 127 dominates KCON LA, debuts 'Piñata' ahead of BLINGY release - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
+      "outlet": "biz.chosun.com",
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2l4Vkt0NWFYT09EZXFzS3BGZTdoclA2OFR3bGwtbWxzcS1EX05kSmtzeTYxQ25xUkEzRG5IN21qT2pmd2FOZUVKLWdMdmFVeXE4eVV0ZDhvSmdvOXQzcDh1MG1VWmdKQUExeVFCVElnRWxRVGQxTVoxQUhPQTNtSzRCM0ItMGtV0gGcAUFVX3lxTE9Kb1Y5WHB2cHVkS0RyRnBWb1NCeWZ2blBZcUhXUE1KU0FISGxrSk5NLUt6OE9CVUFPQ3BqTkJINTJDVTJCMXVtNm16em1DZ3FZNXlJWE1KSldhYWw0WmdHVGtfbVFxQ3U5a25lbHFKZENKN3Z6ZnhpS1czeU80bkZjQWRvamZDWFpkaUU4aFFnMlo5bXR1QzNqWDI3Tg?oc=5"
     },
     {
       "title": "NCT 127: Third Year as KCON LA Headliner",
-      "outlet": "조선일보",
+      "outlet": "chosun.com",
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2xTY09ia2Y3WUV0Mm5OMXJJd29IQl9JWkhGQXREbVo2UzBCYnlTMERQRU40bTZaZFIxZWtzZDBLRHFkc0dTU3luYW40TXJKQ2laR3JfbUMzTFJ5TWFnUDJYN1hfdUZWcnFtM3pNUmppbk92MUgzMlZ1OVVCWkViUGpYaVFXc0xuemxqNkZn?oc=5"
     },
     {
       "title": "The Best Moments From KCON LA 2026 (So Far)",
-      "outlet": "Billboard",
+      "outlet": "billboard.com",
       "date": "2026-08-16",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtaS0yMnEtcmRIdU42aGVUWW5nUGREOFlaV1haX2FCd2J1NW45R0wxMTQyNUl3dWl2eWZSRzZjRlg3ZWJPOXJoWTFNNWZzZ3FSVUdsSnAtNE1sNWJINWZBTjQyTUtFM0VyM19EY0ZSZ3lHZw?oc=5"
     },
     {
       "title": "Mark Denies Retirement, Pursues Creative Dreams After Leaving NCT",
-      "outlet": "조선일보",
+      "outlet": "chosun.com",
       "date": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeElXSVFyLXU3WjNJTk5YTlZQTzV4MUVBMXVoMGhsQ042a21SQnJDNUU1aEJ0SUdFdkRQOFVGVTVKWHRlWExFTEVuenc2cFdxcWZJRTFHdjk3azY5R1VJb1hrS3RvazVfaXpkTmZYT2pEN2JSb1g3ZmF0T1lQZDg4WDlIY21xYXhrOUtWb293?oc=5"
     },
@@ -879,32 +879,26 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVNLMlFDTnplV0hIdHFnV2d4Ul82amxGSWlZZEdZZHRlUl9nSU1MU09LNFd6OFhuSktWMmg0RU9rS2hKUnBMMUU5VzF3UXlINlZGVHBWb05IZm5ZdnBydUI5UEVDVFViZTdnWmtqbEVvU2djVnhxb09RZHl3QmVSRlBZUmUwYmQ2YVVZdDV5SjRfVVR3RTBlUHlaZzVSc0hXcXl6VnQ5QmFSaHVGaGlsWVFmUVp2cUtzOXY4?oc=5"
     },
     {
-      "title": "[Photo] NCT 127 Yuta boards flight in photoshoot-like airport look - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnVMY3o4eHJFYjNlc0l0YTYyX0ROZGJaeUVjSUFIQktOaktQaWJzSHdxeWlCT2VwZ1UzWk5yX3B4aU9iOHU0aWJRRF9lcDZYaEF0aTZ5bW5ZNjJLendId2JhWlZrWVJNRnVJWVNUZmxQeVJPMEtMY21sRVYtUUFqOERQWdIBlwFBVV95cUxOOWVoa0ZJY09CS2NwaTRCYTB6cEw4bkNkTm9zMGFSWGZ1Q2F3LVVlWXp0cXJ4VTNnVU9CUVZ3aFpWZ1dYY3hUNHp1SG55cWU1Y0tNQ3Vabkc2UW1CWnc0WlktQ1A2eEVBZk14a3NxNU1JS3l0MlRiQkI2WGU1S19wWk9vTE5Ub3p6MXpJMjZBUFh0WDg4dnBz?oc=5"
-    },
-    {
       "title": "[Photo] NCT 127 Hae-chan chats happily with Johnny on departure - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
+      "outlet": "biz.chosun.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMWk0UER5MndCbU8zRUtoMC1jOWhxM1cwSzIyQkFsNEJycV9BOFFLOGdvNGQyeXk1RlN3YW5hTW40dnNTU3FQUzhKVVJhQTZGTkpMQ3ZfTkNidGRRdk9hUEVrdllCSGp3c0lBTDl6UGtOZmVodWJqNDI5dVN1eGVIa2dOZ9IBlwFBVV95cUxOT2QtMVBFRzYzODhkSjhSbm5EVkVfeEdQTTBobENLNDRpTU5WRXYwdUNhczJ2QWZPZkE1ZTkxUXJRR3R6cjZXQlNIeExoSEhHTUstWkw0eWhUMHk4Sng4d0g5R3o3SWRpakZmSGJsSjVDb2gwS3ZrenlDN1dQS29UbmZGN20ySEdpaTByYk1WeWhlcDdvUDk0?oc=5"
     },
     {
       "title": "[Photo] NCT 127 Hae-chan, locks gaze with captivating eyes - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
+      "outlet": "biz.chosun.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWkxBMGRISTBnSGktVGN2WkFUNWNyLW5qUE9GUldMQnpvVERTTTYtMWM5c2ZmS0x2SGFXZWlkQy1LWUlYYi1lOUU5c04xcGt6UndMS0dfZ3oySGFhOF9ENWZmOU9peGhrZGpvWXYwdnBCZkNUOFNtU05jTnk5djc4TW5lY9IBlwFBVV95cUxPblc2OFBlaktHc3Z6N1p6RDNSZjFvNkV1ZHZtUjRHOThtaFlpQzhhTXo1Wmo1TUk5OXplOVJvelMwcmQyM3gzQ0hFVjNSVWZITFdTcmdDZ3lZY3RkSGRRTmpxNTZ6SU91R1F2b2Y3OWJsVE1MNkhUVXg2MWZhNDBXR2lYOVBsa0JOSk1hamhwcVNpM2F3c2ww?oc=5"
     },
     {
       "title": "[Photo] NCT 127 Taeyong shows off bold airport fashion - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
+      "outlet": "biz.chosun.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWERFT2ZkRDFpbjJuM1BraEd2aVRoc01GUEdRZXlTUHVFNEE2YmptX2hfT1hsbExBMW5jbElXMFU0RVRtb3ZKUEtfMjFzTFBZaHBFeFhXbWF3UWpsbXNDclY3cndNUTdUMkR6cWNJcWtZR3U3bGFnWVVUNHdXQXpJei0xRdIBlwFBVV95cUxNX083bjdtYTJCU1hFZHNqQ2NEWFdRSEozd0ttaVFTLWc3eWdOdG4zaE0yRy1GWDNFZkRGSS1FR084dHVSVDFrcFcxVUU2VzloV1Rna183TGw4WmxzeHRjdnlybUZKalRVNHN6bzRjX1Jwb2ZQQi1PdG5id3J2aUZRQ0VXZFVaUEhqdG1rVG5TeUdJdTB0Tmdv?oc=5"
     },
     {
       "title": "NCT 127 Dazzles America's Got Talent Stage",
-      "outlet": "조선일보",
+      "outlet": "chosun.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0lpM3h1TW93akoxcEh4QkJQNGcyVWszUkItd2ZnbzA2YjlPekhMUmo5cHdWbkdsWE9xbWhIVThGZmV6MlM1NThXSkYwejFyWlJqRjFJWXVuRUduVXdYMm44LXVfdHlnNnNVdjFHbEpjbER5eFVxVEl1aEhVaFY3LWU2dWU0WW1peVdtU1V3?oc=5"
     },
@@ -916,7 +910,7 @@
     },
     {
       "title": "NCT 127 to perform live on America’s Got Talent in US - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
+      "outlet": "biz.chosun.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0RfY0ZJWjBmeU5CX0h5TWlCWURGQ1V3elNiOERSY0dCWFgweUk0TlZTZEVoYXVVbXBhZDl0WTlEUDJJZHpTU1FHODEzVDloejV5ejFHdlhxMHNGNzJmREZET2lwdWx0TWYtb2NXZFlXVV8zTzhzV1NDZzNxaXNCWUoxcTcxcld10gGcAUFVX3lxTE1wcm9SM0pwT0xfbzFLaHU5X0hsT2NPcjhxX294UXF5Wm9TdXd0OTUzZldvc1BUc1V5WndKeFRFaEtsejBudDNsczB4TEduRUN6WWkzLXNsSXlWbnVKREhiVGJTN2x4dF9udEtnQXY0ZXk4ZmlTQnVmUEZmMWpFLUV0TFFfVnZ6UzVZcFQ3WTlYQWJhZjRoXzdIcHl3VQ?oc=5"
     },
@@ -927,6 +921,12 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBndTlLb2xFV1JxSUtvNmVyYWs3RDlibm5yU0ExSHRsYlZhUGtTNGxCbzdqaFpSRE9PWTAzV1FyTUVnbjh1SWU0YnEwQXNaTWZPdHFBSDVmQi1EU0tOWUE?oc=5"
     },
     {
+      "title": "NCT to collaborate with Seoul Fashion Week for 10th anniversary project",
+      "outlet": "koreaherald.com",
+      "date": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93a1pSNDJpQm12bW5Tazc1NnBzYV9vZTlIVFNYbUtxRUI3QjJQT2JiSXVpbVAyLUppNS1sOS1hZFJxS0EwLVUtTV9OZlJFeUhzR3BTLUxCRQ?oc=5"
+    },
+    {
       "title": "NCT 127 announced for America's Got Talent",
       "outlet": "Contactmusic.com",
       "date": "2026-08-13",
@@ -934,7 +934,7 @@
     },
     {
       "title": "NCT 127 to perform on America's Got Talent ahead of 'Blingy' album release",
-      "outlet": "Korea JoongAng Daily",
+      "outlet": "koreajoongangdaily.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXRRcHc1ODZUUlhVbEVJQ1ktSWpFMlhqQm5uSXgya2k3UFY4Tk9acG5IR3l1R1ltM1FuOTFleWJZaGNNc3B0OTFVNFNNS09Odi10eXVOMXliWlU1eHd6djEySUE5Y0pjak05S1o3dGFzWGtCR1lGcFFjQWFtYzMyTW50Qlp5ZTVWZXB3b09rU0R6Qnlpellvemw2UEhiQ0Rs?oc=5"
     },
@@ -1067,7 +1067,7 @@
     },
     {
       "title": "NCT 127 to perform on America's Got Talent ahead of 'Blingy' album release",
-      "outlet": "Korea JoongAng Daily",
+      "outlet": "koreajoongangdaily.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXRRcHc1ODZUUlhVbEVJQ1ktSWpFMlhqQm5uSXgya2k3UFY4Tk9acG5IR3l1R1ltM1FuOTFleWJZaGNNc3B0OTFVNFNNS09Odi10eXVOMXliWlU1eHd6djEySUE5Y0pjak05S1o3dGFzWGtCR1lGcFFjQWFtYzMyTW50Qlp5ZTVWZXB3b09rU0R6Qnlpellvemw2UEhiQ0Rs?oc=5"
     },
@@ -1085,7 +1085,7 @@
     },
     {
       "title": "'Odyssey' stars Damon and Theron meet NCT 127 during Korea interview tour - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
+      "outlet": "biz.chosun.com",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazNHM3BMUHZSTURKbVkwSlBUc3FCS0t1ZHNaZGlGbXZYUDlXdC1UQlR5VzlCTVhORGJMUk9yd2wzVUwxRS1uQS03c1ctYV9mWjNUSWhmVndwdWFRWEdRaGNuMkNCZ3hCU0JtRzNzNHk3Q1VWbldmcFFhcVVjQkFubFU4eGVCRHhL0gGcAUFVX3lxTE1VVGVzYUlNY2FybzFoMmF1OUZMMTR3elBpdHJMVEE5ZnduVzBEZ1dxX29ZeGFvQnNhX3E5TEtLWkVNaGx1NG5xdFZ0Z01fVlBKYXpRcEpsM3p3YnFTNWNueGVRRVJBdUZNQURBdnpjZEZCRWNZeXFPekxGQ3NpbnF3aG9PQjBGb1Q3eFdFT0xyZDNoaXRlbHNHX2U4ZA?oc=5"
     },
