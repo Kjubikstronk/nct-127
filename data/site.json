@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T07:08:24.423Z",
+  "generated": "2026-08-18T13:12:14.153Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -724,6 +724,13 @@
   ],
   "videos": [
     {
+      "id": "gPyX9faz-vg",
+      "title": "0.5xaholic #NCT127",
+      "date": "2026-08-18",
+      "url": "https://www.youtube.com/watch?v=gPyX9faz-vg",
+      "thumb": "https://i4.ytimg.com/vi/gPyX9faz-vg/hqdefault.jpg"
+    },
+    {
       "id": "B0_Wo3cLx1c",
       "title": "without ever letting you know #TAEYONG #NCT127",
       "date": "2026-08-17",
@@ -820,13 +827,6 @@
       "date": "2026-08-10",
       "url": "https://www.youtube.com/watch?v=jlyzWQ7USMQ",
       "thumb": "https://i3.ytimg.com/vi/jlyzWQ7USMQ/hqdefault.jpg"
-    },
-    {
-      "id": "54vn_7Pm-1A",
-      "title": "NCT 127 엔시티 127 'Piñata' Track Video Teaser",
-      "date": "2026-08-09",
-      "url": "https://www.youtube.com/watch?v=54vn_7Pm-1A",
-      "thumb": "https://i2.ytimg.com/vi/54vn_7Pm-1A/hqdefault.jpg"
     }
   ],
   "news": [
@@ -846,7 +846,7 @@
       "title": "NCT 127 to build buzz for new album with teaser medley",
       "outlet": "Aju Press",
       "date": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0N0dPR0V1RGlmU1hHNkVzUTRUWWdOVGpEMHBCdGMyeVl5STJyTTNZdDFxd2FnUk5tYW5ZalpBakNRblVTZ3VOeUxpMVFZM1kwNHhwSHRhVdIBV0FVX3lxTFB0N0dPR0V1RGlmU1hHNkVzUTRUWWdOVGpEMHBCdGMyeVl5STJyTTNZdDFxd2FnUk5tYW5ZalpBakNRblVTZ3VOeUxpMVFZM1kwNHhwSHRhVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80LU5VU2gyVDFJMzExcjFDQS12aHhKR3hLbmc1U3NGS2tJR05DOFZJS2dFR25ET0hNbFBEUU1xRU5pQklCY29iYTVieE80S0U0RDVUYXMzNHZVWVXSAVdBVV95cUxQdDdHT0dFdURpZlNYRzZFc1E0VFlnTlRqRDBwQnRjMnlZeUkyck0zWXQxcXdhZ1JObWFuWWpaQWpDUW5VU2d1TnlMaTFRWTNZMDR4cEh0YVU?oc=5"
     },
     {
       "title": "K-pop Boy Bands Line Up August Comebacks From Bigbang to Enhypen",
@@ -855,16 +855,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGpvR1JyaXRtcWVvSFJkZFpMMjVCSWFNLVB2cWZiX0ZjcjJ1NUJJVGVNWlJMY29HUGdwYTJMT2ptT0QxT3VnNndTLW45QkRuOXdPRm84b1BjV2RSaEVBeGdNX2V2NHI0ZE00OGZSTUNIZkNUNkttNWZUMUxtRGhhM18tZ0RrX3VVSkpuQU1sV0x0RWxFWk9qRVQwbldBLU0?oc=5"
     },
     {
-      "title": "NCT 127 dominates KCON LA, debuts 'Piñata' ahead of BLINGY release - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
-      "date": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSm9WOVhwdnB1ZEtEckZwVm9TQnlmdm5QWXFIV1BNSlNBSEhsa0pOTS1LejhPQlVBT0Nwak5CSDUyQ1UyQjF1bTZtenptQ2dxWTV5SVhNSkpXYWFsNFpnR1RrX21RcUN1OWtuZWxxSmRDSjd2emZ4aUtXM3lPNG5GY0Fkb2pmQ1haZGlFOGhRZzJaOW10dUMzalgyN07SAZwBQVVfeXFMT0pvVjlYcHZwdWRLRHJGcFZvU0J5ZnZuUFlxSFdQTUpTQUhIbGtKTk0tS3o4T0JVQU9DcGpOQkg1MkNVMkIxdW02bXp6bUNncVk1eUlYTUpKV2FhbDRaZ0dUa19tUXFDdTlrbmVscUpkQ0o3dnpmeGlLVzN5TzRuRmNBZG9qZkNYWmRpRThoUWcyWjltdHVDM2pYMjdO?oc=5"
-    },
-    {
       "title": "KCON LA 2026: Ranking the 10 Best Performances That Had Everyone Talking",
       "outlet": "dojeonmedia.com",
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0c0X1E4RlpJMWdLQzFLRk1LcTdrUEVuVkdVYnBFV0FWT241Q1dsMzR1bHJQZU5TbXA3WU1pa3lSX3ZldlRDQzFweU9sazA0UUJhYURIVldoek8zZWhWTkJtTlhVdjFPRXVaeUs2VjNWdmJZSWRweTlHd1dmSHRYZ01JVW05WkJadThaZ0l2cTdWN0JQdzBwZ1dURFVTeUJiSmhKY0J5WQ?oc=5"
+    },
+    {
+      "title": "NCT 127 dominates KCON LA, debuts 'Piñata' ahead of BLINGY release - CHOSUNBIZ",
+      "outlet": "Chosunbiz",
+      "date": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2l4Vkt0NWFYT09EZXFzS3BGZTdoclA2OFR3bGwtbWxzcS1EX05kSmtzeTYxQ25xUkEzRG5IN21qT2pmd2FOZUVKLWdMdmFVeXE4eVV0ZDhvSmdvOXQzcDh1MG1VWmdKQUExeVFCVElnRWxRVGQxTVoxQUhPQTNtSzRCM0ItMGtV0gGcAUFVX3lxTE9Kb1Y5WHB2cHVkS0RyRnBWb1NCeWZ2blBZcUhXUE1KU0FISGxrSk5NLUt6OE9CVUFPQ3BqTkJINTJDVTJCMXVtNm16em1DZ3FZNXlJWE1KSldhYWw0WmdHVGtfbVFxQ3U5a25lbHFKZENKN3Z6ZnhpS1czeU80bkZjQWRvamZDWFpkaUU4aFFnMlo5bXR1QzNqWDI3Tg?oc=5"
     },
     {
       "title": "NCT 127: Third Year as KCON LA Headliner",
@@ -873,20 +873,20 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2xTY09ia2Y3WUV0Mm5OMXJJd29IQl9JWkhGQXREbVo2UzBCYnlTMERQRU40bTZaZFIxZWtzZDBLRHFkc0dTU3luYW40TXJKQ2laR3JfbUMzTFJ5TWFnUDJYN1hfdUZWcnFtM3pNUmppbk92MUgzMlZ1OVVCWkViUGpYaVFXc0xuemxqNkZn?oc=5"
     },
     {
-      "title": "NCT 127 5TH TOUR ‘NEO CITY : HONG KONG - THE REDLINE’",
-      "outlet": "Kai Tak Sports Park",
-      "date": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQldjbEQtc3RYcnQ2b2NabVJObXozMFp5dHFLQ2NzajFZZmptSnc4Vkh1bVRCaVRtYlNQVlU2N3RNRldLQU01Y1p5T1B5WWo4TjZhSWptTFA4WXU1ZkhnRnBTSmVjZ1U0MjF1M3RYakpib0U3R1pNbkMwNkxzRUstMktHXzBqNlB2U1ZWWHJDbS1NUFkzYzZHdkRTbW4ydE0?oc=5"
-    },
-    {
       "title": "The Best Moments From KCON LA 2026",
       "outlet": "Billboard",
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtaS0yMnEtcmRIdU42aGVUWW5nUGREOFlaV1haX2FCd2J1NW45R0wxMTQyNUl3dWl2eWZSRzZjRlg3ZWJPOXJoWTFNNWZzZ3FSVUdsSnAtNE1sNWJINWZBTjQyTUtFM0VyM19EY0ZSZ3lHZw?oc=5"
     },
     {
+      "title": "NCT 127 5TH TOUR ‘NEO CITY : HONG KONG - THE REDLINE’",
+      "outlet": "Kai Tak Sports Park",
+      "date": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQldjbEQtc3RYcnQ2b2NabVJObXozMFp5dHFLQ2NzajFZZmptSnc4Vkh1bVRCaVRtYlNQVlU2N3RNRldLQU01Y1p5T1B5WWo4TjZhSWptTFA4WXU1ZkhnRnBTSmVjZ1U0MjF1M3RYakpib0U3R1pNbkMwNkxzRUstMktHXzBqNlB2U1ZWWHJDbS1NUFkzYzZHdkRTbW4ydE0?oc=5"
+    },
+    {
       "title": "[RECAP] KCON LA 2026 DAY 1: Rookie Spirit & Long-Awaited Comebacks with NCT 127, Wanna One, and More",
-      "outlet": "kpopconcerts.com",
+      "outlet": "Kpopconcerts",
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjUyUXVibkY5MEE4TjE4VlNOVzc1Ty03Z0Zqa283Nk1wQnFJRjQ0TmFDSEZQdlJSdEpwMlpfQmJGMTEtTG9DQm10WDJYbFVKUUd5ZFdLczd0ZjlMeHpMQWEzd2t3VFVtTXphMlZweVp3NFpLd0o1QXN2ME5tdTVLUmZTdXJiZVdBWVEyMTh6UzhCZ1lYb09UdDhyemdIQnJsVXdrSTU4SXlVc3ROX3M0LWgtdENGS3JIY0ZDRU9tTjMwbU14X2dMb3l2X0s?oc=5"
     },
