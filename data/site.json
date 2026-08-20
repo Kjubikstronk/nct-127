@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T01:54:52.471Z",
+  "generated": "2026-08-20T07:10:40.742Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -724,6 +724,13 @@
   ],
   "videos": [
     {
+      "id": "s6rZ0xLCYOs",
+      "title": "Just so you know, we've prepared something special",
+      "date": "2026-08-20",
+      "url": "https://www.youtube.com/watch?v=s6rZ0xLCYOs",
+      "thumb": "https://i4.ytimg.com/vi/s6rZ0xLCYOs/hqdefault.jpg"
+    },
+    {
       "id": "UY_834qPumA",
       "title": "ONE TIME 🔥🔥🔥 #NCT127 #AGT",
       "date": "2026-08-20",
@@ -732,7 +739,7 @@
     },
     {
       "id": "CqSx_6kRssk",
-      "title": "Tonight show at #AGT#NCT127",
+      "title": "Tonight show at #AGT #NCT127",
       "date": "2026-08-20",
       "url": "https://www.youtube.com/watch?v=CqSx_6kRssk",
       "thumb": "https://i4.ytimg.com/vi/CqSx_6kRssk/hqdefault.jpg"
@@ -820,27 +827,68 @@
       "date": "2026-08-12",
       "url": "https://www.youtube.com/watch?v=gu8-_TLKuNE",
       "thumb": "https://i4.ytimg.com/vi/gu8-_TLKuNE/hqdefault.jpg"
-    },
-    {
-      "id": "owT42dkVtVA",
-      "title": "NCT 127 엔시티 127 'Piñata' Cheering Guide | 시즈니 소리 질러 Right now 💚",
-      "date": "2026-08-12",
-      "url": "https://www.youtube.com/watch?v=owT42dkVtVA",
-      "thumb": "https://i4.ytimg.com/vi/owT42dkVtVA/hqdefault.jpg"
     }
   ],
   "news": [
+    {
+      "title": "NCT Dream members stay at K-pop label SM Entertainment",
+      "outlet": "ABS-CBN",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGhBQkRhYjVTRU5ybWVoOWxtX1h2MXFpbEVVMHEzYS1UNjNCMFdyQlZHRFJFWHJ1dm81TFBlZHhaYmdIMEZPNmVKLXplbXJpYWQ2SjFra2dFS2R3cklTNFlsRzZ4czJqWHF1c1Rza3lwcHNMZVdraE15WWtrRnFnX1gtbWRWRHQtSVlDZjNZbllKMjJiZ0NURXRqYUM0UkNFWHFHaFR2ZWFfSHQ4TmFIRXppaGlEQzB0elp5NlZ3?oc=5"
+    },
+    {
+      "title": "NCT Dream renews contract as full group with SM Entertainment",
+      "outlet": "Yonhap News Agency",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UU3dhZ3pWVmlYbDZONXVUcnV5dTBzbW4wQ1MwUHFucDJWZ3NfV0Q0bnA2ZFQzR1JOSTJxR0RVZlQtazcxSG1RcXE0TGNuWUNWR2FuczU4bXEzQQ?oc=5"
+    },
+    {
+      "title": "NCT Dream renews contract with SM Entertainment",
+      "outlet": "Korea JoongAng Daily",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWS1mN0JTdDBJRGZRdk42Ylp0S1U2dkFRWDJwUEFwVFVfYm1ZZEVTbVBqdTFoQ2twd3hKQm43ZVVSbkE2VWlaUjNLSVJlRHpzaThtcEJrclQ2SnlGRGpQSjBGakNWSGx3VlczNnB1Mkh5TXJnbnVXOXhOUnd6V3BXU2t6Q3RiclNSUXUtM0dnUE5JcTNkZ21WY1ZpM1JBSTI0ZkN3VW5Ia2s?oc=5"
+    },
+    {
+      "title": "As expected, the god of performance.. NCT 127 tears up America's 'America's Got Talent'",
+      "outlet": "starnewskorea.com",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10LXhIaEoyMVFsMU1rdGFkU2FtWTVmUDZSdnpzb19PMFFRNUNuV2JZZjJWNFhwTDhPTlNuTDFrQ0RmMTF0Ml8yWGlMVG1EZUtVSE1qLWdlaU00TDh1b2wxcjFZUWR1Z2lkOVJVNkdGdkh2b0FhUUNHOQ?oc=5"
+    },
+    {
+      "title": "All 6 NCT Dream members renew contract with SM Entertainment",
+      "outlet": "The Korea Herald",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tU09UWHFLTnB1bHd0cWhNMFdRQXFMZVJHWnNSR3AtNUcxUnhEa3pMR2VnX0tHYlY5aDF1UTJvZFptMUhJMExscUZXQXJhVEE1MjA0YmdaSQ?oc=5"
+    },
+    {
+      "title": "A Big One Is Coming... Why NCT 127’s Comeback Is Impossible Not to Anticipate",
+      "outlet": "스포츠조선",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUndKb0twemViVFYwSnZXUWZHYkVEZzZGMW93UXFVTHRYaFdQYXpCNnJ2LXpzVHVDNktERU12ZzVhRzQ3bVdZTGk1TEg2MmswUDFLQzdaYnRtdWhEV2ZHOHFyVzMwb0pMQkdOMUVOOXppRU9uQ0ZWS3NjVm1ycU5HVmh0bw?oc=5"
+    },
+    {
+      "title": "NCT 127 Hits ‘Kick It’ And ‘Piñata’ Medley on ‘AGT’: Watch",
+      "outlet": "Billboard",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWtSYkc0eTFyR3RtQ0lUcGhiRllSRG9VUTVtT3ZRU2Z1ajBhYmJhZFo1N0ltOExWQWI1NmNuVVExaGxjdUVpTmNEekpZdXYyb3VoRW14Rl8tY3lEM3Zhc2tPcHRJb2tPS3FsV2ZJTEF3NzRWcTFzeVBhX19tQXFnUDlETHdwVEFH?oc=5"
+    },
+    {
+      "title": "KCON LA 2026 Draws Record 142,000 Fans, Biggest Crowd In Festival History",
+      "outlet": "uk.news.yahoo.com",
+      "date": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sMXl4ZUJvOVBpWEVXSWhsVU84Sk5DNkItZk9tVEdWNmc4RktnQzI1Qm0zLXlNVmZURWFwSG1OcGpFUnVXZG85Vl93N3A1QlhWbmdadUlwMVVNWXNuNTZhOWpyeGN0OWVFU1NTRUw1RHZvWWRa?oc=5"
+    },
+    {
+      "title": "KCON LA 2026 Brings Major K-Pop Acts and Fan-Favorite Moments to Los Angeles",
+      "outlet": "Effingham Radio",
+      "date": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXFNTUVWdjY4NWMzbEo4QjBMNkhYNi1GS21MWDlsWXNJOVl0aDRKQ0JTaG1TbXVSbWtOcEdYV2dONURsNXdVd3VNbDRwN2czRUFyWm9lVWQxbGZKNUZIbVBFLWxtZGJHWWM0dTFLRl9vSzBzb3U2NUZjU2xkcVVWU3lIb3pselJtRXkwWVNERGN5cUlENzJmVTdiMjgzdF9EbEZRcTNEWW5EcjgzdDZvS0M5SGhkQlh0T2xn?oc=5"
+    },
     {
       "title": "\"We will show the best performance.\" NCT 127's confidence to prove it",
       "outlet": "starnewskorea.com",
       "date": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wX0FSMGs1a1EwSFVHTHY5bEprYlpaU2x0TmtIbDNaZlRSVU1qWTFzaEJWMFdJSXotd0NQT3NILVNmeVMtcTNOZlg1UjVKWDBuV2stM1pZRWFUN19tODZGb0h6VXhwNEViN1Znak91TGduZU5fNUFaYg?oc=5"
-    },
-    {
-      "title": "KCON LA 2026 Draws Record 142,000 Fans, Biggest Crowd In Festival History",
-      "outlet": "Yahoo News UK",
-      "date": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sMXl4ZUJvOVBpWEVXSWhsVU84Sk5DNkItZk9tVEdWNmc4RktnQzI1Qm0zLXlNVmZURWFwSG1OcGpFUnVXZG85Vl93N3A1QlhWbmdadUlwMVVNWXNuNTZhOWpyeGN0OWVFU1NTRUw1RHZvWWRa?oc=5"
     },
     {
       "title": "NCT 127 on ‘America’s Got Talent’: Here’s How to Watch the K-Pop Group’s Performance Online With Sling TV",
@@ -850,7 +898,7 @@
     },
     {
       "title": "NCT 127 to showcase new title track at comeback event next week",
-      "outlet": "Aju Press",
+      "outlet": "ajupress.com",
       "date": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95WHBCU2dpTmVEMkVPOWU1UU1pREs4SzFPcDU0TzZrbHlVaThRQlpmNndkSUZvelFMNTZqR01NSG53eURHQ1hvOWYyenJNZXY1cEJOT25YMkVWZGfSAVdBVV95cUxOZWxXM3ZhQkY4RG16amZQbm5qM3JFLVl6ZGpQMk1qT3N0alFLNXJIdVdPNzAyR2VyWHNXX0pibTNrOVdQbjR2eFlTR2lhODc1b3NKRzVnZG8?oc=5"
     },
@@ -861,12 +909,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTFQTGYwUWhqX2dLeFJxSzZVY1d2UW1qSGNrckhfQzRWWW54OE8yWHdWVzhRMUZTdnFlbGtBYlZRRHNVRXhxLUVKRnFkenpfTW81OE85ZHdabzExZHlTWjlXQVYxV0ZGbTh5OURNT2U4RUEzd3lLLTVzWnV3NDk4akxGcS1EVDNtSnZWdWRZRHpHS3V0aUVkcGhKblbSAZwBQVVfeXFMT0kxUExmMFFoal9nS3hScUs2VWNXdlFtakhja3JIX0M0VllueDhPMlh3Vlc4UTFGU3ZxZWxrQWJWUURzVUV4cS1FSkZxZHp6X01vNThPOWR3Wm8xMWR5U1o5V0FWMVdGRm04eTlETU9lOEVBM3d5Sy01c1p1dzQ5OGpMRnEtRFQzbUp2VnVkWUR6R0t1dGlFZHBoSm5W?oc=5"
     },
     {
-      "title": "Multimedia de NCT 127 de Weverse - NCT 1",
-      "outlet": "Weverse",
-      "date": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UYUwwaWtEczFMZUVsYW5lcWFkWUxITU55UXk2Z0g3NmNiVzFVMklMMWM1QTB4M2lVaWF6dVJmMGVpV19wczNRakhJVklYU1ZHX3lZMjctVTVlemk4aUE?oc=5"
-    },
-    {
       "title": "NCT 127 Proves Limitless Musical Spectrum with 'BLINGY' Album",
       "outlet": "조선일보",
       "date": "2026-08-18",
@@ -874,13 +916,13 @@
     },
     {
       "title": "NCT 127 to build buzz for new album with teaser medley",
-      "outlet": "Aju Press",
+      "outlet": "ajupress.com",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80LU5VU2gyVDFJMzExcjFDQS12aHhKR3hLbmc1U3NGS2tJR05DOFZJS2dFR25ET0hNbFBEUU1xRU5pQklCY29iYTVieE80S0U0RDVUYXMzNHZVWVXSAVdBVV95cUxQdDdHT0dFdURpZlNYRzZFc1E0VFlnTlRqRDBwQnRjMnlZeUkyck0zWXQxcXdhZ1JObWFuWWpaQWpDUW5VU2d1TnlMaTFRWTNZMDR4cEh0YVU?oc=5"
     },
     {
       "title": "KCON LA 2026: Ranking the 10 Best Performances That Had Everyone Talking",
-      "outlet": "dojeonmedia.com",
+      "outlet": "Dojeon Media",
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0c0X1E4RlpJMWdLQzFLRk1LcTdrUEVuVkdVYnBFV0FWT241Q1dsMzR1bHJQZU5TbXA3WU1pa3lSX3ZldlRDQzFweU9sazA0UUJhYURIVldoek8zZWhWTkJtTlhVdjFPRXVaeUs2VjNWdmJZSWRweTlHd1dmSHRYZ01JVW05WkJadThaZ0l2cTdWN0JQdzBwZ1dURFVTeUJiSmhKY0J5WQ?oc=5"
     },
@@ -931,48 +973,6 @@
       "outlet": "Yahoo Lifestyle Singapore",
       "date": "2026-08-14",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAydHRwVUx2NEh2Z0JsaC0xYkIwMVFnYmxsM0pHbVo0LXJWUkk0U3pIczdfMm5qcndmeGNXeEhRWGRJYzVXYXdOZU02bkIxMnV5WUhIc09UeU03Z2dBSFUyUW9QeEZvU1JvazR5MGs2LWNjbkZNRU9WWkZ3?oc=5"
-    },
-    {
-      "title": "KCON LA 2026 Livestream: How To Watch NCT 127, ZB1, & Tomorrow x Together From Home",
-      "outlet": "Rolling Stone",
-      "date": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVNLMlFDTnplV0hIdHFnV2d4Ul82amxGSWlZZEdZZHRlUl9nSU1MU09LNFd6OFhuSktWMmg0RU9rS2hKUnBMMUU5VzF3UXlINlZGVHBWb05IZm5ZdnBydUI5UEVDVFViZTdnWmtqbEVvU2djVnhxb09RZHl3QmVSRlBZUmUwYmQ2YVVZdDV5SjRfVVR3RTBlUHlaZzVSc0hXcXl6VnQ5QmFSaHVGaGlsWVFmUVp2cUtzOXY4?oc=5"
-    },
-    {
-      "title": "NCT 127 to perform live on America’s Got Talent in US - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0RfY0ZJWjBmeU5CX0h5TWlCWURGQ1V3elNiOERSY0dCWFgweUk0TlZTZEVoYXVVbXBhZDl0WTlEUDJJZHpTU1FHODEzVDloejV5ejFHdlhxMHNGNzJmREZET2lwdWx0TWYtb2NXZFlXVV8zTzhzV1NDZzNxaXNCWUoxcTcxcld10gGcAUFVX3lxTE1wcm9SM0pwT0xfbzFLaHU5X0hsT2NPcjhxX294UXF5Wm9TdXd0OTUzZldvc1BUc1V5WndKeFRFaEtsejBudDNsczB4TEduRUN6WWkzLXNsSXlWbnVKREhiVGJTN2x4dF9udEtnQXY0ZXk4ZmlTQnVmUEZmMWpFLUV0TFFfVnZ6UzVZcFQ3WTlYQWJhZjRoXzdIcHl3VQ?oc=5"
-    },
-    {
-      "title": "[Official] NCT 127 to appear live on 'America's Got Talent' on the 19th",
-      "outlet": "starnewskorea.com",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HM3ZEUU9tT0huTGlYaDREYVlwZUY1dWZaZXU2bVlmWUctV0RLbEZxd1dHb1BHNWV3dVFTWEk0WWR1dEhsNWJ4Z05vcURQN25EemFKU3FNOEdZV0xCVHRmaExFeXRHQWNmdEpTa3dyaXlaR1NIZ2Z3Mg?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 画像 - ASSEMBLE!",
-      "outlet": "Weverse",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBndTlLb2xFV1JxSUtvNmVyYWs3RDlibm5yU0ExSHRsYlZhUGtTNGxCbzdqaFpSRE9PWTAzV1FyTUVnbjh1SWU0YnEwQXNaTWZPdHFBSDVmQi1EU0tOWUE?oc=5"
-    },
-    {
-      "title": "NCT 127 Dazzles America's Got Talent Stage",
-      "outlet": "조선일보",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0lpM3h1TW93akoxcEh4QkJQNGcyVWszUkItd2ZnbzA2YjlPekhMUmo5cHdWbkdsWE9xbWhIVThGZmV6MlM1NThXSkYwejFyWlJqRjFJWXVuRUduVXdYMm44LXVfdHlnNnNVdjFHbEpjbER5eFVxVEl1aEhVaFY3LWU2dWU0WW1peVdtU1V3?oc=5"
-    },
-    {
-      "title": "NCT 127 to perform on America's Got Talent ahead of 'Blingy' album release",
-      "outlet": "Korea JoongAng Daily",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXRRcHc1ODZUUlhVbEVJQ1ktSWpFMlhqQm5uSXgya2k3UFY4Tk9acG5IR3l1R1ltM1FuOTFleWJZaGNNc3B0OTFVNFNNS09Odi10eXVOMXliWlU1eHd6djEySUE5Y0pjak05S1o3dGFzWGtCR1lGcFFjQWFtYzMyTW50Qlp5ZTVWZXB3b09rU0R6Qnlpellvemw2UEhiQ0Rs?oc=5"
-    },
-    {
-      "title": "NCT 127 to appear on Americas Got Talent",
-      "outlet": "Aju Press",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aUE00RHJmaU5LcVoxekNsZmItdGcyNVpFSlNVQ19wVHBEYXJKdFhydWtIU19aUGY2aWlFeWN2Z3lLazFYOURsbjV3dnF4bEdYMXhDeU1TNENXMHfSAVdBVV95cUxQWlJnZXl0U25MU1BYbl93VjgtcS1kbGdDbzNvWlpwcVh4dm9fMVMwclo2ZHdzRWEybnJwWGZiWGFaQUU0bzR3TzJUZFdKVEhIcl9nSnlUNTg?oc=5"
     }
   ],
   "bio": {
@@ -1060,6 +1060,12 @@
   },
   "tourNews": [
     {
+      "title": "As expected, the god of performance.. NCT 127 tears up America's 'America's Got Talent'",
+      "outlet": "starnewskorea.com",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10LXhIaEoyMVFsMU1rdGFkU2FtWTVmUDZSdnpzb19PMFFRNUNuV2JZZjJWNFhwTDhPTlNuTDFrQ0RmMTF0Ml8yWGlMVG1EZUtVSE1qLWdlaU00TDh1b2wxcjFZUWR1Z2lkOVJVNkdGdkh2b0FhUUNHOQ?oc=5"
+    },
+    {
       "title": "\"We will show the best performance.\" NCT 127's confidence to prove it",
       "outlet": "starnewskorea.com",
       "date": "2026-08-19",
@@ -1085,15 +1091,9 @@
     },
     {
       "title": "NCT 127 previews Piñata with noir-style track video before KCON LA stage",
-      "outlet": "Aju Press",
+      "outlet": "ajupress.com",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iTGI4TFUzVVV1QVdScG5hVGYzVmg2c2V6Qm1FbUNkVnJKb1FoUVpOc2Vfb0NCei1kcl9yUXJqTDZ4dkdrTHFBeTNWbUJ5Rzg1SzFfc25mTGV0WUnSAVdBVV95cUxPN1dGaVN2TFh1Uk1famtNUzVfQjhJYUVaaDNXamw0VlBqRjJyS3R2T1llYlQ2RGMzclMxYlVyM3ktNDY0dDBlVnRTZHhHMWNFRzE3V1h3aUU?oc=5"
-    },
-    {
-      "title": "A thrilling catharsis that shakes the stage.. NCT 127 opens track video for 'Piñata'",
-      "outlet": "starnewskorea.com",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpb2FZYXdOcVk3bTBfYW9ZVE1aNDhPN3pyWWxsSWtFRkdZRjJJTk5VbWY4ZDVVOENQdVh2NktxekhjODVhdjZ1MlJrNjJWMXJqUkxUdjh2aHlBQ3ZvRDNnQ1VSWUFLSzdkbTduZHFUUGRVMUI0Uk1rdA?oc=5"
     }
   ],
   "timeline": [
