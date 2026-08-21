@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T02:01:01.306Z",
+  "generated": "2026-08-21T07:11:07.299Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -724,6 +724,13 @@
   ],
   "videos": [
     {
+      "id": "k0v7NhGpVug",
+      "title": "sneaked in some more signed units for yall",
+      "date": "2026-08-21",
+      "url": "https://www.youtube.com/watch?v=k0v7NhGpVug",
+      "thumb": "https://i4.ytimg.com/vi/k0v7NhGpVug/hqdefault.jpg"
+    },
+    {
       "id": "eSY2WCFcNyM",
       "title": "LA vibes #NCT127",
       "date": "2026-08-20",
@@ -820,13 +827,6 @@
       "date": "2026-08-15",
       "url": "https://www.youtube.com/watch?v=nByr9_7cfzA",
       "thumb": "https://i3.ytimg.com/vi/nByr9_7cfzA/hqdefault.jpg"
-    },
-    {
-      "id": "dk9VMLLYt-w",
-      "title": "Absolutely #NCT127",
-      "date": "2026-08-14",
-      "url": "https://www.youtube.com/watch?v=dk9VMLLYt-w",
-      "thumb": "https://i1.ytimg.com/vi/dk9VMLLYt-w/hqdefault.jpg"
     }
   ],
   "news": [
@@ -1060,6 +1060,12 @@
   },
   "tourNews": [
     {
+      "title": "NCT 127's 'NEO CITY: SEOUL -THE REDLINE' 5TH Tour Experience Heads to Cinemas on September 20 - Guidance Revision Trend",
+      "outlet": "dars.gov.et",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZHNKOVl2TXFoY1Z3cFUzSUx6NkstaTJTWnBILTQ0OTZsQzdJOERYTUFiWlRWWUFnZm12US0wN3UyWnAtQWltYmllOUxyOUlsWEtNWWlYSVNrZkF3ZU0zSXc2cXMyVnktd3RrMVdxZVJ3Tl9iNjJNVjlKaENCb1M3Q1B0UTREWDROWW9wWFFwdm5mWnJYUmM5eTk1cGM2NWJXazA1UkNRc3ViZTJ3VW85LWphWkJFM0dvb2NLTmxpcUxRN3gxdTRBWHRIajFCZw?oc=5"
+    },
+    {
       "title": "As expected, the god of performance.. NCT 127 tears up America's 'America's Got Talent'",
       "outlet": "starnewskorea.com",
       "date": "2026-08-20",
@@ -1088,12 +1094,6 @@
       "outlet": "Yahoo",
       "date": "2026-08-20",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1ZOVUNTaVJ4eFF6dnZCbEM5MlJXMmRrcXNaelQ2RUZVbFRkWWV6X1JjMHZBYmtKNk5mUDRuNE9vVmg5TndtYUQ0ZmhVdzhEUUt5NmY2bl9TaEx0MEZuR2hGUWZ5UUY5bmsxdmlmeDZkUWR2bDdOTFNMUmtmOGhuUFppM2U4ZEdUVU1BZ3RkUUZ2cGM?oc=5"
-    },
-    {
-      "title": "NCT 127 Bringing 5th Tour 'NEO CITY : SEOUL - THE REDLINE' To Theaters",
-      "outlet": "Billboard",
-      "date": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGFuRjlnX0R2aDlkWngzZkJNUXlOLUJiWFVGYTR2UDd6M2NuZW4wV0t4WlFQZ1pPTWlSV1YxblI5dTF4TTBNVEtZVGxFN2JUeWJ5NGVYODZ0ekZIMmdmekVGUTlsOFJFSTlqZ3FEblV5VzNkOVo1cVVBSmxHTG9ldnpCMzE5czZBcnpQUWJHak1WR2RnRjBDQmlfSjMzOVdFOXdfSmRnbw?oc=5"
     }
   ],
   "timeline": [
