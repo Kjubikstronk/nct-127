@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T01:53:25.349Z",
+  "generated": "2026-08-22T07:03:07.746Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -724,6 +724,13 @@
   ],
   "videos": [
     {
+      "id": "FY6DV1Jxg9I",
+      "title": "working hard to get these to all our NCTZENs",
+      "date": "2026-08-22",
+      "url": "https://www.youtube.com/watch?v=FY6DV1Jxg9I",
+      "thumb": "https://i3.ytimg.com/vi/FY6DV1Jxg9I/hqdefault.jpg"
+    },
+    {
       "id": "k0v7NhGpVug",
       "title": "sneaked in some more signed units for yall",
       "date": "2026-08-21",
@@ -773,6 +780,13 @@
       "thumb": "https://i2.ytimg.com/vi/Y3w1lgRei2c/hqdefault.jpg"
     },
     {
+      "id": "f4PoPp15LRM",
+      "title": "NCT 127 THE 7TH ALBUM [BLINGY] COMEBACK LIVE PARTY",
+      "date": "2026-08-19",
+      "url": "https://www.youtube.com/watch?v=f4PoPp15LRM",
+      "thumb": "https://i3.ytimg.com/vi/f4PoPp15LRM/hqdefault.jpg"
+    },
+    {
       "id": "8qobsbXEsU4",
       "title": "leaving. #NCT127",
       "date": "2026-08-19",
@@ -813,20 +827,6 @@
       "date": "2026-08-16",
       "url": "https://www.youtube.com/watch?v=WecAftae_CI",
       "thumb": "https://i4.ytimg.com/vi/WecAftae_CI/hqdefault.jpg"
-    },
-    {
-      "id": "UVtnqOlDRys",
-      "title": "Like Piñata #TAEYONG #NCT127 #Piñata #NCT_10TH_ANNIVERSARY",
-      "date": "2026-08-15",
-      "url": "https://www.youtube.com/watch?v=UVtnqOlDRys",
-      "thumb": "https://i2.ytimg.com/vi/UVtnqOlDRys/hqdefault.jpg"
-    },
-    {
-      "id": "nByr9_7cfzA",
-      "title": "behind the scenes #NCT127 #KCONLA2026",
-      "date": "2026-08-15",
-      "url": "https://www.youtube.com/watch?v=nByr9_7cfzA",
-      "thumb": "https://i3.ytimg.com/vi/nByr9_7cfzA/hqdefault.jpg"
     }
   ],
   "news": [
