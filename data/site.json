@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T02:02:32.099Z",
+  "generated": "2026-08-23T07:05:27.468Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -724,6 +724,13 @@
   ],
   "videos": [
     {
+      "id": "9wb65-7Ddic",
+      "title": "NEO GOTCHU.",
+      "date": "2026-08-23",
+      "url": "https://www.youtube.com/watch?v=9wb65-7Ddic",
+      "thumb": "https://i2.ytimg.com/vi/9wb65-7Ddic/hqdefault.jpg"
+    },
+    {
       "id": "FY6DV1Jxg9I",
       "title": "working hard to get these to all our NCTZENs",
       "date": "2026-08-22",
@@ -820,13 +827,6 @@
       "date": "2026-08-17",
       "url": "https://www.youtube.com/watch?v=VXLmJ_Lutmw",
       "thumb": "https://i3.ytimg.com/vi/VXLmJ_Lutmw/hqdefault.jpg"
-    },
-    {
-      "id": "WecAftae_CI",
-      "title": "데뷔 10년 차, 드디어 ✦유잼시티✦ 등극😎 | 🗣️우리 폼 미쳤는데…? | 127 버스터즈 下",
-      "date": "2026-08-16",
-      "url": "https://www.youtube.com/watch?v=WecAftae_CI",
-      "thumb": "https://i4.ytimg.com/vi/WecAftae_CI/hqdefault.jpg"
     }
   ],
   "news": [
@@ -841,6 +841,12 @@
       "outlet": "Weverse",
       "date": "2026-08-22",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jazlHRjZPTXUwMFBwcUZTeWRnazFoVHRINUNmQ0NlM0Y2TW9IZHlsRi1IWUhXT2hzVFFHRlAzU0F6UmtwWXZ0X2V6RkJBbGJic1hnaDNzeVdjZDctNEVhcnRn?oc=5"
+    },
+    {
+      "title": "NCT 127 Setlists 2025",
+      "outlet": "JamBase",
+      "date": "2026-08-22",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PdXhJbkwyNzJIYjVXZmVLWkUzckpacXNacUZSV0R4VEpnWjh2a1ZJWU9UVXpRdjJxaVF3WjVVTEZmQzdqUXd0bWdOamlGQmxwLVEyaGRrRk9URnNRR1ZZdHBQSFk?oc=5"
     },
     {
       "title": "Weverse NCT 127 Image - NCT 127 ‘Blingy’ MV Teaser",
@@ -885,16 +891,16 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ILWE0cklmbGpuSkFBU0dfMWRoaS12Z0NGcFQtcFc1ZWI0c1ROVnBRTF9aNGhJQ0VQY2oxeTJ2c09yVzlWM21Rb0VPckdvTmNyb1FzMEpR?oc=5"
     },
     {
-      "title": "Weverse NCT 127 Image - NCT 127 ‘Blingy’ MV Teaser #JOHNNY",
-      "outlet": "Weverse",
-      "date": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jWXRqQ1o4ZUhFeWtUMnUwUWtFVVRaa2E4emFkUmZCM1B0d1JSeDFVNzhwbXJrbzhBTzZIWW0xUkxQcjNlRTZucndfTFFGcVdXTF8zUVBn?oc=5"
-    },
-    {
       "title": "Weverse NCT 127 Image - NCT 127 ‘Blingy’ MV Teaser #YUTA",
       "outlet": "Weverse",
       "date": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ucFBvTU5GZWdXVENHeVBYSFVzYTR5OHVvZXBubVJTRjZvTnplc21nSXVaVUVDTDVHbjZsZGxJYXJnTVo4T3BUOURQQ0UyZzJ4d3ZnRExR?oc=5"
+    },
+    {
+      "title": "Weverse NCT 127 Image - NCT 127 ‘Blingy’ MV Teaser #JOHNNY",
+      "outlet": "Weverse",
+      "date": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jWXRqQ1o4ZUhFeWtUMnUwUWtFVVRaa2E4emFkUmZCM1B0d1JSeDFVNzhwbXJrbzhBTzZIWW0xUkxQcjNlRTZucndfTFFGcVdXTF8zUVBn?oc=5"
     },
     {
       "title": "Weverse NCT 127 Image - NCT 127 ‘Blingy’ MV Teaser #HAECHAN",
@@ -907,12 +913,6 @@
       "outlet": "facebook.com",
       "date": "2026-08-20",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXJGdjBibl81RDVkRkJVS3RTY3JRUFF6NVQ0THJ0aXo3aUhJZlhaUTBlaW5qYVRRbW5XUnhMRzZ3dW40a1RaTTFXdW5aT3ZYcmhLdG9zUW5WOTR4ekIzbllzUnpHQzh2OExPaVNxakV4ZE5OMFVxbjZxZkxrOXIwbEdyM3g5cHYzRUFGczdOdmp2ZlNoTEFTWnQzS2EwS2VSamt1TjFpcFpRZW9ZUEJWMU5mdThTejhoZ25BcHRJUTB1QzNqLTUxaXIyclNYVlNLcnNkZ0V6VQ?oc=5"
-    },
-    {
-      "title": "NCT 127 5TH TOUR ‘NEO CITY : SEOUL - THE REDLINE’ in CINEMAS",
-      "outlet": "Cineplex.com",
-      "date": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SekgwT1NlcmNJaWU2US1kZVFQT2dpLWM4bzMybmIzYTJXUjlWbG5fTENvaUMwSFc0Nl9XUVBVb0R2Mk0tRHBJeTdUYWlyUEVKN0JDblU2cURmSkJUODJBNDVCMVRaOUV2VEJPRERMRzRpcUllUXBCbnFLVXNfZTQ?oc=5"
     },
     {
       "title": "NCT Dream renews contract as full group with SM Entertainment",
@@ -951,6 +951,12 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tU09UWHFLTnB1bHd0cWhNMFdRQXFMZVJHWnNSR3AtNUcxUnhEa3pMR2VnX0tHYlY5aDF1UTJvZFptMUhJMExscUZXQXJhVEE1MjA0YmdaSQ?oc=5"
     },
     {
+      "title": "NCT 127 5TH TOUR ‘NEO CITY : SEOUL - THE REDLINE’ in CINEMAS",
+      "outlet": "Cineplex.com",
+      "date": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SekgwT1NlcmNJaWU2US1kZVFQT2dpLWM4bzMybmIzYTJXUjlWbG5fTENvaUMwSFc0Nl9XUVBVb0R2Mk0tRHBJeTdUYWlyUEVKN0JDblU2cURmSkJUODJBNDVCMVRaOUV2VEJPRERMRzRpcUllUXBCbnFLVXNfZTQ?oc=5"
+    },
+    {
       "title": "K-Pop Powerhouse NCT 127 Head To Cinemas With \"The Redline\" Tour Film",
       "outlet": "That Eric Alper",
       "date": "2026-08-20",
@@ -967,12 +973,6 @@
       "outlet": "Weverse",
       "date": "2026-08-20",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VTU1Tc2V0b2t1VFNjQmkzZE5IWnVZSURfXzZQdjBNN21QbUlXNG4xWGtDYXZnTmE4dmR5RWlZSjRLclJaRFBYWlZLMmJYZDYtYXNDMXFwcUJsampOSTQwdnpB?oc=5"
-    },
-    {
-      "title": "위버스 NCT 127 Media - NCT 127 Performs \"Ki",
-      "outlet": "Weverse",
-      "date": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNU2NBM1dOamIyNUROTmMtNEFUSnRnUFhJM2dHbHdkNzZHWW9DMW1aTU9CM1RtZFR4a2xVcFNQc2dDelYxMFlxdHRDSjl0ZFlzQ2lJd2luMS0xS044REE?oc=5"
     }
   ],
   "bio": {
