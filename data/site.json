@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T07:12:02.524Z",
+  "generated": "2026-08-25T13:15:12.345Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,13 @@
   ],
   "videos": [
     {
+      "id": "OBN8ETrrUm0",
+      "title": "NEO LOST&FOUND CENTER OPEN! #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-25",
+      "url": "https://www.youtube.com/watch?v=OBN8ETrrUm0",
+      "thumb": "https://i4.ytimg.com/vi/OBN8ETrrUm0/hqdefault.jpg"
+    },
+    {
       "id": "oW-GEYgZJDE",
       "title": "NCT 127 엔시티 127 'Blingy' Cheering Guide | Ooh blingy 심장이 뛰지 💚",
       "date": "2026-08-25",
@@ -824,13 +831,6 @@
       "date": "2026-08-19",
       "url": "https://www.youtube.com/watch?v=ESscyFPfyIw",
       "thumb": "https://i2.ytimg.com/vi/ESscyFPfyIw/hqdefault.jpg"
-    },
-    {
-      "id": "Y3w1lgRei2c",
-      "title": "Surfin’ #JOHNNY #TAEYONG #YUTA #NCT127",
-      "date": "2026-08-19",
-      "url": "https://www.youtube.com/watch?v=Y3w1lgRei2c",
-      "thumb": "https://i2.ytimg.com/vi/Y3w1lgRei2c/hqdefault.jpg"
     }
   ],
   "news": [
@@ -859,6 +859,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzNJMXNyeWpxUmtFN09hMTV1d2ZiMU1SSDZpUjJYajlmRVZ5OFVtUlJvSEhOc1R6RlVudFJPR3M1MFZGRnRIZUlwaW5DNUhVWFBTOVo0am9IaXZHMWlvWmVPd3BIVndfaXU3UTNuTEgzaERrMkN4UkJYb0pJZ1F1cjNXeHhPRE5TaEQwQ1VR?oc=5"
     },
     {
+      "title": "NCTzens, eyes here! 👀 K-pop group NCT 127 has released the teaser for its seventh full-length album titled “Blingy”, marking the band’s 10th anniversary. (📸: SMTOWN/Youtube) Full story in the comments section.",
+      "outlet": "facebook.com",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY2JEZTNHOXl5aDBFOC1MdUNDckJSSV92U1ZHNk1pZkpTUEpkTkw4dkdEYWgzZDdUdnlhLXEzQmpKRUVadW5rZnYtQUsyNi1XRXRJQnJjYzdINGdkeThCcm5VTlY0X3dtaTE0cWRxS0NWY1hBNTd4OEFNNHctVXpyYmpINmNOMmR5R3EyenRQdDJMSkpSb3FVUVoydXp2MEswM1dyNU5LeEd4Z1ZYRmxoUGdzZUZ5aFdadW1hdjhsbk5XYVNSell0LU1uWWE4NDE5djFTdzVlWWg?oc=5"
+    },
+    {
       "title": "NCT 127 celebrate 10th anniversary with 'BLINGY' album, shine in playful title track music video",
       "outlet": "bandwagon.asia",
       "date": "2026-08-25",
@@ -877,16 +883,28 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VdUNjQmxKYThwT2lfb0pEaGdZUXVLSzl1T2FSeE96ZFoyWFhnaC1EQlVSbHRldF9VQklVa0pYVmtnMGFVUko1YTlUa3ExTVpxT2hZcDc1QQ?oc=5"
     },
     {
+      "title": "All of the group NCT 127 Taeyong expressed their feelings about renewing their contracts.On the morn..",
+      "outlet": "매일경제",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56UUQxeFJxS1VCdldZRDlQOHdOb2lra1VuVXBfcFBoN1VnWWk3aEVGbkNVWFJ2X0UwUDgtT2RVUzhkZ1ZPbFlrZWVtOUhBa2hfRmVlOA?oc=5"
+    },
+    {
       "title": "Group NCT 127 Johnny mentioned the performance of \"BLINGY\".On the morning of the 24th, a press confe..",
       "outlet": "매일경제",
       "date": "2026-08-24",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QM2FjMFVRekJHa3NSNmdrSGRlRTBQemhmVkYydGVjQTJOQ3lxcW9DVFhkNlNaOHZTVFRYZjJFUUZXZldmbTBQRlVEcXRLVXVhSkhQeQ?oc=5"
     },
     {
-      "title": "NCT 127 Johnny Dances in Front of Reporters for 10th Anniversary Comeback",
-      "outlet": "news.sbs.co.kr",
+      "title": "Haechan and Jaehyun from the group NCT 127 talked about the absence of members and the advantages of..",
+      "outlet": "매일경제",
       "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wcXR6TDlTYWlpeEVWMDJRY2d3TWtCYkxMYjlGWVc1ekF3aEdJeFlKNWZ6S2E1a0U1T0lhblhuLXFYMk15TzFFam1XUnQ3bENxR01ZUkdPWnB6WFFSdHlRMTlDb1Vpd9IBZkFVX3lxTE1wcXR6TDlTYWlpeEVWMDJRY2d3TWtCYkxMYjlGWVc1ekF3aEdJeFlKNWZ6S2E1a0U1T0lhblhuLXFYMk15TzFFam1XUnQ3bENxR01ZUkdPWnB6WFFSdHlRMTlDb1Vpdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRmgzbXZJWFZuQUQxZlY4T0VnME9fcmFOVGJRY2pub2FJellVT0E4MDJEamFTYW5pRUYwUlpES0lUaXcxZ2ZxUnYzQkhNQXo3cVdReA?oc=5"
+    },
+    {
+      "title": "NCT127 Returns to Roots in Five-Member Lineup",
+      "outlet": "조선일보",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdTc0UXFuUFBfZHI5NFRzbDlBQ29QZndPbWNxb0gzdlFMdVZPOTUyTHQ3cjBRcG04Rks5TlczWnk5ak5GcF84SWxEdUlaR2VsckdwVEk1dWFUYmlWT0s2V3F4MVo2dGkwWE9SVlcxR0NLbG8teUFvd1JacHROYm9zLXBMeUtuLVQ4NU9MYUd3?oc=5"
     },
     {
       "title": "Group NCT 127 expressed their feelings about their comeback in two years.On the morning of the 24th",
@@ -899,12 +917,6 @@
       "outlet": "매일경제",
       "date": "2026-08-24",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HOHc4TXYyVmxSOHpqOWQ2cFJBTnp0LU5ZLTRKNnZJdEhaYjdNNXlaSmVxejAzcmVpekxYRlkzLUt2bnVWdHgzZC15dzViUUJw?oc=5"
-    },
-    {
-      "title": "NCT127 Returns to Roots in Five-Member Lineup",
-      "outlet": "조선일보",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdTc0UXFuUFBfZHI5NFRzbDlBQ29QZndPbWNxb0gzdlFMdVZPOTUyTHQ3cjBRcG04Rks5TlczWnk5ak5GcF84SWxEdUlaR2VsckdwVEk1dWFUYmlWT0s2V3F4MVo2dGkwWE9SVlcxR0NLbG8teUFvd1JacHROYm9zLXBMeUtuLVQ4NU9MYUd3?oc=5"
     },
     {
       "title": "‘10th Anniversary’ NCT 127 on Mark’s Departure: “We Know How Hard He Worked, and We Respect and Support His Decision”",
@@ -925,10 +937,10 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yY0VVNE1CY3BHWmR4YlZYeEdHejVhVkNON2RLT3Y5d21HMkxvWElhMnZpTzgtQ1FvWnVhQ0JYMjBhckRmVThyWjUzTzVjOEl3?oc=5"
     },
     {
-      "title": "NCT 127 RELEASE SEVENTH FULL-LENGTH ALBUM BLINGY AS THEY CELEBRATE 10TH ANNIVERSARY!",
-      "outlet": "vergemagazine.co.uk",
+      "title": "NCT 127 ‘BLINGY’ Review: All 9 Songs Ranked",
+      "outlet": "inmusicblog.com",
       "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnNNZEpzVExKeDdMSU9GTy1ab3pQTzhSaXdIMnRQaFlpNHNZOE5lQm0yaFBHdFRHT3dhRzVEcjV0eHZDeG9iWFJkRG0tYzlha1c2M3dmRmZ2RW9sSFQ1OHZHcS0zNVV5RXR3VFEwdExsanllYVJoUlJqMklELTNHODdSeHd0OTRyZ1F4cERQSV8tS2xuXy1oSU5rai1SS1RhNXRTUGEzZWU3c0IwWDUydEFn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyMGplRkltZ09NQnRxLVVjN0tVRlFRWjBoaWlkZVJaeW8zemxQUnFkbnh3ZGdPYlBxZE40TW1EVElTQlNuSUU1b0Y5b3E3QWstYnp6a3VadHkyaG9DZWJYd0NnRWJCY1BoVzQ1ZDEtallJRmtUbHB4NXZZMA?oc=5"
     },
     {
       "title": "NCT 127 Rebuilds as Five and Releases 7th Full-Length Album 'BLINGY'",
@@ -949,22 +961,10 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnd5VXVQdDZCS3B1ZUNhWXB6SzFvNGZxUklSUF9Gd2ZITlp3QTBkRGE4Y00wbmZIT1Z0dUlpTkdvejRNMF9sRjViZ1NHY3hqNXNTc3ZTTTRMSXFrM1puTjg3ZkdHTERPWDNVY0tqX1JwaXFGb1RQc2JFeWVtTXRkVDBtak9hXzJRNXRUaDBjQm9YME5vU1BjS1pKaWR4eEpubkc1cEtSdm1kWVBxT0VFbDJLSQ?oc=5"
     },
     {
-      "title": "NCT 127 ‘BLINGY’ Review: All 9 Songs Ranked",
-      "outlet": "inmusicblog.com",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyMGplRkltZ09NQnRxLVVjN0tVRlFRWjBoaWlkZVJaeW8zemxQUnFkbnh3ZGdPYlBxZE40TW1EVElTQlNuSUU1b0Y5b3E3QWstYnp6a3VadHkyaG9DZWJYd0NnRWJCY1BoVzQ1ZDEtallJRmtUbHB4NXZZMA?oc=5"
-    },
-    {
       "title": "NCT 127 Press Conference to Celebrate the Release of Their 7th Full-Length Album 'BLINGY'",
       "outlet": "스포츠조선",
       "date": "2026-08-24",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHpSUURFRTJrdjI2NmI3TjNYSlpHWUJBTlRDVWRGVzR2cGtSYkJOcjYzVzFaVlFjTHFCc1Z2Wm9HbGF1Si1IUVN5U2lYa000NVJ5RDZzNmRQdEJJTEV6YjBjQmhUVUtnejc3YzNQSGlPQ3FvbVg5WVZTenlTaDlrWURUTQ?oc=5"
-    },
-    {
-      "title": "NCT 127 marks 10-year anniversary with new studio album 'Blingy,' promising to go back to basics",
-      "outlet": "Yonhap News Agency",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GbWlqaUJKdzZwajZnckowc245RGpGQWpQeklKeUdtbUZSLWZUM1FuVnVqZEYxeV9XdnNBdW42YU1jX3FfVUVwWHRLN0kxYVoweUFzQThzRk9GQQ?oc=5"
     },
     {
       "title": "NCT127 Releases 7th Album 'Blingy' as Five-Member Limited Edition",
@@ -973,10 +973,10 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmhxRGRfMlA3WThnd0dKTjBydVNqbVBqNUxEc2l6VmtsQnVweUUzWkdwbXlOazJIc05iZVlZV2VsRlBoQUR1TU1EQS04OEg0cFhwZllxalI1dExYZDJZbzUwcVhsZm9BeTkyZnhfQjQ4aDRwYWpZUzVZRGc1cm5XMlhRQTM4VkJTdlN2ag?oc=5"
     },
     {
-      "title": "NCT 127 unveils seventh album BLINGY",
-      "outlet": "Aju Press",
+      "title": "NCT 127 marks 10-year anniversary with new studio album 'Blingy,' promising to go back to basics",
+      "outlet": "Yonhap News Agency",
       "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pUjVRUXpmZUJDRU4yUWtMckFGTHk2Zjg4Ymo1Z1JORmhROXNYc2hBajA4azFaUWV1RF9ZQU9RTTBlc3JsUWZPNGVoMm5jSG9qWEFRa2g3Wm5oSEHSAVdBVV95cUxPMzlLZE1mUHFZYVpUVHFiSm1OSmNJanh0d09ISEZRYm52bXVCZnBLOXRWemh5UEhGLW5DRmF6SnN0ZHRWWGZNRkh0YVpsWWFqX21jcW9WYnM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GbWlqaUJKdzZwajZnckowc245RGpGQWpQeklKeUdtbUZSLWZUM1FuVnVqZEYxeV9XdnNBdW42YU1jX3FfVUVwWHRLN0kxYVoweUFzQThzRk9GQQ?oc=5"
     }
   ],
   "bio": {
@@ -1076,16 +1076,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTNNdHdsU0diSG9faGVwTGNpS0h0S1Rza2hjV3VtSGZ6MENEblRVcUNtcmVPVWxlOEFScGg2eDR1TWNxUHB0V2FuVFhZYjFjZFF6M3dBRzJfcnh4UUFEaEsyRnhUUzNrZ2JtYk9pRkY0SEZTY1o3SFZpNjFhWnBObjhYTnpoWjRZ0gGcAUFVX3lxTFBDX0tNM0FLSS0wc3pKclIzZk43NWtBdFRVRFNQRUJ2aFdMclZ2eS1kSDd2NjBxYThJZUxQaV9fb3NYQzlVODRtWnp0VmlQZ2poOXozb1dCSklmU1JPa0VUaDI5dFdqckNJVFZSYVlMLTVNRENSVFBDMC0zY2ZqREtWWkJnUUFiS0QxVXlFNDE5NXJfa1ZGRHZFOV9ERA?oc=5"
     },
     {
-      "title": "Group NCT 127 Johnny mentioned the performance of \"BLINGY\".On the morning of the 24th, a press confe..",
-      "outlet": "매일경제",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QM2FjMFVRekJHa3NSNmdrSGRlRTBQemhmVkYydGVjQTJOQ3lxcW9DVFhkNlNaOHZTVFRYZjJFUUZXZldmbTBQRlVEcXRLVXVhSkhQeQ?oc=5"
-    },
-    {
       "title": "NCT 127 Calls 5-Member Concert A Limited Edition... Which Song Did They Recommend Reporters Listen To?",
       "outlet": "news.sbs.co.kr",
       "date": "2026-08-24",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15WTNsWHNNLVZ6VUN1U3pINHNMcnlxbGQyeXN4aG1FNkRrOHE5cjd0cWNiWUJ0QWktb1NYNThpbGxVdjJpSjRXUjluRkYyQnloTktBcnZhQnltS0YxdENhQ0ZQVTJJd9IBZkFVX3lxTE15WTNsWHNNLVZ6VUN1U3pINHNMcnlxbGQyeXN4aG1FNkRrOHE5cjd0cWNiWUJ0QWktb1NYNThpbGxVdjJpSjRXUjluRkYyQnloTktBcnZhQnltS0YxdENhQ0ZQVTJJdw?oc=5"
+    },
+    {
+      "title": "Group NCT 127 Johnny mentioned the performance of \"BLINGY\".On the morning of the 24th, a press confe..",
+      "outlet": "매일경제",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QM2FjMFVRekJHa3NSNmdrSGRlRTBQemhmVkYydGVjQTJOQ3lxcW9DVFhkNlNaOHZTVFRYZjJFUUZXZldmbTBQRlVEcXRLVXVhSkhQeQ?oc=5"
     },
     {
       "title": "Even After Mark's Departure, NCT 127 Remains Strong on Its 10th Anniversary: \"If It's Not Cool, We Won't Go on Stage\" [On-site LIVE]",
