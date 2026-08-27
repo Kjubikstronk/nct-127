@@ -517,6 +517,123 @@ function headlineRelease(releases) {
  * shows the newest cover art and names the newest release. Idempotent —
  * each run replaces the same attributes.
  */
+/* ── pre-render ────────────────────────────────────────────────────────
+ *
+ * These pages build themselves from data/site.json in the browser, which
+ * meant the HTML a crawler receives held 186 words while the rendered page
+ * holds thousands: no release titles, no tour stops, no headlines. Google
+ * does execute JS, but rendering is queued and deferred, and Bing and most
+ * other crawlers are far weaker at it. The site's entire substance was
+ * invisible on first pass.
+ *
+ * So the same content is written into the HTML at build time and the
+ * browser then replaces it with the interactive version. Two rules keep
+ * that honest:
+ *
+ *   1. What is written here must be what the page actually shows. It is
+ *      the same data from the same file — never extra keywords, never
+ *      hidden text. Cloaking is a ranking penalty, not a trick.
+ *   2. Markup here is a simpler shape than app.js emits (no images, no
+ *      filters) because duplicating that exactly in two languages would
+ *      drift. It is visible only until app.js runs, and it beats the empty
+ *      box that was there before.
+ *
+ * Replacement happens between per-host comment markers, inserted on first
+ * run, so a rebuild rewrites its own block rather than nesting.
+ */
+const esc = (s = '') =>
+  String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+           .replace(/"/g, '&quot;');
+
+function prerenderBlocks(site) {
+  const dot = (d) => (d ? String(d).slice(0, 10).replace(/-/g, '.') : '');
+
+  /* The card carries both class names because the three sites style this
+     grid differently (.card here and on the NCT build, .rel on the Swift
+     one). Each site styles the one it knows and ignores the other, which
+     is cheaper than maintaining three copies of this function. */
+  const disco = (site.releases || []).slice(0, 40).map((r) =>
+    '<a class="card rel" href="' + esc(r.url || '#') + '" target="_blank" rel="noopener">' +
+    '<h3 class="card__title">' + esc(r.title) + '</h3>' +
+    '<p class="card__date">' + esc(dot(r.date)) + '</p></a>'
+  ).join('');
+
+  const news = (site.news || []).slice(0, 12).map((n) =>
+    '<li><a href="' + esc(n.url || '#') + '" target="_blank" rel="noopener">' +
+    '<span class="date">' + esc(dot(n.date)) + '</span>' +
+    '<span class="head">' + esc(n.title) + '</span></a></li>'
+  ).join('');
+
+  const timeline = (site.timeline || []).map((t) =>
+    '<li><b>' + esc(dot(t.date)) + '</b> ' + esc(t.title || t.text || '') + '</li>'
+  ).join('');
+
+  const today = new Date().toISOString().slice(0, 10);
+  const shows = (site.tour?.dates || []).filter((d) => d.date >= today);
+  const tour = shows.length
+    ? '<ol class="tour">' + shows.map((d) =>
+        '<li>' + esc(dot(d.date)) + ' — ' + esc(d.city) + ', ' + esc(d.country) +
+        (d.venue ? ' · ' + esc(d.venue) : '') + '</li>').join('') + '</ol>'
+    : '';
+
+  const legs = (site.worldTour?.legs || []).map((leg) =>
+    '<div class="liminal__leg"><h3 class="liminal__leg-name">' + esc(leg.name) + '</h3>' +
+    '<ul class="liminal__cities">' + (leg.cities || []).map((c) =>
+      '<li class="liminal__city"><span class="liminal__city-name">' + esc(c.city) + '</span> ' +
+      '<span class="liminal__country">' + esc(c.country || '') + '</span>' +
+      (c.date ? ' <span class="liminal__meta">' + esc(dot(c.date)) +
+                (c.venue ? ' · ' + esc(c.venue) : '') + '</span>' : '') +
+      '</li>').join('') + '</ul></div>'
+  ).join('');
+
+  const members = (site.members || []).map((m) =>
+    '<article class="mem"><h3 class="mem__name">' + esc(m.name) + '</h3>' +
+    '<p class="mem__kr">' + esc(m.hangul || '') + '</p>' +
+    '<p class="mem__pos">' + esc(m.position || '') + '</p></article>'
+  ).join('');
+
+  const eras = (site.eras || []).map((e) =>
+    '<article class="era"><h3 class="era__name">' + esc(e.name) + '</h3>' +
+    '<p class="era__year">' + esc(e.year || '') + '</p></article>'
+  ).join('');
+
+  const cats = (site.cats || []).map((c) =>
+    '<article class="cat"><h3 class="cat__name">' + esc(c.name) + '</h3>' +
+    '<p>' + esc(c.breed || c.note || '') + '</p></article>'
+  ).join('');
+
+  // Keys with no matching host on a given site are simply skipped.
+  return { disco, news, timeline, tour, 'wt-legs': legs, members, eras, cats };
+}
+
+/**
+ * Insert or refresh one marked block inside the element carrying `data-<key>`.
+ *
+ * Two things here are deliberate.
+ *
+ * The lookahead after the attribute name is load-bearing: this page has
+ * data-disco, data-disco-count, data-disco-filters and data-disco-more, and
+ * a plain word boundary matches inside all four — filling the count span
+ * rather than the grid, because it comes first in the document.
+ *
+ * The patterns carry no backslash escapes on purpose. `[^]` is "any
+ * character including newlines", and a literal space before the attribute
+ * does the job a word boundary would. Written the obvious way this needed
+ * \b and \s\S, and those kept arriving here as a backspace character
+ * instead — three separate times today. Anything that survives being
+ * copied between a shell, a file and a template literal is worth the
+ * slightly unusual spelling.
+ */
+function fillHost(html, key, content) {
+  const open = new RegExp('(<[a-z]+[^>]* data-' + key + '(?=[ >])[^>]*>)', 'i');
+  if (!open.test(html)) return html;
+  if (!html.includes('<!--pr:' + key + '-->')) {
+    html = html.replace(open, '$1<!--pr:' + key + '--><!--/pr:' + key + '-->');
+  }
+  const between = new RegExp('<!--pr:' + key + '-->[^]*?<!--/pr:' + key + '-->');
+  return html.replace(between, '<!--pr:' + key + '-->' + content + '<!--/pr:' + key + '-->');
+}
+
 async function stampHtml(site) {
   const file = path.join(ROOT, 'index.html');
   const r = site.latest;
@@ -563,6 +680,10 @@ async function stampHtml(site) {
        and let a 2024 cover represent a page leading with a 2026 countdown. */
     html = swap(html, 'property', 'og:description', desc);
     html = swap(html, 'name', 'description', desc);
+
+    // Same data the browser will render, written in so a crawler sees it too.
+    const blocks = prerenderBlocks(site);
+    for (const [key, content] of Object.entries(blocks)) html = fillHost(html, key, content);
 
     if (html !== before) {
       await fs.writeFile(file, html, 'utf8');
