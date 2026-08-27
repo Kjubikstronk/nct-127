@@ -101,6 +101,27 @@ async function boot() {
 
 /* ─── stamps ─────────────────────────────────────────────────────────── */
 
+/**
+ * Ask the CDN for the size actually being displayed.
+ *
+ * Apple and Deezer both serve any square size off the same path, and
+ * build.js stores one large URL per release — so a 600px cover was being
+ * downloaded for a card that renders around 200px. At these dimensions the
+ * bytes scale roughly with area: the same sleeve is 136 kB at 600px and
+ * 39 kB at 300px.
+ *
+ * A URL from an unrecognised host is returned untouched, so a source
+ * changing its path shape costs the optimisation, never the image.
+ */
+const sized = (url = '', px) =>
+  url
+    .replace(/\/\d+x\d+bb\.(jpg|png)/, `/${px}x${px}bb.$1`)
+    .replace(/\/\d+x\d+(-000000-[\d-]+\.jpg)/, `/${px}x${px}$1`);
+
+/** srcset for a fluid slot, so a retina screen still gets a sharp cover. */
+const srcset = (url, ...widths) =>
+  widths.map((w) => `${sized(url, w)} ${w}w`).join(', ');
+
 function renderStamps() {
   const gen = DATA.generated ? new Date(DATA.generated) : null;
   if (!gen) return;
@@ -504,7 +525,7 @@ function renderDiscography() {
       return `
       <a class="card" href="${esc(r.url)}" target="_blank" rel="noopener">
         <div class="card__art">
-          ${u ? `<img src="${esc(u)}" alt="" loading="lazy">` : placeholder('Cover')}
+          ${u ? `<img src="${esc(sized(u, 300))}" srcset="${esc(srcset(u, 220, 300, 440))}" sizes="(max-width: 640px) 46vw, 200px" alt="" loading="lazy">` : placeholder('Cover')}
           <span class="card__kind">${esc(r.kind || '')}</span>
         </div>
         <h3 class="card__t">${esc(tidy(r.title))}</h3>
