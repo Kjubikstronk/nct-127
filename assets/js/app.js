@@ -185,7 +185,8 @@ function renderHero() {
   const art = rel?.art || rel?.artSmall || null;
   if (slot) {
     if (art) {
-      setImg($('[data-drop-art]', slot), art);
+      // The frame is min(100%, 400px), so 800 covers it on a retina screen.
+      setImg($('[data-drop-art]', slot), sized(art, 800));
     } else {
       const still = drop.standIn?.thumb;
       slot.innerHTML =
@@ -271,6 +272,17 @@ function startCountdown() {
   const tiles = $('[data-cd-tiles]');
   if (!drop.date || !sec || !tiles) { renderHud(null); return; }
 
+  /* Once the drop has landed the band is worse than absent: a "Drops in"
+     heading over four zeroes, which is what it showed for four days after
+     BLINGY came out. The hero already says Out now and links to the
+     release, so the countdown simply goes away. Hidden here rather than in
+     CSS so the HUD loses its T-minus item at the same moment. */
+  if (dropMs() <= 0) {
+    sec.hidden = true;
+    renderHud(null);
+    return;
+  }
+
   sec.hidden = false;
   const title = $('[data-cd-title]');
   if (title) title.textContent = [drop.title, drop.kind].filter(Boolean).join(' · ');
@@ -282,6 +294,15 @@ function startCountdown() {
 
   const paint = () => {
     const ms = dropMs();
+
+    // Release day, with the page already open: retire the band there and then.
+    if (ms <= 0) {
+      if (timer) { clearInterval(timer); timer = null; }
+      sec.hidden = true;
+      renderHud(null);
+      return;
+    }
+
     const d = Math.floor(ms / 864e5);
     const h = Math.floor(ms / 36e5) % 24;
     const m = Math.floor(ms / 6e4) % 60;
@@ -292,7 +313,6 @@ function startCountdown() {
     ].map(([l, v, k]) => `<div class="tile${k}"><b>${pad2(v)}</b><span>${l}</span></div>`).join('');
 
     renderHud(d);
-    if (ms <= 0 && timer) { clearInterval(timer); timer = null; }
   };
 
   let timer = setInterval(paint, 1000);
