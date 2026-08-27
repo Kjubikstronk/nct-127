@@ -629,9 +629,11 @@ a.wire__cell:hover { background: var(--hover); }
 .wire__press {
   display: block; padding: .7rem 0;
   border-bottom: 1px solid rgba(184,255,41,.12);
-  transition: opacity .25s, padding-left .25s;
+  transition: opacity .25s, transform .2s;
 }
-.wire__press:hover { opacity: .7; padding-left: .4rem; }
+@media (hover: hover) and (pointer: fine) {
+  .wire__press:hover { opacity: .7; transform: translateX(.4rem); }
+}
 .wire__press-t { font-size: .92rem; line-height: 1.4; text-wrap: pretty; }
 .wire__press-m {
   font: 400 .56rem var(--mono); letter-spacing: .16em;
@@ -700,7 +702,9 @@ a.wire__cell:hover { background: var(--hover); }
   background: rgba(8,10,8,.8);
   transition: border-color .25s, transform .3s var(--ease), box-shadow .3s;
 }
-.mem:hover { border-color: var(--neon); transform: translateY(-4px); box-shadow: 0 0 40px rgba(184,255,41,.2); }
+@media (hover: hover) and (pointer: fine) {
+  .mem:hover { border-color: var(--neon); transform: translateY(-4px); box-shadow: 0 0 40px rgba(184,255,41,.2); }
+}
 .mem__b { position: absolute; width: 12px; height: 12px; z-index: 2; }
 .mem__b--tl { top: 6px; left: 6px;  border-top: 2px solid var(--neon); border-left: 2px solid var(--neon); }
 .mem__b--br { bottom: 6px; right: 6px; border-bottom: 2px solid var(--neon); border-right: 2px solid var(--neon); }
@@ -754,9 +758,11 @@ a.wire__cell:hover { background: var(--hover); }
   display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem .9rem;
   padding: .8rem .15rem;
   border-bottom: 1px solid rgba(184,255,41,.1);
-  transition: background .3s, padding-left .3s;
+  transition: background .3s, transform .2s;
 }
-.log li:hover { background: rgba(184,255,41,.05); padding-left: .7rem; }
+@media (hover: hover) and (pointer: fine) {
+  .log li:hover { background: rgba(184,255,41,.05); transform: translateX(.7rem); }
+}
 .log__d { font: 400 .58rem var(--mono); color: var(--grey); flex: none; width: 5.5rem; }
 .log__n { font-family: var(--display); font-size: clamp(1.1rem,2.4vw,1.5rem); }
 .log__t { font: 400 .58rem var(--mono); color: var(--ash); flex: 1 1 14rem; min-width: 0; }
@@ -803,9 +809,11 @@ a.wire__cell:hover { background: var(--hover); }
   display: flex; flex-wrap: wrap; align-items: center; gap: clamp(.75rem,3vw,2rem);
   padding: clamp(.9rem,2vw,1.3rem) .15rem;
   border-bottom: 1px solid rgba(255,47,185,.16);
-  transition: background .3s, padding-left .3s;
+  transition: background .3s, transform .2s;
 }
-.dates li:hover { background: rgba(255,47,185,.05); padding-left: .7rem; }
+@media (hover: hover) and (pointer: fine) {
+  .dates li:hover { background: rgba(255,47,185,.05); transform: translateX(.7rem); }
+}
 .dates__d { display: grid; flex: none; width: 4.5rem; line-height: 1.1; }
 .dates__day { font-family: var(--display); font-size: 1.9rem; }
 .dates__mon { font: 400 .6rem var(--mono); letter-spacing: .18em; text-transform: uppercase; color: var(--magenta); }
@@ -905,7 +913,9 @@ a.wire__cell:hover { background: var(--hover); }
 .card:hover { opacity: .85; }
 .card__art { position: relative; aspect-ratio: 1; overflow: hidden; background: var(--ph-a); }
 .card__art img { width: 100%; height: 100%; object-fit: cover; transition: transform .7s var(--ease); }
-.card:hover .card__art img { transform: scale(1.06); }
+@media (hover: hover) and (pointer: fine) {
+  .card:hover .card__art img { transform: scale(1.06); }
+}
 .card__kind {
   position: absolute; inset: auto 0 0 0; padding: 1.4rem .5rem .4rem;
   background: linear-gradient(transparent, rgba(5,6,7,.92));
@@ -917,7 +927,9 @@ a.wire__cell:hover { background: var(--hover); }
 
 .vid__art { position: relative; aspect-ratio: 16/9; overflow: hidden; background: var(--ph-a); }
 .vid__art img { width: 100%; height: 100%; object-fit: cover; transition: transform .7s var(--ease); }
-.card:hover .vid__art img { transform: scale(1.06); }
+@media (hover: hover) and (pointer: fine) {
+  .card:hover .vid__art img { transform: scale(1.06); }
+}
 .vid__play {
   position: absolute; right: .6rem; bottom: .6rem;
   width: 40px; height: 40px; border-radius: 50%;
@@ -934,9 +946,11 @@ a.wire__cell:hover { background: var(--hover); }
 .news a {
   display: flex; flex-wrap: wrap; align-items: baseline;
   gap: .4rem clamp(1rem,3vw,2.5rem); padding: clamp(.9rem,2vw,1.4rem) 0;
-  transition: opacity .25s, padding-left .25s;
+  transition: opacity .25s, transform .2s;
 }
-.news a:hover { opacity: .72; padding-left: .5rem; }
+@media (hover: hover) and (pointer: fine) {
+  .news a:hover { opacity: .72; transform: translateX(.5rem); }
+}
 .news__d { font: 400 .6rem var(--mono); letter-spacing: .1em; color: var(--grey); flex: none; width: 5.5rem; }
 .news__h {
   flex: 1 1 16rem; min-width: 0;
