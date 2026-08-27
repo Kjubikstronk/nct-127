@@ -38,3 +38,11 @@ jobs:
       # sends the notification.
       - name: Compare live site against this commit
         run: node verify-deploy.js
+
+      # Different question: the site can serve exactly what the repo holds
+      # and still be wrong. A countdown sat on 00:00:00 for four days after
+      # its album shipped, with every file matching and every job green.
+      # Runs even if the step above failed, so one run reports both.
+      - name: Check the content still makes sense
+        if: always()
+        run: node check-content.js
