@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27T22:25:45.550Z",
+  "generated": "2026-08-28T11:30:34.452Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -685,7 +685,7 @@
       "album": "NCT 2018 EMPATHY",
       "date": "2018-03-14",
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/3c/67/4b3c67ba-2721-19ce-424d-6742f420e800/NCT2018_EMPATHY_COVER_4000x4000px_1.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/29/ec/d9/29ecd98a-1a61-9791-1aa9-b81130bc0466/mzaf_16269755285604284216.plus.aac.p.m4a",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/6f/97/f86f9768-f85d-9be6-a362-c9ed322e4dcc/mzaf_16029188002389442173.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/touch/1358690306?i=1358690830&uo=4",
       "ms": 189078
     },
@@ -727,6 +727,34 @@
     }
   ],
   "videos": [
+    {
+      "id": "nVqWBziDrpo",
+      "title": "Golfin ⛳️ #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-28",
+      "url": "https://www.youtube.com/watch?v=nVqWBziDrpo",
+      "thumb": "https://i3.ytimg.com/vi/nVqWBziDrpo/hqdefault.jpg"
+    },
+    {
+      "id": "3ozPOmCpdRk",
+      "title": "Ooh blingy 🔥 #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-28",
+      "url": "https://www.youtube.com/watch?v=3ozPOmCpdRk",
+      "thumb": "https://i4.ytimg.com/vi/3ozPOmCpdRk/hqdefault.jpg"
+    },
+    {
+      "id": "BNArPTtuShQ",
+      "title": "Blingy with SHOTARO #TAEYONG #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-28",
+      "url": "https://www.youtube.com/watch?v=BNArPTtuShQ",
+      "thumb": "https://i3.ytimg.com/vi/BNArPTtuShQ/hqdefault.jpg"
+    },
+    {
+      "id": "JV00vAgN-J0",
+      "title": "Blingy with 트레저 소정환 #JOHNNY #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-28",
+      "url": "https://www.youtube.com/watch?v=JV00vAgN-J0",
+      "thumb": "https://i3.ytimg.com/vi/JV00vAgN-J0/hqdefault.jpg"
+    },
     {
       "id": "nWZ_UY9voL4",
       "title": "NCT 127 5TH TOUR ‘NEO CITY : SEOUL - THE REDLINE’ in CINEMAS (Official Trailer)",
@@ -803,37 +831,45 @@
       "date": "2026-08-26",
       "url": "https://www.youtube.com/watch?v=UWPkfmbFGdo",
       "thumb": "https://i2.ytimg.com/vi/UWPkfmbFGdo/hqdefault.jpg"
-    },
-    {
-      "id": "_Z4tdoPnAgg",
-      "title": "I’ma blingy blingy blingyyy #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
-      "date": "2026-08-25",
-      "url": "https://www.youtube.com/watch?v=_Z4tdoPnAgg",
-      "thumb": "https://i4.ytimg.com/vi/_Z4tdoPnAgg/hqdefault.jpg"
-    },
-    {
-      "id": "OBN8ETrrUm0",
-      "title": "NEO LOST&FOUND CENTER OPEN! #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
-      "date": "2026-08-25",
-      "url": "https://www.youtube.com/watch?v=OBN8ETrrUm0",
-      "thumb": "https://i4.ytimg.com/vi/OBN8ETrrUm0/hqdefault.jpg"
-    },
-    {
-      "id": "oW-GEYgZJDE",
-      "title": "NCT 127 엔시티 127 'Blingy' Cheering Guide | Ooh blingy 심장이 뛰지 💚",
-      "date": "2026-08-25",
-      "url": "https://www.youtube.com/watch?v=oW-GEYgZJDE",
-      "thumb": "https://i4.ytimg.com/vi/oW-GEYgZJDE/hqdefault.jpg"
-    },
-    {
-      "id": "ij0JOUb0Hv0",
-      "title": "Feelin' real blingy #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
-      "date": "2026-08-25",
-      "url": "https://www.youtube.com/watch?v=ij0JOUb0Hv0",
-      "thumb": "https://i2.ytimg.com/vi/ij0JOUb0Hv0/hqdefault.jpg"
     }
   ],
   "news": [
+    {
+      "title": "[4K] NCT 127, ENHYPEN, ALD1, NEXZ, Hearts2Hearts, TUIDE, KiiiKiii, TNX, AEN, SF9 | On the way to Music Bank 260828",
+      "outlet": "KBS WORLD Radio",
+      "date": "2026-08-28",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVhFV1dfdnlSMWl5Y2FmMzh6OHNMU3hOV3QtSi1WY1VZNXJvcFFQQ3lhNzZBSFVSVmplSDRiQkthZlVhcjY1NXVDZGl4T0xqeEE2dENuQVhCYUp1Sk9YODBqZEotVUZOcVhJOGYydzlIYzdmYlFiN1lSa3dVaDJ6MEszQUxBZXJzZmNjeTI4dnU?oc=5"
+    },
+    {
+      "title": "NCT 127's Haechan on \"Small-Portion Restaurant? Though the portions are small, he takes each meal seriously\" [Yoon Ju-mo]",
+      "outlet": "starnewskorea.com",
+      "date": "2026-08-28",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sOW5TcHo0VkRoY3ZySDlnZlJIMnVaM1lnVTFWdFhIVkN5bVVVaHpKeFVPdkR0WmxuemQ0SXdGdXF5NVBaMjhxVjZFazJIajl4YUxLWHU0a2wwQ1BPXzNSTTlPNjBHc216ZXBGeXRmRmppS1N0MWY0?oc=5"
+    },
+    {
+      "title": "NCT contributes to Seoul Fashion Week with costumes, runway music",
+      "outlet": "The Korea Times",
+      "date": "2026-08-28",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1JvUFRQdTdYUEVCUnlQZVJLTkMxbnhRNjdHUWpiV29maFpiNjFkUDBRZ2ZSSThBUDVVVHpXZGtnaUdNUEdWRUVhUGZjckRDTTNWYU5NTjlYLXRXUVFaZXNGS1JoNElUbXNEYlZ1dXhyQU5MeF9mVGw5X0pnMlQzdnJMWjdLYTNRMjQ3VEF5VzljczJEeFltRFpzc0pfd2hZdnYwNXRWNTNpSHI0VTl3SWFGMVgyTmRBOUg1MndzRUNRVzTSAcMBQVVfeXFMT1NSb1BUUHU3WFBFQlJ5UGVSS05DMW54UTY3R1FqYldvZmhaYjYxZFAwUWdmUkk4QVA1VVR6V2RrZ2lHTVBHVkVFYVBmY3JEQ00zVmFOTU45WC10V1FRWmVzRktSaDRJVG1zRGJWdXV4ckFOTHhfZlRsOV9KZzJUM3ZyTFo3S2EzUTI0N1RBeVc5Y3MyRHhZbURac3NKX3doWXZ2MDV0VjUzaUhyNFU5d0lhRjFYMk5kQTlINTJ3c0VDUVc0?oc=5"
+    },
+    {
+      "title": "NCT 127 Taeyong: \"Sent letters to Doyoung and Jungwoo during military service.. No reply\" [Yoon Ju-mo]",
+      "outlet": "starnewskorea.com",
+      "date": "2026-08-28",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZWkdxX21PNG51dkIwTkxUUDFjTHpLLUo0TW45N1p5enFVNllESWUxZmdnbTFKc1htSG5FMU5jWW9vYXRzMlA5cnBGanhBVUlCekgydlIwOWFDZ1BhbFFNOXhZTmNiQkNTM19jYmg2akx2WGJqbm1r?oc=5"
+    },
+    {
+      "title": "NCT 127's Haechang: 27-Year-Old Senior Among Peers",
+      "outlet": "조선일보",
+      "date": "2026-08-28",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTJmSVQ2Sk5UQTVMSzR5Ym1fdXpvLWdfVWkzZEZ4NGE2UmdPNGJSdWV2SzdIY2VuZE1iYjVNd2FlaDhxOWpfVU5Cb1dlTm1yWllldWh0WmFxeFh1SGNUQ2FHT2xNblpPM1MyYV94M3JxWUxzSWN1MUVWNVpQSWx3UDVVX0l3NndHcW9kR1p3?oc=5"
+    },
+    {
+      "title": "NCT 127 Bring ‘NEO CITY : SEOUL – THE REDLINE’ Live To Cinemas Worldwide",
+      "outlet": "That Eric Alper",
+      "date": "2026-08-28",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHRIMmcyWm1KVFo5bE5PbnNSSGdXa19UdFM3TnZ4OTZ0QndhOUVsVnJvZFpFRDh6OWVlYTdST25MZWtyRDRFSWVfZUdqdUNnblJ5RjAwSjd0Uks3SldqVm9zc3U0QmhNU0hOR3JwOTA4RFA4OGJJcVJMQkpuZ1JrSlBVTHF1WmlFZ21sVjBaZ1BYeE0wRnR0WTRkWXl2WHZNTkJHbEQtQnZmZ1JM?oc=5"
+    },
     {
       "title": "\"NCT 127 Proves Its Identity with 'Blingy'\".. Praise from UK's NME",
       "outlet": "starnewskorea.com",
@@ -925,58 +961,22 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtamV6QjE5MmtwWjVjSlBBMlBXWXFDY1BudmZBVDFuZ0hCOHBHemVrWVNyNUdpNWRRMTNGNTJqdlFWZjlRWHpfcTZnQWVSd0lJRW1uY3d6WFdwaFlGa2o0?oc=5"
     },
     {
+      "title": "NCT 127 Just Released Their 10th Anniversary Album. Two of the Seven Members Aren't in a Single Promotional Photo.",
+      "outlet": "en.koreaportal.com",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0JHajFIem0tdEJBbmd2UXpqalRQSnVpMUtIWXNJZXhJcjVoZURhcVN5c3VVQ3pzN1ZiaGxwSU1wMGs3c3RVUTBYSFFBUVFxTEQtUWdnRVNqalJ2S3ZpRHhfU1QycDlXczlQQWVkVVRuQ0I1SjJDb3dVVWRMMGJIQ2tTaGVvWUpiTFBoQ0k1SUFGN29qUTk4T3V0RUhFVGRoZFRVQ3VGOGdTQ0JVV1lHUDM4UmhuUWVkMGc?oc=5"
+    },
+    {
       "title": "NCT 127 BLINGY — Down to Five Members, and It Still Sounds Like a Full Group : REVIEWS",
       "outlet": "en.koreaportal.com",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcDFSQmhlYmt1SnYzeHdvN0Q4d1E4aGJGNnJ5UmlfN0xZR2FYTnlFY0FYQUJmZXRTMlphTnI1dmxPdkF4Z05QY2tXT0wyVlFPejFmS3FaWWJCSjhGV0VGSHFidTRpNUl6SWxvdlNyY2hZUURQR18yNUJBNXU0QW45dlJJdmwzM2NuOFg1a0I4TjJtUjludEF2R2FFOEswenF5eDZZUTZabHA2ZURkOGNTWm84SHNlb1IxcmRn?oc=5"
     },
     {
-      "title": "NCT 127 Just Released Their 10th Anniversary Album. Two of the Seven Members Aren't in a Single Promotional Photo.",
-      "outlet": "en.koreaportal.com",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc1htbVBIakstcV9zbTNCenVyRXpyc2tmVk9zQlhBUGhCNG51OFBDRktFdWxQcDVnemVxSXMyU2pqNHVJMEE4dHdWdEx2X3poVks4cXpQWG1KQ25Qb0hBRXZubnFFdEJ3Nl9ZZkFHSHQyZXg5c2xFN2ZMRVdzZUJZTVYzNktyaEVTMl8xUjM2NjliTzAzR2pkN29BTU15all0YUwxQlZMNEdEb0pQUWRVY2p0cUQ0LXIzbEQ5UFA4SQ?oc=5"
-    },
-    {
       "title": "NCT 127 turns 10, enters next chapter with ‘Blingy’",
       "outlet": "The Korea Herald",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VdUNjQmxKYThwT2lfb0pEaGdZUXVLSzl1T2FSeE96ZFoyWFhnaC1EQlVSbHRldF9VQklVa0pYVmtnMGFVUko1YTlUa3ExTVpxT2hZcDc1QQ?oc=5"
-    },
-    {
-      "title": "NCT 127 reign as the kings of quirky hip-hop bangers on new album ‘Blingy’",
-      "outlet": "Los Angeles Times",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb0hlVHpyN3J6T3k1TGxheW1iYmE5elpZdVEzS0JpVTBUbDFtbkRHZTI1RExRcHFnQUxtMnIyUFk2dkMtTlhtSW5IVlllZXpTcS1RUkc5WWs0SEZXX0xuWGpuVHY0TnJEZjJyOVpDbzA0NWV5M3hCeVdFX180QW1rZkpiSTduY2FXWXBhcUFZZjVCZ2FhN1VVNmplU1BSNjlMb2ZjOEd4QmJpZUJocHdUS1lvZ1dEdWNST3FEVkJhNUdsVWhMRjdZTU9uZnU4Vlk?oc=5"
-    },
-    {
-      "title": "NCT 127 ‘BLINGY’ Review: All 9 Songs Ranked",
-      "outlet": "inmusicblog.com",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyMGplRkltZ09NQnRxLVVjN0tVRlFRWjBoaWlkZVJaeW8zemxQUnFkbnh3ZGdPYlBxZE40TW1EVElTQlNuSUU1b0Y5b3E3QWstYnp6a3VadHkyaG9DZWJYd0NnRWJCY1BoVzQ1ZDEtallJRmtUbHB4NXZZMA?oc=5"
-    },
-    {
-      "title": "‘10th Anniversary’ NCT 127 on Mark’s Departure: “We Know How Hard He Worked, and We Respect and Support His Decision”",
-      "outlet": "매일경제",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FR1RBbzdQaURZMGVvUGY0czdBRU1MVGtMek0wWVF5LTk3MkExcjA4YnVuYTNGTXVmWHhNSXlxWVhhVjFoVnpvSmxITGRGdUdo?oc=5"
-    },
-    {
-      "title": "NCT 127 Says New Album 'BLINGY' Is Their Most Demanding Performance Album",
-      "outlet": "매일경제",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NdjRPYkdFMmJNdDlwVngzNzZzWkV1Ni1jNnhWcV83Z3E2REZsRGxTeVo4NmpYWGptYmRNZS1BTlBidDJpV3BCRm4yeE1QNGkz?oc=5"
-    },
-    {
-      "title": "Even After Mark's Departure, NCT 127 Remains Strong on Its 10th Anniversary: \"If It's Not Cool, We Won't Go on Stage\" [On-site LIVE]",
-      "outlet": "매일경제",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yY0VVNE1CY3BHWmR4YlZYeEdHejVhVkNON2RLT3Y5d21HMkxvWElhMnZpTzgtQ1FvWnVhQ0JYMjBhckRmVThyWjUzTzVjOEl3?oc=5"
-    },
-    {
-      "title": "NCT127 Releases 7th Album 'Blingy' as Five-Member Limited Edition",
-      "outlet": "조선일보",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmhxRGRfMlA3WThnd0dKTjBydVNqbVBqNUxEc2l6VmtsQnVweUUzWkdwbXlOazJIc05iZVlZV2VsRlBoQUR1TU1EQS04OEg0cFhwZllxalI1dExYZDJZbzUwcVhsZm9BeTkyZnhfQjQ4aDRwYWpZUzVZRGc1cm5XMlhRQTM4VkJTdlN2ag?oc=5"
     }
   ],
   "bio": {
