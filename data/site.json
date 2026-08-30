@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T20:58:47.425Z",
+  "generated": "2026-08-30T05:31:11.615Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,13 @@
   ],
   "videos": [
     {
+      "id": "frq66uvkijU",
+      "title": "hey hey #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-30",
+      "url": "https://www.youtube.com/watch?v=frq66uvkijU",
+      "thumb": "https://i3.ytimg.com/vi/frq66uvkijU/hqdefault.jpg"
+    },
+    {
       "id": "OAE6_HdBWwo",
       "title": "NCT 127 ‘Blingy’ Jacket Behind the Scene",
       "date": "2026-08-29",
@@ -824,13 +831,6 @@
       "date": "2026-08-26",
       "url": "https://www.youtube.com/watch?v=0JcKxAbd6w0",
       "thumb": "https://i1.ytimg.com/vi/0JcKxAbd6w0/hqdefault.jpg"
-    },
-    {
-      "id": "ibN2Tig2zYA",
-      "title": "Bring the mad heat #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
-      "date": "2026-08-26",
-      "url": "https://www.youtube.com/watch?v=ibN2Tig2zYA",
-      "thumb": "https://i2.ytimg.com/vi/ibN2Tig2zYA/hqdefault.jpg"
     }
   ],
   "news": [
@@ -838,7 +838,7 @@
       "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' in CINEMAS: Official Trailer",
       "outlet": "Rotten Tomatoes",
       "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdVRGTS1jZ2Q1bTl6VGo2a1l5Y0FENUhsN1Rpa2wwTWJrWTVKQ1V1UDlCSHpBUkxhQ0xjNnFhaFNhT0ItTWFQd3dxQk5Udm1VY3NER19tbUhqU3ZZZGdHNHhQS0NWM2R6WFUtRklHcndfdjlOT2Nva3lBM1ktRmNTRVRFV3NYWk1DaUdPU1VVN0VlN21PZVB2Q21VMkcyV0RkMW1MRnNlWk5zYkk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVEJBVGw4VWNKV1FJUE1fNExuLXh6YVJVQllBV0V6N1dZVEQydWVNdFJma2tkWmdZa3VrUlZTMmc0bl9ReWQ2MWZ2cEV2LXZmX3Y5Q3M0VXhRMTZ0RmZRc0FGOFRzSlpGQ2NCUU9FTGpxWWJRY1Eyd3FYNS1rR0VPaDZ4OFlQeG5IZUNuMEFGNmhrTi1VaENoZWZB?oc=5"
     },
     {
       "title": "NCT 127's Haechan on \"Small-Portion Restaurant? Though the portions are small, he takes each meal seriously\" [Yoon Ju-mo]",
@@ -865,28 +865,28 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1JvUFRQdTdYUEVCUnlQZVJLTkMxbnhRNjdHUWpiV29maFpiNjFkUDBRZ2ZSSThBUDVVVHpXZGtnaUdNUEdWRUVhUGZjckRDTTNWYU5NTjlYLXRXUVFaZXNGS1JoNElUbXNEYlZ1dXhyQU5MeF9mVGw5X0pnMlQzdnJMWjdLYTNRMjQ3VEF5VzljczJEeFltRFpzc0pfd2hZdnYwNXRWNTNpSHI0VTl3SWFGMVgyTmRBOUg1MndzRUNRVzTSAcMBQVVfeXFMT1NSb1BUUHU3WFBFQlJ5UGVSS05DMW54UTY3R1FqYldvZmhaYjYxZFAwUWdmUkk4QVA1VVR6V2RrZ2lHTVBHVkVFYVBmY3JEQ00zVmFOTU45WC10V1FRWmVzRktSaDRJVG1zRGJWdXV4ckFOTHhfZlRsOV9KZzJUM3ZyTFo3S2EzUTI0N1RBeVc5Y3MyRHhZbURac3NKX3doWXZ2MDV0VjUzaUhyNFU5d0lhRjFYMk5kQTlINTJ3c0VDUVc0?oc=5"
     },
     {
-      "title": "NCT 127's Haechan says he's senior among peers as group marks 10th anniversary - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0RKVjJxN2tNd0pfVlhmUFE3X1hsWkd0bUlZNm5ZQmhnWTBPc2syZDVWdGhOWDZhd0tWZ3ptZnJ0U1dyVlpQZWhMN0FDRXpfS1RyM1FLcl9mUWctY2xoM1pMaXphd1p6V0d3eG5PaXlMNDRBMkF1LXYtZlpubnZSLU1lMjBJcWxl0gGcAUFVX3lxTE5pTERHUjA5U2FIcmFqTzFITnZvR1FDWHRycTFfQkh4eHJoZmdDV0dSTThNdlc3dmFRNVJCYzNHUktESUZ5Wnoya0lvNW53TWpjS2ZLeTUxQVNRbzQ5SldrYXBUQ2p2VXlZd3JxeF9aZDNQMHQ5TUJmRklrWmFQc19OeHQycllReWdRM1Vfczk2SlZma2JsNmhaWFFaZg?oc=5"
-    },
-    {
       "title": "NCT 127 Taeyong recalls survival-like trainee days with 300 contestants - CHOSUNBIZ",
       "outlet": "Chosunbiz",
       "date": "2026-08-28",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1Y2ZlNucEg5bjZ2R1NEZmo4aVJLc1ZoWGtPRzhsV21ac1llS2E5cDhCNlVoTmZtX0FzRmlyRGRZSHFaME1GcmhpVVJLZkZNN0g4WEVhUzlfa25wVThqUUhPZjEtV3gxc201Mk03UVUzVmQwT3Jka1ZQSDI4c0ctaVNPcnZBOEJ30gGcAUFVX3lxTE93clUzRmtUdFEtWFJ0SmNhTHVQdEtWZkY5ZVhaOUdRS2NlUUdsQnVUS0dObE1WaFM1VU1vQ0Y3U2llWEVaOGNiZ3BJTnhjaEdrczcxdXVyZW8tUnpCUmp6d2pkVm00eUs4cWpCOV9PcFJXcHhGbmlseGI1bkFzUnNaMDIwbXE5YnpkRXlnNEhYNS1KSzNmSTZENmx1bw?oc=5"
     },
     {
-      "title": "NCT 127 Bring ‘NEO CITY : SEOUL – THE REDLINE’ Live To Cinemas Worldwide",
-      "outlet": "That Eric Alper",
+      "title": "NCT 127's Haechan says he's senior among peers as group marks 10th anniversary - CHOSUNBIZ",
+      "outlet": "Chosunbiz",
       "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHRIMmcyWm1KVFo5bE5PbnNSSGdXa19UdFM3TnZ4OTZ0QndhOUVsVnJvZFpFRDh6OWVlYTdST25MZWtyRDRFSWVfZUdqdUNnblJ5RjAwSjd0Uks3SldqVm9zc3U0QmhNU0hOR3JwOTA4RFA4OGJJcVJMQkpuZ1JrSlBVTHF1WmlFZ21sVjBaZ1BYeE0wRnR0WTRkWXl2WHZNTkJHbEQtQnZmZ1JM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0RKVjJxN2tNd0pfVlhmUFE3X1hsWkd0bUlZNm5ZQmhnWTBPc2syZDVWdGhOWDZhd0tWZ3ptZnJ0U1dyVlpQZWhMN0FDRXpfS1RyM1FLcl9mUWctY2xoM1pMaXphd1p6V0d3eG5PaXlMNDRBMkF1LXYtZlpubnZSLU1lMjBJcWxl0gGcAUFVX3lxTE5pTERHUjA5U2FIcmFqTzFITnZvR1FDWHRycTFfQkh4eHJoZmdDV0dSTThNdlc3dmFRNVJCYzNHUktESUZ5Wnoya0lvNW53TWpjS2ZLeTUxQVNRbzQ5SldrYXBUQ2p2VXlZd3JxeF9aZDNQMHQ5TUJmRklrWmFQc19OeHQycllReWdRM1Vfczk2SlZma2JsNmhaWFFaZg?oc=5"
     },
     {
       "title": "NCT 127's Taeyong Reveals 300 Trainees, Survival System During Debut Journey",
       "outlet": "조선일보",
       "date": "2026-08-28",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUU1JSTIwUWFhTXJobDRaWlk1eGRFakttYU9kaGlQY3FRamRYOXRsTkNVbUh1empOTFlrTG0tNXI1N0xpZjY0aXYtTm85Z3Y5ZDhiRUV0eER4MzhaZDdUdUJsWnhub1ZMT3l2QzlnTDVrQ3JXNEhpR2FIdUppem5zUkEzX2FralJzQ19SMGZR?oc=5"
+    },
+    {
+      "title": "NCT 127 Bring ‘NEO CITY : SEOUL – THE REDLINE’ Live To Cinemas Worldwide",
+      "outlet": "That Eric Alper",
+      "date": "2026-08-28",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHRIMmcyWm1KVFo5bE5PbnNSSGdXa19UdFM3TnZ4OTZ0QndhOUVsVnJvZFpFRDh6OWVlYTdST25MZWtyRDRFSWVfZUdqdUNnblJ5RjAwSjd0Uks3SldqVm9zc3U0QmhNU0hOR3JwOTA4RFA4OGJJcVJMQkpuZ1JrSlBVTHF1WmlFZ21sVjBaZ1BYeE0wRnR0WTRkWXl2WHZNTkJHbEQtQnZmZ1JM?oc=5"
     },
     {
       "title": "NCT 127's Haechang: 27-Year-Old Senior Among Peers",
@@ -913,6 +913,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkgtNFpLUlhqcWdMOHV6NGNqVUVpdU90MGhtT2ZFSE4zTFp1anNzWGhrRERQazVJaUtxMVZYWkNoUElyeG13blRlQlNRNjUwbEV2eHR2aXlKS1dibHZGWjdYTTBpQVpiWGVYRGt3d3RBX05yT0JjYVI5QTJuRGpJMHRjM0tsX2k4bVRDQnNR?oc=5"
     },
     {
+      "title": "NCT 127 feels like it’s starting over",
+      "outlet": "PressReader",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEo0NTBOdDNZd29ubFNqR1REa0Y0X1lpM1c5ek0zZUdJbklnLWhTSXJ3ZDhHazd2dmowbnhuWWVTLTZ4TWtsMWotTGFqaW5yaTVsanMzMGdHU2FwamJQNXpBXzJsT1Rrd09OTjdEeWVMRnQycEQ1cEp0SHUzN2YwTE16NUxJWEdYNU4w?oc=5"
+    },
+    {
       "title": "NCT Leader TAEYONG Mentions “Departed” MARK, Saying, “We Respect and Support Each Other’s Paths” [HT Scene]",
       "outlet": "Hanteo News",
       "date": "2026-08-26",
@@ -923,12 +929,6 @@
       "outlet": "Hanteo News",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKajV3QW0tYWdfN1VRTjZiclRIdzFqdnotUGNQckhlYzk5alZwNzBKUnhuNTFlNURBV0lURU5oVEt2NlRlOVNSUm5iNFVVcng3VnBNR1RR?oc=5"
-    },
-    {
-      "title": "NCT 127 JOHNNY Says, “In One Word, the New Album Is ‘Our Original Mindset’…The Performance Is the Hardest Ever” [HT Scene]",
-      "outlet": "Hanteo News",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tMmhjdGt5UmZQQ2NBdEozTXRtU2hBNEE3ak5LOWQtZnN0Vng5N0dRQ2VuRFMxUWFIQlRnbGlkaVBLQXIwSFo1SEMyaS11enV4UVRDdkZR?oc=5"
     },
     {
       "title": "APTOPIX South Korea NCT 127",
@@ -949,6 +949,12 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmFlUW5YYXVCTjNzcVdqVnY5Vm0wWWo1MHlELTRoaUFDX053R0ZUdWVvUi1hYmVTT1B6X0xyc0VDbmZad1NQb082SzFvbEFGVWFEOTlwRGxjZ3VRck5qbjBLWlpHX3p6SW5BY2xRcEpWRmhyb2l6T3hHUm5zdG9vTFFBdkRuaGllbU94bk9DblFnU0VhRUFpQnJmbS1keWdJbXFQbkZVN1dTZkZvVzZtd0YwTW12cEg1S04yNA?oc=5"
     },
     {
+      "title": "NCT 127 launches comeback live party in Korea, debuts 'Blingy' stage - CHOSUNBIZ",
+      "outlet": "Chosunbiz",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTNNdHdsU0diSG9faGVwTGNpS0h0S1Rza2hjV3VtSGZ6MENEblRVcUNtcmVPVWxlOEFScGg2eDR1TWNxUHB0V2FuVFhZYjFjZFF6M3dBRzJfcnh4UUFEaEsyRnhUUzNrZ2JtYk9pRkY0SEZTY1o3SFZpNjFhWnBObjhYTnpoWjRZ0gGcAUFVX3lxTFBDX0tNM0FLSS0wc3pKclIzZk43NWtBdFRVRFNQRUJ2aFdMclZ2eS1kSDd2NjBxYThJZUxQaV9fb3NYQzlVODRtWnp0VmlQZ2poOXozb1dCSklmU1JPa0VUaDI5dFdqckNJVFZSYVlMLTVNRENSVFBDMC0zY2ZqREtWWkJnUUFiS0QxVXlFNDE5NXJfa1ZGRHZFOV9ERA?oc=5"
+    },
+    {
       "title": "NCT 127 releases seventh album Blingy amid the group’s 10th anniversary",
       "outlet": "UA.NEWS",
       "date": "2026-08-25",
@@ -965,12 +971,6 @@
       "outlet": "facebook.com",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTFfNVczMDhzUjFiby1wODRtTFBMWDV0S1JUY3pxaXgxbFBoRWgzZnFEeUItTEVCb25NTkoySW0wcGVjaHZzQ0NUeUVUaTFWTTZwcFhXcTBGMEl1T05qV2pVT3J4MEhmMjZBRDVSVWdqaVNCS0xLVHg5aXhKTWQ5cHJKd04tekdQNm5qa2VZTEtMcGpPd2VTUEY3WVpsZHh2bUlsNExibkFuMlVBVjBNTlB4QXpTR3Q5SDgwalU5WGx6MG12U0ItbXpsODlSMTRRSEduNmFoYw?oc=5"
-    },
-    {
-      "title": "NCT 127 celebrate 10th anniversary with 'BLINGY' album, shine in playful title track music video",
-      "outlet": "bandwagon.asia",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtamV6QjE5MmtwWjVjSlBBMlBXWXFDY1BudmZBVDFuZ0hCOHBHemVrWVNyNUdpNWRRMTNGNTJqdlFWZjlRWHpfcTZnQWVSd0lJRW1uY3d6WFdwaFlGa2o0?oc=5"
     },
     {
       "title": "NCT 127 Just Released Their 10th Anniversary Album. Two of the Seven Members Aren't in a Single Promotional Photo.",
@@ -1067,13 +1067,7 @@
       "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' in CINEMAS: Official Trailer",
       "outlet": "Rotten Tomatoes",
       "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdVRGTS1jZ2Q1bTl6VGo2a1l5Y0FENUhsN1Rpa2wwTWJrWTVKQ1V1UDlCSHpBUkxhQ0xjNnFhaFNhT0ItTWFQd3dxQk5Udm1VY3NER19tbUhqU3ZZZGdHNHhQS0NWM2R6WFUtRklHcndfdjlOT2Nva3lBM1ktRmNTRVRFV3NYWk1DaUdPU1VVN0VlN21PZVB2Q21VMkcyV0RkMW1MRnNlWk5zYkk?oc=5"
-    },
-    {
-      "title": "NCT 127 JOHNNY Says, “In One Word, the New Album Is ‘Our Original Mindset’…The Performance Is the Hardest Ever” [HT Scene]",
-      "outlet": "Hanteo News",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tMmhjdGt5UmZQQ2NBdEozTXRtU2hBNEE3ak5LOWQtZnN0Vng5N0dRQ2VuRFMxUWFIQlRnbGlkaVBLQXIwSFo1SEMyaS11enV4UVRDdkZR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVEJBVGw4VWNKV1FJUE1fNExuLXh6YVJVQllBV0V6N1dZVEQydWVNdFJma2tkWmdZa3VrUlZTMmc0bl9ReWQ2MWZ2cEV2LXZmX3Y5Q3M0VXhRMTZ0RmZRc0FGOFRzSlpGQ2NCUU9FTGpxWWJRY1Eyd3FYNS1rR0VPaDZ4OFlQeG5IZUNuMEFGNmhrTi1VaENoZWZB?oc=5"
     },
     {
       "title": "NCT 127 Sweeps Charts in South Korea, China, and Japan.. First 'Blingy' Stage at Today's (25th) Live Party",
@@ -1098,6 +1092,12 @@
       "outlet": "매일경제",
       "date": "2026-08-24",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yY0VVNE1CY3BHWmR4YlZYeEdHejVhVkNON2RLT3Y5d21HMkxvWElhMnZpTzgtQ1FvWnVhQ0JYMjBhckRmVThyWjUzTzVjOEl3?oc=5"
+    },
+    {
+      "title": "NCT 127 Says New Album 'BLINGY' Is Their Most Demanding Performance Album",
+      "outlet": "매일경제",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NdjRPYkdFMmJNdDlwVngzNzZzWkV1Ni1jNnhWcV83Z3E2REZsRGxTeVo4NmpYWGptYmRNZS1BTlBidDJpV3BCRm4yeE1QNGkz?oc=5"
     }
   ],
   "timeline": [
