@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T05:31:11.615Z",
+  "generated": "2026-08-30T12:00:19.015Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -631,7 +631,7 @@
       "album": "NCT #127 – The 1st Mini Album",
       "date": "2016-07-10",
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/2b/f7/b0/2bf7b080-2731-5e19-8437-4c4ede4f6442/NCT127_4000x4000.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/40/2c/93402cf6-3f0e-30e8-628f-888876c54594/mzaf_15415703267427613770.plus.aac.p.m4a",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/f5/48/e9f54890-9748-ec39-2f6a-1f34397970d6/mzaf_7970634825259445762.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/fire-truck/1132508841?i=1132509047&uo=4",
       "ms": 178565
     },
@@ -649,7 +649,7 @@
       "album": "NCT #127 Regular-Irregular - The 1st Album",
       "date": "2018-10-09",
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/33/10/f033106d-6453-96d9-6984-8e3a6dc6c9be/NCT_127_coverart.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ed/f4/7c/edf47c3b-9291-a811-8963-5de3279348e4/mzaf_4054613479570204316.plus.aac.p.m4a",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/da/04/1fda04ee-f789-9897-e454-c4264700d8f8/mzaf_12557734983288186202.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/regular-english-version/1438380104?i=1438380125&uo=4",
       "ms": 219107
     },
@@ -667,7 +667,7 @@
       "album": "NCT #127 Regulate - The 1st Album Repackage",
       "date": "2018-11-23",
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/df/c8/fddfc8b2-01ce-a3f6-3f00-bbc17037309d/NCT_127_Cover.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bf/80/3d/bf803d00-b8a5-7c6f-7ad2-8dd01073af9e/mzaf_11160100660203186153.plus.aac.p.m4a",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/27/55/b52755b5-16ee-9e04-07e4-096b1ebdf020/mzaf_18126229525872485152.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/simon-says/1443571952?i=1443572113&uo=4",
       "ms": 199773
     },
@@ -721,12 +721,26 @@
       "album": "NCT #127 Regular-Irregular - The 1st Album",
       "date": "2018-10-12",
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/33/10/f033106d-6453-96d9-6984-8e3a6dc6c9be/NCT_127_coverart.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/eb/37/f9eb3726-fcbe-48f0-c6df-c96f4b268bff/mzaf_242439466030514445.plus.aac.p.m4a",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/4d/7b/554d7b7b-dd00-b77e-6a7e-b5c3244d8d90/mzaf_11480290828862264693.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/regular-korean-version/1438380104?i=1438380117&uo=4",
       "ms": 217707
     }
   ],
   "videos": [
+    {
+      "id": "FE9eA5K5d8c",
+      "title": "Blingy with JAKE #HAECHAN #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-30",
+      "url": "https://www.youtube.com/watch?v=FE9eA5K5d8c",
+      "thumb": "https://i3.ytimg.com/vi/FE9eA5K5d8c/hqdefault.jpg"
+    },
+    {
+      "id": "pBLe0zK7odY",
+      "title": "Blingy with CARMEN YUHA STELLA A-NA #JOHNNY #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-08-30",
+      "url": "https://www.youtube.com/watch?v=pBLe0zK7odY",
+      "thumb": "https://i1.ytimg.com/vi/pBLe0zK7odY/hqdefault.jpg"
+    },
     {
       "id": "frq66uvkijU",
       "title": "hey hey #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
@@ -817,20 +831,6 @@
       "date": "2026-08-27",
       "url": "https://www.youtube.com/watch?v=73x3ZUzE8f4",
       "thumb": "https://i4.ytimg.com/vi/73x3ZUzE8f4/hqdefault.jpg"
-    },
-    {
-      "id": "4LHNWmVUUCI",
-      "title": "eyes on my city #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
-      "date": "2026-08-26",
-      "url": "https://www.youtube.com/watch?v=4LHNWmVUUCI",
-      "thumb": "https://i1.ytimg.com/vi/4LHNWmVUUCI/hqdefault.jpg"
-    },
-    {
-      "id": "0JcKxAbd6w0",
-      "title": "NCT 127 ‘Blingy’ Listening Meeting & Recording Behind the Scenes",
-      "date": "2026-08-26",
-      "url": "https://www.youtube.com/watch?v=0JcKxAbd6w0",
-      "thumb": "https://i1.ytimg.com/vi/0JcKxAbd6w0/hqdefault.jpg"
     }
   ],
   "news": [
@@ -865,16 +865,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1JvUFRQdTdYUEVCUnlQZVJLTkMxbnhRNjdHUWpiV29maFpiNjFkUDBRZ2ZSSThBUDVVVHpXZGtnaUdNUEdWRUVhUGZjckRDTTNWYU5NTjlYLXRXUVFaZXNGS1JoNElUbXNEYlZ1dXhyQU5MeF9mVGw5X0pnMlQzdnJMWjdLYTNRMjQ3VEF5VzljczJEeFltRFpzc0pfd2hZdnYwNXRWNTNpSHI0VTl3SWFGMVgyTmRBOUg1MndzRUNRVzTSAcMBQVVfeXFMT1NSb1BUUHU3WFBFQlJ5UGVSS05DMW54UTY3R1FqYldvZmhaYjYxZFAwUWdmUkk4QVA1VVR6V2RrZ2lHTVBHVkVFYVBmY3JEQ00zVmFOTU45WC10V1FRWmVzRktSaDRJVG1zRGJWdXV4ckFOTHhfZlRsOV9KZzJUM3ZyTFo3S2EzUTI0N1RBeVc5Y3MyRHhZbURac3NKX3doWXZ2MDV0VjUzaUhyNFU5d0lhRjFYMk5kQTlINTJ3c0VDUVc0?oc=5"
     },
     {
-      "title": "NCT 127 Taeyong recalls survival-like trainee days with 300 contestants - CHOSUNBIZ",
-      "outlet": "Chosunbiz",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1Y2ZlNucEg5bjZ2R1NEZmo4aVJLc1ZoWGtPRzhsV21ac1llS2E5cDhCNlVoTmZtX0FzRmlyRGRZSHFaME1GcmhpVVJLZkZNN0g4WEVhUzlfa25wVThqUUhPZjEtV3gxc201Mk03UVUzVmQwT3Jka1ZQSDI4c0ctaVNPcnZBOEJ30gGcAUFVX3lxTE93clUzRmtUdFEtWFJ0SmNhTHVQdEtWZkY5ZVhaOUdRS2NlUUdsQnVUS0dObE1WaFM1VU1vQ0Y3U2llWEVaOGNiZ3BJTnhjaEdrczcxdXVyZW8tUnpCUmp6d2pkVm00eUs4cWpCOV9PcFJXcHhGbmlseGI1bkFzUnNaMDIwbXE5YnpkRXlnNEhYNS1KSzNmSTZENmx1bw?oc=5"
-    },
-    {
       "title": "NCT 127's Haechan says he's senior among peers as group marks 10th anniversary - CHOSUNBIZ",
       "outlet": "Chosunbiz",
       "date": "2026-08-28",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0RKVjJxN2tNd0pfVlhmUFE3X1hsWkd0bUlZNm5ZQmhnWTBPc2syZDVWdGhOWDZhd0tWZ3ptZnJ0U1dyVlpQZWhMN0FDRXpfS1RyM1FLcl9mUWctY2xoM1pMaXphd1p6V0d3eG5PaXlMNDRBMkF1LXYtZlpubnZSLU1lMjBJcWxl0gGcAUFVX3lxTE5pTERHUjA5U2FIcmFqTzFITnZvR1FDWHRycTFfQkh4eHJoZmdDV0dSTThNdlc3dmFRNVJCYzNHUktESUZ5Wnoya0lvNW53TWpjS2ZLeTUxQVNRbzQ5SldrYXBUQ2p2VXlZd3JxeF9aZDNQMHQ5TUJmRklrWmFQc19OeHQycllReWdRM1Vfczk2SlZma2JsNmhaWFFaZg?oc=5"
+    },
+    {
+      "title": "NCT 127 Taeyong recalls survival-like trainee days with 300 contestants - CHOSUNBIZ",
+      "outlet": "Chosunbiz",
+      "date": "2026-08-28",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1Y2ZlNucEg5bjZ2R1NEZmo4aVJLc1ZoWGtPRzhsV21ac1llS2E5cDhCNlVoTmZtX0FzRmlyRGRZSHFaME1GcmhpVVJLZkZNN0g4WEVhUzlfa25wVThqUUhPZjEtV3gxc201Mk03UVUzVmQwT3Jka1ZQSDI4c0ctaVNPcnZBOEJ30gGcAUFVX3lxTE93clUzRmtUdFEtWFJ0SmNhTHVQdEtWZkY5ZVhaOUdRS2NlUUdsQnVUS0dObE1WaFM1VU1vQ0Y3U2llWEVaOGNiZ3BJTnhjaEdrczcxdXVyZW8tUnpCUmp6d2pkVm00eUs4cWpCOV9PcFJXcHhGbmlseGI1bkFzUnNaMDIwbXE5YnpkRXlnNEhYNS1KSzNmSTZENmx1bw?oc=5"
     },
     {
       "title": "NCT 127's Taeyong Reveals 300 Trainees, Survival System During Debut Journey",
@@ -917,12 +917,6 @@
       "outlet": "PressReader",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEo0NTBOdDNZd29ubFNqR1REa0Y0X1lpM1c5ek0zZUdJbklnLWhTSXJ3ZDhHazd2dmowbnhuWWVTLTZ4TWtsMWotTGFqaW5yaTVsanMzMGdHU2FwamJQNXpBXzJsT1Rrd09OTjdEeWVMRnQycEQ1cEp0SHUzN2YwTE16NUxJWEdYNU4w?oc=5"
-    },
-    {
-      "title": "NCT Leader TAEYONG Mentions “Departed” MARK, Saying, “We Respect and Support Each Other’s Paths” [HT Scene]",
-      "outlet": "Hanteo News",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42NXVjU0dQbkNJbnR2azk0VTY3QjBPN2l0N1JlaTJTRndleFppX1h6dWpSRGM3RXZqbGVnTkVvdm16SUJ3cEZPTlQ5S1htV0d2eWNrd093?oc=5"
     },
     {
       "title": "NCT 127 Says, “Coffee Trucks and Snack Trucks From DOYOUNG and JUNGWOO During Military Service Made Us Feel They Were With Us” [HT Scene]",
@@ -977,6 +971,12 @@
       "outlet": "en.koreaportal.com",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0JHajFIem0tdEJBbmd2UXpqalRQSnVpMUtIWXNJZXhJcjVoZURhcVN5c3VVQ3pzN1ZiaGxwSU1wMGs3c3RVUTBYSFFBUVFxTEQtUWdnRVNqalJ2S3ZpRHhfU1QycDlXczlQQWVkVVRuQ0I1SjJDb3dVVWRMMGJIQ2tTaGVvWUpiTFBoQ0k1SUFGN29qUTk4T3V0RUhFVGRoZFRVQ3VGOGdTQ0JVV1lHUDM4UmhuUWVkMGc?oc=5"
+    },
+    {
+      "title": "NCT 127 celebrate 10th anniversary with 'BLINGY' album, shine in playful title track music video",
+      "outlet": "bandwagon.asia",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtamV6QjE5MmtwWjVjSlBBMlBXWXFDY1BudmZBVDFuZ0hCOHBHemVrWVNyNUdpNWRRMTNGNTJqdlFWZjlRWHpfcTZnQWVSd0lJRW1uY3d6WFdwaFlGa2o0?oc=5"
     }
   ],
   "bio": {
