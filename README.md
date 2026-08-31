@@ -1,5 +1,7 @@
 # NCT 127
 
+<img src="assets/banner.svg" alt="" width="960">
+
 An NCT 127 fan site that keeps itself current. Discography, lineup, videos and news
 refresh on a schedule without anyone touching the repo.
 
