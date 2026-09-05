@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T04:37:32.938Z",
+  "generated": "2026-09-05T10:42:49.815Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,20 @@
   ],
   "videos": [
     {
+      "id": "1RwbnOx0t0U",
+      "title": "Blingy with Girls’ Generation-HRS #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-09-05",
+      "url": "https://www.youtube.com/watch?v=1RwbnOx0t0U",
+      "thumb": "https://i2.ytimg.com/vi/1RwbnOx0t0U/hqdefault.jpg"
+    },
+    {
+      "id": "ZnDa5iOCtWU",
+      "title": "Bring the raw heat #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-09-05",
+      "url": "https://www.youtube.com/watch?v=ZnDa5iOCtWU",
+      "thumb": "https://i3.ytimg.com/vi/ZnDa5iOCtWU/hqdefault.jpg"
+    },
+    {
       "id": "KTnEvaOePr0",
       "title": "Blingy with YOON #HAECHAN #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
       "date": "2026-09-04",
@@ -817,20 +831,6 @@
       "date": "2026-09-01",
       "url": "https://www.youtube.com/watch?v=C0o6j_cRkL8",
       "thumb": "https://i4.ytimg.com/vi/C0o6j_cRkL8/hqdefault.jpg"
-    },
-    {
-      "id": "MmIEBkM-M0U",
-      "title": "Blingy with DINO #TAEYONG #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
-      "date": "2026-09-01",
-      "url": "https://www.youtube.com/watch?v=MmIEBkM-M0U",
-      "thumb": "https://i2.ytimg.com/vi/MmIEBkM-M0U/hqdefault.jpg"
-    },
-    {
-      "id": "RVBsMTjhSIg",
-      "title": "NCT 127 ‘Blingy’ MV Behind the Scenes",
-      "date": "2026-08-31",
-      "url": "https://www.youtube.com/watch?v=RVBsMTjhSIg",
-      "thumb": "https://i3.ytimg.com/vi/RVBsMTjhSIg/hqdefault.jpg"
     }
   ],
   "news": [
@@ -841,28 +841,22 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rRmc4b3RPM3BUSTFBcFg0MWh0SFJuN1N0djlqTmZpeWYwRFdTd1dxMWM5elhQOEduVWtoRllxMjdkTVBNVFdrS09ZOC11b3hMZ2xBVVhNS0h2WDVi?oc=5"
     },
     {
-      "title": "[K-Fancam] 엔시티 127 유타 직캠 'Blingy' (NCT 127 YUTA Fancam) @뮤직뱅크(Music Bank) 260904",
-      "outlet": "YouTube",
-      "date": "2026-09-05",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0elU5MC1ncnRpdkl1SjdEMG95OENyTmhKZW16OFdwMU9WTDlQdW4zRVNxaFZGT056d3MyYWlmY2o0ZlZPWjFZWElId1V0S2o4N3Q5VTJvZ1RJM2FD?oc=5"
-    },
-    {
       "title": "[4K] NCT 127, MONSTA X, ALD1, NEXZ, DINO, TAEMIN, CHUNGHA, OURBIRTHDAY, TUIDE, HANBIN | On the way to Music Bank 260904",
       "outlet": "KBS WORLD Radio",
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KU0pKcnN6VmM3UkRVSWRBLXVvdzRsWE5Dem5xUWtNcUpVQ183RXltaWdKZHdEamo2bWhCcXJobnQ3emp2WDROWFk4QUVyVnBZdXFxQmE3QkxfTHc5cjlMd1d6T29QSmdHVkEyZE9tVnpxM0c2Z2lQUkVOTk5CQQ?oc=5"
     },
     {
-      "title": "NCT 127 'Piñata' @NCT 127 THE 7TH ALBUM [BLINGY] COMEBACK LIVE PARTY",
-      "outlet": "YouTube",
-      "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CanZORS1hM2lWMXlmTG4tR2ZRSFFodUlXdy1zWnJYaFhsWk9NMEhPWS0xSXdHbU8yVGowcWtwUmk0Umx0cU15VFI0YkFaVUNZQkxXQ0xIYmN5U3Rl?oc=5"
-    },
-    {
       "title": "WeverseNCT 127 Media - NCT 127 'Piñata'",
       "outlet": "Weverse",
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNUpjeWNfb0ZHRGtWc2RiQW8wQ0s4RmlNdFo1aVVqYTBaaUlhRFdYSlZDbkJwWEE3QUw0R2FoWEg1QWNJTGtlS2N4QnhrdFVrc25ad25mZ0RvbU1tR3doWURn?oc=5"
+    },
+    {
+      "title": "NCT 127 'Piñata' @NCT 127 THE 7TH ALBUM [BLINGY] COMEBACK LIVE PARTY",
+      "outlet": "YouTube",
+      "date": "2026-09-04",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CanZORS1hM2lWMXlmTG4tR2ZRSFFodUlXdy1zWnJYaFhsWk9NMEhPWS0xSXdHbU8yVGowcWtwUmk0Umx0cU15VFI0YkFaVUNZQkxXQ0xIYmN5U3Rl?oc=5"
     },
     {
       "title": "Multimedia de NCT 127 de Weverse - NCT 1",
@@ -890,7 +884,7 @@
     },
     {
       "title": "Best K-Pop Releases of August 2026: Red Velvet & More",
-      "outlet": "Sweety High",
+      "outlet": "sweetyhigh.com",
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oU2t2M0FpZUNOYjNHNEpabjVKc0NNWkxwbzZLd0VhZ0h6c1Y0SkhTTkpkcXAzV2xWcHhlMS14amhzVXJRWEtSdDZRMVhvOVpQOFdsQXpEc1V0cXRkeExOV3Z0NElHbEZmQ0JFS3oyUG9vMlgtMFpXbXZB?oc=5"
     },
@@ -955,16 +949,16 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vUHNoNWtYQU5OV1E4MTE0WThpYjRmWk1PYjVNVHpaek0yWlJWc0FJZ2EyLXFTa0Nva25SZk1iLUtWckhTd3NCeVgyMUtLSkJ6WTA0TzhuaXhLaGJkREN1cC04NzVSR0Z5QTRhck1CY3FoejNoRmNjYQ?oc=5"
     },
     {
-      "title": "NCT 127 celebrates 10 years with 'The Redline' in Bangkok",
-      "outlet": "Bangkok Post",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjhLdHN2OHB1ejJHMERiWUhSTEUtODRlN29uTV9aTWZtRVJtb3UxRHdtMFNrYXZFME5LUVZYSTVyQVNEZzBQbm1vSnk0YUhtX05SVWZQN2RCZzVsdmx2WkFlZ05yTEhUS0VpSWRmeXZkMnRBM3kzTHdUTGo2TzNNOGRQVzRjTms5ZlVjOGttODJTV2JTanFpY0VSQzVxTXNtM2s5WFQ5UndFaldwYlc0YU9McjFnRGxaZVlr?oc=5"
-    },
-    {
       "title": "NCT 127's Taeyong Reveals 300 Trainees, Survival System During Debut Journey",
       "outlet": "조선일보",
       "date": "2026-08-28",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUU1JSTIwUWFhTXJobDRaWlk1eGRFakttYU9kaGlQY3FRamRYOXRsTkNVbUh1empOTFlrTG0tNXI1N0xpZjY0aXYtTm85Z3Y5ZDhiRUV0eER4MzhaZDdUdUJsWnhub1ZMT3l2QzlnTDVrQ3JXNEhpR2FIdUppem5zUkEzX2FralJzQ19SMGZR?oc=5"
+    },
+    {
+      "title": "NCT 127 Bring ‘NEO CITY : SEOUL – THE REDLINE’ Live To Cinemas Worldwide",
+      "outlet": "That Eric Alper",
+      "date": "2026-08-28",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHRIMmcyWm1KVFo5bE5PbnNSSGdXa19UdFM3TnZ4OTZ0QndhOUVsVnJvZFpFRDh6OWVlYTdST25MZWtyRDRFSWVfZUdqdUNnblJ5RjAwSjd0Uks3SldqVm9zc3U0QmhNU0hOR3JwOTA4RFA4OGJJcVJMQkpuZ1JrSlBVTHF1WmlFZ21sVjBaZ1BYeE0wRnR0WTRkWXl2WHZNTkJHbEQtQnZmZ1JM?oc=5"
     },
     {
       "title": "NCT 127's Haechang: 27-Year-Old Senior Among Peers",
@@ -977,6 +971,12 @@
       "outlet": "조선일보",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkgtNFpLUlhqcWdMOHV6NGNqVUVpdU90MGhtT2ZFSE4zTFp1anNzWGhrRERQazVJaUtxMVZYWkNoUElyeG13blRlQlNRNjUwbEV2eHR2aXlKS1dibHZGWjdYTTBpQVpiWGVYRGt3d3RBX05yT0JjYVI5QTJuRGpJMHRjM0tsX2k4bVRDQnNR?oc=5"
+    },
+    {
+      "title": "NCT 127 Says, “Coffee Trucks and Snack Trucks From DOYOUNG and JUNGWOO During Military Service Made Us Feel They Were With Us” [HT Scene]",
+      "outlet": "Hanteo News",
+      "date": "2026-08-26",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKajV3QW0tYWdfN1VRTjZiclRIdzFqdnotUGNQckhlYzk5alZwNzBKUnhuNTFlNURBV0lURU5oVEt2NlRlOVNSUm5iNFVVcng3VnBNR1RR?oc=5"
     }
   ],
   "bio": {
