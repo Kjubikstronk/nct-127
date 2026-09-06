@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T11:04:58.667Z",
+  "generated": "2026-09-06T15:32:04.408Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,13 @@
   ],
   "videos": [
     {
+      "id": "mgZts8460VY",
+      "title": "Blingy with SUNGHANBIN #JAEHYUN #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
+      "date": "2026-09-06",
+      "url": "https://www.youtube.com/watch?v=mgZts8460VY",
+      "thumb": "https://i2.ytimg.com/vi/mgZts8460VY/hqdefault.jpg"
+    },
+    {
       "id": "Ccipxe9qXRU",
       "title": "Blingy with SEOHEE SAKI #TAEYONG #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
       "date": "2026-09-06",
@@ -824,19 +831,12 @@
       "date": "2026-09-03",
       "url": "https://www.youtube.com/watch?v=LADN-ASDRuY",
       "thumb": "https://i1.ytimg.com/vi/LADN-ASDRuY/hqdefault.jpg"
-    },
-    {
-      "id": "zArCiXcKd7s",
-      "title": "NCT 127 'Piñata' Track Video Behind the scenes",
-      "date": "2026-09-02",
-      "url": "https://www.youtube.com/watch?v=zArCiXcKd7s",
-      "thumb": "https://i3.ytimg.com/vi/zArCiXcKd7s/hqdefault.jpg"
     }
   ],
   "news": [
     {
       "title": "K-pop choreography splits along gender lines: harder for boy groups, freer for girl groups",
-      "outlet": "The Korea Herald",
+      "outlet": "koreaherald.com",
       "date": "2026-09-06",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HbmhuS0Y4eU8ydllRWkdBVWhyQ2Fnc051Nk1KTkk0a0xtUF9SZUZub3dhaU5abjlSOW5jRzEtRXR1T1VQRmhpVnozTUZQeVFLTjNnUHc0bw?oc=5"
     },
@@ -844,7 +844,7 @@
       "title": "[4K] NCT 127, MONSTA X, ALD1, NEXZ, DINO, TAEMIN, CHUNGHA, OURBIRTHDAY, TUIDE, HANBIN | On the way to Music Bank 260904",
       "outlet": "KBS WORLD Radio",
       "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTEt6eW5SVThubU1nbFhhTWNzN2tWNThrXzFXMTRmNV9pWm9mNUdWS1FuSkl3VkYxRU95WW1KVzh1ZTVXX3kzc010MGpZOFdaTG9RVks4WUxHdkJoYnA5TFdHc3dYZkJfY0txb1kyOUtUYW90RUgzUExSRGZDUVV5cWhfRDRKY2ZHUnFYemg0SjBnZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjk3RVlzdUJDZm1Td0loV2NFZkwwYl9ZMkY1ZmF1REZLa0lVZ0Qyek1iRGw2YnBWeHNQWTNicDVqV3dzcmQ3Vjk5TDF5WDQ2dlM2NDdYVlFjbkQwQURjR3NudzAtbHlzckNUWWV5b2NLb2lPcTNrTlpEcU01UXFQT2xPakhGTmJqNzR1cHYyWVk?oc=5"
     },
     {
       "title": "Weverse NCT 127 Media - NCT 127 'Piñata'",
@@ -931,12 +931,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkVUWTU0MjU5UTl6R2tkWVlZZ0R6UnB6NGExNGw1U0RQUWtoRndvS2hUSE9pVkp2X2puMnR2aTN1YzU2eWVBUzBtbGFuR3kxcjVwRlNlNGpxUkdLRXdDeG0yOXFISFdhN1FQOFBlOVNCSE0wZnZJVTlKTVpSeWJyWXZCU3drMGxMREdudFotSDhXeHVUS3BTZ1BYWDNrQ0NiZFdUcUVnbUNnQlFnbXZHc1UzemhvZUxGMVRTWWFJb1luUEpCellkS3NVcGh6b0ZoSWkta0ZDWVI?oc=5"
     },
     {
-      "title": "NCT 127 Debuts 'Blingy' at Comeback Live Party",
-      "outlet": "조선일보",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzNJMXNyeWpxUmtFN09hMTV1d2ZiMU1SSDZpUjJYajlmRVZ5OFVtUlJvSEhOc1R6RlVudFJPR3M1MFZGRnRIZUlwaW5DNUhVWFBTOVo0am9IaXZHMWlvWmVPd3BIVndfaXU3UTNuTEgzaERrMkN4UkJYb0pJZ1F1cjNXeHhPRE5TaEQwQ1VR?oc=5"
-    },
-    {
       "title": "NCT 127 releases seventh album Blingy for 10th anniversary",
       "outlet": "UA.NEWS",
       "date": "2026-08-25",
@@ -962,7 +956,7 @@
     },
     {
       "title": "NCT 127 turns 10, enters next chapter with ‘Blingy’",
-      "outlet": "The Korea Herald",
+      "outlet": "koreaherald.com",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VdUNjQmxKYThwT2lfb0pEaGdZUXVLSzl1T2FSeE96ZFoyWFhnaC1EQlVSbHRldF9VQklVa0pYVmtnMGFVUko1YTlUa3ExTVpxT2hZcDc1QQ?oc=5"
     },
@@ -977,6 +971,12 @@
       "outlet": "Yonhap News Agency",
       "date": "2026-08-24",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GbWlqaUJKdzZwajZnckowc245RGpGQWpQeklKeUdtbUZSLWZUM1FuVnVqZEYxeV9XdnNBdW42YU1jX3FfVUVwWHRLN0kxYVoweUFzQThzRk9GQQ?oc=5"
+    },
+    {
+      "title": "South Korea NCT 127 - The Herald Journal",
+      "outlet": "The Herald Journal",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTNWQnhXenBxYTNQZjVSaVRKREV1TVl4V2pmSGZtSjNRYW9qNW1OUGp3OUVuUVVISFhJVDctUDdQT0VNVjNfUHhzelVNUGJWR1FKa0xkcVFaQzlUYmRfeUJtWENzaE9QTDE0SkNPSWxmMHB2SGVzSEFIaTRDRmw2Ny1NQm5MOEhUOVYtLVg3Vk1WVzRBb2UyOWhJZlM?oc=5"
     }
   ],
   "bio": {
