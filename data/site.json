@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T20:59:46.488Z",
+  "generated": "2026-09-10T04:52:13.685Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -676,7 +676,7 @@
       "album": "So Am I (feat. NCT 127) - Single",
       "date": "2019-07-03",
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/08/29/00/08290076-a166-8cea-7152-9d37addade5c/075679842824.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/2f/e3/bf2fe3aa-7983-1a20-4ca3-0e84cde6d75b/mzaf_9398060732439806771.plus.aac.p.m4a",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8b/30/1f/8b301f67-f08f-78eb-2e9e-7c49fe9346ea/mzaf_8805363870456935289.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/so-am-i-feat-nct-127/1470500934?i=1470501093&uo=4",
       "ms": 185034
     },
@@ -835,22 +835,34 @@
   ],
   "news": [
     {
+      "title": "NCT's Johnny to Launch Exclusive Podcast 'JOURNEY with JOHNNY' on the 16th",
+      "outlet": "아시아경제",
+      "date": "2026-09-10",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0xwSWtGSDgxNTBRRTVoaTQ2TjRIalRORnRvbjFuYkx0MHJhWUItbFM3VWxldnktWDBwbk1hYkxLRDVvVFdNNkZMRWJ0VGJFZjZObWxiRUphbS00a1dUWDdPOXlIbnZqcXdzQXA1SnhNNkQ2ZHV0a1BvUmRmMG5VNHE5RlQxZw?oc=5"
+    },
+    {
+      "title": "NCT’s Johnny to launch podcast",
+      "outlet": "The Korea Herald",
+      "date": "2026-09-10",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43dzdCeHgyN2MtTk9jemhWcVFfRTNTY2tlX3hhV0dXNjVSUXNzNWxQQlA2LVlxWEhDd1pSYktBdzhtZjVwVWVoR3V2SkZSRzhrdFNzMXBQMA?oc=5"
+    },
+    {
       "title": "NCT 127 to return to Manila for December concert",
       "outlet": "GMA Network",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXl1VkVJU0lxbW43c3MxMlo2LVZSNVc0X0ltQXI0cFc1ZEhPX2lhQ2JMSThvRVZrR25PQ3dTRUQtTUFxYUV4R291U3RxdjdmUHpULVZVdFJ0QVZtMklLdU45bU9yQ1RxWkJWLXN0ZWNVM09EUmtOcW1zNHdBZVM2WUUzT3kzeDZrV0M1a2FVUUhhVHQ3TzY2eFYtbFpRa09EcXJJRm9mb3V1a2ln?oc=5"
     },
     {
-      "title": "Here are the ticket prices, seat plan for NCT 127's 'Neo City: The Redline' Manila show in December",
-      "outlet": "Philstar Life",
-      "date": "2026-09-09",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYldHRnBvTDgzQTdmWS1VcUdJNnF2eGhJRHZuZlNwZ3ZNSkMwWk05Um1mc2hJQmVtXzdEakhuVms5bVVlSi1US0NYdERvV3dPUUMyQmRGbWp0MTVwcnlHcHllVGdaa3lMVkZOM25HcE56emZaaTdQVVYzWjhOaVZFZmhIUVpvb3A1SXNOaWhqN3ZUVjIzeDlQVXNicGh6TzA?oc=5"
-    },
-    {
       "title": "Here’s how to secure tickets for NCT 127’s Neo City The Redline tour",
       "outlet": "ABS-CBN",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWHV5SmlVTDRaTmgtZWNHYzM4N0RNWVBTaHNzRnJlajhNc29rclZhaHNvM21ramNpSEJHSmVZaEo1aXpMcDhFbnBSdTV1cXV4MFJEQkU1MmdqZWEzRmtrZ2Y3V0xzN0t6N2ozdk45NS1SQWJScnJaMzdndWlrRWd3alVhVm9tcUpQRTAzeG9ZZ1hmVFZKUUlNM2QzYTZodUNIUzI4aEV3SEhEZkhJdTg2cnlfQkNOa0JzbkhrNHZSTkJBTFg2SkduaTlZQk96NG8?oc=5"
+    },
+    {
+      "title": "Here are the ticket prices, seat plan for NCT 127's 'Neo City: The Redline' Manila show in December",
+      "outlet": "Philstar Life",
+      "date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYldHRnBvTDgzQTdmWS1VcUdJNnF2eGhJRHZuZlNwZ3ZNSkMwWk05Um1mc2hJQmVtXzdEakhuVms5bVVlSi1US0NYdERvV3dPUUMyQmRGbWp0MTVwcnlHcHllVGdaa3lMVkZOM25HcE56emZaaTdQVVYzWjhOaVZFZmhIUVpvb3A1SXNOaWhqN3ZUVjIzeDlQVXNicGh6TzA?oc=5"
     },
     {
       "title": "NCT’s Jaehyun tops fan poll for most ‘heart-fluttering’ live voice",
@@ -884,7 +896,7 @@
     },
     {
       "title": "Weverse NCT 127 Image - [Magazine] NCT 1",
-      "outlet": "weverse.io",
+      "outlet": "Weverse",
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wNlNnbTc0YU0yQmp0NllYYW5MRmtzbzg1RWt2bEdkc3l0eWVEWk8tTEpJejFqdUlYZ05sVTdDVndWRXBGejJEOWdnSkhMNVRNWVJ3cUhR?oc=5"
     },
@@ -896,7 +908,7 @@
     },
     {
       "title": "[NOTICE] ‘NEO CITY : MANILA - THE REDLINE’ “NCTzen 127” Membership (GL) Pre-Sale Information",
-      "outlet": "weverse.io",
+      "outlet": "Weverse",
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jVVdvRHBmSk9fWEVWbHBHTEowTFRUTzFHSEJERVRva2VJMkxvRlFOWkdlVDFfYVhyMmhhRUw5N2VKLUlGZ0w2bnlNNFBnbUk?oc=5"
     },
@@ -908,13 +920,13 @@
     },
     {
       "title": "NCT 127 Wins Triple Crown on Hanteo’s U.S., Japan, and China Charts…‘BLINGY’ Shines",
-      "outlet": "Hanteo News",
+      "outlet": "hanteonews.com",
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wdDdLdHg0bjJqYnVvNE5QZURDaVBHTkFrTW5UTHBoS3l4eExjTXdVQ3NTbzNiaVVZUnp0V0lybHM3dk0xSmthd2xBVFBqdDZJ?oc=5"
     },
     {
       "title": "Weverse NCT 127 Media - NCT 127 'Piñata'",
-      "outlet": "weverse.io",
+      "outlet": "Weverse",
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hbWgwUVo1T25LcXJ2a0hDXzE5c0xiX0d4Qkk0QUUtYUV3S2ExNnY1c2VDRzhqV1dnMUVjVXVOcjJOekhvdWxodk5LUHdueU9Sa2pkNklR?oc=5"
     },
@@ -965,18 +977,6 @@
       "outlet": "Rolling Stone UK",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkVUWTU0MjU5UTl6R2tkWVlZZ0R6UnB6NGExNGw1U0RQUWtoRndvS2hUSE9pVkp2X2puMnR2aTN1YzU2eWVBUzBtbGFuR3kxcjVwRlNlNGpxUkdLRXdDeG0yOXFISFdhN1FQOFBlOVNCSE0wZnZJVTlKTVpSeWJyWXZCU3drMGxMREdudFotSDhXeHVUS3BTZ1BYWDNrQ0NiZFdUcUVnbUNnQlFnbXZHc1UzemhvZUxGMVRTWWFJb1luUEpCellkS3NVcGh6b0ZoSWkta0ZDWVI?oc=5"
-    },
-    {
-      "title": "NCT 127 Debuts 'Blingy' at Comeback Live Party",
-      "outlet": "조선일보",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzNJMXNyeWpxUmtFN09hMTV1d2ZiMU1SSDZpUjJYajlmRVZ5OFVtUlJvSEhOc1R6RlVudFJPR3M1MFZGRnRIZUlwaW5DNUhVWFBTOVo0am9IaXZHMWlvWmVPd3BIVndfaXU3UTNuTEgzaERrMkN4UkJYb0pJZ1F1cjNXeHhPRE5TaEQwQ1VR?oc=5"
-    },
-    {
-      "title": "NCTzens, eyes here! 👀 K-pop group NCT 127 has released the teaser for its seventh full-length album titled “Blingy”, marking the band’s 10th anniversary. (📸: SMTOWN/Youtube) Full story in the comments section.",
-      "outlet": "facebook.com",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTFfNVczMDhzUjFiby1wODRtTFBMWDV0S1JUY3pxaXgxbFBoRWgzZnFEeUItTEVCb25NTkoySW0wcGVjaHZzQ0NUeUVUaTFWTTZwcFhXcTBGMEl1T05qV2pVT3J4MEhmMjZBRDVSVWdqaVNCS0xLVHg5aXhKTWQ5cHJKd04tekdQNm5qa2VZTEtMcGpPd2VTUEY3WVpsZHh2bUlsNExibkFuMlVBVjBNTlB4QXpTR3Q5SDgwalU5WGx6MG12U0ItbXpsODlSMTRRSEduNmFoYw?oc=5"
     }
   ],
   "bio": {
