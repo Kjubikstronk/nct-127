@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T10:55:32.524Z",
+  "generated": "2026-09-12T15:36:37.333Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,13 @@
   ],
   "videos": [
     {
+      "id": "HaeZ21z0RcM",
+      "title": "˗ˏˋ ꒰더위도 날려버린 툥터밤🌊꒱ ˎˊ˗ | WATERBOMB SEOUL 2026 Behind",
+      "date": "2026-09-12",
+      "url": "https://www.youtube.com/watch?v=HaeZ21z0RcM",
+      "thumb": "https://i1.ytimg.com/vi/HaeZ21z0RcM/hqdefault.jpg"
+    },
+    {
       "id": "9aJHdhDgLGI",
       "title": "NCT 127 ‘127 Million Miles’ & ‘Piñata’ Recording Behind the Scenes",
       "date": "2026-09-11",
@@ -824,22 +831,9 @@
       "date": "2026-09-06",
       "url": "https://www.youtube.com/watch?v=mgZts8460VY",
       "thumb": "https://i2.ytimg.com/vi/mgZts8460VY/hqdefault.jpg"
-    },
-    {
-      "id": "Ccipxe9qXRU",
-      "title": "Blingy with SEOHEE SAKI #TAEYONG #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
-      "date": "2026-09-06",
-      "url": "https://www.youtube.com/watch?v=Ccipxe9qXRU",
-      "thumb": "https://i4.ytimg.com/vi/Ccipxe9qXRU/hqdefault.jpg"
     }
   ],
   "news": [
-    {
-      "title": "NCT 127 in Manila: Here are the ticket details",
-      "outlet": "GMA Network",
-      "date": "2026-09-10",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1o5MDF1R0dRVEVwTXA2aDc0REZSNi1ib19FUThfT25yandCeXRQckVmYkpBTEppbW1ZVTNHQW8wdG9uMzV0S1c3WkRXUHlVamhTS3NXcmI3akFWWTRtQ0pYR0NScTR1V0dVYXhKUHBPY0ZMYU0zLXpUYzN0aUREVEpob2ZueWVCeE1CdTRuS1JRTFpXd1c0MERwTkxGT29KRmlFMnpsWTN3SkdjUWVYOXA4R1FVYkZQRUNjdUxwSTPSAcYBQVVfeXFMTWFtX2RfZG54VGFubkItZDk4M2Z3bmRYZDl1YkhGRnVvbG1jLXNZRWlXUzdVSmg5ZmRSaFN2WVl2cmVoa1dUUzZycVJuTUN6S1FhakNTRlNhYkdwVEV1SkRFOC0wZDBVSFAzQUZIQXY0VGxaakJDNXUzNzVGc0VaQlhyTjJjbmNtWXkxSXJuSnBPY3pyX0VXMVRaR2k2OHNKOU5VT2ozY0JBdTM0ZG56TzFxMTR2X3lOOGlMM0lfQUpEUEZfRENR?oc=5"
-    },
     {
       "title": "Former NCT star Mark Lee begins a new chapter in his career after leaving SM Entertainment, releasing his new single \"Friend.\" Link to full story in the comments section.",
       "outlet": "facebook.com",
@@ -847,8 +841,14 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTGhTclBtWmZ6MHoyeXdfVFc2NlcxV1dpSEU5Q09sX1lNM3dIMThWZ1ZaUnpvX1hEM0ZsX28zNkxLSnB0Uk9NbWxkMTBBdTFLVEFhcWNsemNnZ2Q3eld2Vlhjci1wUzlydVNoS19tQUtPYmlFczlaLVdrdzRWNUYyTFpBaGtFTkw3TTdONV9wU0N5TTllUnNSNVF6OV9BTl9yUFpTRGRXZl83YXBOSkJpTXJ5TmFKa2l3ZTFOUy1mZ1Rhdk1GUWIwWVl4TGktZUhXQ1NjTU9qRQ?oc=5"
     },
     {
+      "title": "NCT 127 in Manila: Here are the ticket details",
+      "outlet": "gmanetwork.com",
+      "date": "2026-09-10",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1o5MDF1R0dRVEVwTXA2aDc0REZSNi1ib19FUThfT25yandCeXRQckVmYkpBTEppbW1ZVTNHQW8wdG9uMzV0S1c3WkRXUHlVamhTS3NXcmI3akFWWTRtQ0pYR0NScTR1V0dVYXhKUHBPY0ZMYU0zLXpUYzN0aUREVEpob2ZueWVCeE1CdTRuS1JRTFpXd1c0MERwTkxGT29KRmlFMnpsWTN3SkdjUWVYOXA4R1FVYkZQRUNjdUxwSTPSAcYBQVVfeXFMTWFtX2RfZG54VGFubkItZDk4M2Z3bmRYZDl1YkhGRnVvbG1jLXNZRWlXUzdVSmg5ZmRSaFN2WVl2cmVoa1dUUzZycVJuTUN6S1FhakNTRlNhYkdwVEV1SkRFOC0wZDBVSFAzQUZIQXY0VGxaakJDNXUzNzVGc0VaQlhyTjJjbmNtWXkxSXJuSnBPY3pyX0VXMVRaR2k2OHNKOU5VT2ozY0JBdTM0ZG56TzFxMTR2X3lOOGlMM0lfQUpEUEZfRENR?oc=5"
+    },
+    {
       "title": "NCT 127 to return to Manila for December concert",
-      "outlet": "GMA Network",
+      "outlet": "gmanetwork.com",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXl1VkVJU0lxbW43c3MxMlo2LVZSNVc0X0ltQXI0cFc1ZEhPX2lhQ2JMSThvRVZrR25PQ3dTRUQtTUFxYUV4R291U3RxdjdmUHpULVZVdFJ0QVZtMklLdU45bU9yQ1RxWkJWLXN0ZWNVM09EUmtOcW1zNHdBZVM2WUUzT3kzeDZrV0M1a2FVUUhhVHQ3TzY2eFYtbFpRa09EcXJJRm9mb3V1a2ln?oc=5"
     },
@@ -860,21 +860,15 @@
     },
     {
       "title": "Here’s how to secure tickets for NCT 127’s Neo City The Redline tour",
-      "outlet": "ABS-CBN",
+      "outlet": "abs-cbn.com",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWHV5SmlVTDRaTmgtZWNHYzM4N0RNWVBTaHNzRnJlajhNc29rclZhaHNvM21ramNpSEJHSmVZaEo1aXpMcDhFbnBSdTV1cXV4MFJEQkU1MmdqZWEzRmtrZ2Y3V0xzN0t6N2ozdk45NS1SQWJScnJaMzdndWlrRWd3alVhVm9tcUpQRTAzeG9ZZ1hmVFZKUUlNM2QzYTZodUNIUzI4aEV3SEhEZkhJdTg2cnlfQkNOa0JzbkhrNHZSTkJBTFg2SkduaTlZQk96NG8?oc=5"
     },
     {
       "title": "Ticket prices for NCT 127's 'Neo City - The Redline' in Manila released",
-      "outlet": "ABS-CBN",
+      "outlet": "abs-cbn.com",
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHRULWtkUHBoUGc0OTEtcG42WS01QmpWRk9kSWRiUGNjSEI4SXh3QThzcGc5NzhoaU9KZ0dsSktzemtoWC1fcHl3UXZNYndmdnYwb1VMRENnNVdjLWlOaDhXVF9zTjV2MnltaWJHSHhDODcyVzdzeXFQbkxRRVBfd01ZLTlOclppeUJ2QnRUOFZ5Z0cwNXFxUF8yQi0tZEc3M0oyZFEyS0pMVUQ4bmtDbWIzQ2dvblk?oc=5"
-    },
-    {
-      "title": "Heads up, Czennies! Full story in the comments section.",
-      "outlet": "facebook.com",
-      "date": "2026-09-08",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3FSM3g1ajd3cVl0SjN2ZFhSeDZRTzdCSDFVU2pZZl9LemozTk1GcjNBRE95c3JfTDJKZm5lOWhaTVZocFpYYllpUFdfQTQ1RGdEWU9wb2ZNcXlpVXhXTlhIMVY2bVVtcGItbjdicUEydVh0YTM3cW5mZ1dHVFR4RDZJZTRjTGRsaXlybnVIWnlNQWpSb3U1TFZESERUVjBQM1duaXRVa3NPQ2FZcHB5Rg?oc=5"
     },
     {
       "title": "NCT 127 announces 5th tour ‘NEO CITY : MANILA – THE REDLINE’",
@@ -937,28 +931,22 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02eU5JR2laaHpZLUJNOXVvX0l4Zk9WQlZMYzZRM0ZpMmhGeGVNZEFvOUZQRHJrZGw0WWtFbVV1YjRQWnJRVkNCSi1DbnFIWWUtQVVCSFI5YlpxbXBETFRicWp1dFJFaGRSMG5WQi1fWmJzb3hoN0VLU1prYw?oc=5"
     },
     {
-      "title": "Boy band NCT 127's concert to be screened live at 1,030 cinemas worldwide",
-      "outlet": "Korea JoongAng Daily",
-      "date": "2026-09-03",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQldhclpkeS1FdUdpT3Fqel9TUlFwOUc3cjhjOS1yeEFaOHlzcFNENVNfLUMzMXpaX1dIejg1N19UaG1Tb1ZjSTlsT1dEc216UktxUjFVQTExNFQwY0JyNXZpdGhkTkR6U0JGX210N2MxeFg4RFpIV1pIWWNDOEhfaEpxeHpUU0hickxzbmlHZ1kwNkNRLUV6ellEYm5JdFBWTmJXXy1wMXAwb0tSbkhjekJ2WlUzZVktenZBTnVmZmlVUlR4cV9lOQ?oc=5"
-    },
-    {
       "title": "NCT 127 Talks 'Blingy,' Trainee Secrets & 'LoL' Debates | Family Style Fortune Cookies",
       "outlet": "Complex",
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yOVQ3Vm9WdTZSX2h4VGdQd1A2VnJMbTZMdTFjN3pLR0swb1k0R2pTSXVnZDdtX2kycUlXSm1qRGhDSGtkcnN2ZnNraVA2UGc2eG8xZmtSUjVRRDdnOHVJ?oc=5"
     },
     {
+      "title": "Boy band NCT 127's concert to be screened live at 1,030 cinemas worldwide",
+      "outlet": "koreajoongangdaily.com",
+      "date": "2026-09-03",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQldhclpkeS1FdUdpT3Fqel9TUlFwOUc3cjhjOS1yeEFaOHlzcFNENVNfLUMzMXpaX1dIejg1N19UaG1Tb1ZjSTlsT1dEc216UktxUjFVQTExNFQwY0JyNXZpdGhkTkR6U0JGX210N2MxeFg4RFpIV1pIWWNDOEhfaEpxeHpUU0hickxzbmlHZ1kwNkNRLUV6ellEYm5JdFBWTmJXXy1wMXAwb0tSbkhjekJ2WlUzZVktenZBTnVmZmlVUlR4cV9lOQ?oc=5"
+    },
+    {
       "title": "NCT 127 Streams Fifth Concert Globally in 1,030 Cinemas",
       "outlet": "조선일보",
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHlqU2VUNkZmQUItOGtaa1FtVURYaW9BV293MWljbERJNjVNb3FPODNNX0pPZ2pIdnBubXNLSHVONnJPdUhvNzZVZWxhTzlZbUVVeFVnQXFwY2NsTWs0NEZuQ0FfVWVROHE5UEdsUElJRkdqRWdDNWpwNVgtTGhUSDlTa0xCMFJ4dTlSNndR?oc=5"
-    },
-    {
-      "title": "NCT 127 Transforms Cities with Neon Green 'BLINGY' Promotions",
-      "outlet": "조선일보",
-      "date": "2026-09-02",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVnFHV3NuMy1LaEtuQlNrUHF4ODd2Q3pwSEE4VGpGNTFqei1NMEUxd0ZZUDR6em55MnZLeDF5UWo0VkN3Z19zUjFDdW9GZ05SM25RUGpGcG1yTUV4cTNUVW9KTjNjRXFRLWJqQW04TGhURFJlTkRkc3M1VVZBVVI3bnJDZUFrdXdReGVTZjF3?oc=5"
     },
     {
       "title": "NCT 127's Haechang: 27-Year-Old Senior Among Peers",
@@ -977,6 +965,18 @@
       "outlet": "조선일보",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkgtNFpLUlhqcWdMOHV6NGNqVUVpdU90MGhtT2ZFSE4zTFp1anNzWGhrRERQazVJaUtxMVZYWkNoUElyeG13blRlQlNRNjUwbEV2eHR2aXlKS1dibHZGWjdYTTBpQVpiWGVYRGt3d3RBX05yT0JjYVI5QTJuRGpJMHRjM0tsX2k4bVRDQnNR?oc=5"
+    },
+    {
+      "title": "NCT 127 discuss celebrating ten years and share exclusive imagery ahead of new album ‘BLINGY’",
+      "outlet": "Rolling Stone UK",
+      "date": "2026-08-26",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkVUWTU0MjU5UTl6R2tkWVlZZ0R6UnB6NGExNGw1U0RQUWtoRndvS2hUSE9pVkp2X2puMnR2aTN1YzU2eWVBUzBtbGFuR3kxcjVwRlNlNGpxUkdLRXdDeG0yOXFISFdhN1FQOFBlOVNCSE0wZnZJVTlKTVpSeWJyWXZCU3drMGxMREdudFotSDhXeHVUS3BTZ1BYWDNrQ0NiZFdUcUVnbUNnQlFnbXZHc1UzemhvZUxGMVRTWWFJb1luUEpCellkS3NVcGh6b0ZoSWkta0ZDWVI?oc=5"
+    },
+    {
+      "title": "NCT 127 Just Released Their 10th Anniversary Album. Two of the Seven Members Aren't in a Single Promotional Photo.",
+      "outlet": "en.koreaportal.com",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0JHajFIem0tdEJBbmd2UXpqalRQSnVpMUtIWXNJZXhJcjVoZURhcVN5c3VVQ3pzN1ZiaGxwSU1wMGs3c3RVUTBYSFFBUVFxTEQtUWdnRVNqalJ2S3ZpRHhfU1QycDlXczlQQWVkVVRuQ0I1SjJDb3dVVWRMMGJIQ2tTaGVvWUpiTFBoQ0k1SUFGN29qUTk4T3V0RUhFVGRoZFRVQ3VGOGdTQ0JVV1lHUDM4UmhuUWVkMGc?oc=5"
     }
   ],
   "bio": {
@@ -1065,9 +1065,9 @@
   "tourNews": [
     {
       "title": "NCT 127 in Manila: Here are the ticket details",
-      "outlet": "GMA Network",
+      "outlet": "gmanetwork.com",
       "date": "2026-09-10",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1o5MDF1R0dRVEVwTXA2aDc0REZSNi1ib19FUThfT25yandCeXRQckVmYkpBTEppbW1ZVTNHQW8wdG9uMzV0S1c3WkRXUHlVamhTS3NXcmI3akFWWTRtQ0pYR0NScTR1V0dVYXhKUHBPY0ZMYU0zLXpUYzN0aUREVEpob2ZueWVCeE1CdTRuS1JRTFpXd1c0MERwTkxGT29KRmlFMnpsWTN3SkdjUWVYOXA4R1FVYkZQRUNjdUxwSTPSAcYBQVVfeXFMTWFtX2RfZG54VGFubkItZDk4M2Z3bmRYZDl1YkhGRnVvbG1jLXNZRWlXUzdVSmg5ZmRSaFN2WVl2cmVoa1dUUzZycVJuTUN6S1FhakNTRlNhYkdwVEV1SkRFOC0wZDBVSFAzQUZIQXY0VGxaakJDNXUzNzVGc0VaQlhyTjJjbmNtWXkxSXJuSnBPY3pyX0VXMVRaR2k2OHNKOU5VT2ozY0JBdTM0ZG56TzFxMTR2X3lOOGlMM0lfQUpEUEZfRENR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1o5MDF1R0dRVEVwTXA2aDc0REZSNi1ib19FUThfT25yandCeXRQckVmYkpBTEppbW1ZVTNHQW8wdG9uMzV0S1c3WkRXUHlVamhTS3NXcmI3akFWWTRtQ0pYR0NScTR1V0dVYXhKUHBPY0ZMYU0zLXpUYzN0aUREVEpob2ZueWVCeE1CdTRuS1JRTFpXd1c0MERwTkxGT29KRmlFMnpsWTN3SkdjUWVYOXA4R1FVYkZQRUNjdUxwSTM?oc=5"
     },
     {
       "title": "Here are the ticket prices, seat plan for NCT 127's 'Neo City: The Redline' Manila show in December",
@@ -1077,19 +1077,19 @@
     },
     {
       "title": "NCT 127 to return to Manila for December concert",
-      "outlet": "GMA Network",
+      "outlet": "gmanetwork.com",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXl1VkVJU0lxbW43c3MxMlo2LVZSNVc0X0ltQXI0cFc1ZEhPX2lhQ2JMSThvRVZrR25PQ3dTRUQtTUFxYUV4R291U3RxdjdmUHpULVZVdFJ0QVZtMklLdU45bU9yQ1RxWkJWLXN0ZWNVM09EUmtOcW1zNHdBZVM2WUUzT3kzeDZrV0M1a2FVUUhhVHQ3TzY2eFYtbFpRa09EcXJJRm9mb3V1a2ln?oc=5"
     },
     {
       "title": "Here’s how to secure tickets for NCT 127’s Neo City The Redline tour",
-      "outlet": "ABS-CBN",
+      "outlet": "abs-cbn.com",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWHV5SmlVTDRaTmgtZWNHYzM4N0RNWVBTaHNzRnJlajhNc29rclZhaHNvM21ramNpSEJHSmVZaEo1aXpMcDhFbnBSdTV1cXV4MFJEQkU1MmdqZWEzRmtrZ2Y3V0xzN0t6N2ozdk45NS1SQWJScnJaMzdndWlrRWd3alVhVm9tcUpQRTAzeG9ZZ1hmVFZKUUlNM2QzYTZodUNIUzI4aEV3SEhEZkhJdTg2cnlfQkNOa0JzbkhrNHZSTkJBTFg2SkduaTlZQk96NG8?oc=5"
     },
     {
       "title": "Ticket prices for NCT 127's 'Neo City - The Redline' in Manila released",
-      "outlet": "ABS-CBN",
+      "outlet": "abs-cbn.com",
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHRULWtkUHBoUGc0OTEtcG42WS01QmpWRk9kSWRiUGNjSEI4SXh3QThzcGc5NzhoaU9KZ0dsSktzemtoWC1fcHl3UXZNYndmdnYwb1VMRENnNVdjLWlOaDhXVF9zTjV2MnltaWJHSHhDODcyVzdzeXFQbkxRRVBfd01ZLTlOclppeUJ2QnRUOFZ5Z0cwNXFxUF8yQi0tZEc3M0oyZFEyS0pMVUQ4bmtDbWIzQ2dvblk?oc=5"
     },
