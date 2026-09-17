@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T11:50:40.676Z",
+  "generated": "2026-09-17T17:07:00.805Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,13 @@
   ],
   "videos": [
     {
+      "id": "okEUE1TMfCc",
+      "title": "HMH😎🎤 ✨Blingy Let's Gooooo✨ㅣNCT 127 THE 7TH ALBUM [BLINGY] COMEBACK LIVE PARTY & POP-UP STORE Behind",
+      "date": "2026-09-17",
+      "url": "https://www.youtube.com/watch?v=okEUE1TMfCc",
+      "thumb": "https://i4.ytimg.com/vi/okEUE1TMfCc/hqdefault.jpg"
+    },
+    {
       "id": "U4nfBMTw8CI",
       "title": "NCT 127 5TH TOUR 'NEO CITY – THE REDLINE' Official Trailer",
       "date": "2026-09-17",
@@ -824,33 +831,26 @@
       "date": "2026-09-09",
       "url": "https://www.youtube.com/watch?v=rhUdq4ZwGZA",
       "thumb": "https://i3.ytimg.com/vi/rhUdq4ZwGZA/hqdefault.jpg"
-    },
-    {
-      "id": "naps2JqZjLY",
-      "title": "Blingy with RYO #TAEYONG #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
-      "date": "2026-09-09",
-      "url": "https://www.youtube.com/watch?v=naps2JqZjLY",
-      "thumb": "https://i3.ytimg.com/vi/naps2JqZjLY/hqdefault.jpg"
     }
   ],
   "news": [
     {
+      "title": "NCT 127 5TH TOUR 'NEO CITY – THE REDLINE' Official Trailer",
+      "outlet": "youtu.be",
+      "date": "2026-09-17",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xYVh4YkE5ek9LUjdMUk9YTDE0Ukl4MlFoTVdib2RqSmR2dTY2Mlg3TDhodGdMdFZrWnVycjI1WWE4SmdmOHExYU9YVDJFazc2OGZRa2laZGc3Q2xM?oc=5"
+    },
+    {
       "title": "NCT 127 5th Tour 'Neo City: Seoul - The Redline' in Cinemas 2026. Teaser trailer",
-      "outlet": "kinoafisha.info",
+      "outlet": "Kinoafisha.info",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yNnZ3Z1QyX3Y3VVREejllSF82LU1pV1IzWmlxRlhZWkloMEFKWTRzSGlISjBmeHlFNEhVRmJyU2dVY3pWUWFvcDJra2xVNm9TNGZFYngxTEJWbXR4NDJKeVJobm5lc25UYjBCQjFMXzVHUHpJY2tyN1hEUUVyUQ?oc=5"
     },
     {
       "title": "NCT 127 5th Tour 'Neo City: Seoul - The Redline' in Cinemas. Trailer",
-      "outlet": "kinoafisha.info",
+      "outlet": "Kinoafisha.info",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xOVBLeEQ0Uk4wSlNJN1V1TldUVWRSdEwzMmFpR29USlltY1dvX3FBcHVaanRZMXNfY3pER0hkdkJ4b0NRWmp4WTFVdkZPUDlET0NSUzZyLVZZSTl4aktxbjh5SFQ3OTA5TFBzZElNZC1pSkNzUGhPRVppTG5nQQ?oc=5"
-    },
-    {
-      "title": "Mark Lee releases My Friend after leaving NCT",
-      "outlet": "UA.NEWS",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wYXRrMGJKdkhmY1hmNlpwN3RtdkN4cHVLN3NLNGtfY3NPWmMyU3ZuRmppQXpPc0dCX2d6QnhweFZTTk5vTEdiRHpVT1B2dDB0OWxIUS1kLWhQbGtGSE1uZXNrSGZIa1ZfX0ZBaHliZ25TanFraDNUcmRxVkloN0E?oc=5"
     },
     {
       "title": "From NCT all-rounder to kids pop: Where is Mark headed next?",
@@ -859,8 +859,14 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xb3B2UEpkc1dUQXhWR05sM2ItaGhVTlpuSGFfMy00eDF3dElVSmNkTUlaQi0tN0VHWjZhTjBTMnozSzZRVHRPMUg5SUtDaDN1RlNMLXc0cw?oc=5"
     },
     {
+      "title": "Taeyong and Bailey Begin ‘Solo Artist Director’ Mission on ‘SDF’",
+      "outlet": "조선일보",
+      "date": "2026-09-14",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGF5b2VDMERSOXp5WDFTZVNhZlp0eXFCQjk3dTFyMXJmWURuOXZ2QTFTZy0tSzRBU3VKYlB1b2d1Tzd1WTM0eTNvOTdoeXRuNWdudlpQSEdmdUZUazdVSlF2aE9OOFlXWmVFbkFPWkVrcWZUSEYyMUF5UmtfRlhieVd0cFltc1hfVjZZbHR3?oc=5"
+    },
+    {
       "title": "K-pop boy band NCT WISH to drop new album next month",
-      "outlet": "Aju Press",
+      "outlet": "ajupress.com",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvaGwtVXlyTU5XZ2VJakRSV2lGR2RJbXdwQkRmR1FzeW9TSHdNeVItME4tS3hKRmE4UXh4eTBjM0JYZW50Vk1LT1ZHUi16Wm10X0owS2k0NEJfaFXSAVdBVV95cUxNU2w0WV83YkJNeENvS1h2TWFJcnZ0SWh0aFdxdTVab3B2Tnd5NjBVOEhfUGV0QXJGSGxaUDRtWXBpeVR2Rm40VXFqX2d0ekgzSVdpMGF4Ums?oc=5"
     },
@@ -884,25 +890,19 @@
     },
     {
       "title": "NCT 127 ‘I mean, It’s about time’ Trailer Video Behind the scenes",
-      "outlet": "YouTube",
+      "outlet": "youtu.be",
       "date": "2026-09-13",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Rk9YVVBlXzBGNnVudFd0QjZwejdCc2VFZnZoMU9pZWNvMWo0QzlBVFJRdzh0LXloTkVYaVUwMEFZQTFOV3ZxdWtscGlTMFpYRFNfc2U2YVZaTlRX?oc=5"
     },
     {
       "title": "NCT 127 ‘127 Million Miles’ & ‘Piñata’ Recording Behind the Scenes",
-      "outlet": "YouTube",
+      "outlet": "youtu.be",
       "date": "2026-09-11",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKVG14S2lONmExVGRFZkR4ZU9Ib0p1NnU1dktlbnJvZG1jcUFXbWtmcnB5VC1zcWJIRVlJc0EyOEZxSU84WDNneFpwRmw1dzhQSFdnR1hXQTU5aWlp?oc=5"
     },
     {
-      "title": "Former NCT star Mark Lee begins a new chapter in his career after leaving SM Entertainment, releasing his new single \"Friend.\" Link to full story in the comments section.",
-      "outlet": "facebook.com",
-      "date": "2026-09-10",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTGhTclBtWmZ6MHoyeXdfVFc2NlcxV1dpSEU5Q09sX1lNM3dIMThWZ1ZaUnpvX1hEM0ZsX28zNkxLSnB0Uk9NbWxkMTBBdTFLVEFhcWNsemNnZ2Q3eld2Vlhjci1wUzlydVNoS19tQUtPYmlFczlaLVdrdzRWNUYyTFpBaGtFTkw3TTdONV9wU0N5TTllUnNSNVF6OV9BTl9yUFpTRGRXZl83YXBOSkJpTXJ5TmFKa2l3ZTFOUy1mZ1Rhdk1GUWIwWVl4TGktZUhXQ1NjTU9qRQ?oc=5"
-    },
-    {
       "title": "NCT 127 엔시티 127 'Getaway' Special Video",
-      "outlet": "YouTube",
+      "outlet": "youtu.be",
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xQVNvM0lYZlQwTXlCbE9uZUJvWVJTS09XNUQzQVJDUEg5NFlQc1F3ZXFkWUpqRFEzcGdmaUROWWlIQ2k1QXVocm43UThrOXRaOFVubzBuaEpmREZm?oc=5"
     },
@@ -932,7 +932,7 @@
     },
     {
       "title": "‘NCT 127 Is Back’: K-Pop’s Mavericks Talk Contract Renewals & Being Uncompromising in Their ‘Neo’ Sound",
-      "outlet": "Billboard",
+      "outlet": "billboard.com",
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02eU5JR2laaHpZLUJNOXVvX0l4Zk9WQlZMYzZRM0ZpMmhGeGVNZEFvOUZQRHJrZGw0WWtFbVV1YjRQWnJRVkNCSi1DbnFIWWUtQVVCSFI5YlpxbXBETFRicWp1dFJFaGRSMG5WQi1fWmJzb3hoN0VLU1prYw?oc=5"
     },
@@ -1064,14 +1064,14 @@
   },
   "tourNews": [
     {
-      "title": "Stills and Photos from The NCT 127 5th Tour 'Neo City: Seoul - The Redline' in Cinemas, 2026 at Kinoafisha",
-      "outlet": "kinoafisha.info",
-      "date": "2026-09-16",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IbFJIZU1mNXY4UGJWM1doT2t6cjRkcGhSRkJ5bFk2aUxXdTJmQlNwM2xvZ2ptMUt5bDd1cnVXOWpzVHNfelRDTmpzQ2NTT0V5LTRmbmh4aFZNRUhsc0Nvcldn?oc=5"
+      "title": "NCT 127 5TH TOUR 'NEO CITY – THE REDLINE' Official Trailer",
+      "outlet": "youtu.be",
+      "date": "2026-09-17",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xYVh4YkE5ek9LUjdMUk9YTDE0Ukl4MlFoTVdib2RqSmR2dTY2Mlg3TDhodGdMdFZrWnVycjI1WWE4SmdmOHExYU9YVDJFazc2OGZRa2laZGc3Q2xM?oc=5"
     },
     {
       "title": "NCT 127 5th Tour 'Neo City: Seoul - The Redline' in Cinemas. Trailer",
-      "outlet": "kinoafisha.info",
+      "outlet": "Kinoafisha.info",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xOVBLeEQ0Uk4wSlNJN1V1TldUVWRSdEwzMmFpR29USlltY1dvX3FBcHVaanRZMXNfY3pER0hkdkJ4b0NRWmp4WTFVdkZPUDlET0NSUzZyLVZZSTl4aktxbjh5SFQ3OTA5TFBzZElNZC1pSkNzUGhPRVppTG5nQQ?oc=5"
     },
