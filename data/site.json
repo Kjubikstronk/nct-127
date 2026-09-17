@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T04:59:31.004Z",
+  "generated": "2026-09-17T11:50:40.676Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,13 @@
   ],
   "videos": [
     {
+      "id": "U4nfBMTw8CI",
+      "title": "NCT 127 5TH TOUR 'NEO CITY – THE REDLINE' Official Trailer",
+      "date": "2026-09-17",
+      "url": "https://www.youtube.com/watch?v=U4nfBMTw8CI",
+      "thumb": "https://i2.ytimg.com/vi/U4nfBMTw8CI/hqdefault.jpg"
+    },
+    {
       "id": "_85d3yLrq54",
       "title": "⟡˙⋆ 🍑인간 복숭아의 럭셔리 모먼트🍑⋆˙⟡ | CREED Aventus Collection in Shanghai & Allure Korea Photoshoot Behind",
       "date": "2026-09-16",
@@ -824,13 +831,6 @@
       "date": "2026-09-09",
       "url": "https://www.youtube.com/watch?v=naps2JqZjLY",
       "thumb": "https://i3.ytimg.com/vi/naps2JqZjLY/hqdefault.jpg"
-    },
-    {
-      "id": "pQX1l6cz2ao",
-      "title": "NCT 127 엔시티 127 'Getaway' Special Video",
-      "date": "2026-09-08",
-      "url": "https://www.youtube.com/watch?v=pQX1l6cz2ao",
-      "thumb": "https://i1.ytimg.com/vi/pQX1l6cz2ao/hqdefault.jpg"
     }
   ],
   "news": [
