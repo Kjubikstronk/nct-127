@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T20:48:35.848Z",
+  "generated": "2026-09-20T05:00:10.716Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -835,12 +835,6 @@
   ],
   "news": [
     {
-      "title": "Nct 127 open ‘The Redline’ in cinemas worldwide as Taeyong and Jaehyun return",
-      "outlet": "IMDb",
-      "date": "2026-09-19",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fcE45Q0hLR0dBVGxFcHY0UHpna2stamR5ZzRhY2thSURjV3JfYUYyQ2lXZnQ1eGtBREN6Y2xFZXBLSlJ3ZUdQLW0yRE5rcHc4S2JnY0ZNaGRzQ1liSWh4aA?oc=5"
-    },
-    {
       "title": "NCT127 Launches 5th 'The Redline' Tour",
       "outlet": "조선일보",
       "date": "2026-09-18",
@@ -854,19 +848,25 @@
     },
     {
       "title": "“Gods of Performance” NCT 127 Kicks Off Fifth Tour... A Festival Day for NCTzens",
-      "outlet": "스포츠조선",
+      "outlet": "sportschosun.com",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFpNQldoT0hyZlF0Zkhad09qVVRkZTRoU3BseXV0cUw2ZWNSOGRUaFJESzdMcWFyTDVneVRFTTh0TkVDZUJqUWpWUU84LUNjWU9VakJscVBoUV9HN0VBdDAzeUFtMlZBWVJqMkZ6dGowcU41R3J1WDcwRURrdUI0N1Rhaw?oc=5"
     },
     {
       "title": "NCT 127 kicks off fifth tour in Seoul",
-      "outlet": "Aju Press",
+      "outlet": "ajupress.com",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrOVhFU25qVWpDYmwxanJhNC1rZnh6N01EeXBHblJHcFVxaWJlQy1Vc0VabkR3b2VjdEw4cVk1WDhPREJSVlpMakdrd2xQRWJFX05RUmZHczlMZ2_SAVdBVV95cUxNamZGNGtuRk96YUFKaUlKZEl4cXA0STBUaUhFVEVNTFlrWGhBd01mQlNxenVWal81MGtrRGpxckhTQW9TV2pvWS1aV3Z3ZzFSSXFHbFNXZzg?oc=5"
     },
     {
+      "title": "NCT 127 open ‘The Redline’ in cinemas worldwide as Taeyong and Jaehyun return",
+      "outlet": "Martin Cid Magazine",
+      "date": "2026-09-18",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObUdxRnRBRGoxTXQwbGtHYS1VdFRYSzR1MnJGTGhRa0FyX0NQRi1CWlRwckx0bnhNaWMxVHhfeGlYSGRVa3VSaG1Zd3JZVG9ZVTZDelJNVjlSZ3M5NUFBWEN1bzZsdUVDOXgxa0xHZXRXSmlyejdIQ20wdVREbnJsSThKNFl6bWxJVGUyeEc5bW9pZw?oc=5"
+    },
+    {
       "title": "[알림] NCT 127 The 7th Album [BLINGY] POP-UP OFFICIAL MERCHANDISE SALES DETAILS",
-      "outlet": "weverse.io",
+      "outlet": "Weverse",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPZ1dMWWZCRFdDVjV3ZUoxeFZOQ0FPX1VwdExKbGdKUGZELTdXWTlUVTAzWGFpNS0zdEJJMlE1SXk2WHdWakhxSFVZbURvd2NOS0tWMnlOaw?oc=5"
     },
@@ -875,12 +875,6 @@
       "outlet": "Billboard",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzRYVkJySHZCRzdVZ2d4R2psWjRxbVVCd0dWcWdtYWRyX1hlZ19ZVlBEQm90eU9aZlZuMTNRWFF0XzNKNTE2RFl2Q0w5dmpOd1FFM0Q0Q2Zkc0NhMXNQc1VmWmlabWg2X25LQnh2QVljNVRJcHRsQmZ2X2RMN0pqQzZfcnBjX2lySy1OQTRGcm9neTIza2hzeUV4Rmhja3FMOGpKUURESU5jZnhk?oc=5"
-    },
-    {
-      "title": "NCT 127 5TH TOUR 'NEO CITY – THE REDLINE' Official Trailer",
-      "outlet": "YouTube",
-      "date": "2026-09-17",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hemRpNEt3b0E3Ukx0OHVVZ1pSVkdyNlM4bVUwdC1zZE5KR2U3clAtcGJvRm5Od0c5d3hpMk9kX3VnNERKa29CZXFlR0RVazR4UG8teEtOMThlTkVV?oc=5"
     },
     {
       "title": "NCT 127's Johnny Says He Draws the Line at Korea's Sauna Culture: ‘I Don’t Want to See You Naked'",
@@ -902,7 +896,7 @@
     },
     {
       "title": "[NOTICE] 'NEO CITY - THE REDLINE' OFFICIAL MERCHANDISE SALES DETAILS",
-      "outlet": "weverse.io",
+      "outlet": "Weverse",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKbDF6MHUtUEczT05vYU1CZWI4Vzgzd3dLN0lYeFVkYVpIUm8xQ1RqODdobkFnS2QyRndSenoyVldUNDRFWlh0SHdUTlBJaEE?oc=5"
     },
@@ -925,14 +919,8 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmtTQVdWdjNsWjJaWmQzYk1ZR2Q1YW41eHlGMV9zdTZOT01fbEF2UGxJa3JGNkhLT0VfQTZhcTgzam1mcmpPMjZZZXVrWXB1c09DalVQSGJsSHdfYnVEZWtMeFl1U1lteEMwTGtKUnJSWWQ3cjNYeGcyYmxkQUJlZ2hUc0dQVDJLZndTczVreGhubnJ3UEJsYXVKSXFlMWtVdzRMM0l4ZmxJU1dXWGFPSA?oc=5"
     },
     {
-      "title": "SM faces backlash after former NCT member Taeil’s outfit sold at charity flea market",
-      "outlet": "The Korea Herald",
-      "date": "2026-09-07",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBicC1tM3llblpaeWNqT0NWZUM5c3RfS29vRzlmRGtFTEFNNi1QLW1hX0FZY0NkWlBmMzAyN2R4dHZERHRPVlgxazVjc2d5VXphSHkxLW9Sdw?oc=5"
-    },
-    {
       "title": "Weverse NCT 127 Media - NCT 127 'Piñata'",
-      "outlet": "weverse.io",
+      "outlet": "Weverse",
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hbWgwUVo1T25LcXJ2a0hDXzE5c0xiX0d4Qkk0QUUtYUV3S2ExNnY1c2VDRzhqV1dnMUVjVXVOcjJOekhvdWxodk5LUHdueU9Sa2pkNklR?oc=5"
     },
@@ -967,10 +955,22 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWI4MEpjX1BiSEgzM09kdlNWM1V3Z2ViRmZEOHJfeGJadG1nNjJURmJuLU9Cb2ZNQzlTcG5wd0s2dGVyQXBjN1BtOWRZeVVfYTBTUktKSjlTbThodjFaeU9SUTk3X1hpV2d5SlNEbnUzTE82MWJFQUIxaXZVREdwYi1iZ3BPQl9qLTNhc0xLa042dHl3VlZrVmJuSHlxVWFuYXBmeDB5cjHSAa4BQVVfeXFMTlFBbWlSdkpfWXJrd0VMMjdBX2ZXTkxXMDNnT2hUOUExSVZDTlVSTWZiT2ZvWjJOcmh6RVNmRzN3c0hmdkRmX19UeEgyblhUMi04eGljSEVISUo2TlNMWlBwN1hrbldtcktDRHBnSmp3Wnhfc0YwNGNOY09uX0daY2FKalpBWWlVYTZTcGJoWXowbkJqTVljRUVORDZEakNDcTJJOEw3b29hR210MXhn?oc=5"
     },
     {
+      "title": "NCT 127's Taeyong Reveals 300 Trainees, Survival System During Debut Journey",
+      "outlet": "조선일보",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUU1JSTIwUWFhTXJobDRaWlk1eGRFakttYU9kaGlQY3FRamRYOXRsTkNVbUh1empOTFlrTG0tNXI1N0xpZjY0aXYtTm85Z3Y5ZDhiRUV0eER4MzhaZDdUdUJsWnhub1ZMT3l2QzlnTDVrQ3JXNEhpR2FIdUppem5zUkEzX2FralJzQ19SMGZR?oc=5"
+    },
+    {
       "title": "NCT 127's Haechang: 27-Year-Old Senior Among Peers",
       "outlet": "조선일보",
       "date": "2026-08-28",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTJmSVQ2Sk5UQTVMSzR5Ym1fdXpvLWdfVWkzZEZ4NGE2UmdPNGJSdWV2SzdIY2VuZE1iYjVNd2FlaDhxOWpfVU5Cb1dlTm1yWllldWh0WmFxeFh1SGNUQ2FHT2xNblpPM1MyYV94M3JxWUxzSWN1MUVWNVpQSWx3UDVVX0l3NndHcW9kR1p3?oc=5"
+    },
+    {
+      "title": "NCT 127 Bring ‘NEO CITY : SEOUL – THE REDLINE’ Live To Cinemas Worldwide",
+      "outlet": "That Eric Alper",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHRIMmcyWm1KVFo5bE5PbnNSSGdXa19UdFM3TnZ4OTZ0QndhOUVsVnJvZFpFRDh6OWVlYTdST25MZWtyRDRFSWVfZUdqdUNnblJ5RjAwSjd0Uks3SldqVm9zc3U0QmhNU0hOR3JwOTA4RFA4OGJJcVJMQkpuZ1JrSlBVTHF1WmlFZ21sVjBaZ1BYeE0wRnR0WTRkWXl2WHZNTkJHbEQtQnZmZ1JM?oc=5"
     },
     {
       "title": "NCT 127's 'BLINGY' Proves Identity, Global Presence",
@@ -1071,13 +1071,13 @@
     },
     {
       "title": "“Gods of Performance” NCT 127 Kicks Off Fifth Tour... A Festival Day for NCTzens",
-      "outlet": "스포츠조선",
+      "outlet": "sportschosun.com",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFpNQldoT0hyZlF0Zkhad09qVVRkZTRoU3BseXV0cUw2ZWNSOGRUaFJESzdMcWFyTDVneVRFTTh0TkVDZUJqUWpWUU84LUNjWU9VakJscVBoUV9HN0VBdDAzeUFtMlZBWVJqMkZ6dGowcU41R3J1WDcwRURrdUI0N1Rhaw?oc=5"
     },
     {
       "title": "NCT 127 kicks off fifth tour in Seoul",
-      "outlet": "Aju Press",
+      "outlet": "ajupress.com",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrOVhFU25qVWpDYmwxanJhNC1rZnh6N01EeXBHblJHcFVxaWJlQy1Vc0VabkR3b2VjdEw4cVk1WDhPREJSVlpMakdrd2xQRWJFX05RUmZHczlMZ2_SAVdBVV95cUxNamZGNGtuRk96YUFKaUlKZEl4cXA0STBUaUhFVEVNTFlrWGhBd01mQlNxenVWal81MGtrRGpxckhTQW9TV2pvWS1aV3Z3ZzFSSXFHbFNXZzg?oc=5"
     },
