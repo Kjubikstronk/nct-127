@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T04:52:07.453Z",
+  "generated": "2026-09-23T11:47:58.250Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,13 @@
   ],
   "videos": [
     {
+      "id": "ml_41O8_DSM",
+      "title": "*.˚ ༘♡우리칠 & MEGA MGC COFFEE🥤🥐*.˚ ༘♡ | MEGA MGC COFFEE Behind",
+      "date": "2026-09-23",
+      "url": "https://www.youtube.com/watch?v=ml_41O8_DSM",
+      "thumb": "https://i2.ytimg.com/vi/ml_41O8_DSM/hqdefault.jpg"
+    },
+    {
       "id": "1ylKEdvXYCk",
       "title": "THIS IS THE REDLINE #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
       "date": "2026-09-22",
@@ -824,16 +831,15 @@
       "date": "2026-09-10",
       "url": "https://www.youtube.com/watch?v=zPsKFGTjo5A",
       "thumb": "https://i3.ytimg.com/vi/zPsKFGTjo5A/hqdefault.jpg"
-    },
-    {
-      "id": "AvVXqICw0RE",
-      "title": "ASSEMBLE! #NCT127 #BLINGY #NCT127_BLINGY #NCT_10TH_ANNIVERSARY",
-      "date": "2026-09-10",
-      "url": "https://www.youtube.com/watch?v=AvVXqICw0RE",
-      "thumb": "https://i2.ytimg.com/vi/AvVXqICw0RE/hqdefault.jpg"
     }
   ],
   "news": [
+    {
+      "title": "NCT 127 Celebrates 10th Anniversary Year With Massive Sold-Out Seoul Opener",
+      "outlet": "X-Rock 103.9",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1Y1bWx6Wk9xQ04yam5iUU1aTncxand6cXVyQUVZNm5ZZzc0eks2VGdHYXpPb0pRcWhBVTRqa0NNRnFhSFJqdV9qZkJrQThFdWJLZ1lwLUdjNG9Xd2NMNGJQMVUxWXE4WnlrdmMweWpNcHJFazhPZTEwWDNUdFdYU0daVTBBaDFPSTJWT3Rnc3g1bjJ1MXVPSVlqX1o1d19VWEpRdDlMb1N6V0hzTVNSRHV0aw?oc=5"
+    },
     {
       "title": "NCT 127's TAEYONG, Allday Project's BAILEY Choose Final Directors Tonight",
       "outlet": "조선일보",
@@ -842,7 +848,7 @@
     },
     {
       "title": "NCT 127 Open 10th-Anniversary ‘Neo City: The Redline’ Tour With Sold-Out Seoul Run",
-      "outlet": "Billboard",
+      "outlet": "billboard.com",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEd2V0FNSEowOEtzeUx1RzVkQW9JZ0FpZTZmQTZQLXIzS09TMFYycGdDeTF5VkZqRVlLNmNNb1JCWVAxMm1PakFqTnhhdloyeFRuZ3MzenFYVDVZcDJQSzBXa1VxejNyaXZ2T3dBOEdmcDZrZDg3dFBka2hzbEpmaFJkYWJJN1BEcmY4VnIwWXQtOS1jWEZLam5ZNWhNOEFvakM5Tw?oc=5"
     },
@@ -859,8 +865,14 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XcnR4OENSNklLMTl1ZjhfZm9ZS3NtdmRjQ0M4ZnF4NUtrTWRoYXk1OUdNT1MxaUYzQnlDbFEwV1hBOFBTd09sc1NDNGZhbXdoXzhFaV9pSQ?oc=5"
     },
     {
+      "title": "NCT 127’s Johnny on Korean Saunas: ‘I Don’t Want to See You Naked'",
+      "outlet": "Yahoo",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDgtRmM2VllpbVZUdjFFc1VIS3BCY2FmZTFhQlRkcmJISTBxX1JxVmpWa2hwQWwxajJsWXVTVWFMSDh0UTlzNTF0VmhxNTFFdndjMURsY3NMMzRZdS1qNFVGTF9VTVI1ZEFPeWFpc3dkaXdrbDFBejFMc2xlLUpGdUFwai1YTHd5TmtmVFBPNjE1M3VKYkVSVk1n?oc=5"
+    },
+    {
       "title": "From cyborgs to rice cakes, NCT 127 still keeps it 'neo' after 10 years",
-      "outlet": "Korea JoongAng Daily",
+      "outlet": "koreajoongangdaily.com",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjQyM2s4Rnk3bzE0UXQ0YWtLOUVQQjF3bmtPSFJleUJCZjUwNDlIOHdnbDdHaF8wTGdXMlBDZmdGMzhJSWN6Tk9QNHhERDY0UTZ2ekxxYzdlSVRqaWtXT0FQNkxUZGNVd2Iya01IMVFkWUhoYVRuMGNkdzBHZS1QNmNkS19XOEtlcDQxZkRJeW1ZUUtwRF8wMHpJQVR2ckd0S1BSNUVTbm5sU0drbE51Ujl6SUt0OS1KN3AyWkZtTjUxTXVq?oc=5"
     },
@@ -872,7 +884,7 @@
     },
     {
       "title": "\"Looks Like We Should Go Straight to the Encore from the Start\"... NCT 127's 'Limit-Breaking' Opening Show Unleashes a Decade of Experience",
-      "outlet": "스포츠조선",
+      "outlet": "sportschosun.com",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQnNLVEFwMVFFTmVxWHlGcjJBSUZPa0MxaGpQMk5yQVFHdG9mVERJRVFkZTJOQWFQb0pYd2ZiVE9PMEg4NElQYjhRUWYta09JRVp1MTFzZEtadGZxVjRQdmJDNXY3UDR3Uy15dXNOWVRoZzJEZ052SVZRM0M5UQ?oc=5"
     },
@@ -884,7 +896,7 @@
     },
     {
       "title": "'Military Service' Doyoung and Jung Woo Attend NCT 127 Concert... 'Chungseong' Salute and Surprise Rice-Cake Gift",
-      "outlet": "스포츠조선",
+      "outlet": "sportschosun.com",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tYlJOTE9iLUhpLWNOZWxtVk5CVER2R182UHZYT0JCYUUzczNtQ3Y1RkdvMlJXR1JGZlFIem9oQTAyMm5YMlNxZk1KMFZOU2tCVmlmVm9vZmo2d1dxdzdXTlJoR3VhVWs0OWQ2NmMtOU9CVm00TEhiNzAyTWF2UQ?oc=5"
     },
@@ -896,7 +908,7 @@
     },
     {
       "title": "From 'Fire Truck' to 'Kick It'... NCT 127 Tears Up KSPO Dome with Rock Versions",
-      "outlet": "스포츠조선",
+      "outlet": "sportschosun.com",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4ZEFUeVc4TnAwZ0FVMl9pN2RQZ0g4ZFluTWV4bkJDS2JOTk5PUlo5ZDA2SUk4WExHNWxxdDBvN0xXVms4T3J2UjduZWgzMW5WYS1IQ0pBaEpSaldVczBBS0NIR2lnTFN6WVlKOUhTQnFRbmktRlFjZm1RVUx4Zw?oc=5"
     },
@@ -908,9 +920,15 @@
     },
     {
       "title": "NCT 127: \"Now that we're at our 10th anniversary, it's not such a big deal... Next year, all of NCT 127 will share one stage\"",
-      "outlet": "스포츠조선",
+      "outlet": "sportschosun.com",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3Y0dRNlFjeG1GZFNkeWkxS3BBVndQVUlzdGt4MEVKQ2xYVVV2STJZVG5IN0k0WHNWQjJiZ2ZEa1VBTEtRWmJZX2xPc0JraFpSd2JBQ0UtanduOVd3clRFSm9LZ0tNdENqS1pMWlRCalcxeGJQeHJfN25rZDN0QQ?oc=5"
+    },
+    {
+      "title": "The 'One Team' Charges Ahead to Fill the Gaps... NCT 127 Breaks Through 'The Red Line' with 10 Years of History (Comprehensive)",
+      "outlet": "sportschosun.com",
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GOUpFbEpzOWVzcFNWUFo1MzY1Qk9qTHVsTUxsdkZSOEw1VHFMSFhIVDZoc3daLU1ZOTNWRTgtY0l1ZGFiQk91M21KUEZWVG9TbnBSRG1GY3NqWmRHMHFQZTJGcFRUQ2w5OW05TzhFRjVpc1o5ZEJTX1NvVkNSZw?oc=5"
     },
     {
       "title": "Military-Serving Doyoung, Jungwoo Surprise NCT 127's Final Concert",
@@ -925,12 +943,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDJNdy1pbTN0QUJfcHl3aXo0RjhoYzh6ejRjNTBJMngzbHNQcUpDNzE2UU1uZmpvcnRkRm1XX2dxY2lERkM4MVpMWGE2anNsMUhmYzNNZGk4bFZMMUdNMkFQdW5jNy02Rm54Y0tsSHJGUzhOWkY3RFVGanpiMk5hMmUzeVluYWIzeXM1eExB?oc=5"
     },
     {
-      "title": "The 'One Team' Charges Ahead to Fill the Gaps... NCT 127 Breaks Through 'The Red Line' with 10 Years of History (Comprehensive)",
-      "outlet": "스포츠조선",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GOUpFbEpzOWVzcFNWUFo1MzY1Qk9qTHVsTUxsdkZSOEw1VHFMSFhIVDZoc3daLU1ZOTNWRTgtY0l1ZGFiQk91M21KUEZWVG9TbnBSRG1GY3NqWmRHMHFQZTJGcFRUQ2w5OW05TzhFRjVpc1o5ZEJTX1NvVkNSZw?oc=5"
-    },
-    {
       "title": "NCT 127 Celebrates 10th Anniversary, Vows Full Reunion Next Year",
       "outlet": "조선일보",
       "date": "2026-09-20",
@@ -938,7 +950,7 @@
     },
     {
       "title": "[REVIEW] NCT 127 makes missing members part of Seoul show",
-      "outlet": "The Korea Times",
+      "outlet": "koreatimes.co.kr",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmZFRm1yejZZUUI4YXN6MS1TcFV5ZWtBb0J4LTlJdWxzX0ZtaFJwdXVZbjBsLTJLbF9WTVJwZjQ2VC1uOTNUTEY0dm04eFVMT0pmWi1QbHJSdm1MdDQwaXJPSTJhU0dleVEyQzAtM1FlRGp3N0xxR08wRjlZMWZENnB1a1RidjZ0YUZQZ0pGZWRGVU1mdktDM1VmQTZMZUFtQ0NHVFpnVUx6QdIBrwFBVV95cUxONFduTUw5bXNaY3JEakxVdEtFNFotNDlIdkttR0FUb3VKd25DbzBlNTY3SW5TOGFEaF9ta3kzY2dLcDVYZnhkaVRhX0xZOVRIRnNOeWhhTlA0bGozX0xOOHpCaGxXS1haakRYNjN6b21DWjJ2d1BnSXcyY01jWU5nS0RmUFBmMXk4c0xjMHlQaS1meUVfZkhfY2Mxbk5NWHNROWhrVk9IVHVHUm5hdUtj?oc=5"
     },
@@ -950,33 +962,21 @@
     },
     {
       "title": "BTS, Cortis land 3rd nomination at 2026 MTV Video Music Awards",
-      "outlet": "The Korea Times",
+      "outlet": "koreatimes.co.kr",
       "date": "2026-09-19",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdDliMVFva0F2MjVuZlVJX25Qc09PVlFKYmdfUDZ5bTVsU2pOOUR3b3R2ZGwyd1hnb2N5UFBlbm1BaWpnSlRSNVRNeDMySGNvNHRDTmZUcm9GWWd3WmJqTDFwYzdtNEZTOUlIeGZUQkxUR0F4YnN6MDJNcEZPOVVScHBFLTFaMlVTM0NET1JEZXpkM3ZlVGNjR3NTRXFXRy1hakZaWTNnU285WktWQVlES1J2d21tVWM0dTI40gHAAUFVX3lxTE5yQ0RsVzcxeV9uZmFNcWlPYnNEdGxzR2hDamN3b3AzQnBkeXprbDF4SWVNLXRJbmk4enNycnBIcm5qZWljRFpfc3JaNmpoU3VoU0ZDMVBRM213SDV6UDNpaUxrS2xNQXcwX3BfSnFkU3QtV1oxRUhnVkNtcUhiVkp4YThmM0tpNW1JOGp0dkhSQ1ZQVjM1N253Vks0NWEwVmRoTk5udEdCUkF4U0VJTFN3WUlPZTVHLUpPUUNvdmRYXw?oc=5"
     },
     {
       "title": "NCT 127 to Set the Gymnastics Arena Ablaze as Fifth Tour Kicks Off Today",
-      "outlet": "mk.co.kr",
+      "outlet": "매일경제",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBodTFCNUpnZDQ0VFhubm5BUnh1ZV95dzBGTzJfS1JNaVZmbGJHd0lySXNSdndpSl9MVW1ia2hLQ05CYk9zVUNDQlhzMk9yQ3cx?oc=5"
     },
     {
       "title": "“Gods of Performance” NCT 127 Kicks Off Fifth Tour... A Festival Day for NCTzens",
-      "outlet": "스포츠조선",
+      "outlet": "sportschosun.com",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFpNQldoT0hyZlF0Zkhad09qVVRkZTRoU3BseXV0cUw2ZWNSOGRUaFJESzdMcWFyTDVneVRFTTh0TkVDZUJqUWpWUU84LUNjWU9VakJscVBoUV9HN0VBdDAzeUFtMlZBWVJqMkZ6dGowcU41R3J1WDcwRURrdUI0N1Rhaw?oc=5"
-    },
-    {
-      "title": "NCT 127 kicks off fifth tour in Seoul",
-      "outlet": "Aju Press",
-      "date": "2026-09-18",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrOVhFU25qVWpDYmwxanJhNC1rZnh6N01EeXBHblJHcFVxaWJlQy1Vc0VabkR3b2VjdEw4cVk1WDhPREJSVlpMakdrd2xQRWJFX05RUmZHczlMZ2_SAVdBVV95cUxNamZGNGtuRk96YUFKaUlKZEl4cXA0STBUaUhFVEVNTFlrWGhBd01mQlNxenVWal81MGtrRGpxckhTQW9TV2pvWS1aV3Z3ZzFSSXFHbFNXZzg?oc=5"
-    },
-    {
-      "title": "NCT 127 open ‘The Redline’ in cinemas worldwide as Taeyong and Jaehyun return",
-      "outlet": "martincid.com",
-      "date": "2026-09-18",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObUdxRnRBRGoxTXQwbGtHYS1VdFRYSzR1MnJGTGhRa0FyX0NQRi1CWlRwckx0bnhNaWMxVHhfeGlYSGRVa3VSaG1Zd3JZVG9ZVTZDelJNVjlSZ3M5NUFBWEN1bzZsdUVDOXgxa0xHZXRXSmlyejdIQ20wdVREbnJsSThKNFl6bWxJVGUyeEc5bW9pZw?oc=5"
     }
   ],
   "bio": {
@@ -1071,9 +1071,15 @@
     },
     {
       "title": "NCT 127 Open 10th-Anniversary ‘Neo City: The Redline’ Tour With Sold-Out Seoul Run",
-      "outlet": "Billboard",
+      "outlet": "billboard.com",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEd2V0FNSEowOEtzeUx1RzVkQW9JZ0FpZTZmQTZQLXIzS09TMFYycGdDeTF5VkZqRVlLNmNNb1JCWVAxMm1PakFqTnhhdloyeFRuZ3MzenFYVDVZcDJQSzBXa1VxejNyaXZ2T3dBOEdmcDZrZDg3dFBka2hzbEpmaFJkYWJJN1BEcmY4VnIwWXQtOS1jWEZLam5ZNWhNOEFvakM5Tw?oc=5"
+    },
+    {
+      "title": "'Six Princes' NCT Wish Captivates Hong Kong, 'Proposing' to 20,000 Fans at Fan Meeting Tour Finale",
+      "outlet": "sportschosun.com",
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBteTJpeldQM25hQTlFWFFxblhMTll6TEd0NC01cHBpS2pENkh1WWQtWTFpRUVhS190R2R3OU5mN1BaY1FIT2NSRVZoNFBidzNvaWVETGxsNjVBaU5aVHpjdHI3U1N1Q1FpRUxpVElQT2M2YTRfbUp1YUJmcW9LZw?oc=5"
     },
     {
       "title": "NCT 127's 10th Anniversary: Breaking Boundaries with Passion...\"All Seven Members Will Unite on Stage Next Year\"",
@@ -1082,22 +1088,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05ZUFHTnJiSVpsV3pKZmVFTmhMZjc1TmhyNlY0aTVva1hwOGtTTXdlbThEWTZKeE5GUHJIN1NjZ3k4dHpUWEU3ZFZlbmI2ZjFmUmZqa2FLQ3RCQlk0Vnp5VUNsT04?oc=5"
     },
     {
-      "title": "'Six Princes' NCT Wish Captivates Hong Kong, 'Proposing' to 20,000 Fans at Fan Meeting Tour Finale",
-      "outlet": "스포츠조선",
+      "title": "NCT 127: \"Now that we're at our 10th anniversary, it's not such a big deal... Next year, all of NCT 127 will share one stage\"",
+      "outlet": "sportschosun.com",
       "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBteTJpeldQM25hQTlFWFFxblhMTll6TEd0NC01cHBpS2pENkh1WWQtWTFpRUVhS190R2R3OU5mN1BaY1FIT2NSRVZoNFBidzNvaWVETGxsNjVBaU5aVHpjdHI3U1N1Q1FpRUxpVElQT2M2YTRfbUp1YUJmcW9LZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3Y0dRNlFjeG1GZFNkeWkxS3BBVndQVUlzdGt4MEVKQ2xYVVV2STJZVG5IN0k0WHNWQjJiZ2ZEa1VBTEtRWmJZX2xPc0JraFpSd2JBQ0UtanduOVd3clRFSm9LZ0tNdENqS1pMWlRCalcxeGJQeHJfN25rZDN0QQ?oc=5"
     },
     {
       "title": "NCT 127 Shatters Limits in Sold-Out Seoul Concert Finale",
       "outlet": "조선일보",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVJmN2xHMmFwS3JXRTVxd0I1ZHFya2JIUzVGdy13Z2tLdHFEZHV4WGpoeXpGMzdNclNiQnVXa2lUZWVkQmxBNHMzNkhFU0Z3Ml9WTHQ4c3p6YTI1NGdvRkl5dm03c2QxSFZ4MGZEVHBsUWpXWGNRVXVYbW5lRDlYQ1pQNGs2dDRoU1Y5bTJ3?oc=5"
-    },
-    {
-      "title": "The Red-Hot Kickoff in Seoul: NCT 127 Ignites KSPO DOME with Massive Merch Queues for 'THE REDLINE' Tour",
-      "outlet": "kstyleseoul.co.kr",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nNUpiNkhST2ptbG9WZHAtaUpMRFhWWnI0bU55ZS10ME1HczFjSkUyX2xFODJhQ0hRLTU2RWRlTTN2SHNkVkNudXRIVGdCSXlvX3JqX2ZkWQ?oc=5"
     }
   ],
   "timeline": [
