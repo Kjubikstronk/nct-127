@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T17:18:10.016Z",
+  "generated": "2026-09-25T21:39:42.615Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -836,7 +836,7 @@
   "news": [
     {
       "title": "NCT 127 'Piñata+소방차 (Fire Truck)' @NCT 127 'NEO CITY : SEOUL – THE REDLINE'",
-      "outlet": "youtu.be",
+      "outlet": "YouTube",
       "date": "2026-09-24",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wQ0E5WE1tVko2R1NBWkVtWmIxT1JSc3EzOFpkMnZzQ3VOZ2ZZN3ZVLUNSOTA0NmI4OFBCX1JGR0VUYlBETUZPRWtWMzNCOS1Yb01TZXJKTkowa1Q0?oc=5"
     },
@@ -860,7 +860,7 @@
     },
     {
       "title": "NCT 127 begins world tour in Seoul with five members — Korea Herald",
-      "outlet": "UA.NEWS",
+      "outlet": "ua.news",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
     },
@@ -878,7 +878,7 @@
     },
     {
       "title": "NCT 127 Open 10th-Anniversary ‘Neo City: The Redline’ Tour With Sold-Out Seoul Run",
-      "outlet": "billboard.com",
+      "outlet": "Billboard",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEd2V0FNSEowOEtzeUx1RzVkQW9JZ0FpZTZmQTZQLXIzS09TMFYycGdDeTF5VkZqRVlLNmNNb1JCWVAxMm1PakFqTnhhdloyeFRuZ3MzenFYVDVZcDJQSzBXa1VxejNyaXZ2T3dBOEdmcDZrZDg3dFBka2hzbEpmaFJkYWJJN1BEcmY4VnIwWXQtOS1jWEZLam5ZNWhNOEFvakM5Tw?oc=5"
     },
@@ -895,16 +895,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05ZUFHTnJiSVpsV3pKZmVFTmhMZjc1TmhyNlY0aTVva1hwOGtTTXdlbThEWTZKeE5GUHJIN1NjZ3k4dHpUWEU3ZFZlbmI2ZjFmUmZqa2FLQ3RCQlk0Vnp5VUNsT04?oc=5"
     },
     {
-      "title": "NCT 127 Shatters Limits in Sold-Out Seoul Concert Finale",
-      "outlet": "조선일보",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVJmN2xHMmFwS3JXRTVxd0I1ZHFya2JIUzVGdy13Z2tLdHFEZHV4WGpoeXpGMzdNclNiQnVXa2lUZWVkQmxBNHMzNkhFU0Z3Ml9WTHQ4c3p6YTI1NGdvRkl5dm03c2QxSFZ4MGZEVHBsUWpXWGNRVXVYbW5lRDlYQ1pQNGs2dDRoU1Y5bTJ3?oc=5"
-    },
-    {
       "title": "'Military Service' Doyoung and Jung Woo Attend NCT 127 Concert... 'Chungseong' Salute and Surprise Rice-Cake Gift",
       "outlet": "스포츠조선",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tYlJOTE9iLUhpLWNOZWxtVk5CVER2R182UHZYT0JCYUUzczNtQ3Y1RkdvMlJXR1JGZlFIem9oQTAyMm5YMlNxZk1KMFZOU2tCVmlmVm9vZmo2d1dxdzdXTlJoR3VhVWs0OWQ2NmMtOU9CVm00TEhiNzAyTWF2UQ?oc=5"
+    },
+    {
+      "title": "NCT 127 Shatters Limits in Sold-Out Seoul Concert Finale",
+      "outlet": "조선일보",
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVJmN2xHMmFwS3JXRTVxd0I1ZHFya2JIUzVGdy13Z2tLdHFEZHV4WGpoeXpGMzdNclNiQnVXa2lUZWVkQmxBNHMzNkhFU0Z3Ml9WTHQ4c3p6YTI1NGdvRkl5dm03c2QxSFZ4MGZEVHBsUWpXWGNRVXVYbW5lRDlYQ1pQNGs2dDRoU1Y5bTJ3?oc=5"
     },
     {
       "title": "From 'Fire Truck' to 'Kick It'... NCT 127 Tears Up KSPO Dome with Rock Versions",
@@ -955,12 +955,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmZFRm1yejZZUUI4YXN6MS1TcFV5ZWtBb0J4LTlJdWxzX0ZtaFJwdXVZbjBsLTJLbF9WTVJwZjQ2VC1uOTNUTEY0dm04eFVMT0pmWi1QbHJSdm1MdDQwaXJPSTJhU0dleVEyQzAtM1FlRGp3N0xxR08wRjlZMWZENnB1a1RidjZ0YUZQZ0pGZWRGVU1mdktDM1VmQTZMZUFtQ0NHVFpnVUx6QdIBrwFBVV95cUxONFduTUw5bXNaY3JEakxVdEtFNFotNDlIdkttR0FUb3VKd25DbzBlNTY3SW5TOGFEaF9ta3kzY2dLcDVYZnhkaVRhX0xZOVRIRnNOeWhhTlA0bGozX0xOOHpCaGxXS1haakRYNjN6b21DWjJ2d1BnSXcyY01jWU5nS0RmUFBmMXk4c0xjMHlQaS1meUVfZkhfY2Mxbk5NWHNROWhrVk9IVHVHUm5hdUtj?oc=5"
     },
     {
-      "title": "Nct 127 open ‘The Redline’ in cinemas worldwide as Taeyong and Jaehyun return",
-      "outlet": "IMDb",
-      "date": "2026-09-19",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fcE45Q0hLR0dBVGxFcHY0UHpna2stamR5ZzRhY2thSURjV3JfYUYyQ2lXZnQ1eGtBREN6Y2xFZXBLSlJ3ZUdQLW0yRE5rcHc4S2JnY0ZNaGRzQ1liSWh4aA?oc=5"
-    },
-    {
       "title": "“Gods of Performance” NCT 127 Kicks Off Fifth Tour... A Festival Day for NCTzens",
       "outlet": "스포츠조선",
       "date": "2026-09-18",
@@ -971,6 +965,12 @@
       "outlet": "Aju Press",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrOVhFU25qVWpDYmwxanJhNC1rZnh6N01EeXBHblJHcFVxaWJlQy1Vc0VabkR3b2VjdEw4cVk1WDhPREJSVlpMakdrd2xQRWJFX05RUmZHczlMZ2_SAVdBVV95cUxNamZGNGtuRk96YUFKaUlKZEl4cXA0STBUaUhFVEVNTFlrWGhBd01mQlNxenVWal81MGtrRGpxckhTQW9TV2pvWS1aV3Z3ZzFSSXFHbFNXZzg?oc=5"
+    },
+    {
+      "title": "NCT 127 open ‘The Redline’ in cinemas worldwide as Taeyong and Jaehyun return",
+      "outlet": "Martin Cid Magazine",
+      "date": "2026-09-18",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObUdxRnRBRGoxTXQwbGtHYS1VdFRYSzR1MnJGTGhRa0FyX0NQRi1CWlRwckx0bnhNaWMxVHhfeGlYSGRVa3VSaG1Zd3JZVG9ZVTZDelJNVjlSZ3M5NUFBWEN1bzZsdUVDOXgxa0xHZXRXSmlyejdIQ20wdVREbnJsSThKNFl6bWxJVGUyeEc5bW9pZw?oc=5"
     },
     {
       "title": "[알림] NCT 127 The 7th Album [BLINGY] POP-UP OFFICIAL MERCHANDISE SALES DETAILS",
@@ -1065,13 +1065,13 @@
   "tourNews": [
     {
       "title": "NCT 127 begins world tour in Seoul with five members — Korea Herald",
-      "outlet": "UA.NEWS",
+      "outlet": "ua.news",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
     },
     {
       "title": "NCT 127 Open 10th-Anniversary ‘Neo City: The Redline’ Tour With Sold-Out Seoul Run",
-      "outlet": "billboard.com",
+      "outlet": "Billboard",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEd2V0FNSEowOEtzeUx1RzVkQW9JZ0FpZTZmQTZQLXIzS09TMFYycGdDeTF5VkZqRVlLNmNNb1JCWVAxMm1PakFqTnhhdloyeFRuZ3MzenFYVDVZcDJQSzBXa1VxejNyaXZ2T3dBOEdmcDZrZDg3dFBka2hzbEpmaFJkYWJJN1BEcmY4VnIwWXQtOS1jWEZLam5ZNWhNOEFvakM5Tw?oc=5"
     },
