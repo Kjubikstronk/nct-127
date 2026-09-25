@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T05:04:44.831Z",
+  "generated": "2026-09-25T11:58:17.178Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,27 @@
   ],
   "videos": [
     {
+      "id": "alDkJRIaotU",
+      "title": "Back in the town #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-09-25",
+      "url": "https://www.youtube.com/watch?v=alDkJRIaotU",
+      "thumb": "https://i2.ytimg.com/vi/alDkJRIaotU/hqdefault.jpg"
+    },
+    {
+      "id": "zjz0LPW0tGE",
+      "title": "I tried #JAEHYUN #NCT #NCT127",
+      "date": "2026-09-25",
+      "url": "https://www.youtube.com/watch?v=zjz0LPW0tGE",
+      "thumb": "https://i3.ytimg.com/vi/zjz0LPW0tGE/hqdefault.jpg"
+    },
+    {
+      "id": "H_gkW-gVs3g",
+      "title": "back in Milan #JAEHYUN #NCT #NCT127",
+      "date": "2026-09-25",
+      "url": "https://www.youtube.com/watch?v=H_gkW-gVs3g",
+      "thumb": "https://i1.ytimg.com/vi/H_gkW-gVs3g/hqdefault.jpg"
+    },
+    {
       "id": "-pS-3jcJzD4",
       "title": "NCT 127 'Piñata+소방차 (Fire Truck)' @NCT 127 'NEO CITY : SEOUL – THE REDLINE'",
       "date": "2026-09-24",
@@ -810,27 +831,6 @@
       "date": "2026-09-14",
       "url": "https://www.youtube.com/watch?v=1d_M9R-SySs",
       "thumb": "https://i2.ytimg.com/vi/1d_M9R-SySs/hqdefault.jpg"
-    },
-    {
-      "id": "NoS-OtB6f1E",
-      "title": "NCT 127 ‘I mean, It’s about time’ Trailer Video Behind the scenes",
-      "date": "2026-09-13",
-      "url": "https://www.youtube.com/watch?v=NoS-OtB6f1E",
-      "thumb": "https://i3.ytimg.com/vi/NoS-OtB6f1E/hqdefault.jpg"
-    },
-    {
-      "id": "7BVvQeJt1EU",
-      "title": "Cover | DOYOUNG - 운이 좋았지 (I got lucky) (권진아 (Kwon Jin Ah))",
-      "date": "2026-09-13",
-      "url": "https://www.youtube.com/watch?v=7BVvQeJt1EU",
-      "thumb": "https://i4.ytimg.com/vi/7BVvQeJt1EU/hqdefault.jpg"
-    },
-    {
-      "id": "HaeZ21z0RcM",
-      "title": "˗ˏˋ ꒰더위도 날려버린 툥터밤🌊꒱ ˎˊ˗ | WATERBOMB SEOUL 2026 Behind",
-      "date": "2026-09-12",
-      "url": "https://www.youtube.com/watch?v=HaeZ21z0RcM",
-      "thumb": "https://i1.ytimg.com/vi/HaeZ21z0RcM/hqdefault.jpg"
     }
   ],
   "news": [
@@ -838,7 +838,7 @@
       "title": "NCT 127 'Piñata+소방차 (Fire Truck)' @NCT 127 'NEO CITY : SEOUL – THE REDLINE'",
       "outlet": "YouTube",
       "date": "2026-09-24",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CN2FyalBJVjlXb2pfTElLX05RVWE1WFI1d3Jmb3FnQ3NMTDBiZ3hiMmNCOXNTZVo5X1g1eWp2dUc3Ry1vdmUxN1RJQkJkcEs1aWp2ekxhMDV0d2lZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wQ0E5WE1tVko2R1NBWkVtWmIxT1JSc3EzOFpkMnZzQ3VOZ2ZZN3ZVLUNSOTA0NmI4OFBCX1JGR0VUYlBETUZPRWtWMzNCOS1Yb01TZXJKTkowa1Q0?oc=5"
     },
     {
       "title": "Mega MGC Coffee to hold NCT 127 fan signing event for group's 10th anniversary",
@@ -866,7 +866,7 @@
     },
     {
       "title": "NCT 127’s Johnny on Korean Saunas: ‘I Don’t Want to See You Naked'",
-      "outlet": "Yahoo",
+      "outlet": "yahoo.com",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDgtRmM2VllpbVZUdjFFc1VIS3BCY2FmZTFhQlRkcmJISTBxX1JxVmpWa2hwQWwxajJsWXVTVWFMSDh0UTlzNTF0VmhxNTFFdndjMURsY3NMMzRZdS1qNFVGTF9VTVI1ZEFPeWFpc3dkaXdrbDFBejFMc2xlLUpGdUFwai1YTHd5TmtmVFBPNjE1M3VKYkVSVk1n?oc=5"
     },
@@ -913,16 +913,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tYlJOTE9iLUhpLWNOZWxtVk5CVER2R182UHZYT0JCYUUzczNtQ3Y1RkdvMlJXR1JGZlFIem9oQTAyMm5YMlNxZk1KMFZOU2tCVmlmVm9vZmo2d1dxdzdXTlJoR3VhVWs0OWQ2NmMtOU9CVm00TEhiNzAyTWF2UQ?oc=5"
     },
     {
-      "title": "From 'Fire Truck' to 'Kick It'... NCT 127 Tears Up KSPO Dome with Rock Versions",
-      "outlet": "sportschosun.com",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4ZEFUeVc4TnAwZ0FVMl9pN2RQZ0g4ZFluTWV4bkJDS2JOTk5PUlo5ZDA2SUk4WExHNWxxdDBvN0xXVms4T3J2UjduZWgzMW5WYS1IQ0pBaEpSaldVczBBS0NIR2lnTFN6WVlKOUhTQnFRbmktRlFjZm1RVUx4Zw?oc=5"
-    },
-    {
       "title": "The Red-Hot Kickoff in Seoul: NCT 127 Ignites KSPO DOME with Massive Merch Queues for 'THE REDLINE' Tour",
       "outlet": "kstyleseoul.co.kr",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nNUpiNkhST2ptbG9WZHAtaUpMRFhWWnI0bU55ZS10ME1HczFjSkUyX2xFODJhQ0hRLTU2RWRlTTN2SHNkVkNudXRIVGdCSXlvX3JqX2ZkWQ?oc=5"
+    },
+    {
+      "title": "From 'Fire Truck' to 'Kick It'... NCT 127 Tears Up KSPO Dome with Rock Versions",
+      "outlet": "sportschosun.com",
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4ZEFUeVc4TnAwZ0FVMl9pN2RQZ0g4ZFluTWV4bkJDS2JOTk5PUlo5ZDA2SUk4WExHNWxxdDBvN0xXVms4T3J2UjduZWgzMW5WYS1IQ0pBaEpSaldVczBBS0NIR2lnTFN6WVlKOUhTQnFRbmktRlFjZm1RVUx4Zw?oc=5"
     },
     {
       "title": "The “One Team” Races On to Fill the Gaps... NCT 127 Breaks Through “THE REDLINE” with 10 Years of History (Comprehensive)",
@@ -931,16 +931,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GOUpFbEpzOWVzcFNWUFo1MzY1Qk9qTHVsTUxsdkZSOEw1VHFMSFhIVDZoc3daLU1ZOTNWRTgtY0l1ZGFiQk91M21KUEZWVG9TbnBSRG1GY3NqWmRHMHFQZTJGcFRUQ2w5OW05TzhFRjVpc1o5ZEJTX1NvVkNSZw?oc=5"
     },
     {
-      "title": "NCT 127 Rocks KSPO Dome With Sold-Out Rock Concert",
-      "outlet": "조선일보",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWhJSjF0UVlyS0hEdjB2Y2RXNlVrQ3lqZWtUVmVfMVdBN01fSnRBaS1mZzU4LUtabklhY0JONHFaNVNXREZhWHYwYVR1UU4tLUhHME0zM29aLXV3UUdvOVlFb0VWclNOSkx2SUs0ejlGSmhBWEo2V2plWGFoSTJlVHRMQnBYenV2TTJDZWZR?oc=5"
-    },
-    {
       "title": "NCT 127: \"Now that we're at our 10th anniversary, it's not such a big deal... Next year, all of NCT 127 will share one stage\"",
       "outlet": "sportschosun.com",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3Y0dRNlFjeG1GZFNkeWkxS3BBVndQVUlzdGt4MEVKQ2xYVVV2STJZVG5IN0k0WHNWQjJiZ2ZEa1VBTEtRWmJZX2xPc0JraFpSd2JBQ0UtanduOVd3clRFSm9LZ0tNdENqS1pMWlRCalcxeGJQeHJfN25rZDN0QQ?oc=5"
+    },
+    {
+      "title": "NCT 127 Rocks KSPO Dome With Sold-Out Rock Concert",
+      "outlet": "조선일보",
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWhJSjF0UVlyS0hEdjB2Y2RXNlVrQ3lqZWtUVmVfMVdBN01fSnRBaS1mZzU4LUtabklhY0JONHFaNVNXREZhWHYwYVR1UU4tLUhHME0zM29aLXV3UUdvOVlFb0VWclNOSkx2SUs0ejlGSmhBWEo2V2plWGFoSTJlVHRMQnBYenV2TTJDZWZR?oc=5"
     },
     {
       "title": "Military-Serving Doyoung, Jungwoo Surprise NCT 127's Final Concert",
