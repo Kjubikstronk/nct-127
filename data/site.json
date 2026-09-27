@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T12:11:25.268Z",
+  "generated": "2026-09-27T17:02:55.440Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -728,6 +728,20 @@
   ],
   "videos": [
     {
+      "id": "RWXZrcPW8oE",
+      "title": "Hulk Smash! #JOHNNY #TAEYONG #NCT127 #127VIBE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-09-27",
+      "url": "https://www.youtube.com/watch?v=RWXZrcPW8oE",
+      "thumb": "https://i3.ytimg.com/vi/RWXZrcPW8oE/hqdefault.jpg"
+    },
+    {
+      "id": "jIvTxAEhZ9Q",
+      "title": "💚햇살 아래 달리는 𝑅𝑜𝒶𝒹 𝒯𝓇𝒾𝓅 𝒾𝓃 𝐿𝒜 𝓌𝒾𝓉𝒽 우리칠🚗💨 | 127 VIBE EP.29 ❪로드트립 in LA❫",
+      "date": "2026-09-27",
+      "url": "https://www.youtube.com/watch?v=jIvTxAEhZ9Q",
+      "thumb": "https://i3.ytimg.com/vi/jIvTxAEhZ9Q/hqdefault.jpg"
+    },
+    {
       "id": "O0W_4h0A7ZI",
       "title": "Ay what’s up Seoul #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
       "date": "2026-09-27",
@@ -817,20 +831,6 @@
       "date": "2026-09-17",
       "url": "https://www.youtube.com/watch?v=okEUE1TMfCc",
       "thumb": "https://i4.ytimg.com/vi/okEUE1TMfCc/hqdefault.jpg"
-    },
-    {
-      "id": "U4nfBMTw8CI",
-      "title": "NCT 127 5TH TOUR 'NEO CITY – THE REDLINE' Official Trailer",
-      "date": "2026-09-17",
-      "url": "https://www.youtube.com/watch?v=U4nfBMTw8CI",
-      "thumb": "https://i2.ytimg.com/vi/U4nfBMTw8CI/hqdefault.jpg"
-    },
-    {
-      "id": "_85d3yLrq54",
-      "title": "⟡˙⋆ 🍑인간 복숭아의 럭셔리 모먼트🍑⋆˙⟡ | CREED Aventus Collection in Shanghai & Allure Korea Photoshoot Behind",
-      "date": "2026-09-16",
-      "url": "https://www.youtube.com/watch?v=_85d3yLrq54",
-      "thumb": "https://i4.ytimg.com/vi/_85d3yLrq54/hqdefault.jpg"
     }
   ],
   "news": [
@@ -860,7 +860,7 @@
     },
     {
       "title": "NCT 127 begins world tour in Seoul with five members — Korea Herald",
-      "outlet": "ua.news",
+      "outlet": "UA.NEWS",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
     },
@@ -895,6 +895,12 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3Y0dRNlFjeG1GZFNkeWkxS3BBVndQVUlzdGt4MEVKQ2xYVVV2STJZVG5IN0k0WHNWQjJiZ2ZEa1VBTEtRWmJZX2xPc0JraFpSd2JBQ0UtanduOVd3clRFSm9LZ0tNdENqS1pMWlRCalcxeGJQeHJfN25rZDN0QQ?oc=5"
     },
     {
+      "title": "The “One Team” Races On to Fill the Gaps... NCT 127 Breaks Through “THE REDLINE” with 10 Years of History (Comprehensive)",
+      "outlet": "스포츠조선",
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GOUpFbEpzOWVzcFNWUFo1MzY1Qk9qTHVsTUxsdkZSOEw1VHFMSFhIVDZoc3daLU1ZOTNWRTgtY0l1ZGFiQk91M21KUEZWVG9TbnBSRG1GY3NqWmRHMHFQZTJGcFRUQ2w5OW05TzhFRjVpc1o5ZEJTX1NvVkNSZw?oc=5"
+    },
+    {
       "title": "NCT 127 Rocks KSPO Dome With Sold-Out Rock Concert",
       "outlet": "조선일보",
       "date": "2026-09-20",
@@ -905,12 +911,6 @@
       "outlet": "조선일보",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGZkOE5pTEo5WEtXb2NzTEVBZlowUl9kZkZ4aUFaeHlUNV91SjQ5MHNuT0ZBQnNDSE1GN24zYkMyQkoxNk5VTXNFSFYtbTlsMmdRLVNBa0IwSEk5VFZaamZDNmxHMzFmajFnbWdPX3VVbXNNSmozclQ4SENLZktlQVJXMUxVNWxBN2tZeDRB?oc=5"
-    },
-    {
-      "title": "The “One Team” Races On to Fill the Gaps... NCT 127 Breaks Through “THE REDLINE” with 10 Years of History (Comprehensive)",
-      "outlet": "스포츠조선",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GOUpFbEpzOWVzcFNWUFo1MzY1Qk9qTHVsTUxsdkZSOEw1VHFMSFhIVDZoc3daLU1ZOTNWRTgtY0l1ZGFiQk91M21KUEZWVG9TbnBSRG1GY3NqWmRHMHFQZTJGcFRUQ2w5OW05TzhFRjVpc1o5ZEJTX1NvVkNSZw?oc=5"
     },
     {
       "title": "NCT 127's NEO Shatters Red Line",
@@ -1065,7 +1065,7 @@
   "tourNews": [
     {
       "title": "NCT 127 begins world tour in Seoul with five members — Korea Herald",
-      "outlet": "ua.news",
+      "outlet": "UA.NEWS",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
     },
