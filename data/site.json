@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T05:41:04.981Z",
+  "generated": "2026-09-30T12:44:55.971Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,20 @@
   ],
   "videos": [
     {
+      "id": "SirltBLUXfg",
+      "title": "hello? #JOHNNY #NCT #NCT127",
+      "date": "2026-09-30",
+      "url": "https://www.youtube.com/watch?v=SirltBLUXfg",
+      "thumb": "https://i4.ytimg.com/vi/SirltBLUXfg/hqdefault.jpg"
+    },
+    {
+      "id": "XWir320XkCk",
+      "title": "Santé ! #JOHNNY #NCT #NCT127",
+      "date": "2026-09-29",
+      "url": "https://www.youtube.com/watch?v=XWir320XkCk",
+      "thumb": "https://i1.ytimg.com/vi/XWir320XkCk/hqdefault.jpg"
+    },
+    {
       "id": "3Zy-U2GKELs",
       "title": "quaso 🥐 #JOHNNY #NCT #NCT127",
       "date": "2026-09-29",
@@ -833,20 +847,6 @@
       "date": "2026-09-23",
       "url": "https://www.youtube.com/watch?v=EtskC0ki6P0",
       "thumb": "https://i2.ytimg.com/vi/EtskC0ki6P0/hqdefault.jpg"
-    },
-    {
-      "id": "ml_41O8_DSM",
-      "title": "*.˚ ༘♡우리칠 & MEGA MGC COFFEE🥤🥐*.˚ ༘♡ | MEGA MGC COFFEE Behind",
-      "date": "2026-09-23",
-      "url": "https://www.youtube.com/watch?v=ml_41O8_DSM",
-      "thumb": "https://i2.ytimg.com/vi/ml_41O8_DSM/hqdefault.jpg"
-    },
-    {
-      "id": "1ylKEdvXYCk",
-      "title": "THIS IS THE REDLINE #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
-      "date": "2026-09-22",
-      "url": "https://www.youtube.com/watch?v=1ylKEdvXYCk",
-      "thumb": "https://i2.ytimg.com/vi/1ylKEdvXYCk/hqdefault.jpg"
     }
   ],
   "news": [
@@ -858,7 +858,7 @@
     },
     {
       "title": "NCT 127, NCT DREAM, ATEEZ, and TWS to Join Melon Music Awards Lineup",
-      "outlet": "asiae.co.kr",
+      "outlet": "아시아경제",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHNScHBSZ0NvXy0zeEJYdHJvM1ZnQVNodWh0YzJXSGthRXotVXhrVUxJcW1LTkdnRDV0MzBOMEdRYlpvTzRwQjZVVThtN2k3TXBnTGdGVFdJSXhpNlc5QzA5WkI1dGl5aFpLYTQyRmpENG8tSlR3dlVSWmxtMmk0VDh0UkNyUQ?oc=5"
     },
@@ -887,16 +887,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjFXMTlFeUk5ZGZieG1IZ1lSMUk0Sy1TSlFkcFA1aVhMbHc2cDMtbHB0Nmx0RzAwNExSVEhrR1RJOUZ5SmtFaVRVd0R3TWJRemRVdzFNUTlieFRnaTM2WG9QdEdhSDlTWFR4WXBTMlQzb2NXYmxDdDlPOUdWdzIwRFhwcVFxdW5tV1FkYW93ZnlsdVVaUExpNlVKeDRDNXZOT3lfZmdpVmxWUQ?oc=5"
     },
     {
+      "title": "NCT 127 opens world tour in Seoul with five members",
+      "outlet": "UA.NEWS",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
+    },
+    {
       "title": "NCT 127's TAEYONG, Allday Project's BAILEY Choose Final Directors Tonight",
       "outlet": "조선일보",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVV1UnlXZllfdDY3QmhKUFhqYk9lREtqRUNjYVV4cVJsWmhNeFE0cVU0eDFWR1pwNFp4b3UxNGNiVzFwT0ZTUEpJcW1xSnVJc0F2TXd5SW1RNmF6VGJtWnBoN05YNnRqcUJUbzltUVVpQUVXZEFwSFg0OUlRV0dEeHpBU1ZSVlVuN3dtQmR3?oc=5"
-    },
-    {
-      "title": "NCT 127 begins world tour in Seoul with five members — Korea Herald",
-      "outlet": "UA.NEWS",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
     },
     {
       "title": "NCT 127’s Johnny on Korean Saunas: ‘I Don’t Want to See You Naked'",
@@ -960,7 +960,7 @@
     },
     {
       "title": "[REVIEW] NCT 127 makes missing members part of Seoul show",
-      "outlet": "koreatimes.co.kr",
+      "outlet": "The Korea Times",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmZFRm1yejZZUUI4YXN6MS1TcFV5ZWtBb0J4LTlJdWxzX0ZtaFJwdXVZbjBsLTJLbF9WTVJwZjQ2VC1uOTNUTEY0dm04eFVMT0pmWi1QbHJSdm1MdDQwaXJPSTJhU0dleVEyQzAtM1FlRGp3N0xxR08wRjlZMWZENnB1a1RidjZ0YUZQZ0pGZWRGVU1mdktDM1VmQTZMZUFtQ0NHVFpnVUx6QdIBrwFBVV95cUxONFduTUw5bXNaY3JEakxVdEtFNFotNDlIdkttR0FUb3VKd25DbzBlNTY3SW5TOGFEaF9ta3kzY2dLcDVYZnhkaVRhX0xZOVRIRnNOeWhhTlA0bGozX0xOOHpCaGxXS1haakRYNjN6b21DWjJ2d1BnSXcyY01jWU5nS0RmUFBmMXk4c0xjMHlQaS1meUVfZkhfY2Mxbk5NWHNROWhrVk9IVHVHUm5hdUtj?oc=5"
     },
@@ -972,7 +972,7 @@
     },
     {
       "title": "[알림] NCT 127 The 7th Album [BLINGY] POP-UP OFFICIAL MERCHANDISE SALES DETAILS",
-      "outlet": "Weverse",
+      "outlet": "weverse.io",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPZ1dMWWZCRFdDVjV3ZUoxeFZOQ0FPX1VwdExKbGdKUGZELTdXWTlUVTAzWGFpNS0zdEJJMlE1SXk2WHdWakhxSFVZbURvd2NOS0tWMnlOaw?oc=5"
     },
@@ -1081,7 +1081,7 @@
   "tourNews": [
     {
       "title": "NCT 127, NCT DREAM, ATEEZ, and TWS to Join Melon Music Awards Lineup",
-      "outlet": "asiae.co.kr",
+      "outlet": "아시아경제",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHNScHBSZ0NvXy0zeEJYdHJvM1ZnQVNodWh0YzJXSGthRXotVXhrVUxJcW1LTkdnRDV0MzBOMEdRYlpvTzRwQjZVVThtN2k3TXBnTGdGVFdJSXhpNlc5QzA5WkI1dGl5aFpLYTQyRmpENG8tSlR3dlVSWmxtMmk0VDh0UkNyUQ?oc=5"
     },
@@ -1098,7 +1098,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ySnVCQlNxbHJ5YW1VZUVLVUczOUdaSk9tSFFPVENnY0dGZ0h6cjF4cGg5SmZ0YW1SSXJCcG56REhuY19MR3Bidlk3SHFscVpwNWQ4ZENrR1p6TV9a?oc=5"
     },
     {
-      "title": "NCT 127 begins world tour in Seoul with five members — Korea Herald",
+      "title": "NCT 127 opens world tour in Seoul with five members",
       "outlet": "UA.NEWS",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
