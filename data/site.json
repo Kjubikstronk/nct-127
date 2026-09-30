@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T22:22:20.278Z",
+  "generated": "2026-09-30T05:41:04.981Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -10,7 +10,7 @@
   "stats": {
     "yearsSinceDebut": 10,
     "memberCount": 7,
-    "releaseCount": 38,
+    "releaseCount": 39,
     "albumCount": 11
   },
   "latest": {
@@ -30,6 +30,22 @@
     "year": "2026"
   },
   "releases": [
+    {
+      "id": "itunes-6815143021",
+      "title": "iScreaM Vol.41 : Blingy Remixes - Single",
+      "date": "2026-09-30",
+      "trackCount": 3,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/6f/2d/1b6f2dbd-1c31-0e2a-ca1e-4f0a3d6b85dd/888735956812_Cover.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/6f/2d/1b6f2dbd-1c31-0e2a-ca1e-4f0a3d6b85dd/888735956812_Cover.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/iscream-vol-41-blingy-remixes-single/6815143021?uo=4",
+      "copyright": "℗ 2026 SM Entertainment, ScreaM Records",
+      "genre": "K-Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/1101965072",
+      "kind": "Remix",
+      "year": "2026"
+    },
     {
       "id": "itunes-6798956146",
       "title": "BLINGY - The 7th Album",
@@ -835,10 +851,34 @@
   ],
   "news": [
     {
+      "title": "“MMA2026” Unveils Third Lineup... NCT 127 to ATEEZ Set to Take the Stage",
+      "outlet": "매일경제",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qRkxrRVF6bzFCQTZycWFDUkRaZjB3enZSRlpQTTRvNGVjWWc4ZGVPeHNVMGN5REV3cktzNFZ0M1NVYmlaaDhZVnV6dW5fQXZm?oc=5"
+    },
+    {
+      "title": "NCT 127, NCT DREAM, ATEEZ, and TWS to Join Melon Music Awards Lineup",
+      "outlet": "asiae.co.kr",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHNScHBSZ0NvXy0zeEJYdHJvM1ZnQVNodWh0YzJXSGthRXotVXhrVUxJcW1LTkdnRDV0MzBOMEdRYlpvTzRwQjZVVThtN2k3TXBnTGdGVFdJSXhpNlc5QzA5WkI1dGl5aFpLYTQyRmpENG8tSlR3dlVSWmxtMmk0VDh0UkNyUQ?oc=5"
+    },
+    {
+      "title": "NCT 127, NCT Dream to ATEEZ and TWENTY FOUR SEVEN WITH US (TWS)... K-pop's Generational Shift Set to Explode at Gocheok Sky Dome",
+      "outlet": "매일경제",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUl2VVJNOVdZRVBPNUhsNHdCM1hGZThwNXNiNXNGZDBZNE5WMHRHMnAwTlF3N2FibnpzLWtnV1FwcVBEeEMtTFRDZ0JuNVVoNTFhTHhn?oc=5"
+    },
+    {
       "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' Recap Video",
       "outlet": "YouTube",
       "date": "2026-09-29",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lY01LWnZxUVF4UjNPNUJNdWN3QzBFTzJ3M0dGT3JyU1RRYkRVU3RBaGktUDNNcGNPckUwMW9HbGExaDRYckJ2MlFiT1FrbGxaZW52S3pfcGVfNW5C?oc=5"
+    },
+    {
+      "title": "ATEEZ, NCT 127, NCT DREAM and TWS Join 2026 MelOn Music Awards Lineup",
+      "outlet": "inmusicblog.com",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONnhzMEphSDB0c2JuQXB1TGt2bnU1VWQ3bEZ4NzR4ZDdoLXR5QmNXME5aZXZVR2NsRXhEelE1LWE5MjdocFNJZ2JxZFdoSjhZNGlRUFdEVmx1NHlUdkFRcmphWXIzY3pCb3QwUE1GUmp1dlMyMHdaNHhrVWpEdUVhd3dpRkFRZw?oc=5"
     },
     {
       "title": "NCT 127 Celebrates 10th Anniversary Year With Massive Sold-Out Seoul Opener",
@@ -872,7 +912,7 @@
     },
     {
       "title": "NCT 127 proves its strength as five while awaiting full-group return",
-      "outlet": "koreaherald.com",
+      "outlet": "The Korea Herald",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XcnR4OENSNklLMTl1ZjhfZm9ZS3NtdmRjQ0M4ZnF4NUtrTWRoYXk1OUdNT1MxaUYzQnlDbFEwV1hBOFBTd09sc1NDNGZhbXdoXzhFaV9pSQ?oc=5"
     },
@@ -920,7 +960,7 @@
     },
     {
       "title": "[REVIEW] NCT 127 makes missing members part of Seoul show",
-      "outlet": "The Korea Times",
+      "outlet": "koreatimes.co.kr",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmZFRm1yejZZUUI4YXN6MS1TcFV5ZWtBb0J4LTlJdWxzX0ZtaFJwdXVZbjBsLTJLbF9WTVJwZjQ2VC1uOTNUTEY0dm04eFVMT0pmWi1QbHJSdm1MdDQwaXJPSTJhU0dleVEyQzAtM1FlRGp3N0xxR08wRjlZMWZENnB1a1RidjZ0YUZQZ0pGZWRGVU1mdktDM1VmQTZMZUFtQ0NHVFpnVUx6QdIBrwFBVV95cUxONFduTUw5bXNaY3JEakxVdEtFNFotNDlIdkttR0FUb3VKd25DbzBlNTY3SW5TOGFEaF9ta3kzY2dLcDVYZnhkaVRhX0xZOVRIRnNOeWhhTlA0bGozX0xOOHpCaGxXS1haakRYNjN6b21DWjJ2d1BnSXcyY01jWU5nS0RmUFBmMXk4c0xjMHlQaS1meUVfZkhfY2Mxbk5NWHNROWhrVk9IVHVHUm5hdUtj?oc=5"
     },
@@ -953,30 +993,6 @@
       "outlet": "en.koreaportal.com",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTVPaG5pSnhWdFlsejRMMWRNcjlmYXRaSnIxTC1Cc2JPUUhYcmx6QlR1ZVo3akk3UnRPekFObDJwSFgzRTRZMURVYjlhMzBmLXJ0NWZYVjdnNVhUY2h0c1ljc3JDNWZTNy1sQ3BpN1BVYkNvYllaNkl3OXFFZFlKSVNlTFBmOVR6ZkhaRGVWRkE0a2FQNlE3bk5ia3dDTkRG?oc=5"
-    },
-    {
-      "title": "Choose noise: NCT 127’s ‘BLINGY’ era is their best yet",
-      "outlet": "United By Pop",
-      "date": "2026-09-08",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDlBUGdhdFJzUzQ2QU5hbmxYOEo0bVRFOF9Id25wdktaUjlhR2FrbDVhNXpRR1J5cF9sdHBxWWRTQTZGZ0NxQmQ1NHdlN3hHaExNZlI4dGhGb0xQS3drNkt0OG9mQlQycTNCUVpsa2FnSGZ6a3hwSEFqWWZ2R2U0VEs0MA?oc=5"
-    },
-    {
-      "title": "SM faces backlash after former NCT member Taeil’s outfit sold at charity flea market",
-      "outlet": "koreaherald.com",
-      "date": "2026-09-07",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBicC1tM3llblpaeWNqT0NWZUM5c3RfS29vRzlmRGtFTEFNNi1QLW1hX0FZY0NkWlBmMzAyN2R4dHZERHRPVlgxazVjc2d5VXphSHkxLW9Sdw?oc=5"
-    },
-    {
-      "title": "Weverse NCT 127 Media - NCT 127 'Piñata'",
-      "outlet": "Weverse",
-      "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hbWgwUVo1T25LcXJ2a0hDXzE5c0xiX0d4Qkk0QUUtYUV3S2ExNnY1c2VDRzhqV1dnMUVjVXVOcjJOekhvdWxodk5LUHdueU9Sa2pkNklR?oc=5"
-    },
-    {
-      "title": "‘NCT 127 Is Back’: K-Pop’s Mavericks Talk Contract Renewals & Being Uncompromising in Their ‘Neo’ Sound",
-      "outlet": "Billboard",
-      "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02eU5JR2laaHpZLUJNOXVvX0l4Zk9WQlZMYzZRM0ZpMmhGeGVNZEFvOUZQRHJrZGw0WWtFbVV1YjRQWnJRVkNCSi1DbnFIWWUtQVVCSFI5YlpxbXBETFRicWp1dFJFaGRSMG5WQi1fWmJzb3hoN0VLU1prYw?oc=5"
     }
   ],
   "bio": {
@@ -1064,10 +1080,22 @@
   },
   "tourNews": [
     {
+      "title": "NCT 127, NCT DREAM, ATEEZ, and TWS to Join Melon Music Awards Lineup",
+      "outlet": "asiae.co.kr",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHNScHBSZ0NvXy0zeEJYdHJvM1ZnQVNodWh0YzJXSGthRXotVXhrVUxJcW1LTkdnRDV0MzBOMEdRYlpvTzRwQjZVVThtN2k3TXBnTGdGVFdJSXhpNlc5QzA5WkI1dGl5aFpLYTQyRmpENG8tSlR3dlVSWmxtMmk0VDh0UkNyUQ?oc=5"
+    },
+    {
+      "title": "ATEEZ, NCT 127, NCT DREAM and TWS Join 2026 MelOn Music Awards Lineup",
+      "outlet": "inmusicblog.com",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONnhzMEphSDB0c2JuQXB1TGt2bnU1VWQ3bEZ4NzR4ZDdoLXR5QmNXME5aZXZVR2NsRXhEelE1LWE5MjdocFNJZ2JxZFdoSjhZNGlRUFdEVmx1NHlUdkFRcmphWXIzY3pCb3QwUE1GUmp1dlMyMHdaNHhrVWpEdUVhd3dpRkFRZw?oc=5"
+    },
+    {
       "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' Recap Video",
       "outlet": "YouTube",
       "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lY01LWnZxUVF4UjNPNUJNdWN3QzBFTzJ3M0dGT3JyU1RRYkRVU3RBaGktUDNNcGNPckUwMW9HbGExaDRYckJ2MlFiT1FrbGxaZW52S3pfcGVfNW5C?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ySnVCQlNxbHJ5YW1VZUVLVUczOUdaSk9tSFFPVENnY0dGZ0h6cjF4cGg5SmZ0YW1SSXJCcG56REhuY19MR3Bidlk3SHFscVpwNWQ4ZENrR1p6TV9a?oc=5"
     },
     {
       "title": "NCT 127 begins world tour in Seoul with five members — Korea Herald",
@@ -1086,18 +1114,6 @@
       "outlet": "스포츠조선",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3Y0dRNlFjeG1GZFNkeWkxS3BBVndQVUlzdGt4MEVKQ2xYVVV2STJZVG5IN0k0WHNWQjJiZ2ZEa1VBTEtRWmJZX2xPc0JraFpSd2JBQ0UtanduOVd3clRFSm9LZ0tNdENqS1pMWlRCalcxeGJQeHJfN25rZDN0QQ?oc=5"
-    },
-    {
-      "title": "NCT 127 Shatters Limits in Sold-Out Seoul Concert Finale",
-      "outlet": "조선일보",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVJmN2xHMmFwS3JXRTVxd0I1ZHFya2JIUzVGdy13Z2tLdHFEZHV4WGpoeXpGMzdNclNiQnVXa2lUZWVkQmxBNHMzNkhFU0Z3Ml9WTHQ4c3p6YTI1NGdvRkl5dm03c2QxSFZ4MGZEVHBsUWpXWGNRVXVYbW5lRDlYQ1pQNGs2dDRoU1Y5bTJ3?oc=5"
-    },
-    {
-      "title": "'Military Service' Doyoung and Jung Woo Attend NCT 127 Concert... 'Chungseong' Salute and Surprise Rice-Cake Gift",
-      "outlet": "스포츠조선",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tYlJOTE9iLUhpLWNOZWxtVk5CVER2R182UHZYT0JCYUUzczNtQ3Y1RkdvMlJXR1JGZlFIem9oQTAyMm5YMlNxZk1KMFZOU2tCVmlmVm9vZmo2d1dxdzdXTlJoR3VhVWs0OWQ2NmMtOU9CVm00TEhiNzAyTWF2UQ?oc=5"
     }
   ],
   "timeline": [
