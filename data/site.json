@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T06:06:40.336Z",
+  "generated": "2026-10-01T13:29:19.528Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,13 @@
   ],
   "videos": [
     {
+      "id": "wODQEkHofy0",
+      "title": "upside down #AcneStudios #NCT #JOHNNY",
+      "date": "2026-10-01",
+      "url": "https://www.youtube.com/watch?v=wODQEkHofy0",
+      "thumb": "https://i4.ytimg.com/vi/wODQEkHofy0/hqdefault.jpg"
+    },
+    {
       "id": "QAUoB6z8LJY",
       "title": "im ready #AcneStudios #NCT #JOHNNY",
       "date": "2026-09-30",
@@ -840,13 +847,6 @@
       "date": "2026-09-25",
       "url": "https://www.youtube.com/watch?v=H_gkW-gVs3g",
       "thumb": "https://i1.ytimg.com/vi/H_gkW-gVs3g/hqdefault.jpg"
-    },
-    {
-      "id": "-pS-3jcJzD4",
-      "title": "NCT 127 'Piñata+소방차 (Fire Truck)' @NCT 127 'NEO CITY : SEOUL – THE REDLINE'",
-      "date": "2026-09-24",
-      "url": "https://www.youtube.com/watch?v=-pS-3jcJzD4",
-      "thumb": "https://i2.ytimg.com/vi/-pS-3jcJzD4/hqdefault.jpg"
     }
   ],
   "news": [
@@ -894,21 +894,21 @@
     },
     {
       "title": "NCT 127 Celebrates 10th Anniversary Year With Massive Sold-Out Seoul Opener",
-      "outlet": "power106.com",
+      "outlet": "Power 106",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWW5ZcEppX3dUel9MZGhCcXBSOWNMS1BmaGJkRGNSOHhXRkNrcWFiT3l1SXlVWk5Zd1V3RU0yTXpVSnNIME9TeW01YS12ZVFxejRDZUYzTHZfYU1HSjdvNFM2a29vTERaTEx5aUUyODNaWVVNNENRQ2cxVldvQUFqZjVQbV82cjlRbEpkYWRJczJ1RjRMSlE3b0xKdE92NmFzT2hJdGtxaHJ0YzhMbVFjeV9R?oc=5"
+    },
+    {
+      "title": "NCT 127 opens world tour in Seoul with five members",
+      "outlet": "UA.NEWS",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
     },
     {
       "title": "NCT 127's TAEYONG, Allday Project's BAILEY Choose Final Directors Tonight",
       "outlet": "조선일보",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVV1UnlXZllfdDY3QmhKUFhqYk9lREtqRUNjYVV4cVJsWmhNeFE0cVU0eDFWR1pwNFp4b3UxNGNiVzFwT0ZTUEpJcW1xSnVJc0F2TXd5SW1RNmF6VGJtWnBoN05YNnRqcUJUbzltUVVpQUVXZEFwSFg0OUlRV0dEeHpBU1ZSVlVuN3dtQmR3?oc=5"
-    },
-    {
-      "title": "NCT 127 begins world tour in Seoul with five members — Korea Herald",
-      "outlet": "UA.NEWS",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
     },
     {
       "title": "NCT 127’s Johnny on Korean Saunas: ‘I Don’t Want to See You Naked'",
@@ -1110,7 +1110,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ySnVCQlNxbHJ5YW1VZUVLVUczOUdaSk9tSFFPVENnY0dGZ0h6cjF4cGg5SmZ0YW1SSXJCcG56REhuY19MR3Bidlk3SHFscVpwNWQ4ZENrR1p6TV9a?oc=5"
     },
     {
-      "title": "NCT 127 begins world tour in Seoul with five members — Korea Herald",
+      "title": "NCT 127 opens world tour in Seoul with five members",
       "outlet": "UA.NEWS",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzkxYnE5ZG9BNjczMHhaMEthUWZYYXI2OHdOay03SS1OWXJNMzNRR0hmU1M1eXBqTF9FN2lGenpvQW8tN2ZGeXExRXFlekxPODJ6UVJ3Rmlrd2ZwdlBJM3VNUWI2eUJlVWdrMkc3djhyTHVyck5JWE40WlZqbXQ1Q2hmWGhHc2VGcGZWTXdxeUppZ3RYbkdzOFdJWk9rSkxVdzU4dHJ1X0hBZw?oc=5"
