@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T12:47:59.801Z",
+  "generated": "2026-10-02T22:19:48.449Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,20 @@
   ],
   "videos": [
     {
+      "id": "hY8mI35Y4rY",
+      "title": "NCT 127 'IKR' @NCT 127 'NEO CITY : SEOUL – THE REDLINE'",
+      "date": "2026-10-02",
+      "url": "https://www.youtube.com/watch?v=hY8mI35Y4rY",
+      "thumb": "https://i1.ytimg.com/vi/hY8mI35Y4rY/hqdefault.jpg"
+    },
+    {
+      "id": "s_MzMHCql3w",
+      "title": "NCT 127 'Blingy' @NCT 127 'NEO CITY : SEOUL – THE REDLINE'",
+      "date": "2026-10-02",
+      "url": "https://www.youtube.com/watch?v=s_MzMHCql3w",
+      "thumb": "https://i4.ytimg.com/vi/s_MzMHCql3w/hqdefault.jpg"
+    },
+    {
       "id": "wODQEkHofy0",
       "title": "upside down #AcneStudios #NCT #JOHNNY",
       "date": "2026-10-01",
@@ -833,23 +847,15 @@
       "date": "2026-09-25",
       "url": "https://www.youtube.com/watch?v=alDkJRIaotU",
       "thumb": "https://i2.ytimg.com/vi/alDkJRIaotU/hqdefault.jpg"
-    },
-    {
-      "id": "zjz0LPW0tGE",
-      "title": "I tried #JAEHYUN #NCT #NCT127",
-      "date": "2026-09-25",
-      "url": "https://www.youtube.com/watch?v=zjz0LPW0tGE",
-      "thumb": "https://i3.ytimg.com/vi/zjz0LPW0tGE/hqdefault.jpg"
-    },
-    {
-      "id": "H_gkW-gVs3g",
-      "title": "back in Milan #JAEHYUN #NCT #NCT127",
-      "date": "2026-09-25",
-      "url": "https://www.youtube.com/watch?v=H_gkW-gVs3g",
-      "thumb": "https://i1.ytimg.com/vi/H_gkW-gVs3g/hqdefault.jpg"
     }
   ],
   "news": [
+    {
+      "title": "NCT 127 'IKR' @NCT 127 'NEO CITY : SEOUL – THE REDLINE'",
+      "outlet": "YouTube",
+      "date": "2026-10-02",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwOU5oQXNzdG5ueFRfWUNoWDd4SngzTktwQkFudU5vMkxleThaUVhtYUJkOVJMdVRfdFVyNk5nWU15QQ?oc=5"
+    },
     {
       "title": "NCT 127 shares mesage for Filipino fans ahead of concert in Manila",
       "outlet": "ABS-CBN",
@@ -881,6 +887,12 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONnhzMEphSDB0c2JuQXB1TGt2bnU1VWQ3bEZ4NzR4ZDdoLXR5QmNXME5aZXZVR2NsRXhEelE1LWE5MjdocFNJZ2JxZFdoSjhZNGlRUFdEVmx1NHlUdkFRcmphWXIzY3pCb3QwUE1GUmp1dlMyMHdaNHhrVWpEdUVhd3dpRkFRZw?oc=5"
     },
     {
+      "title": "NCT 127: The Lost Boys (2023)",
+      "outlet": "IMDb",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfNkNwbzJsT3h2bUk5R1R1MXFjZlo0Z2JUMXppWldFS3BtVmw0bmdhRDBqak9tb0xzdFNhWk5rMlNLTHkyMEFnRk43VTRVeEZxdGwyczd4TVpGSHNsUXd1YV9vdmxET2ltd3BGakpFOA?oc=5"
+    },
+    {
       "title": "NCT 127 Celebrates 10th Anniversary Year With Massive Sold-Out Seoul Opener",
       "outlet": "Power 106",
       "date": "2026-09-23",
@@ -894,7 +906,7 @@
     },
     {
       "title": "NCT 127's TAEYONG, Allday Project's BAILEY Choose Final Directors Tonight",
-      "outlet": "chosun.com",
+      "outlet": "조선일보",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVV1UnlXZllfdDY3QmhKUFhqYk9lREtqRUNjYVV4cVJsWmhNeFE0cVU0eDFWR1pwNFp4b3UxNGNiVzFwT0ZTUEpJcW1xSnVJc0F2TXd5SW1RNmF6VGJtWnBoN05YNnRqcUJUbzltUVVpQUVXZEFwSFg0OUlRV0dEeHpBU1ZSVlVuN3dtQmR3?oc=5"
     },
@@ -918,31 +930,31 @@
     },
     {
       "title": "NCT 127's NEO Shatters Red Line",
-      "outlet": "chosun.com",
+      "outlet": "조선일보",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDJNdy1pbTN0QUJfcHl3aXo0RjhoYzh6ejRjNTBJMngzbHNQcUpDNzE2UU1uZmpvcnRkRm1XX2dxY2lERkM4MVpMWGE2anNsMUhmYzNNZGk4bFZMMUdNMkFQdW5jNy02Rm54Y0tsSHJGUzhOWkY3RFVGanpiMk5hMmUzeVluYWIzeXM1eExB?oc=5"
     },
     {
       "title": "From cyborgs to rice cakes, NCT 127 still keeps it 'neo' after 10 years",
-      "outlet": "Korea JoongAng Daily",
+      "outlet": "koreajoongangdaily.com",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjQyM2s4Rnk3bzE0UXQ0YWtLOUVQQjF3bmtPSFJleUJCZjUwNDlIOHdnbDdHaF8wTGdXMlBDZmdGMzhJSWN6Tk9QNHhERDY0UTZ2ekxxYzdlSVRqaWtXT0FQNkxUZGNVd2Iya01IMVFkWUhoYVRuMGNkdzBHZS1QNmNkS19XOEtlcDQxZkRJeW1ZUUtwRF8wMHpJQVR2ckd0S1BSNUVTbm5sU0drbE51Ujl6SUt0OS1KN3AyWkZtTjUxTXVq?oc=5"
     },
     {
       "title": "NCT 127 Rocks KSPO Dome With Sold-Out Rock Concert",
-      "outlet": "chosun.com",
+      "outlet": "조선일보",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWhJSjF0UVlyS0hEdjB2Y2RXNlVrQ3lqZWtUVmVfMVdBN01fSnRBaS1mZzU4LUtabklhY0JONHFaNVNXREZhWHYwYVR1UU4tLUhHME0zM29aLXV3UUdvOVlFb0VWclNOSkx2SUs0ejlGSmhBWEo2V2plWGFoSTJlVHRMQnBYenV2TTJDZWZR?oc=5"
     },
     {
       "title": "Military-Serving Doyoung, Jungwoo Surprise NCT 127's Final Concert",
-      "outlet": "chosun.com",
+      "outlet": "조선일보",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGZkOE5pTEo5WEtXb2NzTEVBZlowUl9kZkZ4aUFaeHlUNV91SjQ5MHNuT0ZBQnNDSE1GN24zYkMyQkoxNk5VTXNFSFYtbTlsMmdRLVNBa0IwSEk5VFZaamZDNmxHMzFmajFnbWdPX3VVbXNNSmozclQ4SENLZktlQVJXMUxVNWxBN2tZeDRB?oc=5"
     },
     {
       "title": "NCT 127 Celebrates 10th Anniversary, Vows Full Reunion Next Year",
-      "outlet": "chosun.com",
+      "outlet": "조선일보",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1VhenFKeVlhNGwzYUd6cmlibVRWTnVBQldYNkx4WVQ1cnhlQ0JsUk5zUFVaVjVIeDZ5MjZxWWNIbFA4YnVCNThIbWpTWmhSaXk2RnRETmozTk50Z1o2NVFxZUxZMWJXU0N2SGxZYi1samllZ1c0bWQ1SXZoOGxDTk5XOE11Rlp5cktpcEZR?oc=5"
     },
@@ -981,18 +993,6 @@
       "outlet": "en.koreaportal.com",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTVPaG5pSnhWdFlsejRMMWRNcjlmYXRaSnIxTC1Cc2JPUUhYcmx6QlR1ZVo3akk3UnRPekFObDJwSFgzRTRZMURVYjlhMzBmLXJ0NWZYVjdnNVhUY2h0c1ljc3JDNWZTNy1sQ3BpN1BVYkNvYllaNkl3OXFFZFlKSVNlTFBmOVR6ZkhaRGVWRkE0a2FQNlE3bk5ia3dDTkRG?oc=5"
-    },
-    {
-      "title": "Choose noise: NCT 127’s ‘BLINGY’ era is their best yet",
-      "outlet": "unitedbypop.com",
-      "date": "2026-09-08",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDlBUGdhdFJzUzQ2QU5hbmxYOEo0bVRFOF9Id25wdktaUjlhR2FrbDVhNXpRR1J5cF9sdHBxWWRTQTZGZ0NxQmQ1NHdlN3hHaExNZlI4dGhGb0xQS3drNkt0OG9mQlQycTNCUVpsa2FnSGZ6a3hwSEFqWWZ2R2U0VEs0MA?oc=5"
-    },
-    {
-      "title": "SM faces backlash after former NCT member Taeil’s outfit sold at charity flea market",
-      "outlet": "The Korea Herald",
-      "date": "2026-09-07",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBicC1tM3llblpaeWNqT0NWZUM5c3RfS29vRzlmRGtFTEFNNi1QLW1hX0FZY0NkWlBmMzAyN2R4dHZERHRPVlgxazVjc2d5VXphSHkxLW9Sdw?oc=5"
     }
   ],
   "bio": {
