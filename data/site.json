@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T06:09:18.841Z",
+  "generated": "2026-10-07T13:34:50.633Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,20 @@
   ],
   "videos": [
     {
+      "id": "LDrwEI-2nc0",
+      "title": "We're coming for you #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-10-07",
+      "url": "https://www.youtube.com/watch?v=LDrwEI-2nc0",
+      "thumb": "https://i1.ytimg.com/vi/LDrwEI-2nc0/hqdefault.jpg"
+    },
+    {
+      "id": "PpQzvv--NTY",
+      "title": "Can't wait to see you all #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-10-07",
+      "url": "https://www.youtube.com/watch?v=PpQzvv--NTY",
+      "thumb": "https://i1.ytimg.com/vi/PpQzvv--NTY/hqdefault.jpg"
+    },
+    {
       "id": "beIEnYNYX8Q",
       "title": "I’ma blingy blingy blingy remix #NCT127 #BLINGY #ScreaMRecords",
       "date": "2026-10-06",
@@ -833,20 +847,6 @@
       "date": "2026-09-29",
       "url": "https://www.youtube.com/watch?v=NVzApFcbh3w",
       "thumb": "https://i3.ytimg.com/vi/NVzApFcbh3w/hqdefault.jpg"
-    },
-    {
-      "id": "LT7b1uk5k9I",
-      "title": "THE REDLINE is on the way #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
-      "date": "2026-09-28",
-      "url": "https://www.youtube.com/watch?v=LT7b1uk5k9I",
-      "thumb": "https://i1.ytimg.com/vi/LT7b1uk5k9I/hqdefault.jpg"
-    },
-    {
-      "id": "RWXZrcPW8oE",
-      "title": "Hulk Smash! #JOHNNY #TAEYONG #NCT127 #127VIBE #NCT_10TH_ANNIVERSARY",
-      "date": "2026-09-27",
-      "url": "https://www.youtube.com/watch?v=RWXZrcPW8oE",
-      "thumb": "https://i3.ytimg.com/vi/RWXZrcPW8oE/hqdefault.jpg"
     }
   ],
   "news": [
@@ -909,6 +909,12 @@
       "outlet": "Korea JoongAng Daily",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjQyM2s4Rnk3bzE0UXQ0YWtLOUVQQjF3bmtPSFJleUJCZjUwNDlIOHdnbDdHaF8wTGdXMlBDZmdGMzhJSWN6Tk9QNHhERDY0UTZ2ekxxYzdlSVRqaWtXT0FQNkxUZGNVd2Iya01IMVFkWUhoYVRuMGNkdzBHZS1QNmNkS19XOEtlcDQxZkRJeW1ZUUtwRF8wMHpJQVR2ckd0S1BSNUVTbm5sU0drbE51Ujl6SUt0OS1KN3AyWkZtTjUxTXVq?oc=5"
+    },
+    {
+      "title": "Military-Serving Doyoung, Jungwoo Surprise NCT 127's Final Concert",
+      "outlet": "조선일보",
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGZkOE5pTEo5WEtXb2NzTEVBZlowUl9kZkZ4aUFaeHlUNV91SjQ5MHNuT0ZBQnNDSE1GN24zYkMyQkoxNk5VTXNFSFYtbTlsMmdRLVNBa0IwSEk5VFZaamZDNmxHMzFmajFnbWdPX3VVbXNNSmozclQ4SENLZktlQVJXMUxVNWxBN2tZeDRB?oc=5"
     },
     {
       "title": "NCT 127 Celebrates 10th Anniversary, Vows Full Reunion Next Year",
@@ -987,12 +993,6 @@
       "outlet": "AMC",
       "date": "2026-08-28",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVNPZVBob1FRdUFJaFI1dlB3a0FnSWw3Qk5vXzFvOXkwcEdTNDBKVEpRVlJIaU1DdEhuOEFnQkpHU243bGVQdHNfVEtXbVRPa0VldlVCbjZ4WW96c29nd29BeFo0a2MtZFNjbUp4dld3M2JKNFhKVVFQMWkxaWRCdHRQa3BpYkZFNmJ5UmF6VlFDaEpWY1JhU1doMVVZR24tT2tmRw?oc=5"
-    },
-    {
-      "title": "NCT 127 discuss celebrating ten years and share exclusive imagery ahead of new album ‘BLINGY’",
-      "outlet": "Rolling Stone UK",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkVUWTU0MjU5UTl6R2tkWVlZZ0R6UnB6NGExNGw1U0RQUWtoRndvS2hUSE9pVkp2X2puMnR2aTN1YzU2eWVBUzBtbGFuR3kxcjVwRlNlNGpxUkdLRXdDeG0yOXFISFdhN1FQOFBlOVNCSE0wZnZJVTlKTVpSeWJyWXZCU3drMGxMREdudFotSDhXeHVUS3BTZ1BYWDNrQ0NiZFdUcUVnbUNnQlFnbXZHc1UzemhvZUxGMVRTWWFJb1luUEpCellkS3NVcGh6b0ZoSWkta0ZDWVI?oc=5"
     }
   ],
   "bio": {
