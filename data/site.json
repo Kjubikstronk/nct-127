@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T06:01:14.604Z",
+  "generated": "2026-10-10T12:42:12.234Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,20 @@
   ],
   "videos": [
     {
+      "id": "diCgSe06ieY",
+      "title": "little behind for u #YUTA #NCT #NCT127",
+      "date": "2026-10-10",
+      "url": "https://www.youtube.com/watch?v=diCgSe06ieY",
+      "thumb": "https://i1.ytimg.com/vi/diCgSe06ieY/hqdefault.jpg"
+    },
+    {
+      "id": "ZlQUfqoTnR4",
+      "title": "I ❤️ egg tart #YUTA #NCT #NCT127",
+      "date": "2026-10-10",
+      "url": "https://www.youtube.com/watch?v=ZlQUfqoTnR4",
+      "thumb": "https://i3.ytimg.com/vi/ZlQUfqoTnR4/hqdefault.jpg"
+    },
+    {
       "id": "hJ1ykBERtKI",
       "title": "TAEYONG 태용 'Wacka Wak' Dance Practice",
       "date": "2026-10-09",
@@ -833,20 +847,6 @@
       "date": "2026-09-29",
       "url": "https://www.youtube.com/watch?v=XWir320XkCk",
       "thumb": "https://i1.ytimg.com/vi/XWir320XkCk/hqdefault.jpg"
-    },
-    {
-      "id": "3Zy-U2GKELs",
-      "title": "quaso 🥐 #JOHNNY #NCT #NCT127",
-      "date": "2026-09-29",
-      "url": "https://www.youtube.com/watch?v=3Zy-U2GKELs",
-      "thumb": "https://i4.ytimg.com/vi/3Zy-U2GKELs/hqdefault.jpg"
-    },
-    {
-      "id": "xsv3IL8wUN4",
-      "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' Recap Video",
-      "date": "2026-09-29",
-      "url": "https://www.youtube.com/watch?v=xsv3IL8wUN4",
-      "thumb": "https://i1.ytimg.com/vi/xsv3IL8wUN4/hqdefault.jpg"
     }
   ],
   "news": [
