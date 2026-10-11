@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T05:58:28.970Z",
+  "generated": "2026-10-11T13:03:28.236Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,20 @@
   ],
   "videos": [
     {
+      "id": "hSnnfWVaxNs",
+      "title": "2027 NCT 127 SEASON’S GREETINGS TRAILER",
+      "date": "2026-10-11",
+      "url": "https://www.youtube.com/watch?v=hSnnfWVaxNs",
+      "thumb": "https://i1.ytimg.com/vi/hSnnfWVaxNs/hqdefault.jpg"
+    },
+    {
+      "id": "mJYSDzj3sio",
+      "title": "nya ichi ni san nya arigato ♡ #TAEYONG #NCT #NCT127",
+      "date": "2026-10-11",
+      "url": "https://www.youtube.com/watch?v=mJYSDzj3sio",
+      "thumb": "https://i2.ytimg.com/vi/mJYSDzj3sio/hqdefault.jpg"
+    },
+    {
       "id": "diCgSe06ieY",
       "title": "little behind for u #YUTA #NCT #NCT127",
       "date": "2026-10-10",
@@ -833,20 +847,6 @@
       "date": "2026-09-30",
       "url": "https://www.youtube.com/watch?v=QAUoB6z8LJY",
       "thumb": "https://i2.ytimg.com/vi/QAUoB6z8LJY/hqdefault.jpg"
-    },
-    {
-      "id": "SirltBLUXfg",
-      "title": "hello? #JOHNNY #NCT #NCT127",
-      "date": "2026-09-30",
-      "url": "https://www.youtube.com/watch?v=SirltBLUXfg",
-      "thumb": "https://i4.ytimg.com/vi/SirltBLUXfg/hqdefault.jpg"
-    },
-    {
-      "id": "XWir320XkCk",
-      "title": "Santé ! #JOHNNY #NCT #NCT127",
-      "date": "2026-09-29",
-      "url": "https://www.youtube.com/watch?v=XWir320XkCk",
-      "thumb": "https://i1.ytimg.com/vi/XWir320XkCk/hqdefault.jpg"
     }
   ],
   "news": [
@@ -947,12 +947,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbXVjNDh4MzFiS21BbDJjeTRkZnFSLUJnekVyTktmNlRIY25tWmgzWW9kaEJjUzVhUE9GUVlOd3lHeDhPMzlBU3FIME9NdzVWMmRFeWpkcGV2b0s3TDJFd2pFSHV0b0lELTNSaXFrZWs3RGotZ0ZXeHBTVHNZTGlVMmRNeldmY0NFbFZMM3Eya1o3enJieXU5RmVfTGp1TWJtcVNFTnpjeGs?oc=5"
     },
     {
-      "title": "SM faces backlash after former NCT member Taeil’s outfit sold at charity flea market",
-      "outlet": "The Korea Herald",
-      "date": "2026-09-07",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBicC1tM3llblpaeWNqT0NWZUM5c3RfS29vRzlmRGtFTEFNNi1QLW1hX0FZY0NkWlBmMzAyN2R4dHZERHRPVlgxazVjc2d5VXphSHkxLW9Sdw?oc=5"
-    },
-    {
       "title": "‘NCT 127 Is Back’: K-Pop’s Mavericks Talk Contract Renewals & Being Uncompromising in Their ‘Neo’ Sound",
       "outlet": "Billboard",
       "date": "2026-09-04",
@@ -993,6 +987,12 @@
       "outlet": "IMDb",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xNHdqVnRMSTNmZC0zRE94eFFQWnRpUkxORGkyUWFBdWlEYmEzYVZ2RlM1WnpUYkVBd21mYUJoUFkydlhyWlpFSnhmMnhKbVE?oc=5"
+    },
+    {
+      "title": "NCT 127 reign as the kings of quirky hip-hop bangers on new album ‘Blingy’",
+      "outlet": "Los Angeles Times",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb0hlVHpyN3J6T3k1TGxheW1iYmE5elpZdVEzS0JpVTBUbDFtbkRHZTI1RExRcHFnQUxtMnIyUFk2dkMtTlhtSW5IVlllZXpTcS1RUkc5WWs0SEZXX0xuWGpuVHY0TnJEZjJyOVpDbzA0NWV5M3hCeVdFX180QW1rZkpiSTduY2FXWXBhcUFZZjVCZ2FhN1VVNmplU1BSNjlMb2ZjOEd4QmJpZUJocHdUS1lvZ1dEdWNST3FEVkJhNUdsVWhMRjdZTU9uZnU4Vlk?oc=5"
     }
   ],
   "bio": {
