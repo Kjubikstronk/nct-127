@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T11:34:20.128Z",
+  "generated": "2026-10-16T16:45:27.884Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,20 @@
   ],
   "videos": [
     {
+      "id": "dhhckEJSkw4",
+      "title": "Kick off, Setlist Meeting & Poster, VCR Behind | Ep.1 | NCT 127 5TH TOUR 'NEO CITY : THE REDLINE'",
+      "date": "2026-10-16",
+      "url": "https://www.youtube.com/watch?v=dhhckEJSkw4",
+      "thumb": "https://i1.ytimg.com/vi/dhhckEJSkw4/hqdefault.jpg"
+    },
+    {
+      "id": "KkTMmvrwQPk",
+      "title": "found my energy #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-10-16",
+      "url": "https://www.youtube.com/watch?v=KkTMmvrwQPk",
+      "thumb": "https://i4.ytimg.com/vi/KkTMmvrwQPk/hqdefault.jpg"
+    },
+    {
       "id": "Dt1VgmMRbbA",
       "title": "which one are you??? #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
       "date": "2026-10-16",
@@ -833,20 +847,6 @@
       "date": "2026-10-06",
       "url": "https://www.youtube.com/watch?v=beIEnYNYX8Q",
       "thumb": "https://i3.ytimg.com/vi/beIEnYNYX8Q/hqdefault.jpg"
-    },
-    {
-      "id": "l5EaS94rEnk",
-      "title": "˖ ݁𖥔 🏆트로피 손에 쥐고 오프닝 불태웠툥🔥 𖥔 ݁˖ | TAEYONG 2026 TIMA Behind",
-      "date": "2026-10-05",
-      "url": "https://www.youtube.com/watch?v=l5EaS94rEnk",
-      "thumb": "https://i1.ytimg.com/vi/l5EaS94rEnk/hqdefault.jpg"
-    },
-    {
-      "id": "ostnYuweSLM",
-      "title": "前方到站是THE REDLINE🔥 127准备好了 #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE",
-      "date": "2026-10-05",
-      "url": "https://www.youtube.com/watch?v=ostnYuweSLM",
-      "thumb": "https://i4.ytimg.com/vi/ostnYuweSLM/hqdefault.jpg"
     }
   ],
   "news": [
@@ -857,16 +857,16 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Rc1RXSE1oRDRPM3Y3RFV6eExzdDlBQ0FIMUhXWGhHbzNhbXZmZVl3Um5PRUw1dWVJUnV3X25CcG42VmlZQkZIZ29wUkV1SjFTTzdmRkJIMC1YZG1IM2FLN25wOWVWc2NHTVRXQXJfZGF4SXdIcFdyMmRIdnRaQ2c?oc=5"
     },
     {
+      "title": "CORTIS, ATEEZ, I.O.I And 23 More: Melon Music Awards Confirms Final Performer List",
+      "outlet": "Forbes",
+      "date": "2026-10-15",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0VoYnhSY20tUDZLdVhQaWxnYjVwSmZEV1BhaWVjVXZxM05aRzZLZ01pdk9XVE9RS3Z0dldfVjlJWDUwOUZHWk1EaDdDbUozSGk2ZG5CZnphdlRSRUc0QmlCem5zcmNCektwUGxndXEweHJHWnM1NHJ3ZzFiSmhDM0JROFA1RkstZTVMMjVreFNDSjNXYjMtM202ZG1UMzEwUDgzcTM1ZzRkSHRtOWd1dzVJb2JmTEgxbEsyRDNxZkVfMTZvSmRWczluNzE?oc=5"
+    },
+    {
       "title": "2027 NCT 127 SEASON’S GREETINGS BEHIND",
       "outlet": "YouTube",
       "date": "2026-10-15",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43QkhLM1pBWEpDLTdpdThVNDlWendxMWM2WlJ0cjNSYkV2YjZZaUM2c2tCeWx3elZWOGxYa01ycU1aZlhKSkRzLUlxZ0V3Y0tXNE5EMEMxWDJOWngz?oc=5"
-    },
-    {
-      "title": "Watch: NCT 127 Plays Truth Or Drink | Tipsy Kitchen | Freak Rankings",
-      "outlet": "BuzzFeed",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMRmdLNFVLYWtlMl9fZENTellOdGVmZmdLQkM4WERIbHhjaE1SaGJUWGFrSG53WE1kNFBVcnBfN1BtM3RYd1pZZjZDQkY4NWtpZXp0UFlB?oc=5"
     },
     {
       "title": "[NOTICE] 2027 NCT 127 SEASON’S GREETINGS SALES NOTICE",
@@ -899,16 +899,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDgtRmM2VllpbVZUdjFFc1VIS3BCY2FmZTFhQlRkcmJISTBxX1JxVmpWa2hwQWwxajJsWXVTVWFMSDh0UTlzNTF0VmhxNTFFdndjMURsY3NMMzRZdS1qNFVGTF9VTVI1ZEFPeWFpc3dkaXdrbDFBejFMc2xlLUpGdUFwai1YTHd5TmtmVFBPNjE1M3VKYkVSVk1n?oc=5"
     },
     {
-      "title": "NCT 127 proves its strength as five while awaiting full-group return",
-      "outlet": "The Korea Herald",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XcnR4OENSNklLMTl1ZjhfZm9ZS3NtdmRjQ0M4ZnF4NUtrTWRoYXk1OUdNT1MxaUYzQnlDbFEwV1hBOFBTd09sc1NDNGZhbXdoXzhFaV9pSQ?oc=5"
-    },
-    {
       "title": "NCT 127 Open 10th-Anniversary ‘Neo City: The Redline’ Tour With Sold-Out Seoul Run",
       "outlet": "Billboard",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEd2V0FNSEowOEtzeUx1RzVkQW9JZ0FpZTZmQTZQLXIzS09TMFYycGdDeTF5VkZqRVlLNmNNb1JCWVAxMm1PakFqTnhhdloyeFRuZ3MzenFYVDVZcDJQSzBXa1VxejNyaXZ2T3dBOEdmcDZrZDg3dFBka2hzbEpmaFJkYWJJN1BEcmY4VnIwWXQtOS1jWEZLam5ZNWhNOEFvakM5Tw?oc=5"
+    },
+    {
+      "title": "NCT 127 proves its strength as five while awaiting full-group return",
+      "outlet": "The Korea Herald",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XcnR4OENSNklLMTl1ZjhfZm9ZS3NtdmRjQ0M4ZnF4NUtrTWRoYXk1OUdNT1MxaUYzQnlDbFEwV1hBOFBTd09sc1NDNGZhbXdoXzhFaV9pSQ?oc=5"
     },
     {
       "title": "From cyborgs to rice cakes, NCT 127 still keeps it 'neo' after 10 years",
