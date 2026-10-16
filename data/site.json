@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T04:40:55.850Z",
+  "generated": "2026-10-16T11:34:20.128Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,13 @@
   ],
   "videos": [
     {
+      "id": "Dt1VgmMRbbA",
+      "title": "which one are you??? #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
+      "date": "2026-10-16",
+      "url": "https://www.youtube.com/watch?v=Dt1VgmMRbbA",
+      "thumb": "https://i1.ytimg.com/vi/Dt1VgmMRbbA/hqdefault.jpg"
+    },
+    {
       "id": "bCAOCY-RO3o",
       "title": "2027 NCT 127 SEASON’S GREETINGS BEHIND",
       "date": "2026-10-15",
@@ -840,33 +847,14 @@
       "date": "2026-10-05",
       "url": "https://www.youtube.com/watch?v=ostnYuweSLM",
       "thumb": "https://i4.ytimg.com/vi/ostnYuweSLM/hqdefault.jpg"
-    },
-    {
-      "id": "UcOPkjBq2Pk",
-      "title": "We’re coming, See you at Hong Kong! #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE",
-      "date": "2026-10-05",
-      "url": "https://www.youtube.com/watch?v=UcOPkjBq2Pk",
-      "thumb": "https://i2.ytimg.com/vi/UcOPkjBq2Pk/hqdefault.jpg"
     }
   ],
   "news": [
-    {
-      "title": "Watch: NCT 127 Plays Truth Or Drink | Tipsy Kitchen",
-      "outlet": "BuzzFeed",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82TFpTV191OHFHaWNKMlBfSkxLTTc4OWRVSlVfeUlTOWtoMEFsV29JZTI0SFlvc1cxYmFPZGl5d0FhNDBGcktPWU1xOHF1LWVFeW9kS0V3?oc=5"
-    },
     {
       "title": "NCT DREAM Announces 10th Anniversary Project “DREAM AFTER DREAM”",
       "outlet": "InMusic Blog",
       "date": "2026-10-15",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Rc1RXSE1oRDRPM3Y3RFV6eExzdDlBQ0FIMUhXWGhHbzNhbXZmZVl3Um5PRUw1dWVJUnV3X25CcG42VmlZQkZIZ29wUkV1SjFTTzdmRkJIMC1YZG1IM2FLN25wOWVWc2NHTVRXQXJfZGF4SXdIcFdyMmRIdnRaQ2c?oc=5"
-    },
-    {
-      "title": "Watch: NCT 127 Plays Truth Or Drink | Tipsy Kitchen | Freak Rankings",
-      "outlet": "BuzzFeed",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMRmdLNFVLYWtlMl9fZENTellOdGVmZmdLQkM4WERIbHhjaE1SaGJUWGFrSG53WE1kNFBVcnBfN1BtM3RYd1pZZjZDQkY4NWtpZXp0UFlB?oc=5"
     },
     {
       "title": "2027 NCT 127 SEASON’S GREETINGS BEHIND",
@@ -875,16 +863,22 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43QkhLM1pBWEpDLTdpdThVNDlWendxMWM2WlJ0cjNSYkV2YjZZaUM2c2tCeWx3elZWOGxYa01ycU1aZlhKSkRzLUlxZ0V3Y0tXNE5EMEMxWDJOWngz?oc=5"
     },
     {
+      "title": "Watch: NCT 127 Plays Truth Or Drink | Tipsy Kitchen | Freak Rankings",
+      "outlet": "BuzzFeed",
+      "date": "2026-10-15",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMRmdLNFVLYWtlMl9fZENTellOdGVmZmdLQkM4WERIbHhjaE1SaGJUWGFrSG53WE1kNFBVcnBfN1BtM3RYd1pZZjZDQkY4NWtpZXp0UFlB?oc=5"
+    },
+    {
       "title": "[NOTICE] 2027 NCT 127 SEASON’S GREETINGS SALES NOTICE",
       "outlet": "Weverse",
       "date": "2026-10-12",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpSWpTQzdIdXFfdHNCb052bXJaR3ZnMFFIaWVGdjlSSHY3Qlc0MnVzZlN4QWNLckRwUWlJZDkwbUMwQUpjS0RCMU5kRlZNVEE?oc=5"
     },
     {
-      "title": "Piñata - NCT 127 (Suh Johnny + Hook) [Thai Karaoke]",
-      "outlet": "YouTube",
+      "title": "Watch: NCT 127 Plays Truth Or Drink | Tipsy Kitchen",
+      "outlet": "BuzzFeed",
       "date": "2026-10-09",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xcG0yRFU5bGhrN2JYR0c5SkFueVdiMFo4V0UxS0NCbFBkSUhIbVd5OUhDbWE3S3N3UE5oSnZPdmVOdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82TFpTV191OHFHaWNKMlBfSkxLTTc4OWRVSlVfeUlTOWtoMEFsV29JZTI0SFlvc1cxYmFPZGl5d0FhNDBGcktPWU1xOHF1LWVFeW9kS0V3?oc=5"
     },
     {
       "title": "NCT 127 shares mesage for Filipino fans ahead of concert in Manila",
@@ -993,6 +987,12 @@
       "outlet": "MELODIC Magazine",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmFlUW5YYXVCTjNzcVdqVnY5Vm0wWWo1MHlELTRoaUFDX053R0ZUdWVvUi1hYmVTT1B6X0xyc0VDbmZad1NQb082SzFvbEFGVWFEOTlwRGxjZ3VRck5qbjBLWlpHX3p6SW5BY2xRcEpWRmhyb2l6T3hHUm5zdG9vTFFBdkRuaGllbU94bk9DblFnU0VhRUFpQnJmbS1keWdJbXFQbkZVN1dTZkZvVzZtd0YwTW12cEg1S04yNA?oc=5"
+    },
+    {
+      "title": "NCT 127 turns 10, enters next chapter with ‘Blingy’",
+      "outlet": "The Korea Herald",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VdUNjQmxKYThwT2lfb0pEaGdZUXVLSzl1T2FSeE96ZFoyWFhnaC1EQlVSbHRldF9VQklVa0pYVmtnMGFVUko1YTlUa3ExTVpxT2hZcDc1QQ?oc=5"
     }
   ],
   "bio": {
@@ -1098,6 +1098,12 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckFZU0tEN0ZfLTFaT3p5aVdvTXA3eHY0WVExM2l5ZGozMnJaNHUxN1FGamFZY1BPcE12bFVGY2dvMHk2eWRGYkphWjhOdEFmS1g3dTlHX0pMNFdyUFFvVHdrQV9GMmxpNFAtQ0JJME5VblhwSl9nWEFjVGlETDRkX1JuTmx2RFJsakRpMzhpOWh0V0FVWFlNTUFxN1RzLVdyallack5ibjdrV3RWa0k2OWZrS2tybkFnXzN0clVLdlRLUlJyeW92MXZTVlJseE5VY0FQaDVqRQ?oc=5"
     },
     {
+      "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' Recap Video",
+      "outlet": "YouTube",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueEsyZGVHd3A0NElIUklXZ2ZRck04N2FyQ3FvYzY3Yms5THBtX1c1TkF0R08zZnIxR3VEeVI3blNYMXRRQmVXM0hLczVFZy1kdE9lb3JFbnZUZFpO?oc=5"
+    },
+    {
       "title": "NCT 127 Open 10th-Anniversary ‘Neo City: The Redline’ Tour With Sold-Out Seoul Run",
       "outlet": "Billboard",
       "date": "2026-09-22",
@@ -1108,12 +1114,6 @@
       "outlet": "스포츠조선",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tYlJOTE9iLUhpLWNOZWxtVk5CVER2R182UHZYT0JCYUUzczNtQ3Y1RkdvMlJXR1JGZlFIem9oQTAyMm5YMlNxZk1KMFZOU2tCVmlmVm9vZmo2d1dxdzdXTlJoR3VhVWs0OWQ2NmMtOU9CVm00TEhiNzAyTWF2UQ?oc=5"
-    },
-    {
-      "title": "NCT 127 Shatters Limits in Sold-Out Seoul Concert Finale",
-      "outlet": "조선일보",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVJmN2xHMmFwS3JXRTVxd0I1ZHFya2JIUzVGdy13Z2tLdHFEZHV4WGpoeXpGMzdNclNiQnVXa2lUZWVkQmxBNHMzNkhFU0Z3Ml9WTHQ4c3p6YTI1NGdvRkl5dm03c2QxSFZ4MGZEVHBsUWpXWGNRVXVYbW5lRDlYQ1pQNGs2dDRoU1Y5bTJ3?oc=5"
     }
   ],
   "timeline": [
