@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T12:03:25.720Z",
+  "generated": "2026-10-22T17:17:59.241Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,13 @@
   ],
   "videos": [
     {
+      "id": "5rLq4Giu_b4",
+      "title": "꩜˚⋆🛳️얼렁뚱땅 돌아가는 태용이의 홍콩 나들이💨⋆˚꩜ | TY in Hong Kong",
+      "date": "2026-10-22",
+      "url": "https://www.youtube.com/watch?v=5rLq4Giu_b4",
+      "thumb": "https://i2.ytimg.com/vi/5rLq4Giu_b4/hqdefault.jpg"
+    },
+    {
       "id": "dX06uTMR1Dc",
       "title": "#fyp #JOHNNY #HAECHAN #NCT #NCT127",
       "date": "2026-10-19",
@@ -840,13 +847,6 @@
       "date": "2026-10-07",
       "url": "https://www.youtube.com/watch?v=LDrwEI-2nc0",
       "thumb": "https://i1.ytimg.com/vi/LDrwEI-2nc0/hqdefault.jpg"
-    },
-    {
-      "id": "PpQzvv--NTY",
-      "title": "Can't wait to see you all #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
-      "date": "2026-10-07",
-      "url": "https://www.youtube.com/watch?v=PpQzvv--NTY",
-      "thumb": "https://i1.ytimg.com/vi/PpQzvv--NTY/hqdefault.jpg"
     }
   ],
   "news": [
@@ -855,12 +855,6 @@
       "outlet": "매일경제",
       "date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fUU9WdHozTVBrc0Y1RnVFYUNKTzhxclNGRnpLNFJRT1hnMDU5Q1NrNWVsX01qNHNHV0xxeXFzZTdwdUFLci1vNUg5eHVwbFJH?oc=5"
-    },
-    {
-      "title": "[CONCERT RECAP] NCT 127 Bring the Noize Back to Singapore with ‘NEO CITY: THE REDLINE’",
-      "outlet": "hellokpop",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHBRX0UyUlVLQklrVVpJQTU2akVwUEoxc2xyREN0R00tMXJHcGdpdFhBai1ibkJzLWRuMDdzUWZWRGdubnBXdC1kS3FSV080b05LeG1vNDAyUVBTb3Q5YU9IWWpTYTVJaXB3Ty1SaHJsbEdtQUVONUhvSEVGRHpUb3RmX2stcG4wVXVEVDUzWTJPaTBVRXRTWWFteXZDNVR0bmROTTR6WV9oQUlJWEQwZDUxVGQ?oc=5"
     },
     {
       "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' in CINEMAS | Audience Reviews",
@@ -879,6 +873,12 @@
       "outlet": "BuzzFeed",
       "date": "2026-10-09",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82TFpTV191OHFHaWNKMlBfSkxLTTc4OWRVSlVfeUlTOWtoMEFsV29JZTI0SFlvc1cxYmFPZGl5d0FhNDBGcktPWU1xOHF1LWVFeW9kS0V3?oc=5"
+    },
+    {
+      "title": "NCT 127 'Blingy' @NCT 127 'NEO CITY : SEOUL – THE REDLINE'",
+      "outlet": "YouTube",
+      "date": "2026-10-02",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UWUVxay1kLVJQWmZPU0pjdndZU0xyMkVXWjNnNjlJYmVrMVA4MFFxeHJBOFZYdkRoZVVCMW5OcmJWWlNCcklDRDVDOXY3LXZkY012QmJZVXFiVjZn?oc=5"
     },
     {
       "title": "NCT 127 shares mesage for Filipino fans ahead of concert in Manila",
@@ -1080,12 +1080,6 @@
   },
   "tourNews": [
     {
-      "title": "[CONCERT RECAP] NCT 127 Bring the Noize Back to Singapore with ‘NEO CITY: THE REDLINE’",
-      "outlet": "hellokpop",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHBRX0UyUlVLQklrVVpJQTU2akVwUEoxc2xyREN0R00tMXJHcGdpdFhBai1ibkJzLWRuMDdzUWZWRGdubnBXdC1kS3FSV080b05LeG1vNDAyUVBTb3Q5YU9IWWpTYTVJaXB3Ty1SaHJsbEdtQUVONUhvSEVGRHpUb3RmX2stcG4wVXVEVDUzWTJPaTBVRXRTWWFteXZDNVR0bmROTTR6WV9oQUlJWEQwZDUxVGQ?oc=5"
-    },
-    {
       "title": "NCT 127 shares mesage for Filipino fans ahead of concert in Manila",
       "outlet": "ABS-CBN",
       "date": "2026-10-01",
@@ -1114,6 +1108,12 @@
       "outlet": "Aju Press",
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TX21PZmZrQlV0Z1ktRWNQLU53MWRqWm5ObXl4eERqZGVRd1J6T3QycGNxSjRieHd3MEdWMk5Fa0FCaE9RZlJmM1MyWGk2eDl3Q2tkWXVBdGgwbVnSAVdBVV95cUxPYnBMQTdzREQ3c212SFktaWNjcXR2LTZ0REVscTU5cVB6aHhsQkl4ME1rMXhvNDh0Ql95UnliamtlaV94VjFTRlo3YzM4cWtIUjRUbFJ3Nms?oc=5"
+    },
+    {
+      "title": "NCT 127 kicks off fifth tour in Seoul",
+      "outlet": "Aju Press",
+      "date": "2026-09-18",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrOVhFU25qVWpDYmwxanJhNC1rZnh6N01EeXBHblJHcFVxaWJlQy1Vc0VabkR3b2VjdEw4cVk1WDhPREJSVlpMakdrd2xQRWJFX05RUmZHczlMZ2_SAVdBVV95cUxNamZGNGtuRk96YUFKaUlKZEl4cXA0STBUaUhFVEVNTFlrWGhBd01mQlNxenVWal81MGtrRGpxckhTQW9TV2pvWS1aV3Z3ZzFSSXFHbFNXZzg?oc=5"
     }
   ],
   "timeline": [
