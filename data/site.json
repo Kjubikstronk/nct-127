@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T12:23:52.214Z",
+  "generated": "2026-10-27T22:22:45.977Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,13 @@
   ],
   "videos": [
     {
+      "id": "NK21YHTR0VI",
+      "title": "၊၊||၊🔴 생애 첫 더빙🎤︎︎ 몰입도 5/5 만족도 5/5 🔴၊၊||၊ | 127 VIBE EP.30 ❪일일 성우 체험❫",
+      "date": "2026-10-27",
+      "url": "https://www.youtube.com/watch?v=NK21YHTR0VI",
+      "thumb": "https://i3.ytimg.com/vi/NK21YHTR0VI/hqdefault.jpg"
+    },
+    {
       "id": "FkNgH0DQggg",
       "title": "Stage Practice Behind | Ep.2 | NCT 127 5TH TOUR 'NEO CITY : THE REDLINE'",
       "date": "2026-10-26",
@@ -840,27 +847,20 @@
       "date": "2026-10-11",
       "url": "https://www.youtube.com/watch?v=hSnnfWVaxNs",
       "thumb": "https://i1.ytimg.com/vi/hSnnfWVaxNs/hqdefault.jpg"
-    },
-    {
-      "id": "mJYSDzj3sio",
-      "title": "nya ichi ni san nya arigato ♡ #TAEYONG #NCT #NCT127",
-      "date": "2026-10-11",
-      "url": "https://www.youtube.com/watch?v=mJYSDzj3sio",
-      "thumb": "https://i2.ytimg.com/vi/mJYSDzj3sio/hqdefault.jpg"
     }
   ],
   "news": [
-    {
-      "title": "(x)clusive!: NCT 127 brings their LEGACY to Singapore with their 5TH TOUR ‘NEO CITY - THE REDLINE’",
-      "outlet": "(x)clusive.sg",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOG1BX0s5OHk0UWw2NHY5blBhU0FoN2RldlZ4d2VycnMwemNMYXRxWnBlOEpDdWxKSWlHXzktMklLOC1ZLURLNDFrYVl2QWFGbWQyVHNnZmtQeGxhN0ZUQmxtVmxNdGZmLVpoUHJRSGxIRGFBTnZNYTBSaHk3VWM?oc=5"
-    },
     {
       "title": "Xiaojun of NCT and WayV has officially launched his solo career with his debut EP, \"Hey, Somebody.\" The five-track release features both Chinese and English versions of its title track, giving fans a closer look at the singer as he steps into his own spotlight.",
       "outlet": "Facebook",
       "date": "2026-10-27",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1R6T3V1Tl9Jd2ZnSi1fV0VJQzFNU0QxQkJuNGZTVGc0cmpERVB0RENTUmhlMWxkdmdZR3hicFJubEo1ck9nOHlrQ1hvb2M4OGZZb0xvcUd5bE85ODBvZ1hRWHFMOUp4dFNLU2VUUjB2VlpOd0FpaHU2enJMZjVpMzJhd0lGbk9ERHhxVDgwQ3MzRVh3ZkFfRFIwYVNWLXV5cTFmQy0zYzdpNmRyUG9zWDJ2ck9HSGRBTklMbUh0aW5aTTlfVDRxclN1NFlaSWg1TFViS0lqOA?oc=5"
+    },
+    {
+      "title": "(x)clusive!: NCT 127 brings their LEGACY to Singapore with their 5TH TOUR ‘NEO CITY - THE REDLINE’",
+      "outlet": "(x)clusive.sg",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOG1BX0s5OHk0UWw2NHY5blBhU0FoN2RldlZ4d2VycnMwemNMYXRxWnBlOEpDdWxKSWlHXzktMklLOC1ZLURLNDFrYVl2QWFGbWQyVHNnZmtQeGxhN0ZUQmxtVmxNdGZmLVpoUHJRSGxIRGFBTnZNYTBSaHk3VWM?oc=5"
     },
     {
       "title": "From NCT 127 to DREAM, all in one place... ‘2026 Track and Field Championships’ premieres today",
@@ -885,12 +885,6 @@
       "outlet": "BuzzFeed",
       "date": "2026-10-09",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82TFpTV191OHFHaWNKMlBfSkxLTTc4OWRVSlVfeUlTOWtoMEFsV29JZTI0SFlvc1cxYmFPZGl5d0FhNDBGcktPWU1xOHF1LWVFeW9kS0V3?oc=5"
-    },
-    {
-      "title": "NCT 127 'Blingy' @NCT 127 'NEO CITY : SEOUL – THE REDLINE'",
-      "outlet": "YouTube",
-      "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UWUVxay1kLVJQWmZPU0pjdndZU0xyMkVXWjNnNjlJYmVrMVA4MFFxeHJBOFZYdkRoZVVCMW5OcmJWWlNCcklDRDVDOXY3LXZkY012QmJZVXFiVjZn?oc=5"
     },
     {
       "title": "NCT 127 shares a warm message for their Filipino fans ahead of their Manila concert. The group is set to perform on December 12 at the SM Mall of Asia Arena for the \"NCT 127 5th Tour NEO CITY: MANILA - THE REDLINE.\" Link to full story in the comments s",
@@ -993,6 +987,12 @@
       "outlet": "Hanteo News",
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wdDdLdHg0bjJqYnVvNE5QZURDaVBHTkFrTW5UTHBoS3l4eExjTXdVQ3NTbzNiaVVZUnp0V0lybHM3dk0xSmthd2xBVFBqdDZJ?oc=5"
+    },
+    {
+      "title": "‘NCT 127 Is Back’: K-Pop’s Mavericks Talk Contract Renewals & Being Uncompromising in Their ‘Neo’ Sound",
+      "outlet": "Billboard",
+      "date": "2026-09-04",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02eU5JR2laaHpZLUJNOXVvX0l4Zk9WQlZMYzZRM0ZpMmhGeGVNZEFvOUZQRHJrZGw0WWtFbVV1YjRQWnJRVkNCSi1DbnFIWWUtQVVCSFI5YlpxbXBETFRicWp1dFJFaGRSMG5WQi1fWmJzb3hoN0VLU1prYw?oc=5"
     }
   ],
   "bio": {
