@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T05:54:46.578Z",
+  "generated": "2026-10-31T12:45:00.649Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,13 @@
   ],
   "videos": [
     {
+      "id": "ZnnQgjuGQdQ",
+      "title": "balancemaxxing #JOHNNY #NCT #NCT127",
+      "date": "2026-10-31",
+      "url": "https://www.youtube.com/watch?v=ZnnQgjuGQdQ",
+      "thumb": "https://i3.ytimg.com/vi/ZnnQgjuGQdQ/hqdefault.jpg"
+    },
+    {
       "id": "SWKzxmlC7WE",
       "title": "툥피티 멋있는 게 숨긴다고 숨겨지는 것도 아니고‧₊˚ ⋅ | TAEYONG EPT GQ Photoshoot Behind",
       "date": "2026-10-28",
@@ -840,13 +847,6 @@
       "date": "2026-10-12",
       "url": "https://www.youtube.com/watch?v=OAIepgOPBlk",
       "thumb": "https://i4.ytimg.com/vi/OAIepgOPBlk/hqdefault.jpg"
-    },
-    {
-      "id": "Ss9fgLXhU7k",
-      "title": "you are … 🥰 #JAEHYUN #NCT #NCT127",
-      "date": "2026-10-12",
-      "url": "https://www.youtube.com/watch?v=Ss9fgLXhU7k",
-      "thumb": "https://i4.ytimg.com/vi/Ss9fgLXhU7k/hqdefault.jpg"
     }
   ],
   "news": [
