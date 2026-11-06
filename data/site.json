@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T06:58:01.259Z",
+  "generated": "2026-11-06T19:30:05.395Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,13 @@
   ],
   "videos": [
     {
+      "id": "YtUeu3CacyY",
+      "title": "프라다 복숭아 당도최고🍑ᯓ★.ᐟ | SPUR PRADA Photoshoot Behind",
+      "date": "2026-11-06",
+      "url": "https://www.youtube.com/watch?v=YtUeu3CacyY",
+      "thumb": "https://i2.ytimg.com/vi/YtUeu3CacyY/hqdefault.jpg"
+    },
+    {
       "id": "ZnnQgjuGQdQ",
       "title": "balancemaxxing #JOHNNY #NCT #NCT127",
       "date": "2026-10-31",
@@ -840,13 +847,6 @@
       "date": "2026-10-13",
       "url": "https://www.youtube.com/watch?v=yiuSVkDM9hI",
       "thumb": "https://i2.ytimg.com/vi/yiuSVkDM9hI/hqdefault.jpg"
-    },
-    {
-      "id": "OAIepgOPBlk",
-      "title": "新技能展示 #TAEYONG #NCT #NCT127",
-      "date": "2026-10-12",
-      "url": "https://www.youtube.com/watch?v=OAIepgOPBlk",
-      "thumb": "https://i4.ytimg.com/vi/OAIepgOPBlk/hqdefault.jpg"
     }
   ],
   "news": [
@@ -861,6 +861,12 @@
       "outlet": "Soompi",
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUQ1X2ZBTFo0dmpmRmtRdFZSSmc1SDlJa203bTYwenNOQlE0ejVyakhVYWF0YndsRWx4NHQ5TFNBWWFMY25HdzJFV2VRbjB4VjZ1bHRwa0lLcUNUNGdXU24tOElzeEp5bU9oVTRlbEpNQ1FGWVFuajNYUUFYQ21NUzJlZWdFS2lEWXhibE4zall1QkFtdF83OGRB?oc=5"
+    },
+    {
+      "title": "SM lines up NCT DREAM and Taeyeon full albums, RIIZE's full album and a Hearts2Hearts comeback through early 2027 as Q3 profit drops 26%",
+      "outlet": "allkpop",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPS1R6ZVJ5V01pR3hfV2VjMzNWNFRxelpHektUWENmaHF6cTFUVUVXNVRERWNFOVhteFAxRHZINnZtelJiN0pPdU96S2RVSVNuRHpUOVItTW9JTENnY3R2N1ByQ0FhZEFlRjFOeHV4QVYtcWUwYmVEVEs0endjS0pzMWF4Q3cyNnA4eXVKYjlSS1Yza1BaSnZkT2M3anVtQlBVd09HTHBQcC02NDdraFJWbzlJd0lCWlZnM3pvZDU0Y2M0SjgtYkRNaG90MGFmd3MxMXlfUldjWVh1VnZoUWt6UjZDR1ZpTHhjektwQjg5S1hCX0xuZ3A0NmdvdXVmeHJPUE1Z?oc=5"
     },
     {
       "title": "SM Entertainment Reports Revenue Decline On Lower Music Sales, Concert Revenue",
@@ -879,12 +885,6 @@
       "outlet": "Koreaboo",
       "date": "2026-11-03",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzYmhZZmREZFdXem5ta0VzbS11VnBmSFdmMGhqYy15Zk1pM3NuVnRZNkV1TWFYaGlObXRSY093cE90WlMtVXYzcEMwbzFWMVhTRXl6NnRIaXM3MGF5TDYxamdOMVI0dlJmMzRjaXoxdG1rdlM0cEFnalB4aDRBcXc?oc=5"
-    },
-    {
-      "title": "NCT 127 draw 102,000 fans in four shows across a Japan dome and a Bangkok stadium",
-      "outlet": "allkpop",
-      "date": "2026-11-02",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkVrSUZnaF9RNGhPTEQwNXVyVldkTXJSMlZIMkhvbjlTOG9qX2ZORVBIb1dWVU5Ocm5zZmlRZG1HdS1WV0NsVGhRTHNsY1NuREg5OU1KaGE4VUtNbV9BV1czVWdEUVNkQV8xZ2hrcklQNWlTb2owS2pBbm1nRXg2X3F0TkVCczhYazdvMWN3UDhvUlVNMGZRM2J6TW4wQkxidDhKRllZYTBOX0VlTS01bktTMEdzT3VTbld4Wg?oc=5"
     },
     {
       "title": "From NCT 127 to DREAM, all in one place... ‘2026 Track and Field Championships’ premieres today",
@@ -938,7 +938,7 @@
       "title": "NCT 127 feels like it's starting over on 10th-anniversary album",
       "outlet": "The Korea Times",
       "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTNyVUFYSU5lYzRIVW9sSC1HQzlhb1lmaGJ5UzBMalRCQktkWllmZTE0OWNJN2lXWUNGalJldFkyZVZUS1RRbXBvU2tvUVJtUTJ2N3VhZlY2ZVFrM0ZFQ3FNVFp1VE1lenkzYVBrdmJ0WlhzYXc3Rkh6SjhGNzkzSmdTcHFVOExVVnZMeVhfajB1OHpKVXJkanhmSTRrbTJoQ2J6MHhGRGw4OHhaY0NvR3BGVjk2QXBHUWJkNtIBwgFBVV95cUxNUU9YX252MDROUFl3SVpYU2tkN3k4UkNDOHdneFNUWVVsanhJRV94TzZoMUpBWTR4aFl1RG41emlTMllTMmxENGpJMDI2djl6MFV6dUZBbUVraGF3RjFjUjk2TDZLVmFGQmpackR4R2E2a01aTGJWYVQ3RElRWGl1eGRZaXVoTmhLcDVIZ1hnemVHbTBlZ3ZjN251dnk1TE1DVWdKRThiaFVCY1dOZnJuRFJxRVo1ejQwcTdJNS1neXN6dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTNyVUFYSU5lYzRIVW9sSC1HQzlhb1lmaGJ5UzBMalRCQktkWllmZTE0OWNJN2lXWUNGalJldFkyZVZUS1RRbXBvU2tvUVJtUTJ2N3VhZlY2ZVFrM0ZFQ3FNVFp1VE1lenkzYVBrdmJ0WlhzYXc3Rkh6SjhGNzkzSmdTcHFVOExVVnZMeVhfajB1OHpKVXJkanhmSTRrbTJoQ2J6MHhGRGw4OHhaY0NvR3BGVjk2QXBHUWJkNg?oc=5"
     },
     {
       "title": "Song Review: NCT 127 – Blingy",
