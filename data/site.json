@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T06:11:25.134Z",
+  "generated": "2026-11-07T13:15:46.245Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,13 @@
   ],
   "videos": [
     {
+      "id": "PU4TAPx2xso",
+      "title": "Stage Rehearsal & Concert D-Day Behind | Ep.3 | NCT 127 5TH TOUR 'NEO CITY : THE REDLINE'",
+      "date": "2026-11-07",
+      "url": "https://www.youtube.com/watch?v=PU4TAPx2xso",
+      "thumb": "https://i1.ytimg.com/vi/PU4TAPx2xso/hqdefault.jpg"
+    },
+    {
       "id": "YtUeu3CacyY",
       "title": "프라다 복숭아 당도최고🍑ᯓ★.ᐟ | SPUR PRADA Photoshoot Behind",
       "date": "2026-11-06",
@@ -840,13 +847,6 @@
       "date": "2026-10-15",
       "url": "https://www.youtube.com/watch?v=bCAOCY-RO3o",
       "thumb": "https://i3.ytimg.com/vi/bCAOCY-RO3o/hqdefault.jpg"
-    },
-    {
-      "id": "yiuSVkDM9hI",
-      "title": "YOU'RE MINE #TAEYONG #NCT #NCT127",
-      "date": "2026-10-13",
-      "url": "https://www.youtube.com/watch?v=yiuSVkDM9hI",
-      "thumb": "https://i2.ytimg.com/vi/yiuSVkDM9hI/hqdefault.jpg"
     }
   ],
   "news": [
