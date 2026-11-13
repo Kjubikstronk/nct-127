@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T06:55:06.563Z",
+  "generated": "2026-11-13T19:50:31.662Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,13 @@
   ],
   "videos": [
     {
+      "id": "r0Pcku1l-1Q",
+      "title": "5KM 공복 모닝런 뛰고 붓기 싹 빠짐 ૮ ྀིᴗ͈ . ᴗ͈ ྀིა | 정우의 한강 러닝🏃🏻🐾",
+      "date": "2026-11-13",
+      "url": "https://www.youtube.com/watch?v=r0Pcku1l-1Q",
+      "thumb": "https://i3.ytimg.com/vi/r0Pcku1l-1Q/hqdefault.jpg"
+    },
+    {
       "id": "PU4TAPx2xso",
       "title": "Stage Rehearsal & Concert D-Day Behind | Ep.3 | NCT 127 5TH TOUR 'NEO CITY : THE REDLINE'",
       "date": "2026-11-07",
@@ -840,16 +847,21 @@
       "date": "2026-10-16",
       "url": "https://www.youtube.com/watch?v=Dt1VgmMRbbA",
       "thumb": "https://i1.ytimg.com/vi/Dt1VgmMRbbA/hqdefault.jpg"
-    },
-    {
-      "id": "bCAOCY-RO3o",
-      "title": "2027 NCT 127 SEASON’S GREETINGS BEHIND",
-      "date": "2026-10-15",
-      "url": "https://www.youtube.com/watch?v=bCAOCY-RO3o",
-      "thumb": "https://i3.ytimg.com/vi/bCAOCY-RO3o/hqdefault.jpg"
     }
   ],
   "news": [
+    {
+      "title": "IVE 'Surprise,' ILLIT 'Chaos Party' Highlight MMA2026 DAY2",
+      "outlet": "조선일보",
+      "date": "2026-11-13",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDJybTExdjBGUkYzc1FZV0hTVjVjc0R6VWw0bVNsWXZIRFVsWVltVnJSX3FWMFhHdVlUS0tzNjNrOXNzLVhXLTR6cG5DV1FZN05jcEY3a05vUFlIenJiLUdGdXJHOTF2NkZDbUxJb3lHamlJOEpGbHB5SFpUYUhMeXhTVlBQbFpIWWZ3dVd3?oc=5"
+    },
+    {
+      "title": "MMA goes global, doubles length with NCT, Ateez, HANA",
+      "outlet": "Korea JoongAng Daily",
+      "date": "2026-11-13",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1JFTFliZk1EMmsyYlQxaVh3Ti0ydlE1VllGUDJLeklYajlLd3BCMmNoVXB0ZGp6Tk5xS1RrTW0ydmtHZnFYWm1aU1pOcUNuQUFNazBYTXVNcGlQYU1OMlZ3QzRHWWttWm9pQmJ4bWF2d0RNbHZTYzRsa0twcC0wdlI1R01qZWNuZTVwRWlCcW4zamd1LWpjSjFpTXA3M0JqcFh2UW40ZnBNUjZI?oc=5"
+    },
     {
       "title": "NCT 127 announces long-awaited debut concert in Malaysia",
       "outlet": "The Sun Malaysia",
@@ -863,16 +875,22 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mN0lINTNNSFNQZXhhZjZqNDRTeDdsd3FTWmV5MEk5d012VUt6OEVsaGVDa2I4c1BzWVF0bHoxUGNHbkdjdDZjWGZEU1VhSlBrVy1iYUFUM3daTGJ1YkNuN3cyaFlJZU1VQnBr?oc=5"
     },
     {
+      "title": "[NOTICE] ‘NEO CITY : KUALA LUMPUR - THE REDLINE’ “NCTzen 127” Membership (GL) Pre-Sale Information",
+      "outlet": "Weverse",
+      "date": "2026-11-13",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TVmY5dFRZNGNGaUx1bDFaNTJVa2gtZ0Uza0lnT0xiS1piQklfeUE3T3JFZ1ZCbGhpYWY4bHkxT0pQX3RTeEVxTnY0T192bmc?oc=5"
+    },
+    {
       "title": "K-Pop Powerhouse NCT 127 Announces Long-Awaited Debut Malaysia Concert",
       "outlet": "BusinessToday Malaysia",
       "date": "2026-11-13",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFlId0oySWpjVXExdFF3bXFGMERaU1pkaDA5c3NWd01idXlQNjlqZmdsZkZvMGdaMTFld2RTY2lCVHZ5cmNLbGxrYklDTXp2d1RlT3o1NTN3LTJVUXQ4NGllWWlZUXQyYUt0eE1lQWhFM2RnMVctMFNkVHMteVo3NlBIS2Z6QlUySFgwZ0ptQUFNNUNmdFpzdUVtUEkxaXBKR19RZWdOYno2LUFTaUNEb1N3UG56UQ?oc=5"
     },
     {
-      "title": "IVE 'Surprise,' ILLIT 'Chaos Party' Highlight MMA2026 DAY2",
-      "outlet": "조선일보",
+      "title": "K-pop boy group NCT 127 to hold concert in KL on Jan 9",
+      "outlet": "The Star",
       "date": "2026-11-13",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDJybTExdjBGUkYzc1FZV0hTVjVjc0R6VWw0bVNsWXZIRFVsWVltVnJSX3FWMFhHdVlUS0tzNjNrOXNzLVhXLTR6cG5DV1FZN05jcEY3a05vUFlIenJiLUdGdXJHOTF2NkZDbUxJb3lHamlJOEpGbHB5SFpUYUhMeXhTVlBQbFpIWWZ3dVd3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEI5b1QxQ2VRV3hlckVLLTRXM0p3N3BGRkRvbTZLaGppYm1RSzFYZWNZRFM5ekZVNVNXcHFTMUw5MzlHdUFZYnc4Zjk1S1p4bXN4RW1ZQXN3SnlscGVhQmhFa0pDY1JFQkRyMnZ6UVg4MERJcEFSb0hybWpIWWJobUVZQ1kzNFJteXRMVnB1cm83OFhhU1hKY2RMV3FPMllBLUpZeUxuQ3M1OHRCc0MzcW5jV1J1bFE?oc=5"
     },
     {
       "title": "NCT heads to U.S. 'Coachella'…sole K-pop boy group performance",
@@ -887,22 +905,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFVpVmpSSGV4MzRPcTQ3RWRkNDVHMHdzTzVXMkU5SFZreUVpUUJhN2ZBaFUzdm9pRW9TUHU0Y2hQcDBVNnFJQ3ExSml2UHdlc0FEbHhvOGJPT05SQzZNRkNVMlM1RlV4NGJvdXVFOHFIVWxaUnpXT3Y3NlJ3QlRzbzJUckl2VUps0gGcAUFVX3lxTFBvSTFaTjNTVDJaaEYtM3pCdEVqbXJHbHBBR240eTFBVGRkLXduWTJvNjFsdERfRWU5a1JadEw4cFdteW1UWkkzMHNyaTJaOTEtMVRGTFMtLXlkUUlZUFV2MmJRb0pPOVpUWkxMTWJCT3hpQ0dDNUNYcXRJcnBXVjYtMEd6T3pMN1hZODVFRlJRa0Jza1hvdFI5aV8yMA?oc=5"
     },
     {
-      "title": "NCT 127 and NCT DREAM to Perform at 2027 Coachella",
-      "outlet": "조선일보",
-      "date": "2026-11-12",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVVlweGxuT2pJbTRDSkJvMlhQZXJLVHlTT0VGZUVGSW91ZGFTRkpGOElqZHVGWXF3M0hOR3ZrNGx0NmxTQVlTR3N4Q1R3OHhuRGpnMlJ0Wk1jdTJBcks3MTlqRDVMV2VUb1g0WG4yaWZreUJqNFlPalp1ZFZaMmdXYl9GX0xoVVdrVlZ1OW5R?oc=5"
-    },
-    {
-      "title": "moncler - Howl.Link",
-      "outlet": "Howl.Link",
-      "date": "2026-11-12",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9qaVg2N3VycWxUYlc3TWxQcGlmWmoyNm9zdTNNSldVSDR6OWl3ZU5XQVE0Tm9aQTNtdENj?oc=5"
-    },
-    {
       "title": "NCT 127 and DREAM to perform together at ‘2027 Coachella,’ tease collaborative stage",
       "outlet": "매일경제",
       "date": "2026-11-12",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ad0VvbXdFVFo4SVpXWk1pQV80SHZpTjFMeXdXamFUX0xjanNmMVoyWVdMZWNhazFoM2hnRGUtRk1qMDQxQ2pROGw5MG1MLXdG?oc=5"
+    },
+    {
+      "title": "NCT 127 and NCT DREAM to Perform at 2027 Coachella",
+      "outlet": "조선일보",
+      "date": "2026-11-12",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVVlweGxuT2pJbTRDSkJvMlhQZXJLVHlTT0VGZUVGSW91ZGFTRkpGOElqZHVGWXF3M0hOR3ZrNGx0NmxTQVlTR3N4Q1R3OHhuRGpnMlJ0Wk1jdTJBcks3MTlqRDVMV2VUb1g0WG4yaWZreUJqNFlPalp1ZFZaMmdXYl9GX0xoVVdrVlZ1OW5R?oc=5"
     },
     {
       "title": "NCT 127 and NCT Dream are the 'NCT' that will play Coachella 2027",
@@ -981,18 +993,6 @@
       "outlet": "Rolling Stone UK",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkVUWTU0MjU5UTl6R2tkWVlZZ0R6UnB6NGExNGw1U0RQUWtoRndvS2hUSE9pVkp2X2puMnR2aTN1YzU2eWVBUzBtbGFuR3kxcjVwRlNlNGpxUkdLRXdDeG0yOXFISFdhN1FQOFBlOVNCSE0wZnZJVTlKTVpSeWJyWXZCU3drMGxMREdudFotSDhXeHVUS3BTZ1BYWDNrQ0NiZFdUcUVnbUNnQlFnbXZHc1UzemhvZUxGMVRTWWFJb1luUEpCellkS3NVcGh6b0ZoSWkta0ZDWVI?oc=5"
-    },
-    {
-      "title": "NCT 127 reign as the kings of quirky hip-hop bangers on new album ‘Blingy’",
-      "outlet": "Los Angeles Times",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb0hlVHpyN3J6T3k1TGxheW1iYmE5elpZdVEzS0JpVTBUbDFtbkRHZTI1RExRcHFnQUxtMnIyUFk2dkMtTlhtSW5IVlllZXpTcS1RUkc5WWs0SEZXX0xuWGpuVHY0TnJEZjJyOVpDbzA0NWV5M3hCeVdFX180QW1rZkpiSTduY2FXWXBhcUFZZjVCZ2FhN1VVNmplU1BSNjlMb2ZjOEd4QmJpZUJocHdUS1lvZ1dEdWNST3FEVkJhNUdsVWhMRjdZTU9uZnU4Vlk?oc=5"
-    },
-    {
-      "title": "NCT 127 returns to Seoul roots with ‘Blingy’ after turbulent lineup change",
-      "outlet": "Korea JoongAng Daily",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeEVrRXR3VDhmeTluTExteFZRVUMxVzFxLURIV1FJd0k1TUJCU29LT3puUnhDNXpDLUZBMnMtbTdLUGNVUm5IazBiX0lOaHVaWW5fbWdvWFNmUHMtSHBjemlzeUhfVXdUYzQzOE04eG9JZWVOamlPT0V2bF9KWkc5S3F5eU8xdUNPYUJfdDNtUmxBeG1RQWVNOGJRbGlKMkJFcXk1ZUNrc0xibTY0ZGpzNzRUTlpPNkZkSWZOMGhXWGh0alBxX09idWl3?oc=5"
     }
   ],
   "bio": {
@@ -1092,6 +1092,12 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFlId0oySWpjVXExdFF3bXFGMERaU1pkaDA5c3NWd01idXlQNjlqZmdsZkZvMGdaMTFld2RTY2lCVHZ5cmNLbGxrYklDTXp2d1RlT3o1NTN3LTJVUXQ4NGllWWlZUXQyYUt0eE1lQWhFM2RnMVctMFNkVHMteVo3NlBIS2Z6QlUySFgwZ0ptQUFNNUNmdFpzdUVtUEkxaXBKR19RZWdOYno2LUFTaUNEb1N3UG56UQ?oc=5"
     },
     {
+      "title": "K-pop boy group NCT 127 to hold concert in KL on Jan 9",
+      "outlet": "The Star",
+      "date": "2026-11-13",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEI5b1QxQ2VRV3hlckVLLTRXM0p3N3BGRkRvbTZLaGppYm1RSzFYZWNZRFM5ekZVNVNXcHFTMUw5MzlHdUFZYnc4Zjk1S1p4bXN4RW1ZQXN3SnlscGVhQmhFa0pDY1JFQkRyMnZ6UVg4MERJcEFSb0hybWpIWWJobUVZQ1kzNFJteXRMVnB1cm83OFhhU1hKY2RMV3FPMllBLUpZeUxuQ3M1OHRCc0MzcW5jV1J1bFE?oc=5"
+    },
+    {
       "title": "NCT 127 and NCT DREAM to perform at 2027 Coachella as only K-pop boy groups",
       "outlet": "Chosunbiz",
       "date": "2026-11-12",
@@ -1108,12 +1114,6 @@
       "outlet": "https://kavenyou.com/",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mQ0ZFZFpUZXdkS1R0Ymo4bTk2RXBsaHdNWnVXcHBja0d1ckhVRGtFYkZPYUZuOGczd1E4dFFMRFZGU0lvTWN4VC11dTNsWVp5RDNQVUVBOWRBYmZaaDlZ?oc=5"
-    },
-    {
-      "title": "SM Announces Comeback Lineup For 1st Quarter Of 2027",
-      "outlet": "Soompi",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUQ1X2ZBTFo0dmpmRmtRdFZSSmc1SDlJa203bTYwenNOQlE0ejVyakhVYWF0YndsRWx4NHQ5TFNBWWFMY25HdzJFV2VRbjB4VjZ1bHRwa0lLcUNUNGdXU24tOElzeEp5bU9oVTRlbEpNQ1FGWVFuajNYUUFYQ21NUzJlZWdFS2lEWXhibE4zall1QkFtdF83OGRB?oc=5"
     }
   ],
   "timeline": [
