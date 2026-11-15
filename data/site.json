@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T06:46:05.581Z",
+  "generated": "2026-11-15T18:56:41.605Z",
   "artist": {
     "name": "NCT 127",
     "hangul": "엔시티 127",
@@ -744,6 +744,20 @@
   ],
   "videos": [
     {
+      "id": "f1HKMxa4_wY",
+      "title": "bicep heart #JOHNNY #TAEYONG #HAECHAN #NCT127",
+      "date": "2026-11-15",
+      "url": "https://www.youtube.com/watch?v=f1HKMxa4_wY",
+      "thumb": "https://i3.ytimg.com/vi/f1HKMxa4_wY/hqdefault.jpg"
+    },
+    {
+      "id": "8DtPZsqa2HI",
+      "title": ".223 #YUTA #JAEHYUN #NCT127",
+      "date": "2026-11-15",
+      "url": "https://www.youtube.com/watch?v=8DtPZsqa2HI",
+      "thumb": "https://i1.ytimg.com/vi/8DtPZsqa2HI/hqdefault.jpg"
+    },
+    {
       "id": "r0Pcku1l-1Q",
       "title": "5KM 공복 모닝런 뛰고 붓기 싹 빠짐 ૮ ྀིᴗ͈ . ᴗ͈ ྀིა | 정우의 한강 러닝🏃🏻🐾",
       "date": "2026-11-13",
@@ -833,23 +847,39 @@
       "date": "2026-10-16",
       "url": "https://www.youtube.com/watch?v=dhhckEJSkw4",
       "thumb": "https://i1.ytimg.com/vi/dhhckEJSkw4/hqdefault.jpg"
-    },
-    {
-      "id": "KkTMmvrwQPk",
-      "title": "found my energy #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
-      "date": "2026-10-16",
-      "url": "https://www.youtube.com/watch?v=KkTMmvrwQPk",
-      "thumb": "https://i4.ytimg.com/vi/KkTMmvrwQPk/hqdefault.jpg"
-    },
-    {
-      "id": "Dt1VgmMRbbA",
-      "title": "which one are you??? #NCT127 #THE_REDLINE #NCT127_5TH_NEOCITY_THE_REDLINE #NCT_10TH_ANNIVERSARY",
-      "date": "2026-10-16",
-      "url": "https://www.youtube.com/watch?v=Dt1VgmMRbbA",
-      "thumb": "https://i1.ytimg.com/vi/Dt1VgmMRbbA/hqdefault.jpg"
     }
   ],
   "news": [
+    {
+      "title": "Watch: Performances From Melon Music Awards 2026 – DAY 2",
+      "outlet": "Soompi",
+      "date": "2026-11-15",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlJZQmZwS3U1RHhqNXdTT0MxNHB4ZC00R1U1dTVWa0tVZWZxMHZOcFJRS0UtYnp3T0hTUnNEMFE5UHY2VG1obkVtaVBlek1TNHQ0V3JXUDZ4Q0VjT2JBZjRQWHdLRjAxOHpaVUtNNUd2azBnNllhZzZtSFB4NklFM3BGMkpFaEJ6MURJRXdoZ3I0NEVrMjdjcFpSbw?oc=5"
+    },
+    {
+      "title": "[Photo] NCT 127 Johnny rocks blue hair",
+      "outlet": "Chosunbiz",
+      "date": "2026-11-15",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenRhdUN5ejZxYTBDQ2NNXzNwWm9CRDdGYm9YNlZwc3dNQ0JEX1BEV3JhejhFZ3dHcHV2a05ZWm03SWs5RnVXM20walc5QTExRjFYeTF1U1FETTVFR2FRTjVZTlpUMnNtcGFLSVdRU09CYk52cjlOVHNNMTRQX3l4dUs1UdIBlwFBVV95cUxQemx2YnRxVU1oRnc2eW9yYmp4Tl8zekdiUXp3TTdqTXdtbmdGMXdIOTFWM3FTcTFrbks4OEQwUHY5LURJQmhPSVdZbHJCZ0ZmS2M2b25fLUVrVkt2amVIM21hNWF5Z0lVa0VqWklNTTYxVmdTaFRDQ0dESGQwR0lhTElPb0tCTHdLcXJocDcwZ2lZZUlvZGNn?oc=5"
+    },
+    {
+      "title": "BTS, Cortis and IVE take top prizes to end the 2026 Melon Music Awards — as it happened",
+      "outlet": "Korea JoongAng Daily",
+      "date": "2026-11-15",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTHlhbVpsWHY5X095NnBVcDBnOGF5V2N5Z3dvS0h2NDVYajdkdm1JQnhkN2NYTWlrX0x4VjFYcWsxUFVEV3BYR01UVHdWWjZ3RDdqSTJ3Wk5kVGY1eEQ3WkpDZWpoeDBfNWc4SXlMbFU3UHE2Qk1OQmg3R0J3eVh0ZXZvR3VaWXN1RWtDUWgtNkhVMXRvQW9oSmZ6cnRfOVdOSThpbDA1ajFJOHdSa09aYzZQcGVvZ0JEWjJsNUJPeFFxTTNUMi1yOEJIZWdxVU96bEt3M0d5UE9Tdw?oc=5"
+    },
+    {
+      "title": "[Photo] NCT 127, First MMA",
+      "outlet": "매일경제",
+      "date": "2026-11-15",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZRHlyMFNrZjNneC1kMGpZckVPTUJhd2xvRzZuSzVHVE1xUzNzSVUzYlVsODNFSl9uRTNQdXBmZ2xCdVRYMFg4bHZRVmpja0dQ?oc=5"
+    },
+    {
+      "title": "NCT 127 'Hand gestures toward fans' [★Photo]",
+      "outlet": "스타뉴스",
+      "date": "2026-11-15",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ObVNqRElSRUdNLTZrTHVXek9pSm04aXNnNDh0Q1QxTjN2NFZfalZBVHZVTUVCbElYSnl6M0RVT1RqN2xFcmk5alpmSzdGZGg0eVpSSEVnQXJnSFJqeUJIY3FNUG5FR2o2NHFvSVNLRnlkS2VnLUdWSA?oc=5"
+    },
     {
       "title": "Jisoo, Babymonster and NCT acts set for Coachella 2027",
       "outlet": "Borneo Bulletin",
@@ -899,16 +929,16 @@
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9NanlldzMxMFVyTHhTaXVIeDg3ak0waVoxVFJIb1R3aDNyS21aalhJOXU5cXYzamRjYUM1Rloyb21NRmwx?oc=5"
     },
     {
-      "title": "Blackpink’s Jisoo, Babymonster, NCT to perform at 2027 Coachella",
-      "outlet": "The Korea Herald",
-      "date": "2026-11-12",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93VWNyTm5MdENSVHlZQjBXa09EWlJVWms0eUhIckZWRXZlOGpHOG9sTVktZHo1RVY1Tk9ld05ualloaDNkR2JVUFZ3NUlnZE0zbHRQNzNzSQ?oc=5"
-    },
-    {
       "title": "NCT 127 and NCT DREAM to perform at 2027 Coachella as only K-pop boy groups",
       "outlet": "Chosunbiz",
       "date": "2026-11-12",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFVpVmpSSGV4MzRPcTQ3RWRkNDVHMHdzTzVXMkU5SFZreUVpUUJhN2ZBaFUzdm9pRW9TUHU0Y2hQcDBVNnFJQ3ExSml2UHdlc0FEbHhvOGJPT05SQzZNRkNVMlM1RlV4NGJvdXVFOHFIVWxaUnpXT3Y3NlJ3QlRzbzJUckl2VUps0gGcAUFVX3lxTFBvSTFaTjNTVDJaaEYtM3pCdEVqbXJHbHBBR240eTFBVGRkLXduWTJvNjFsdERfRWU5a1JadEw4cFdteW1UWkkzMHNyaTJaOTEtMVRGTFMtLXlkUUlZUFV2MmJRb0pPOVpUWkxMTWJCT3hpQ0dDNUNYcXRJcnBXVjYtMEd6T3pMN1hZODVFRlJRa0Jza1hvdFI5aV8yMA?oc=5"
+    },
+    {
+      "title": "Blackpink’s Jisoo, Babymonster, NCT to perform at 2027 Coachella",
+      "outlet": "The Korea Herald",
+      "date": "2026-11-12",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93VWNyTm5MdENSVHlZQjBXa09EWlJVWms0eUhIckZWRXZlOGpHOG9sTVktZHo1RVY1Tk9ld05ualloaDNkR2JVUFZ3NUlnZE0zbHRQNzNzSQ?oc=5"
     },
     {
       "title": "NCT 127 and DREAM to perform together at ‘2027 Coachella,’ tease collaborative stage",
@@ -953,46 +983,16 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpSWpTQzdIdXFfdHNCb052bXJaR3ZnMFFIaWVGdjlSSHY3Qlc0MnVzZlN4QWNLckRwUWlJZDkwbUMwQUpjS0RCMU5kRlZNVEE?oc=5"
     },
     {
+      "title": "Multimedia de NCT 127 de Weverse - NCT 1",
+      "outlet": "Weverse",
+      "date": "2026-10-03",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPcFgwVDNBYURHdVpTbzBIUk5fOUFwZUlHZ0N1V2JRUFdrREM0MDRzOVRMeEFEWHV5ZG1Qai1ERG1ZcnI5MllLSE5GSTVJcWk5Yi1QVHM4dVBUTGZxZmc?oc=5"
+    },
+    {
       "title": "NCT 127 Open 10th-Anniversary ‘Neo City: The Redline’ Tour With Sold-Out Seoul Run",
       "outlet": "Billboard",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEd2V0FNSEowOEtzeUx1RzVkQW9JZ0FpZTZmQTZQLXIzS09TMFYycGdDeTF5VkZqRVlLNmNNb1JCWVAxMm1PakFqTnhhdloyeFRuZ3MzenFYVDVZcDJQSzBXa1VxejNyaXZ2T3dBOEdmcDZrZDg3dFBka2hzbEpmaFJkYWJJN1BEcmY4VnIwWXQtOS1jWEZLam5ZNWhNOEFvakM5Tw?oc=5"
-    },
-    {
-      "title": "NCT 127’s JOHNNY Describes the One Korean Custom He Just Can’t Wrap His Head Around: ‘Not For Me’",
-      "outlet": "Billboard",
-      "date": "2026-09-18",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzRYVkJySHZCRzdVZ2d4R2psWjRxbVVCd0dWcWdtYWRyX1hlZ19ZVlBEQm90eU9aZlZuMTNRWFF0XzNKNTE2RFl2Q0w5dmpOd1FFM0Q0Q2Zkc0NhMXNQc1VmWmlabWg2X25LQnh2QVljNVRJcHRsQmZ2X2RMN0pqQzZfcnBjX2lySy1OQTRGcm9neTIza2hzeUV4Rmhja3FMOGpKUURESU5jZnhk?oc=5"
-    },
-    {
-      "title": "‘NCT 127 Is Back’: K-Pop’s Mavericks Talk Contract Renewals & Being Uncompromising in Their ‘Neo’ Sound",
-      "outlet": "Billboard",
-      "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02eU5JR2laaHpZLUJNOXVvX0l4Zk9WQlZMYzZRM0ZpMmhGeGVNZEFvOUZQRHJrZGw0WWtFbVV1YjRQWnJRVkNCSi1DbnFIWWUtQVVCSFI5YlpxbXBETFRicWp1dFJFaGRSMG5WQi1fWmJzb3hoN0VLU1prYw?oc=5"
-    },
-    {
-      "title": "NCT 127 discuss celebrating ten years and share exclusive imagery ahead of new album ‘BLINGY’",
-      "outlet": "Rolling Stone UK",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkVUWTU0MjU5UTl6R2tkWVlZZ0R6UnB6NGExNGw1U0RQUWtoRndvS2hUSE9pVkp2X2puMnR2aTN1YzU2eWVBUzBtbGFuR3kxcjVwRlNlNGpxUkdLRXdDeG0yOXFISFdhN1FQOFBlOVNCSE0wZnZJVTlKTVpSeWJyWXZCU3drMGxMREdudFotSDhXeHVUS3BTZ1BYWDNrQ0NiZFdUcUVnbUNnQlFnbXZHc1UzemhvZUxGMVRTWWFJb1luUEpCellkS3NVcGh6b0ZoSWkta0ZDWVI?oc=5"
-    },
-    {
-      "title": "NCT 127 reign as the kings of quirky hip-hop bangers on new album ‘Blingy’",
-      "outlet": "Los Angeles Times",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb0hlVHpyN3J6T3k1TGxheW1iYmE5elpZdVEzS0JpVTBUbDFtbkRHZTI1RExRcHFnQUxtMnIyUFk2dkMtTlhtSW5IVlllZXpTcS1RUkc5WWs0SEZXX0xuWGpuVHY0TnJEZjJyOVpDbzA0NWV5M3hCeVdFX180QW1rZkpiSTduY2FXWXBhcUFZZjVCZ2FhN1VVNmplU1BSNjlMb2ZjOEd4QmJpZUJocHdUS1lvZ1dEdWNST3FEVkJhNUdsVWhMRjdZTU9uZnU4Vlk?oc=5"
-    },
-    {
-      "title": "NCT 127 returns to Seoul roots with ‘Blingy’ after turbulent lineup change",
-      "outlet": "Korea JoongAng Daily",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeEVrRXR3VDhmeTluTExteFZRVUMxVzFxLURIV1FJd0k1TUJCU29LT3puUnhDNXpDLUZBMnMtbTdLUGNVUm5IazBiX0lOaHVaWW5fbWdvWFNmUHMtSHBjemlzeUhfVXdUYzQzOE04eG9JZWVOamlPT0V2bF9KWkc5S3F5eU8xdUNPYUJfdDNtUmxBeG1RQWVNOGJRbGlKMkJFcXk1ZUNrc0xibTY0ZGpzNzRUTlpPNkZkSWZOMGhXWGh0alBxX09idWl3?oc=5"
-    },
-    {
-      "title": "Song Review: NCT 127 – Blingy",
-      "outlet": "https://thebiaslist.com/",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aeVRJdTRTUnBFcHhYQXdsUnBudng1d0dvakZLaTh6X0FyTzZfd1h4cW1pYkp1SndVbmIzVkxNcHdUNk9tcUF0TTE4YkpndWtXVHBXZnlBNlhSNjhlWm9Xbms0NEp5c0RMaHo3aFhjYw?oc=5"
     }
   ],
   "bio": {
